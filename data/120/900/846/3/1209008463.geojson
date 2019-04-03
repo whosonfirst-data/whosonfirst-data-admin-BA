@@ -1,0 +1,61 @@
+{
+  "id": 1209008463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41064,43.76695,17.41064,43.76695",
+    "geom:latitude":43.76695,
+    "geom:longitude":17.41064,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Karacici",
+    "gn:country_code":"BA",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292230,
+    "gn:latitude":43.76695,
+    "gn:longitude":17.41064,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kara\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292230
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ce48e0a3199541f578ee525231812355",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209008463
+        }
+    ],
+    "wof:id":1209008463,
+    "wof:lastmodified":1536300526,
+    "wof:name":"Karacici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41064,
+    43.76695,
+    17.41064,
+    43.76695
+],
+  "geometry": {"coordinates":[17.41064,43.76695],"type":"Point"}
+}

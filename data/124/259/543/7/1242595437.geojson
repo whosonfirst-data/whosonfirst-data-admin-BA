@@ -1,0 +1,67 @@
+{
+  "id": 1242595437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88695,44.82999,15.88695,44.82999",
+    "geom:latitude":44.82999,
+    "geom:longitude":15.88695,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lugovi",
+    "gn:country_code":"BA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212844,
+    "gn:latitude":44.82999,
+    "gn:longitude":15.88695,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lugovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212844
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b7ef731fb8fac452c08ebc4cf3b3ff73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1242595437,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1242595437,
+    "wof:lastmodified":1537036372,
+    "wof:name":"Lugovi",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88695,
+    44.82999,
+    15.88695,
+    44.82999
+],
+  "geometry": {"coordinates":[15.88695,44.82999],"type":"Point"}
+}

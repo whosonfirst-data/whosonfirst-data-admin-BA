@@ -1,0 +1,71 @@
+{
+  "id": 1259412019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72805,44.9301,18.72805,44.9301",
+    "geom:latitude":44.9301,
+    "geom:longitude":18.72805,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Krepsic",
+    "gn:country_code":"BA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197299,
+    "gn:latitude":44.9301,
+    "gn:longitude":18.72805,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Krep\u0161i\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krep\u0161i\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197299,
+        "wk:page":"Krep%C5%A1i%C4%87"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"537c16bf0da457320e1b1945debc87ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1259412019,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1259412019,
+    "wof:lastmodified":1537585589,
+    "wof:name":"Krepsic",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72805,
+    44.9301,
+    18.72805,
+    44.9301
+],
+  "geometry": {"coordinates":[18.72805,44.9301],"type":"Point"}
+}

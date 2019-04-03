@@ -1,0 +1,67 @@
+{
+  "id": 1310505613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89,44.84056,15.89,44.84056",
+    "geom:latitude":44.84056,
+    "geom:longitude":15.89,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cehici",
+    "gn:country_code":"BA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212845,
+    "gn:latitude":44.84056,
+    "gn:longitude":15.89,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"\u010cehi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212845
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dfcde6dd26f8df8e1ada2d7b9e679859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1310505613,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1310505613,
+    "wof:lastmodified":1536917234,
+    "wof:name":"Cehici",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89,
+    44.84056,
+    15.89,
+    44.84056
+],
+  "geometry": {"coordinates":[15.89,44.84056],"type":"Point"}
+}

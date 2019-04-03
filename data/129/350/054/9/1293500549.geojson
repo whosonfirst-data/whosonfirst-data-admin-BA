@@ -1,0 +1,71 @@
+{
+  "id": 1293500549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42624,43.82744,18.42624,43.82744",
+    "geom:latitude":43.82744,
+    "geom:longitude":18.42624,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Studenkovici",
+    "gn:country_code":"BA",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267486,
+    "gn:latitude":43.82744,
+    "gn:longitude":18.42624,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Studenkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Studenkovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267486,
+        "wk:page":"Studenkovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f7758051fd3ced94dc9d4cb75fb77aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759189,
+            "locality_id":1293500549,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293500549,
+    "wof:lastmodified":1537585668,
+    "wof:name":"Studenkovici",
+    "wof:parent_id":1108759189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42624,
+    43.82744,
+    18.42624,
+    43.82744
+],
+  "geometry": {"coordinates":[18.42624,43.82744],"type":"Point"}
+}

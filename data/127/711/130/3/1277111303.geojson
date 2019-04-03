@@ -1,0 +1,67 @@
+{
+  "id": 1277111303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95042,44.84732,18.95042,44.84732",
+    "geom:latitude":44.84732,
+    "geom:longitude":18.95042,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Staro Brezovo Polje",
+    "gn:country_code":"BA",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255111,
+    "gn:latitude":44.84732,
+    "gn:longitude":18.95042,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Staro Brezovo Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255111
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ef7e631536c9cf8a4b5acc47b55d3fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1277111303,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1277111303,
+    "wof:lastmodified":1536726848,
+    "wof:name":"Staro Brezovo Polje",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95042,
+    44.84732,
+    18.95042,
+    44.84732
+],
+  "geometry": {"coordinates":[18.95042,44.84732],"type":"Point"}
+}

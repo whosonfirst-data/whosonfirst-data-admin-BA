@@ -1,0 +1,67 @@
+{
+  "id": 1243278065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5628,44.47012,18.5628,44.47012",
+    "geom:latitude":44.47012,
+    "geom:longitude":18.5628,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gracici",
+    "gn:country_code":"BA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259602,
+    "gn:latitude":44.47012,
+    "gn:longitude":18.5628,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gra\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259602
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5c1c9cc4dedaadbd60aaf86798b20817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":1243278065,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1243278065,
+    "wof:lastmodified":1537046268,
+    "wof:name":"Gracici",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5628,
+    44.47012,
+    18.5628,
+    44.47012
+],
+  "geometry": {"coordinates":[18.5628,44.47012],"type":"Point"}
+}

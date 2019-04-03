@@ -1,0 +1,71 @@
+{
+  "id": 1344166689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67101,43.15941,17.67101,43.15941",
+    "geom:latitude":43.15941,
+    "geom:longitude":17.67101,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zvirovici",
+    "gn:country_code":"BA",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186249,
+    "gn:latitude":43.15941,
+    "gn:longitude":17.67101,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zvirovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zvirovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186249,
+        "wk:page":"Zvirovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"24631436be59d59cadd89d1f9a8cb353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759037,
+            "locality_id":1344166689,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1344166689,
+    "wof:lastmodified":1537585545,
+    "wof:name":"Zvirovici",
+    "wof:parent_id":1108759037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67101,
+    43.15941,
+    17.67101,
+    43.15941
+],
+  "geometry": {"coordinates":[17.67101,43.15941],"type":"Point"}
+}

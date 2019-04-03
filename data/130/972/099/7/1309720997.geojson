@@ -1,0 +1,67 @@
+{
+  "id": 1309720997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.34729,44.05831,19.34729,44.05831",
+    "geom:latitude":44.05831,
+    "geom:longitude":19.34729,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Turija",
+    "gn:country_code":"BA",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3211642,
+    "gn:latitude":44.05831,
+    "gn:longitude":19.34729,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Turija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211642
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a8f57cac4700722727e214caed410b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1309720997,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309720997,
+    "wof:lastmodified":1537051119,
+    "wof:name":"Turija",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.34729,
+    44.05831,
+    19.34729,
+    44.05831
+],
+  "geometry": {"coordinates":[19.34729,44.05831],"type":"Point"}
+}

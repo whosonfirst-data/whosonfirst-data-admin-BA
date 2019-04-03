@@ -1,0 +1,67 @@
+{
+  "id": 1276348679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.22765,43.56666,19.22765,43.56666",
+    "geom:latitude":43.56666,
+    "geom:longitude":19.22765,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Domjesici",
+    "gn:country_code":"BA",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299933,
+    "gn:latitude":43.56666,
+    "gn:longitude":19.22765,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Domje\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299933
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"896920a042481825272dd2bfc2355d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759035,
+            "locality_id":1276348679,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276348679,
+    "wof:lastmodified":1536757986,
+    "wof:name":"Domjesici",
+    "wof:parent_id":1108759035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.22765,
+    43.56666,
+    19.22765,
+    43.56666
+],
+  "geometry": {"coordinates":[19.22765,43.56666],"type":"Point"}
+}

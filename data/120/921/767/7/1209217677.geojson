@@ -1,0 +1,61 @@
+{
+  "id": 1209217677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15762,44.56706,17.15762,44.56706",
+    "geom:latitude":44.56706,
+    "geom:longitude":17.15762,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Diljkani",
+    "gn:country_code":"BA",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248820,
+    "gn:latitude":44.56706,
+    "gn:longitude":17.15762,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Diljkani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248820
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cd3ad113f23a8e7613267acf937ae68f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209217677
+        }
+    ],
+    "wof:id":1209217677,
+    "wof:lastmodified":1536294075,
+    "wof:name":"Diljkani",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15762,
+    44.56706,
+    17.15762,
+    44.56706
+],
+  "geometry": {"coordinates":[17.15762,44.56706],"type":"Point"}
+}

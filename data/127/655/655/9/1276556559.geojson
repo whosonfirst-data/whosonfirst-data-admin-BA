@@ -1,0 +1,67 @@
+{
+  "id": 1276556559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07238,42.8179,18.07238,42.8179",
+    "geom:latitude":42.8179,
+    "geom:longitude":18.07238,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zagradine",
+    "gn:country_code":"BA",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268498,
+    "gn:latitude":42.8179,
+    "gn:longitude":18.07238,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zagradine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268498
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bb5899e06cc4339306a96dcf79a94579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759265,
+            "locality_id":1276556559,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276556559,
+    "wof:lastmodified":1536976338,
+    "wof:name":"Zagradine",
+    "wof:parent_id":1108759265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07238,
+    42.8179,
+    18.07238,
+    42.8179
+],
+  "geometry": {"coordinates":[18.07238,42.8179],"type":"Point"}
+}

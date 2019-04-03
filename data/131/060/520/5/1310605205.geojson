@@ -1,0 +1,67 @@
+{
+  "id": 1310605205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58389,44.50972,18.58389,44.50972",
+    "geom:latitude":44.50972,
+    "geom:longitude":18.58389,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krusici",
+    "gn:country_code":"BA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263291,
+    "gn:latitude":44.50972,
+    "gn:longitude":18.58389,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Kru\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263291
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0ab7c85fd7bb1bf35c2a86cd17dd45ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1310605205,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310605205,
+    "wof:lastmodified":1536773698,
+    "wof:name":"Krusici",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58389,
+    44.50972,
+    18.58389,
+    44.50972
+],
+  "geometry": {"coordinates":[18.58389,44.50972],"type":"Point"}
+}

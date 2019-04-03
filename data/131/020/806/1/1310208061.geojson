@@ -1,0 +1,72 @@
+{
+  "id": 1310208061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56253,44.99569,17.56253,44.99569",
+    "geom:latitude":44.99569,
+    "geom:longitude":17.56253,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Novkovica Palanka",
+    "gn:country_code":"BA",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212011,
+    "gn:latitude":44.99569,
+    "gn:longitude":17.56253,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Novkovi\u0107a Palanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novkovi\u0107i",
+        "Novakovi\u0107a Palanka",
+        "Novkovi\u0107a Palanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212011
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d32cabd482c82b47d4bc67367e19597a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759237,
+            "locality_id":1310208061,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310208061,
+    "wof:lastmodified":1537585654,
+    "wof:name":"Novkovica Palanka",
+    "wof:parent_id":1108759237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56253,
+    44.99569,
+    17.56253,
+    44.99569
+],
+  "geometry": {"coordinates":[17.56253,44.99569],"type":"Point"}
+}

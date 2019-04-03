@@ -1,0 +1,67 @@
+{
+  "id": 1360289749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27032,43.49695,17.27032,43.49695",
+    "geom:latitude":43.49695,
+    "geom:longitude":17.27032,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Petrici",
+    "gn:country_code":"BA",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284135,
+    "gn:latitude":43.49695,
+    "gn:longitude":17.27032,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Petri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284135
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"19c24884420cd239897c633b3c701c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1360289749,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1360289749,
+    "wof:lastmodified":1536650121,
+    "wof:name":"Petrici",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27032,
+    43.49695,
+    17.27032,
+    43.49695
+],
+  "geometry": {"coordinates":[17.27032,43.49695],"type":"Point"}
+}

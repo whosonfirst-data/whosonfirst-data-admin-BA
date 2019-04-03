@@ -1,0 +1,72 @@
+{
+  "id": 1242877143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47239,43.74674,18.47239,43.74674",
+    "geom:latitude":43.74674,
+    "geom:longitude":18.47239,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ulobici",
+    "gn:country_code":"BA",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188506,
+    "gn:latitude":43.74674,
+    "gn:longitude":18.47239,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ulobi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulobi\u0107",
+        "Ulobi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188506,
+        "wk:page":"Ulobi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"60bbe94ff0bc1fc3b28edebbb50f4484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759269,
+            "locality_id":1242877143,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242877143,
+    "wof:lastmodified":1537585555,
+    "wof:name":"Ulobici",
+    "wof:parent_id":1108759269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47239,
+    43.74674,
+    18.47239,
+    43.74674
+],
+  "geometry": {"coordinates":[18.47239,43.74674],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209829641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80564,43.85499,16.80564,43.85499",
+    "geom:latitude":43.85499,
+    "geom:longitude":16.80564,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dujici",
+    "gn:country_code":"BA",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284330,
+    "gn:latitude":43.85499,
+    "gn:longitude":16.80564,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Duji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284330
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9cd345c5c148f61d856449db972b14da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1209829641,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1209829641,
+    "wof:lastmodified":1536369860,
+    "wof:name":"Dujici",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80564,
+    43.85499,
+    16.80564,
+    43.85499
+],
+  "geometry": {"coordinates":[16.80564,43.85499],"type":"Point"}
+}

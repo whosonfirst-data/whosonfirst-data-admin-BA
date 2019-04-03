@@ -1,0 +1,67 @@
+{
+  "id": 1310020121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54333,43.35167,17.54333,43.35167",
+    "geom:latitude":43.35167,
+    "geom:longitude":17.54333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Muse",
+    "gn:country_code":"BA",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291127,
+    "gn:latitude":43.35167,
+    "gn:longitude":17.54333,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Muse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291127
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d3fb7c367d43a242465b518d39674f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759231,
+            "locality_id":1310020121,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1310020121,
+    "wof:lastmodified":1536620050,
+    "wof:name":"Muse",
+    "wof:parent_id":1108759231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54332999999999,
+    43.35167,
+    17.54332999999999,
+    43.35167
+],
+  "geometry": {"coordinates":[17.54332999999999,43.35167],"type":"Point"}
+}

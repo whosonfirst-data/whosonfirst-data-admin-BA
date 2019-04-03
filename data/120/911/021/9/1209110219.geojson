@@ -1,0 +1,61 @@
+{
+  "id": 1209110219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17995,44.76177,18.17995,44.76177",
+    "geom:latitude":44.76177,
+    "geom:longitude":18.17995,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ogradenica",
+    "gn:country_code":"BA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253093,
+    "gn:latitude":44.76177,
+    "gn:longitude":18.17995,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ogra\u0111enica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253093
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dc1a5e3d9a0c9cbcd3df4e5370023630",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209110219
+        }
+    ],
+    "wof:id":1209110219,
+    "wof:lastmodified":1536297432,
+    "wof:name":"Ogradenica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17995,
+    44.76177,
+    18.17995,
+    44.76177
+],
+  "geometry": {"coordinates":[18.17995,44.76177],"type":"Point"}
+}

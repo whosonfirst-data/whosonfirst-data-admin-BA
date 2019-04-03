@@ -1,0 +1,67 @@
+{
+  "id": 1226251471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27916,43.16785,18.27916,43.16785",
+    "geom:latitude":43.16785,
+    "geom:longitude":18.27916,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Doline",
+    "gn:country_code":"BA",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3265883,
+    "gn:latitude":43.16785,
+    "gn:longitude":18.27916,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Doline",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265883
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f2574001f024182e70b461ebcd1977b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1226251471,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226251471,
+    "wof:lastmodified":1536925999,
+    "wof:name":"Doline",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27916,
+    43.16785,
+    18.27916,
+    43.16785
+],
+  "geometry": {"coordinates":[18.27916,43.16785],"type":"Point"}
+}

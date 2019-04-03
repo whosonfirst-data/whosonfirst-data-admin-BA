@@ -1,0 +1,67 @@
+{
+  "id": 1343872263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54119,43.95349,17.54119,43.95349",
+    "geom:latitude":43.95349,
+    "geom:longitude":17.54119,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ploca",
+    "gn:country_code":"BA",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3294413,
+    "gn:latitude":43.95349,
+    "gn:longitude":17.54119,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Plo\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294413
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6641b6a0d69d98656a08a5fd4b55218d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":1343872263,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1343872263,
+    "wof:lastmodified":1536649206,
+    "wof:name":"Ploca",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54119,
+    43.95349,
+    17.54119,
+    43.95349
+],
+  "geometry": {"coordinates":[17.54119,43.95349],"type":"Point"}
+}

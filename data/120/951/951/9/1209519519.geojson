@@ -1,0 +1,61 @@
+{
+  "id": 1209519519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.82699,44.65363,16.82699,44.65363",
+    "geom:latitude":44.65363,
+    "geom:longitude":16.82699,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oljace",
+    "gn:country_code":"BA",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3246154,
+    "gn:latitude":44.65363,
+    "gn:longitude":16.82699,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Olja\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3246154
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cfa200beba7139950ef03c8e3773c995",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209519519
+        }
+    ],
+    "wof:id":1209519519,
+    "wof:lastmodified":1536284625,
+    "wof:name":"Oljace",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.82699,
+    44.65363,
+    16.82699,
+    44.65363
+],
+  "geometry": {"coordinates":[16.82699,44.65363],"type":"Point"}
+}

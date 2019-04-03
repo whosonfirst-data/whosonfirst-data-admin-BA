@@ -1,0 +1,67 @@
+{
+  "id": 1293699523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.11539,44.18185,17.11539,44.18185",
+    "geom:latitude":44.18185,
+    "geom:longitude":17.11539,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Popadici",
+    "gn:country_code":"BA",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238348,
+    "gn:latitude":44.18185,
+    "gn:longitude":17.11539,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Popadi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238348
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8276fe00ec2f2de9b96d8aad183803bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1293699523,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293699523,
+    "wof:lastmodified":1536978043,
+    "wof:name":"Popadici",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.11539,
+    44.18185,
+    17.11539,
+    44.18185
+],
+  "geometry": {"coordinates":[17.11539,44.18185],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259392321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.87102,43.62497,18.87102,43.62497",
+    "geom:latitude":43.62497,
+    "geom:longitude":18.87102,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornje Bratinje",
+    "gn:country_code":"BA",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271142,
+    "gn:latitude":43.62497,
+    "gn:longitude":18.87102,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornje Bratinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271142
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"20103d5c3fd9b3efc01f19ecb34b486f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759083,
+            "locality_id":1259392321,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1259392321,
+    "wof:lastmodified":1536988602,
+    "wof:name":"Gornje Bratinje",
+    "wof:parent_id":1108759083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.87102,
+    43.62497000000001,
+    18.87102,
+    43.62497000000001
+],
+  "geometry": {"coordinates":[18.87102,43.62497000000001],"type":"Point"}
+}

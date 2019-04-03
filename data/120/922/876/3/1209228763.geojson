@@ -1,0 +1,65 @@
+{
+  "id": 1209228763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05192,44.6749,18.05192,44.6749",
+    "geom:latitude":44.6749,
+    "geom:longitude":18.05192,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mravici",
+    "gn:country_code":"BA",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3252950,
+    "gn:latitude":44.6749,
+    "gn:longitude":18.05192,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mravi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mravi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252950,
+        "wk:page":"Mravi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c1e26a7a63503c0b789baae250b4b3f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209228763
+        }
+    ],
+    "wof:id":1209228763,
+    "wof:lastmodified":1537585663,
+    "wof:name":"Mravici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05192000000001,
+    44.6749,
+    18.05192000000001,
+    44.6749
+],
+  "geometry": {"coordinates":[18.05192000000001,44.6749],"type":"Point"}
+}

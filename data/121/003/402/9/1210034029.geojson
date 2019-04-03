@@ -1,0 +1,68 @@
+{
+  "id": 1210034029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0165,43.75931,17.0165,43.75931",
+    "geom:latitude":43.75931,
+    "geom:longitude":17.0165,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lopatice",
+    "gn:country_code":"BA",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196202,
+    "gn:latitude":43.75931,
+    "gn:longitude":17.0165,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Lopatice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196202,
+        "wk:page":"Lopatice"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"33eb508a59b45240e04bd97a8fab3eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1210034029,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1210034029,
+    "wof:lastmodified":1537486752,
+    "wof:name":"Lopatice",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0165,
+    43.75931,
+    17.0165,
+    43.75931
+],
+  "geometry": {"coordinates":[17.0165,43.75931],"type":"Point"}
+}

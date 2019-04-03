@@ -1,0 +1,70 @@
+{
+  "id": 1276137095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32621,43.47281,17.32621,43.47281",
+    "geom:latitude":43.47281,
+    "geom:longitude":17.32621,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Posusje",
+    "gn:country_code":"BA",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3192669,
+    "gn:latitude":43.47281,
+    "gn:longitude":17.32621,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Posu\u0161je",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Posu\u0161je"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192669
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1969b3ea4f012b0be9bd6427314b4313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1276137095,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1276137095,
+    "wof:lastmodified":1537585571,
+    "wof:name":"Posusje",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32621,
+    43.47281,
+    17.32621,
+    43.47281
+],
+  "geometry": {"coordinates":[17.32621,43.47281],"type":"Point"}
+}

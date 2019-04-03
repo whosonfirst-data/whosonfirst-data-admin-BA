@@ -1,0 +1,67 @@
+{
+  "id": 1276561085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.22341,43.79201,19.22341,43.79201",
+    "geom:latitude":43.79201,
+    "geom:longitude":19.22341,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornji Kocarim",
+    "gn:country_code":"BA",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197949,
+    "gn:latitude":43.79201,
+    "gn:longitude":19.22341,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornji Ko\u010darim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197949
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6311289b8ec1bd2a629b450978d70e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1276561085,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276561085,
+    "wof:lastmodified":1536970501,
+    "wof:name":"Gornji Kocarim",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.22341,
+    43.79201,
+    19.22341,
+    43.79201
+],
+  "geometry": {"coordinates":[19.22341,43.79201],"type":"Point"}
+}

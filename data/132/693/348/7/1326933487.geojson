@@ -1,0 +1,71 @@
+{
+  "id": 1326933487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.92076,43.82175,18.92076,43.82175",
+    "geom:latitude":43.82175,
+    "geom:longitude":18.92076,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Maravici",
+    "gn:country_code":"BA",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3195517,
+    "gn:latitude":43.82175,
+    "gn:longitude":18.92076,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Maravi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maravi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195517,
+        "wk:page":"Maravi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0fd9d9f59b61b80de9b71b97a9b070b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1326933487,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326933487,
+    "wof:lastmodified":1537585583,
+    "wof:name":"Maravici",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92076,
+    43.82175,
+    18.92076,
+    43.82175
+],
+  "geometry": {"coordinates":[18.92076,43.82175],"type":"Point"}
+}

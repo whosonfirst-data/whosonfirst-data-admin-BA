@@ -1,0 +1,67 @@
+{
+  "id": 1310214563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42018,44.65279,18.42018,44.65279",
+    "geom:latitude":44.65279,
+    "geom:longitude":18.42018,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256615,
+    "gn:latitude":44.65279,
+    "gn:longitude":18.42018,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256615
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fc40e6327150530292c65290b4cc38b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1310214563,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310214563,
+    "wof:lastmodified":1536838066,
+    "wof:name":"Brdo",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42018,
+    44.65279,
+    18.42018,
+    44.65279
+],
+  "geometry": {"coordinates":[18.42018,44.65279],"type":"Point"}
+}

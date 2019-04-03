@@ -1,0 +1,72 @@
+{
+  "id": 1209918139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66108,43.67212,18.66108,43.67212",
+    "geom:latitude":43.67212,
+    "geom:longitude":18.66108,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rodijelj",
+    "gn:country_code":"BA",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206717,
+    "gn:latitude":43.67212,
+    "gn:longitude":18.66108,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rodijelj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rodelj",
+        "Rodijelj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206717,
+        "wk:page":"Rodijelj"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"657e7db13cad4e3d26a6e49ac4aaad74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759071,
+            "locality_id":1209918139,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1209918139,
+    "wof:lastmodified":1537585636,
+    "wof:name":"Rodijelj",
+    "wof:parent_id":1108759071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66108,
+    43.67212,
+    18.66108,
+    43.67212
+],
+  "geometry": {"coordinates":[18.66108,43.67212],"type":"Point"}
+}

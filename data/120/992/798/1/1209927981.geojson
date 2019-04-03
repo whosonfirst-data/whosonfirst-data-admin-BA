@@ -1,0 +1,68 @@
+{
+  "id": 1209927981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1046,43.83478,18.1046,43.83478",
+    "geom:latitude":43.83478,
+    "geom:longitude":18.1046,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Toplica",
+    "gn:country_code":"BA",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296917,
+    "gn:latitude":43.83478,
+    "gn:longitude":18.1046,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Toplica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296917,
+        "wk:page":"Toplica_%28Kiseljak%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"43e66e37be9906c124be6015dbcb8108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759127,
+            "locality_id":1209927981,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1209927981,
+    "wof:lastmodified":1537486862,
+    "wof:name":"Toplica",
+    "wof:parent_id":1108759127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1046,
+    43.83478,
+    18.1046,
+    43.83478
+],
+  "geometry": {"coordinates":[18.1046,43.83478],"type":"Point"}
+}

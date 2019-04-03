@@ -1,0 +1,67 @@
+{
+  "id": 1343966983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59853,45.08861,16.59853,45.08861",
+    "geom:latitude":45.08861,
+    "geom:longitude":16.59853,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tutici",
+    "gn:country_code":"BA",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281368,
+    "gn:latitude":45.08861,
+    "gn:longitude":16.59853,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tuti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281368
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"151037ded15b491f5cc5aff71fa85b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1343966983,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343966983,
+    "wof:lastmodified":1537009785,
+    "wof:name":"Tutici",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59853,
+    45.08861,
+    16.59853,
+    45.08861
+],
+  "geometry": {"coordinates":[16.59853,45.08861],"type":"Point"}
+}

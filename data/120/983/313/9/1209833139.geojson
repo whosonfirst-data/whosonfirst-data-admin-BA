@@ -1,0 +1,67 @@
+{
+  "id": 1209833139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08278,43.94361,18.08278,43.94361",
+    "geom:latitude":43.94361,
+    "geom:longitude":18.08278,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cesenice",
+    "gn:country_code":"BA",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297596,
+    "gn:latitude":43.94361,
+    "gn:longitude":18.08278,
+    "gn:modification_date":"1998-06-04",
+    "gn:name":"\u010ce\u0161enice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297596
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2a30b1318c6db7c16b81555a16030802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759127,
+            "locality_id":1209833139,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1209833139,
+    "wof:lastmodified":1536396081,
+    "wof:name":"Cesenice",
+    "wof:parent_id":1108759127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08278,
+    43.94361,
+    18.08278,
+    43.94361
+],
+  "geometry": {"coordinates":[18.08278,43.94361],"type":"Point"}
+}

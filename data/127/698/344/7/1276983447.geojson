@@ -1,0 +1,68 @@
+{
+  "id": 1276983447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16146,44.11772,19.16146,44.11772",
+    "geom:latitude":44.11772,
+    "geom:longitude":19.16146,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Podgaj",
+    "gn:country_code":"BA",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193068,
+    "gn:latitude":44.11772,
+    "gn:longitude":19.16146,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Podgaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193068,
+        "wk:page":"Podgaj_%28Srebrenica%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3f530825d7c8ec434d50944afb3dba80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1276983447,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276983447,
+    "wof:lastmodified":1537486737,
+    "wof:name":"Podgaj",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16146,
+    44.11772,
+    19.16146,
+    44.11772
+],
+  "geometry": {"coordinates":[19.16146,44.11772],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243472061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2837,43.70297,17.2837,43.70297",
+    "geom:latitude":43.70297,
+    "geom:longitude":17.2837,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Srdani",
+    "gn:country_code":"BA",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190166,
+    "gn:latitude":43.70297,
+    "gn:longitude":17.2837,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Sr\u0111ani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sr\u0111ani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190166,
+        "wk:page":"Sr%C4%91ani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4aec51df769d52ad2e013e867f225c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1243472061,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1243472061,
+    "wof:lastmodified":1537585560,
+    "wof:name":"Srdani",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2837,
+    43.70297,
+    17.2837,
+    43.70297
+],
+  "geometry": {"coordinates":[17.2837,43.70297],"type":"Point"}
+}

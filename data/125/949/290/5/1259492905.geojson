@@ -1,0 +1,67 @@
+{
+  "id": 1259492905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.43751,43.87362,18.43751,43.87362",
+    "geom:latitude":43.87362,
+    "geom:longitude":18.43751,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sedrenik",
+    "gn:country_code":"BA",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267028,
+    "gn:latitude":43.87362,
+    "gn:longitude":18.43751,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sedrenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267028
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1fbfd33590c78c23ab7f44ff2fbd70ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759245,
+            "locality_id":1259492905,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1259492905,
+    "wof:lastmodified":1536844090,
+    "wof:name":"Sedrenik",
+    "wof:parent_id":1108759245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43751,
+    43.87362,
+    18.43751,
+    43.87362
+],
+  "geometry": {"coordinates":[18.43751,43.87362],"type":"Point"}
+}

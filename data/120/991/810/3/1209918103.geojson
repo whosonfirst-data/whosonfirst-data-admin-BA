@@ -1,0 +1,67 @@
+{
+  "id": 1209918103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48823,43.40147,17.48823,43.40147",
+    "geom:latitude":43.40147,
+    "geom:longitude":17.48823,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cukova Glavica",
+    "gn:country_code":"BA",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288136,
+    "gn:latitude":43.40147,
+    "gn:longitude":17.48823,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0106ukova Glavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288136
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7761f673ee2c73ea22536544099e98f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759231,
+            "locality_id":1209918103,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1209918103,
+    "wof:lastmodified":1536371496,
+    "wof:name":"Cukova Glavica",
+    "wof:parent_id":1108759231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48823,
+    43.40147,
+    17.48823,
+    43.40147
+],
+  "geometry": {"coordinates":[17.48823,43.40147],"type":"Point"}
+}

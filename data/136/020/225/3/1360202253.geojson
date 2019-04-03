@@ -1,0 +1,72 @@
+{
+  "id": 1360202253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26861,44.38583,18.26861,44.38583",
+    "geom:latitude":44.38583,
+    "geom:longitude":18.26861,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ostric",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211210,
+    "gn:latitude":44.38583,
+    "gn:longitude":18.26861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"O\u0161tri\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O\u0161tri\u0107i",
+        "O\u0161tri\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211210
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"207b4cbd5b73e3d14aa8017de6fd59ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1360202253,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1360202253,
+    "wof:lastmodified":1537585647,
+    "wof:name":"Ostric",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26861,
+    44.38583,
+    18.26861,
+    44.38583
+],
+  "geometry": {"coordinates":[18.26861,44.38583],"type":"Point"}
+}

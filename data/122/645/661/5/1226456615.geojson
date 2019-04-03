@@ -1,0 +1,68 @@
+{
+  "id": 1226456615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47558,44.66979,18.47558,44.66979",
+    "geom:latitude":44.66979,
+    "geom:longitude":18.47558,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Seona",
+    "gn:country_code":"BA",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190998,
+    "gn:latitude":44.66979,
+    "gn:longitude":18.47558,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Seona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190998,
+        "wk:page":"Seona_%28Srebrenik%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4eef52802ac3909f40240ce2c055c569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759243,
+            "locality_id":1226456615,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1226456615,
+    "wof:lastmodified":1537486727,
+    "wof:name":"Seona",
+    "wof:parent_id":1108759243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47558,
+    44.66979,
+    18.47558,
+    44.66979
+],
+  "geometry": {"coordinates":[18.47558,44.66979],"type":"Point"}
+}

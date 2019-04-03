@@ -1,0 +1,67 @@
+{
+  "id": 1226151937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13211,43.1304,18.13211,43.1304",
+    "geom:latitude":43.1304,
+    "geom:longitude":18.13211,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kosuta",
+    "gn:country_code":"BA",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3266310,
+    "gn:latitude":43.1304,
+    "gn:longitude":18.13211,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ko\u0161uta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266310
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"615642375de904463108eba42f9d6f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759251,
+            "locality_id":1226151937,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226151937,
+    "wof:lastmodified":1537065795,
+    "wof:name":"Kosuta",
+    "wof:parent_id":1108759251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13211,
+    43.1304,
+    18.13211,
+    43.1304
+],
+  "geometry": {"coordinates":[18.13211,43.1304],"type":"Point"}
+}

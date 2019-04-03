@@ -1,0 +1,73 @@
+{
+  "id": 1226456445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21078,44.72748,18.21078,44.72748",
+    "geom:latitude":44.72748,
+    "geom:longitude":18.21078,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Velika Brijesnica",
+    "gn:country_code":"BA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3188268,
+    "gn:latitude":44.72748,
+    "gn:longitude":18.21078,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Velika Brijesnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brijesnica Velika",
+        "Brijesnica",
+        "Velika Brijesnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188268,
+        "wk:page":"Brijesnica_Velika"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"67915b7df1fbb2c25e0892bb71217e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759055,
+            "locality_id":1226456445,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1226456445,
+    "wof:lastmodified":1537585554,
+    "wof:name":"Velika Brijesnica",
+    "wof:parent_id":1108759055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21078,
+    44.72748,
+    18.21078,
+    44.72748
+],
+  "geometry": {"coordinates":[18.21078,44.72748],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260097937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78558,44.18815,17.78558,44.18815",
+    "geom:latitude":44.18815,
+    "geom:longitude":17.78558,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Putkovici",
+    "gn:country_code":"BA",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288837,
+    "gn:latitude":44.18815,
+    "gn:longitude":17.78558,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Putkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288837
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6065ba1d1b2e77e2a0886c8098dfd03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759287,
+            "locality_id":1260097937,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1260097937,
+    "wof:lastmodified":1536967017,
+    "wof:name":"Putkovici",
+    "wof:parent_id":1108759287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78558,
+    44.18815,
+    17.78558,
+    44.18815
+],
+  "geometry": {"coordinates":[17.78558,44.18815],"type":"Point"}
+}

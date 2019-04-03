@@ -1,0 +1,73 @@
+{
+  "id": 1259997395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26194,44.54306,18.26194,44.54306",
+    "geom:latitude":44.54306,
+    "geom:longitude":18.26194,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Bukovica",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201703,
+    "gn:latitude":44.54306,
+    "gn:longitude":18.26194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Donja Bukovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukovica Donja",
+        "Donja Bukovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201703,
+        "wk:page":"Donja_Bukovica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1b7da2e407680425ba9e17ec3ee38d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1259997395,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259997395,
+    "wof:lastmodified":1537585613,
+    "wof:name":"Donja Bukovica",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26194,
+    44.54306,
+    18.26194,
+    44.54306
+],
+  "geometry": {"coordinates":[18.26194,44.54306],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259993747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.80788,44.40679,18.80788,44.40679",
+    "geom:latitude":44.40679,
+    "geom:longitude":18.80788,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tupkovici Donji",
+    "gn:country_code":"BA",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188641,
+    "gn:latitude":44.40679,
+    "gn:longitude":18.80788,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tupkovi\u0107i Donji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tupkovi\u0107i",
+        "Tupkovi\u0107i Donji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188641
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9ee66a63d89cde7c0730f1e6476be3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":1259993747,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1259993747,
+    "wof:lastmodified":1537585556,
+    "wof:name":"Tupkovici Donji",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.80788,
+    44.40679,
+    18.80788,
+    44.40679
+],
+  "geometry": {"coordinates":[18.80788,44.40679],"type":"Point"}
+}

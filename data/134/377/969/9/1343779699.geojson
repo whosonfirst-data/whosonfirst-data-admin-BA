@@ -1,0 +1,67 @@
+{
+  "id": 1343779699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30674,44.2729,17.30674,44.2729",
+    "geom:latitude":44.2729,
+    "geom:longitude":17.30674,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Droce",
+    "gn:country_code":"BA",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3235422,
+    "gn:latitude":44.2729,
+    "gn:longitude":17.30674,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Droce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3235422
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"364d395b6310e177cdd3782287c634c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759115,
+            "locality_id":1343779699,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1343779699,
+    "wof:lastmodified":1536783701,
+    "wof:name":"Droce",
+    "wof:parent_id":1108759115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30674,
+    44.2729,
+    17.30674,
+    44.2729
+],
+  "geometry": {"coordinates":[17.30674,44.2729],"type":"Point"}
+}

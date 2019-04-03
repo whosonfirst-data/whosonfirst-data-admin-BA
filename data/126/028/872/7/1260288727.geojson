@@ -1,0 +1,67 @@
+{
+  "id": 1260288727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80673,43.27826,17.80673,43.27826",
+    "geom:latitude":43.27826,
+    "geom:longitude":17.80673,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Jasenica",
+    "gn:country_code":"BA",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263592,
+    "gn:latitude":43.27826,
+    "gn:longitude":17.80673,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donja Jasenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263592
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e6649c775392d12c614403467d6668c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1260288727,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1260288727,
+    "wof:lastmodified":1536705158,
+    "wof:name":"Donja Jasenica",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80672999999999,
+    43.27826,
+    17.80672999999999,
+    43.27826
+],
+  "geometry": {"coordinates":[17.80672999999999,43.27826],"type":"Point"}
+}

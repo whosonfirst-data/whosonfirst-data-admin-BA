@@ -1,0 +1,67 @@
+{
+  "id": 1309914761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8689,44.79732,16.8689,44.79732",
+    "geom:latitude":44.79732,
+    "geom:longitude":16.8689,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stevici",
+    "gn:country_code":"BA",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3246100,
+    "gn:latitude":44.79732,
+    "gn:longitude":16.8689,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Stevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3246100
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1592c3b7865a284c894c94c9bd7cee52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1309914761,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309914761,
+    "wof:lastmodified":1536774600,
+    "wof:name":"Stevici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8689,
+    44.79732,
+    16.8689,
+    44.79732
+],
+  "geometry": {"coordinates":[16.8689,44.79732],"type":"Point"}
+}

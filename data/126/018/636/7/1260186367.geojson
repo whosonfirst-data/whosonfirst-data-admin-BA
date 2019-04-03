@@ -1,0 +1,68 @@
+{
+  "id": 1260186367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46625,43.43948,17.46625,43.43948",
+    "geom:latitude":43.43948,
+    "geom:longitude":17.46625,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Crne Lokve",
+    "gn:country_code":"BA",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3202440,
+    "gn:latitude":43.43948,
+    "gn:longitude":17.46625,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Crne Lokve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202440,
+        "wk:page":"Crne_Lokve"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"337f8b788cd3842312ecc68037469e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759231,
+            "locality_id":1260186367,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1260186367,
+    "wof:lastmodified":1537486787,
+    "wof:name":"Crne Lokve",
+    "wof:parent_id":1108759231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46625,
+    43.43948,
+    17.46625,
+    43.43948
+],
+  "geometry": {"coordinates":[17.46625,43.43948],"type":"Point"}
+}

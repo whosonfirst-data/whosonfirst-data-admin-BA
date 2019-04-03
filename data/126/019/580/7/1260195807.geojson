@@ -1,0 +1,72 @@
+{
+  "id": 1260195807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38847,43.79793,18.38847,43.79793",
+    "geom:latitude":43.79793,
+    "geom:longitude":18.38847,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kasindo",
+    "gn:country_code":"BA",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3198234,
+    "gn:latitude":43.79793,
+    "gn:longitude":18.38847,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kasindo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobiljdo-Kasindo",
+        "Kasindo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198234,
+        "wk:page":"Kasindo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b00625a39f3780d218751ff81c17e01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759107,
+            "locality_id":1260195807,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260195807,
+    "wof:lastmodified":1537585592,
+    "wof:name":"Kasindo",
+    "wof:parent_id":1108759107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38847,
+    43.79793,
+    18.38847,
+    43.79793
+],
+  "geometry": {"coordinates":[18.38847,43.79793],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260191665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00539,43.1578,18.00539,43.1578",
+    "geom:latitude":43.1578,
+    "geom:longitude":18.00539,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Podgorica",
+    "gn:country_code":"BA",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206720,
+    "gn:latitude":43.1578,
+    "gn:longitude":18.00539,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Podgorica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206720
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f4cc53d35ea72e4b1da4126309d54145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759251,
+            "locality_id":1260191665,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260191665,
+    "wof:lastmodified":1536835605,
+    "wof:name":"Podgorica",
+    "wof:parent_id":1108759251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00539,
+    43.1578,
+    18.00539,
+    43.1578
+],
+  "geometry": {"coordinates":[18.00539,43.1578],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209109289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.92139,43.55722,18.92139,43.55722",
+    "geom:latitude":43.55722,
+    "geom:longitude":18.92139,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vojvodici",
+    "gn:country_code":"BA",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187439,
+    "gn:latitude":43.55722,
+    "gn:longitude":18.92139,
+    "gn:modification_date":"1998-01-06",
+    "gn:name":"Vojvodi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187439
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"91ad7f3a46d0984e7a92402f5fc79b4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209109289
+        }
+    ],
+    "wof:id":1209109289,
+    "wof:lastmodified":1536297460,
+    "wof:name":"Vojvodici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92139,
+    43.55722,
+    18.92139,
+    43.55722
+],
+  "geometry": {"coordinates":[18.92139,43.55722],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293797021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33383,44.49742,17.33383,44.49742",
+    "geom:latitude":44.49742,
+    "geom:longitude":17.33383,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Brburovici",
+    "gn:country_code":"BA",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3236806,
+    "gn:latitude":44.49742,
+    "gn:longitude":17.33383,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Brburovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3236806
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"58db04b6b7daed754e9fd381a36077da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759233,
+            "locality_id":1293797021,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293797021,
+    "wof:lastmodified":1536836798,
+    "wof:name":"Brburovici",
+    "wof:parent_id":1108759233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33383,
+    44.49742,
+    17.33383,
+    44.49742
+],
+  "geometry": {"coordinates":[17.33383,44.49742],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193145725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.53221,43.84347,18.53221,43.84347",
+    "geom:latitude":43.84347,
+    "geom:longitude":18.53221,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donji Klokocevik",
+    "gn:country_code":"BA",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206024,
+    "gn:latitude":43.84347,
+    "gn:longitude":18.53221,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donji Kloko\u010devik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kloko\u010devik",
+        "Donji Kloko\u010devik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206024
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"74bfc71700a82c1af031981ca6901924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759201,
+            "locality_id":1193145725,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193145725,
+    "wof:lastmodified":1537585633,
+    "wof:name":"Donji Klokocevik",
+    "wof:parent_id":1108759201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.53221,
+    43.84347,
+    18.53221,
+    43.84347
+],
+  "geometry": {"coordinates":[18.53221,43.84347],"type":"Point"}
+}

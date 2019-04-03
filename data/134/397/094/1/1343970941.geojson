@@ -1,0 +1,71 @@
+{
+  "id": 1343970941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.27012,44.0388,19.27012,44.0388",
+    "geom:latitude":44.0388,
+    "geom:longitude":19.27012,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pribojevici",
+    "gn:country_code":"BA",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238768,
+    "gn:latitude":44.0388,
+    "gn:longitude":19.27012,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pribojevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pribojevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238768,
+        "wk:page":"Pribojevi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"683e483b5c83255d28624a6cf009b4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1343970941,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343970941,
+    "wof:lastmodified":1537585660,
+    "wof:name":"Pribojevici",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.27012,
+    44.0388,
+    19.27012,
+    44.0388
+],
+  "geometry": {"coordinates":[19.27012,44.0388],"type":"Point"}
+}

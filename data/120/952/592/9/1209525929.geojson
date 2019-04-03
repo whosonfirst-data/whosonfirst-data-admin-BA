@@ -1,0 +1,60 @@
+{
+  "id": 1209525929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.63051,44.60978,16.63051,44.60978",
+    "geom:latitude":44.60978,
+    "geom:longitude":16.63051,
+    "gn:asciiname":"RESTORAN Kod Paje",
+    "gn:country_code":"BA",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10793693,
+    "gn:latitude":44.60978,
+    "gn:longitude":16.63051,
+    "gn:modification_date":"2015-09-19",
+    "gn:name":"RESTORAN Kod Paje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10793693
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a3128d2ea846979d518568ad1a648462",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209525929
+        }
+    ],
+    "wof:id":1209525929,
+    "wof:lastmodified":1536284431,
+    "wof:name":"RESTORAN Kod Paje",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.63051,
+    44.60978,
+    16.63051,
+    44.60978
+],
+  "geometry": {"coordinates":[16.63051,44.60978],"type":"Point"}
+}

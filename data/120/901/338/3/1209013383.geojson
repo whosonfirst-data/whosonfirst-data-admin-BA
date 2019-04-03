@@ -1,0 +1,62 @@
+{
+  "id": 1209013383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13152,43.67659,19.13152,43.67659",
+    "geom:latitude":43.67659,
+    "geom:longitude":19.13152,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Seoca",
+    "gn:country_code":"BA",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3270093,
+    "gn:latitude":43.67659,
+    "gn:longitude":19.13152,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Seoca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270093,
+        "wk:page":"Seoca"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a99877de5d78e36a1883761de37741d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209013383
+        }
+    ],
+    "wof:id":1209013383,
+    "wof:lastmodified":1537486842,
+    "wof:name":"Seoca",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13152,
+    43.67659,
+    19.13152,
+    43.67659
+],
+  "geometry": {"coordinates":[19.13152,43.67659],"type":"Point"}
+}

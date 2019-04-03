@@ -1,0 +1,67 @@
+{
+  "id": 1193140515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.91666,44.56224,18.91666,44.56224",
+    "geom:latitude":44.56224,
+    "geom:longitude":18.91666,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sjeline",
+    "gn:country_code":"BA",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255412,
+    "gn:latitude":44.56224,
+    "gn:longitude":18.91666,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sjeline",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255412
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"da08def664254b281832f120236114a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759159,
+            "locality_id":1193140515,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193140515,
+    "wof:lastmodified":1536366310,
+    "wof:name":"Sjeline",
+    "wof:parent_id":1108759159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.91666,
+    44.56224,
+    18.91666,
+    44.56224
+],
+  "geometry": {"coordinates":[18.91666,44.56224],"type":"Point"}
+}

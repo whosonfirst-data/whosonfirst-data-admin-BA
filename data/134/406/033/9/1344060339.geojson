@@ -1,0 +1,67 @@
+{
+  "id": 1344060339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71022,44.85296,17.71022,44.85296",
+    "geom:latitude":44.85296,
+    "geom:longitude":17.71022,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pustara",
+    "gn:country_code":"BA",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252673,
+    "gn:latitude":44.85296,
+    "gn:longitude":17.71022,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pustara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252673
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6615c916cdf9aca314063bfb96511b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1344060339,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344060339,
+    "wof:lastmodified":1536874744,
+    "wof:name":"Pustara",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71022,
+    44.85296,
+    17.71022,
+    44.85296
+],
+  "geometry": {"coordinates":[17.71022,44.85296],"type":"Point"}
+}

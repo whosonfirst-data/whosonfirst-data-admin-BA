@@ -1,0 +1,66 @@
+{
+  "id": 1276563471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17026,44.86672,17.17026,44.86672",
+    "geom:latitude":44.86672,
+    "geom:longitude":17.17026,
+    "gn:asciiname":"Ramici",
+    "gn:country_code":"BA",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7649107,
+    "gn:latitude":44.86672,
+    "gn:longitude":17.17026,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Ramici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7649107
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"620cb824ba5f6b67bd83bd41e038a741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1276563471,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276563471,
+    "wof:lastmodified":1536967410,
+    "wof:name":"Ramici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17026,
+    44.86672,
+    17.17026,
+    44.86672
+],
+  "geometry": {"coordinates":[17.17026,44.86672],"type":"Point"}
+}

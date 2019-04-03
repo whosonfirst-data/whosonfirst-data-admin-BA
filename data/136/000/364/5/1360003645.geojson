@@ -1,0 +1,67 @@
+{
+  "id": 1360003645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96547,44.45951,18.96547,44.45951",
+    "geom:latitude":44.45951,
+    "geom:longitude":18.96547,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Muhamedbegovici",
+    "gn:country_code":"BA",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273896,
+    "gn:latitude":44.45951,
+    "gn:longitude":18.96547,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Muhamedbegovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273896
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b39167f2169113c8dc6d623ad6634c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759303,
+            "locality_id":1360003645,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360003645,
+    "wof:lastmodified":1537060458,
+    "wof:name":"Muhamedbegovici",
+    "wof:parent_id":1108759303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96547,
+    44.45951,
+    18.96547,
+    44.45951
+],
+  "geometry": {"coordinates":[18.96547,44.45951],"type":"Point"}
+}

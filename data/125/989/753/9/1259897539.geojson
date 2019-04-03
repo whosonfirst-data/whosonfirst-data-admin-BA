@@ -1,0 +1,67 @@
+{
+  "id": 1259897539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9354,43.28931,17.9354,43.28931",
+    "geom:latitude":43.28931,
+    "geom:longitude":17.9354,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Veli Banjdol",
+    "gn:country_code":"BA",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263460,
+    "gn:latitude":43.28931,
+    "gn:longitude":17.9354,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Veli Banjdol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263460
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7b65de06804df9769f5fadeea4019cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1259897539,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1259897539,
+    "wof:lastmodified":1536759034,
+    "wof:name":"Veli Banjdol",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9354,
+    43.28931,
+    17.9354,
+    43.28931
+],
+  "geometry": {"coordinates":[17.9354,43.28931],"type":"Point"}
+}

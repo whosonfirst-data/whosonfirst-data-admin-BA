@@ -1,0 +1,67 @@
+{
+  "id": 1293704589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97315,43.93603,17.97315,43.93603",
+    "geom:latitude":43.93603,
+    "geom:longitude":17.97315,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Crvene Zemlje",
+    "gn:country_code":"BA",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289510,
+    "gn:latitude":43.93603,
+    "gn:longitude":17.97315,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Crvene Zemlje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289510
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a412cd30ecba927a7bb6437c0ef1b4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1293704589,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1293704589,
+    "wof:lastmodified":1536971054,
+    "wof:name":"Crvene Zemlje",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97315,
+    43.93603,
+    17.97315,
+    43.93603
+],
+  "geometry": {"coordinates":[17.97315,43.93603],"type":"Point"}
+}

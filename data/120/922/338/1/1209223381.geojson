@@ -1,0 +1,66 @@
+{
+  "id": 1209223381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19616,45.0025,17.19616,45.0025",
+    "geom:latitude":45.0025,
+    "geom:longitude":17.19616,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donja Jurkovica",
+    "gn:country_code":"BA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201686,
+    "gn:latitude":45.0025,
+    "gn:longitude":17.19616,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donja Jurkovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jurkovica Donja",
+        "Donja Jurkovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201686,
+        "wk:page":"Donja_Jurkovica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"223251f1cae2155122702cde73d419eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209223381
+        }
+    ],
+    "wof:id":1209223381,
+    "wof:lastmodified":1537585613,
+    "wof:name":"Donja Jurkovica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19616,
+    45.0025,
+    17.19616,
+    45.0025
+],
+  "geometry": {"coordinates":[17.19616,45.0025],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209624833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15943,44.60768,16.15943,44.60768",
+    "geom:latitude":44.60768,
+    "geom:longitude":16.15943,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Galini",
+    "gn:country_code":"BA",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3270216,
+    "gn:latitude":44.60768,
+    "gn:longitude":16.15943,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Galini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270216
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"705bf3bb9a21e88256ab50e850914818",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209624833
+        }
+    ],
+    "wof:id":1209624833,
+    "wof:lastmodified":1536281390,
+    "wof:name":"Galini",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15943,
+    44.60768,
+    16.15943,
+    44.60768
+],
+  "geometry": {"coordinates":[16.15943,44.60768],"type":"Point"}
+}

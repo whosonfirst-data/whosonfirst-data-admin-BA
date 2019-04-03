@@ -1,0 +1,67 @@
+{
+  "id": 1293505105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73568,43.88699,16.73568,43.88699",
+    "geom:latitude":43.88699,
+    "geom:longitude":16.73568,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Maljski Kraj",
+    "gn:country_code":"BA",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278466,
+    "gn:latitude":43.88699,
+    "gn:longitude":16.73568,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Maljski Kraj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278466
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0d290aa186774bb1114cc4776a33b168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1293505105,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1293505105,
+    "wof:lastmodified":1536761910,
+    "wof:name":"Maljski Kraj",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73568,
+    43.88699,
+    16.73568,
+    43.88699
+],
+  "geometry": {"coordinates":[16.73568,43.88699],"type":"Point"}
+}

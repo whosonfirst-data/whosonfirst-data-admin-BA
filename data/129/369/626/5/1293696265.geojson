@@ -1,0 +1,67 @@
+{
+  "id": 1293696265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,45.06722,15.91667,45.06722",
+    "geom:latitude":45.06722,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bajramovici",
+    "gn:country_code":"BA",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277843,
+    "gn:latitude":45.06722,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Bajramovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277843
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"82f8358cf118c9f3f93f46594a3b6aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1293696265,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293696265,
+    "wof:lastmodified":1536982557,
+    "wof:name":"Bajramovici",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    45.06722,
+    15.91667,
+    45.06722
+],
+  "geometry": {"coordinates":[15.91667,45.06722],"type":"Point"}
+}

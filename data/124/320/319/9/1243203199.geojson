@@ -1,0 +1,68 @@
+{
+  "id": 1243203199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6997,44.87256,18.6997,44.87256",
+    "geom:latitude":44.87256,
+    "geom:longitude":18.6997,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Bukovac",
+    "gn:country_code":"BA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203079,
+    "gn:latitude":44.87256,
+    "gn:longitude":18.6997,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Bukovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203079,
+        "wk:page":"Bukovac_%28Br%C4%8Dko%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b69217bd219b575ef141fdd92c7ca5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1243203199,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1243203199,
+    "wof:lastmodified":1537486792,
+    "wof:name":"Bukovac",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6997,
+    44.87256,
+    18.6997,
+    44.87256
+],
+  "geometry": {"coordinates":[18.6997,44.87256],"type":"Point"}
+}

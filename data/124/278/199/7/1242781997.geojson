@@ -1,0 +1,67 @@
+{
+  "id": 1242781997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02111,43.88083,18.02111,43.88083",
+    "geom:latitude":43.88083,
+    "geom:longitude":18.02111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rat",
+    "gn:country_code":"BA",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297144,
+    "gn:latitude":43.88083,
+    "gn:longitude":18.02111,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Rat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297144
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e91e7423078b9e5f246fc5bc928de68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759143,
+            "locality_id":1242781997,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242781997,
+    "wof:lastmodified":1536769712,
+    "wof:name":"Rat",
+    "wof:parent_id":1108759143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02111,
+    43.88083,
+    18.02111,
+    43.88083
+],
+  "geometry": {"coordinates":[18.02111,43.88083],"type":"Point"}
+}

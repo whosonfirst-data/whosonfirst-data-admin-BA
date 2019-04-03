@@ -1,0 +1,67 @@
+{
+  "id": 1242680741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40351,44.92206,16.40351,44.92206",
+    "geom:latitude":44.92206,
+    "geom:longitude":16.40351,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Krcmari",
+    "gn:country_code":"BA",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3249740,
+    "gn:latitude":44.92206,
+    "gn:longitude":16.40351,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kr\u010dmari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3249740
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"abc4a50379aa623c293144e0f7b373f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1242680741,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242680741,
+    "wof:lastmodified":1536915681,
+    "wof:name":"Krcmari",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40351,
+    44.92206,
+    16.40351,
+    44.92206
+],
+  "geometry": {"coordinates":[16.40351,44.92206],"type":"Point"}
+}

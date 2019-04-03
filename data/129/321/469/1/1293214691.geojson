@@ -1,0 +1,73 @@
+{
+  "id": 1293214691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81862,43.97174,17.81862,43.97174",
+    "geom:latitude":43.97174,
+    "geom:longitude":17.81862,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mujakovici",
+    "gn:country_code":"BA",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194681,
+    "gn:latitude":43.97174,
+    "gn:longitude":17.81862,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mujakovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mujakovi\u0107",
+        "Mujkovi\u010di",
+        "Mujakovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194681,
+        "wk:page":"Mujakovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1089e6e54af8c80d9fa2c1bf52e52228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1293214691,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1293214691,
+    "wof:lastmodified":1537585579,
+    "wof:name":"Mujakovici",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81862000000001,
+    43.97174,
+    17.81862000000001,
+    43.97174
+],
+  "geometry": {"coordinates":[17.81862000000001,43.97174],"type":"Point"}
+}

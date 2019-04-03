@@ -1,0 +1,99 @@
+{
+  "id": 890518953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36951,44.65345,18.36951,44.65345",
+    "geom:latitude":44.65345,
+    "geom:longitude":18.36951,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":5612,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Orahovica Donja"
+    ],
+    "name:dut_x_preferred":[
+        "Orahovica Donja"
+    ],
+    "name:eng_x_preferred":[
+        "Orahovica Donja"
+    ],
+    "name:fre_x_preferred":[
+        "Orahovica Donja"
+    ],
+    "name:hrv_x_preferred":[
+        "Orahovica Donja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0430\u0445\u043e\u0432\u0438\u0446\u0430 \u0414\u043e\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Orahovica Donja"
+    ],
+    "name:unk_x_variant":[
+        "Donja Orahovica"
+    ],
+    "qs:name":"Orahovica Donja",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194061,
+        "gp:id":943176,
+        "qs:id":1085465,
+        "wd:id":"Q1280321",
+        "wk:page":"Orahovica Donja"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056086,
+    "wof:geomhash":"bfb4adb10f8fbf9a6c4d0f31efc473e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":890518953,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890518953,
+    "wof:lastmodified":1527751229,
+    "wof:name":"Orahovica Donja",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:population":5612,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36951,
+    44.65345,
+    18.36951,
+    44.65345
+],
+  "geometry": {"coordinates":[18.36951,44.65345],"type":"Point"}
+}

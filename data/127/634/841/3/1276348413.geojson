@@ -1,0 +1,71 @@
+{
+  "id": 1276348413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77504,44.3376,18.77504,44.3376",
+    "geom:latitude":44.3376,
+    "geom:longitude":18.77504,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kastijelj",
+    "gn:country_code":"BA",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198208,
+    "gn:latitude":44.3376,
+    "gn:longitude":18.77504,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ka\u0161tijelj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u0161telj",
+        "Ka\u0161tijelj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198208
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"423dde4287ebbd9919a22f3e1015dfe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759227,
+            "locality_id":1276348413,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276348413,
+    "wof:lastmodified":1537585592,
+    "wof:name":"Kastijelj",
+    "wof:parent_id":1108759227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77504,
+    44.3376,
+    18.77504,
+    44.3376
+],
+  "geometry": {"coordinates":[18.77504,44.3376],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276670827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23273,43.20753,18.23273,43.20753",
+    "geom:latitude":43.20753,
+    "geom:longitude":18.23273,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Grabovica",
+    "gn:country_code":"BA",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3265941,
+    "gn:latitude":43.20753,
+    "gn:longitude":18.23273,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Grabovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265941
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a342364936340a642ac26ac186757e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1276670827,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276670827,
+    "wof:lastmodified":1536822527,
+    "wof:name":"Grabovica",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23273,
+    43.20753,
+    18.23273,
+    43.20753
+],
+  "geometry": {"coordinates":[18.23273,43.20753],"type":"Point"}
+}

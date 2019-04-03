@@ -1,0 +1,67 @@
+{
+  "id": 1327337627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.55529,44.30127,17.55529,44.30127",
+    "geom:latitude":44.30127,
+    "geom:longitude":17.55529,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rakita",
+    "gn:country_code":"BA",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251329,
+    "gn:latitude":44.30127,
+    "gn:longitude":17.55529,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Rakita",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251329
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7f97fe4156a96e09ff718b8bc4435aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759263,
+            "locality_id":1327337627,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1327337627,
+    "wof:lastmodified":1536816817,
+    "wof:name":"Rakita",
+    "wof:parent_id":1108759263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55529,
+    44.30127,
+    17.55529,
+    44.30127
+],
+  "geometry": {"coordinates":[17.55529,44.30127],"type":"Point"}
+}

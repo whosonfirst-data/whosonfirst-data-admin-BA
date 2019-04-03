@@ -1,0 +1,67 @@
+{
+  "id": 1343971177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86662,44.08202,18.86662,44.08202",
+    "geom:latitude":44.08202,
+    "geom:longitude":18.86662,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vlacici",
+    "gn:country_code":"BA",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204909,
+    "gn:latitude":44.08202,
+    "gn:longitude":18.86662,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vla\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204909
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3511dbc7fb7b6788de14d7a8195535d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":1343971177,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343971177,
+    "wof:lastmodified":1537003709,
+    "wof:name":"Vlacici",
+    "wof:parent_id":1108759103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86662,
+    44.08202,
+    18.86662,
+    44.08202
+],
+  "geometry": {"coordinates":[18.86662,44.08202],"type":"Point"}
+}

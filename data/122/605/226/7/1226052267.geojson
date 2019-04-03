@@ -1,0 +1,67 @@
+{
+  "id": 1226052267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41122,43.38616,17.41122,43.38616",
+    "geom:latitude":43.38616,
+    "geom:longitude":17.41122,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Milosev Dolac",
+    "gn:country_code":"BA",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288143,
+    "gn:latitude":43.38616,
+    "gn:longitude":17.41122,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Milo\u0161ev Dolac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288143
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c9e57d575e8b358803ffaa65ed889d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1226052267,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1226052267,
+    "wof:lastmodified":1536715987,
+    "wof:name":"Milosev Dolac",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41122,
+    43.38616,
+    17.41122,
+    43.38616
+],
+  "geometry": {"coordinates":[17.41122,43.38616],"type":"Point"}
+}

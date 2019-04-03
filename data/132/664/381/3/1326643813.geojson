@@ -1,0 +1,67 @@
+{
+  "id": 1326643813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.75474,43.9455,16.75474,43.9455",
+    "geom:latitude":43.9455,
+    "geom:longitude":16.75474,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rimci",
+    "gn:country_code":"BA",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3279198,
+    "gn:latitude":43.9455,
+    "gn:longitude":16.75474,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Rimci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3279198
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cf7a4cdb126d643217f10a73781098d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1326643813,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1326643813,
+    "wof:lastmodified":1536822177,
+    "wof:name":"Rimci",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.75474,
+    43.9455,
+    16.75474,
+    43.9455
+],
+  "geometry": {"coordinates":[16.75474,43.9455],"type":"Point"}
+}

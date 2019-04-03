@@ -1,0 +1,67 @@
+{
+  "id": 1243472287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35623,43.82609,18.35623,43.82609",
+    "geom:latitude":43.82609,
+    "geom:longitude":18.35623,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dobrinja",
+    "gn:country_code":"BA",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267878,
+    "gn:latitude":43.82609,
+    "gn:longitude":18.35623,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Dobrinja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267878
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"17ea2bf99dc594a9ab1ee82e088293de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759181,
+            "locality_id":1243472287,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1243472287,
+    "wof:lastmodified":1536768753,
+    "wof:name":"Dobrinja",
+    "wof:parent_id":1108759181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35623,
+    43.82609,
+    18.35623,
+    43.82609
+],
+  "geometry": {"coordinates":[18.35623,43.82609],"type":"Point"}
+}

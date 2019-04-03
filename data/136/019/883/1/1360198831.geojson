@@ -1,0 +1,67 @@
+{
+  "id": 1360198831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.69315,44.01548,16.69315,44.01548",
+    "geom:latitude":44.01548,
+    "geom:longitude":16.69315,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vujacici",
+    "gn:country_code":"BA",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240019,
+    "gn:latitude":44.01548,
+    "gn:longitude":16.69315,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vuja\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240019
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3099c2c49af8ea29b178f3f403924d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1360198831,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1360198831,
+    "wof:lastmodified":1536781981,
+    "wof:name":"Vujacici",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69315,
+    44.01548,
+    16.69315,
+    44.01548
+],
+  "geometry": {"coordinates":[16.69315,44.01548],"type":"Point"}
+}

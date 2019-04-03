@@ -1,0 +1,67 @@
+{
+  "id": 1209928027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9175,43.76194,17.9175,43.76194",
+    "geom:latitude":43.76194,
+    "geom:longitude":17.9175,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Grepcani",
+    "gn:country_code":"BA",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289168,
+    "gn:latitude":43.76194,
+    "gn:longitude":17.9175,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Grep\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289168
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4c860a559d2e0a1521a1744f6ba51ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1209928027,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1209928027,
+    "wof:lastmodified":1536393997,
+    "wof:name":"Grepcani",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9175,
+    43.76194,
+    17.9175,
+    43.76194
+],
+  "geometry": {"coordinates":[17.9175,43.76194],"type":"Point"}
+}

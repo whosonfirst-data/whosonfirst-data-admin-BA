@@ -1,0 +1,102 @@
+{
+  "id": 890518591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57499,44.24352,17.57499,44.24352",
+    "geom:latitude":44.24352,
+    "geom:longitude":17.57499,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4767,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Turbe"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u0440\u0431\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Turbe"
+    ],
+    "name:dut_x_preferred":[
+        "Turbe"
+    ],
+    "name:eng_x_preferred":[
+        "Turbe"
+    ],
+    "name:fre_x_preferred":[
+        "Turbe"
+    ],
+    "name:ger_x_preferred":[
+        "Turbe"
+    ],
+    "name:hrv_x_preferred":[
+        "Turbe"
+    ],
+    "name:spa_x_preferred":[
+        "Turbe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0440\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Turbe"
+    ],
+    "qs:name":"Turbe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":679,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188633,
+        "gp:id":944327,
+        "qs:id":147100,
+        "wd:id":"Q1017935",
+        "wk:page":"T\u00fcrbe"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056071,
+    "wof:geomhash":"457fb26e87f4c403bce527249acd3eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759263,
+            "locality_id":890518591,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":890518591,
+    "wof:lastmodified":1527751235,
+    "wof:name":"Turbe",
+    "wof:parent_id":1108759263,
+    "wof:placetype":"locality",
+    "wof:population":4767,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57499,
+    44.24352,
+    17.57499,
+    44.24352
+],
+  "geometry": {"coordinates":[17.57499,44.24352],"type":"Point"}
+}

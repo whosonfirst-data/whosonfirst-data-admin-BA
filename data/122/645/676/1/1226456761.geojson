@@ -1,0 +1,71 @@
+{
+  "id": 1226456761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99694,43.62533,16.99694,43.62533",
+    "geom:latitude":43.62533,
+    "geom:longitude":16.99694,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Raseljke",
+    "gn:country_code":"BA",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191954,
+    "gn:latitude":43.62533,
+    "gn:longitude":16.99694,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ra\u0161eljke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u0161eljke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191954,
+        "wk:page":"Ra%C5%A1eljke"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2872f523224dff640df3beedf4112daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1226456761,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1226456761,
+    "wof:lastmodified":1537585568,
+    "wof:name":"Raseljke",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99694,
+    43.62533,
+    16.99694,
+    43.62533
+],
+  "geometry": {"coordinates":[16.99694,43.62533],"type":"Point"}
+}

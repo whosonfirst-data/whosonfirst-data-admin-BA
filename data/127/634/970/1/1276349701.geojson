@@ -1,0 +1,67 @@
+{
+  "id": 1276349701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28472,44.00278,17.28472,44.00278",
+    "geom:latitude":44.00278,
+    "geom:longitude":17.28472,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vile",
+    "gn:country_code":"BA",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3237126,
+    "gn:latitude":44.00278,
+    "gn:longitude":17.28472,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Vile",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3237126
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4384be8de982cd6a369a0ba0fdf9f445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759145,
+            "locality_id":1276349701,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1276349701,
+    "wof:lastmodified":1536756557,
+    "wof:name":"Vile",
+    "wof:parent_id":1108759145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28472,
+    44.00278,
+    17.28472,
+    44.00278
+],
+  "geometry": {"coordinates":[17.28472,44.00278],"type":"Point"}
+}

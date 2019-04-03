@@ -1,0 +1,61 @@
+{
+  "id": 1209529991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5064,44.11962,17.5064,44.11962",
+    "geom:latitude":44.11962,
+    "geom:longitude":17.5064,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lukici",
+    "gn:country_code":"BA",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3293174,
+    "gn:latitude":44.11962,
+    "gn:longitude":17.5064,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Luki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293174
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"868628898602aa2afdb6872a22db1182",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209529991
+        }
+    ],
+    "wof:id":1209529991,
+    "wof:lastmodified":1536284310,
+    "wof:name":"Lukici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5064,
+    44.11962,
+    17.5064,
+    44.11962
+],
+  "geometry": {"coordinates":[17.5064,44.11962],"type":"Point"}
+}

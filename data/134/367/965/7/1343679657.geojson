@@ -1,0 +1,67 @@
+{
+  "id": 1343679657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.685,44.22417,17.685,44.22417",
+    "geom:latitude":44.22417,
+    "geom:longitude":17.685,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vakuf",
+    "gn:country_code":"BA",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291222,
+    "gn:latitude":44.22417,
+    "gn:longitude":17.685,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Vakuf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291222
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"02367f9378b5538a11ee550c18e47dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759263,
+            "locality_id":1343679657,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1343679657,
+    "wof:lastmodified":1536928083,
+    "wof:name":"Vakuf",
+    "wof:parent_id":1108759263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.685,
+    44.22417,
+    17.685,
+    44.22417
+],
+  "geometry": {"coordinates":[17.685,44.22417],"type":"Point"}
+}

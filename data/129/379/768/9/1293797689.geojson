@@ -1,0 +1,67 @@
+{
+  "id": 1293797689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45583,44.19056,16.45583,44.19056",
+    "geom:latitude":44.19056,
+    "geom:longitude":16.45583,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kudrin Do",
+    "gn:country_code":"BA",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281071,
+    "gn:latitude":44.19056,
+    "gn:longitude":16.45583,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Kudrin Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281071
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bc7bfa43f19e2d56340d09e488d827a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1293797689,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1293797689,
+    "wof:lastmodified":1536835830,
+    "wof:name":"Kudrin Do",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45583,
+    44.19056,
+    16.45583,
+    44.19056
+],
+  "geometry": {"coordinates":[16.45583,44.19056],"type":"Point"}
+}

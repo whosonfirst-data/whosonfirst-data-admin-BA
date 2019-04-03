@@ -1,0 +1,67 @@
+{
+  "id": 1210050357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6066,44.84389,18.6066,44.84389",
+    "geom:latitude":44.84389,
+    "geom:longitude":18.6066,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Odboj",
+    "gn:country_code":"BA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3211080,
+    "gn:latitude":44.84389,
+    "gn:longitude":18.6066,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Odboj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211080
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d49d4e90657a3ddf388426eea83d7430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1210050357,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1210050357,
+    "wof:lastmodified":1536374333,
+    "wof:name":"Odboj",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6066,
+    44.84389,
+    18.6066,
+    44.84389
+],
+  "geometry": {"coordinates":[18.6066,44.84389],"type":"Point"}
+}

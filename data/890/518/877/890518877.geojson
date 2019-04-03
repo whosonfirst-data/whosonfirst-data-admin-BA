@@ -1,0 +1,92 @@
+{
+  "id": 890518877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70083,43.22861,17.70083,43.22861",
+    "geom:latitude":43.22861,
+    "geom:longitude":17.70083,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":5718,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lat_x_preferred":[
+        "Aequum"
+    ],
+    "name:lit_x_preferred":[
+        "\u010citlukas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0442\u043b\u0443\u043a"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0438\u0442\u043b\u0443\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5951\u7279\u5362\u514b"
+    ],
+    "qs:name":"\u010citluk",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos":72,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":72,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":247,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202564,
+        "gp:id":941121,
+        "qs:id":478631,
+        "wd:id":"Q341585",
+        "wk:page":"\u010citluk, Bosnia and Herzegovina"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056082,
+    "wof:geomhash":"b536085b4974901315cd113701901b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759049,
+            "locality_id":890518877,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":890518877,
+    "wof:lastmodified":1527751235,
+    "wof:name":"\u010citluk",
+    "wof:parent_id":1108759049,
+    "wof:placetype":"locality",
+    "wof:population":5718,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70083,
+    43.22861,
+    17.70083,
+    43.22861
+],
+  "geometry": {"coordinates":[17.70083,43.22861],"type":"Point"}
+}

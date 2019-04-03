@@ -1,0 +1,67 @@
+{
+  "id": 1344160297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.81633,44.98483,16.81633,44.98483",
+    "geom:latitude":44.98483,
+    "geom:longitude":16.81633,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zerici",
+    "gn:country_code":"BA",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250707,
+    "gn:latitude":44.98483,
+    "gn:longitude":16.81633,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u017deri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250707
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fe34c2e4710006e6076db62a9347cf95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1344160297,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344160297,
+    "wof:lastmodified":1536731779,
+    "wof:name":"Zerici",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.81632999999999,
+    44.98483,
+    16.81632999999999,
+    44.98483
+],
+  "geometry": {"coordinates":[16.81632999999999,44.98483],"type":"Point"}
+}

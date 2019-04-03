@@ -1,0 +1,67 @@
+{
+  "id": 1243372379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.58382,45.13482,16.58382,45.13482",
+    "geom:latitude":45.13482,
+    "geom:longitude":16.58382,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pobrdani",
+    "gn:country_code":"BA",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280122,
+    "gn:latitude":45.13482,
+    "gn:longitude":16.58382,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pobr\u0111ani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280122
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e2d32c011c5fc834e6797e0c32e8dc4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759139,
+            "locality_id":1243372379,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243372379,
+    "wof:lastmodified":1536912707,
+    "wof:name":"Pobrdani",
+    "wof:parent_id":1108759139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58382000000001,
+    45.13482,
+    16.58382000000001,
+    45.13482
+],
+  "geometry": {"coordinates":[16.58382000000001,45.13482],"type":"Point"}
+}

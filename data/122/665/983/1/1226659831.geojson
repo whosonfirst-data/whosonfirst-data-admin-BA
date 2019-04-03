@@ -1,0 +1,68 @@
+{
+  "id": 1226659831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76471,43.59325,18.76471,43.59325",
+    "geom:latitude":43.59325,
+    "geom:longitude":18.76471,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vrbica",
+    "gn:country_code":"BA",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271210,
+    "gn:latitude":43.59325,
+    "gn:longitude":18.76471,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vrbica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271210,
+        "wk:page":"Vrbica_%28Gora%C5%BEde%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0438b8c9427e1b53dac7aafea222f4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759071,
+            "locality_id":1226659831,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1226659831,
+    "wof:lastmodified":1537486845,
+    "wof:name":"Vrbica",
+    "wof:parent_id":1108759071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76471,
+    43.59325,
+    18.76471,
+    43.59325
+],
+  "geometry": {"coordinates":[18.76471,43.59325],"type":"Point"}
+}

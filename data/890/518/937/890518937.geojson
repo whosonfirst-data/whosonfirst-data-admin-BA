@@ -1,0 +1,75 @@
+{
+  "id": 890518937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69709,44.4806,18.69709,44.4806",
+    "geom:latitude":44.4806,
+    "geom:longitude":18.69709,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3811,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Donje Dubrave"
+    ],
+    "qs:name":"Dubrave Donje",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":188,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201061,
+        "gp:id":941561,
+        "qs:id":1085354
+    },
+    "wof:country":"BA",
+    "wof:created":1469056085,
+    "wof:geomhash":"387738062ea163bce49e4d0b3f0d4272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":890518937,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890518937,
+    "wof:lastmodified":1505343911,
+    "wof:name":"Dubrave Donje",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:population":3811,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69709,
+    44.4806,
+    18.69709,
+    44.4806
+],
+  "geometry": {"coordinates":[18.69709,44.4806],"type":"Point"}
+}

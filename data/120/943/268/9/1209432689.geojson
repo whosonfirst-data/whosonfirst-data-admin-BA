@@ -1,0 +1,65 @@
+{
+  "id": 1209432689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.40707,44.08562,17.40707,44.08562",
+    "geom:latitude":44.08562,
+    "geom:longitude":17.40707,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Fakici",
+    "gn:country_code":"BA",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3237439,
+    "gn:latitude":44.08562,
+    "gn:longitude":17.40707,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Faki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faki\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3237439,
+        "wk:page":"Faki%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"906c119359ece63b2d8013ec653c8c7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209432689
+        }
+    ],
+    "wof:id":1209432689,
+    "wof:lastmodified":1537585659,
+    "wof:name":"Fakici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40707,
+    44.08562,
+    17.40707,
+    44.08562
+],
+  "geometry": {"coordinates":[17.40707,44.08562],"type":"Point"}
+}

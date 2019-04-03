@@ -1,0 +1,61 @@
+{
+  "id": 1209328865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10647,44.4729,18.10647,44.4729",
+    "geom:latitude":44.4729,
+    "geom:longitude":18.10647,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Lug",
+    "gn:country_code":"BA",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257001,
+    "gn:latitude":44.4729,
+    "gn:longitude":18.10647,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornji Lug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257001
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b7c6ec620ae5b8b04f95fac1ba325929",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209328865
+        }
+    ],
+    "wof:id":1209328865,
+    "wof:lastmodified":1536290439,
+    "wof:name":"Gornji Lug",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10647,
+    44.4729,
+    18.10647,
+    44.4729
+],
+  "geometry": {"coordinates":[18.10647,44.4729],"type":"Point"}
+}

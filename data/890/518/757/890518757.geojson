@@ -1,0 +1,93 @@
+{
+  "id": 890518757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.02833,43.77139,17.02833,43.77139",
+    "geom:latitude":43.77139,
+    "geom:longitude":17.02833,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3905,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vido\u0161i"
+    ],
+    "name:dut_x_preferred":[
+        "Vido\u0161i"
+    ],
+    "name:eng_x_preferred":[
+        "Vido\u0161i"
+    ],
+    "name:fre_x_preferred":[
+        "Vido\u0161i"
+    ],
+    "name:ger_x_preferred":[
+        "Vido\u0161i"
+    ],
+    "name:hrv_x_preferred":[
+        "Vido\u0161i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0434\u043e\u0448\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vido\u0161i"
+    ],
+    "qs:name":"Vido\u0161i",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187799,
+        "gp:id":944467,
+        "qs:id":1043887,
+        "wd:id":"Q1017898",
+        "wk:page":"Vido\u0161i"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056078,
+    "wof:geomhash":"90ce9ea5bc86e7ead189fce802434943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":890518757,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":890518757,
+    "wof:lastmodified":1527751235,
+    "wof:name":"Vido\u0161i",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:population":3905,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02833,
+    43.77139,
+    17.02833,
+    43.77139
+],
+  "geometry": {"coordinates":[17.02833,43.77139],"type":"Point"}
+}

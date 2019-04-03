@@ -1,0 +1,67 @@
+{
+  "id": 1276667373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7316,43.29557,17.7316,43.29557",
+    "geom:latitude":43.29557,
+    "geom:longitude":17.7316,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bilisici",
+    "gn:country_code":"BA",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264814,
+    "gn:latitude":43.29557,
+    "gn:longitude":17.7316,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bili\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264814
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d5bb5c7433074aa72437d9d994787b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1276667373,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1276667373,
+    "wof:lastmodified":1536827141,
+    "wof:name":"Bilisici",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7316,
+    43.29557,
+    17.7316,
+    43.29557
+],
+  "geometry": {"coordinates":[17.7316,43.29557],"type":"Point"}
+}

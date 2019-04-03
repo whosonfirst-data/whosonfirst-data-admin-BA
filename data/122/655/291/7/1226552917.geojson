@@ -1,0 +1,67 @@
+{
+  "id": 1226552917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.43722,42.59016,18.43722,42.59016",
+    "geom:latitude":42.59016,
+    "geom:longitude":18.43722,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Skoznik",
+    "gn:country_code":"BA",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264231,
+    "gn:latitude":42.59016,
+    "gn:longitude":18.43722,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Skoznik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264231
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1c07b30724470d4289595840a3b11613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759265,
+            "locality_id":1226552917,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226552917,
+    "wof:lastmodified":1536986848,
+    "wof:name":"Skoznik",
+    "wof:parent_id":1108759265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43722,
+    42.59016,
+    18.43722,
+    42.59016
+],
+  "geometry": {"coordinates":[18.43722,42.59016],"type":"Point"}
+}

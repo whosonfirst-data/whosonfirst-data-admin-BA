@@ -1,0 +1,72 @@
+{
+  "id": 1343770957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38318,43.82693,18.38318,43.82693",
+    "geom:latitude":43.82693,
+    "geom:longitude":18.38318,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lukavica",
+    "gn:country_code":"BA",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3196069,
+    "gn:latitude":43.82693,
+    "gn:longitude":18.38318,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Lukavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Srpsko Sarajevo",
+        "Lukavica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196069,
+        "wk:page":"Lukavica_%28Isto%C4%8Dno_Novo_Sarajevo%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"03710705dd90631e89d29ee9db9c0a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759189,
+            "locality_id":1343770957,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343770957,
+    "wof:lastmodified":1537585584,
+    "wof:name":"Lukavica",
+    "wof:parent_id":1108759189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38318,
+    43.82693,
+    18.38318,
+    43.82693
+],
+  "geometry": {"coordinates":[18.38318,43.82693],"type":"Point"}
+}

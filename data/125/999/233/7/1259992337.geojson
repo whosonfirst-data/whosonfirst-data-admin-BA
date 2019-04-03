@@ -1,0 +1,67 @@
+{
+  "id": 1259992337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28987,45.06777,17.28987,45.06777",
+    "geom:latitude":45.06777,
+    "geom:longitude":17.28987,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Poljasi",
+    "gn:country_code":"BA",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284985,
+    "gn:latitude":45.06777,
+    "gn:longitude":17.28987,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Polja\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284985
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"250e4bae29858034bb833c02fe5018df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1259992337,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259992337,
+    "wof:lastmodified":1536620213,
+    "wof:name":"Poljasi",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28987,
+    45.06777,
+    17.28987,
+    45.06777
+],
+  "geometry": {"coordinates":[17.28987,45.06777],"type":"Point"}
+}

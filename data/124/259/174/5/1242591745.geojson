@@ -1,0 +1,67 @@
+{
+  "id": 1242591745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.563,44.01018,17.563,44.01018",
+    "geom:latitude":44.01018,
+    "geom:longitude":17.563,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Korici",
+    "gn:country_code":"BA",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292479,
+    "gn:latitude":44.01018,
+    "gn:longitude":17.563,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kori\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292479
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fbf67c3918822cfa8f73b34f5275b014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":1242591745,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242591745,
+    "wof:lastmodified":1537041433,
+    "wof:name":"Korici",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.563,
+    44.01018,
+    17.563,
+    44.01018
+],
+  "geometry": {"coordinates":[17.563,44.01018],"type":"Point"}
+}

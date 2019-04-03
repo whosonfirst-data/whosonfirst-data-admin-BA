@@ -1,0 +1,67 @@
+{
+  "id": 1327449301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98677,43.25447,17.98677,43.25447",
+    "geom:latitude":43.25447,
+    "geom:longitude":17.98677,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kucine",
+    "gn:country_code":"BA",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3262935,
+    "gn:latitude":43.25447,
+    "gn:longitude":17.98677,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ku\u0107ine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3262935
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1250baef5fdaef5fd2a4bd88e10c52ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1327449301,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1327449301,
+    "wof:lastmodified":1536656430,
+    "wof:name":"Kucine",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98677,
+    43.25447,
+    17.98677,
+    43.25447
+],
+  "geometry": {"coordinates":[17.98677,43.25447],"type":"Point"}
+}

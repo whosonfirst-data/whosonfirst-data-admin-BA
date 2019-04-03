@@ -1,0 +1,67 @@
+{
+  "id": 1360298213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.82492,45.16331,16.82492,45.16331",
+    "geom:latitude":45.16331,
+    "geom:longitude":16.82492,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kozarice",
+    "gn:country_code":"BA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285954,
+    "gn:latitude":45.16331,
+    "gn:longitude":16.82492,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kozarice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285954
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"db20ad8e0cdac108f3c243c856b3dc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1360298213,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360298213,
+    "wof:lastmodified":1536636929,
+    "wof:name":"Kozarice",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.82492,
+    45.16331,
+    16.82492,
+    45.16331
+],
+  "geometry": {"coordinates":[16.82492,45.16331],"type":"Point"}
+}

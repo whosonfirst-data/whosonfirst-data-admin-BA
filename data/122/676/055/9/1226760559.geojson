@@ -1,0 +1,67 @@
+{
+  "id": 1226760559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04773,44.20413,19.04773,44.20413",
+    "geom:latitude":44.20413,
+    "geom:longitude":19.04773,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Susici",
+    "gn:country_code":"BA",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3274867,
+    "gn:latitude":44.20413,
+    "gn:longitude":19.04773,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Su\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3274867
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"63ddb6a9c8f5692e1ec6b96e43c57a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759289,
+            "locality_id":1226760559,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226760559,
+    "wof:lastmodified":1536694373,
+    "wof:name":"Susici",
+    "wof:parent_id":1108759289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04773,
+    44.20413,
+    19.04773,
+    44.20413
+],
+  "geometry": {"coordinates":[19.04773,44.20413],"type":"Point"}
+}

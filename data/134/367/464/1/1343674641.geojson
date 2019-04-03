@@ -1,0 +1,67 @@
+{
+  "id": 1343674641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.41595,43.58857,19.41595,43.58857",
+    "geom:latitude":43.58857,
+    "geom:longitude":19.41595,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ustibar",
+    "gn:country_code":"BA",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188460,
+    "gn:latitude":43.58857,
+    "gn:longitude":19.41595,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ustibar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188460
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bc17d7b47a94c9681b2d9d6f220b384a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759217,
+            "locality_id":1343674641,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343674641,
+    "wof:lastmodified":1536935296,
+    "wof:name":"Ustibar",
+    "wof:parent_id":1108759217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.41595,
+    43.58857,
+    19.41595,
+    43.58857
+],
+  "geometry": {"coordinates":[19.41595,43.58857],"type":"Point"}
+}

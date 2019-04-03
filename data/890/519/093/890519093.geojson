@@ -1,0 +1,97 @@
+{
+  "id": 890519093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67668,45.10548,16.67668,45.10548",
+    "geom:latitude":45.10548,
+    "geom:longitude":16.67668,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4792,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Kne\u017eica"
+    ],
+    "name:dut_x_preferred":[
+        "Kne\u017eica"
+    ],
+    "name:eng_x_preferred":[
+        "Kne\u017eica"
+    ],
+    "name:fre_x_preferred":[
+        "Kne\u017eica"
+    ],
+    "name:hrv_x_preferred":[
+        "Kne\u017eica"
+    ],
+    "name:slv_x_preferred":[
+        "Kne\u017eica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043d\u0435\u0436\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kne\u017eica"
+    ],
+    "qs:name":"Kne\u017eica",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211929,
+        "gp:id":942342,
+        "qs:id":1283499,
+        "wd:id":"Q3118091",
+        "wk:page":"Kne\u017eica"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056091,
+    "wof:geomhash":"f853d24f69bb94c0f0be49a1aaafb19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":890519093,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890519093,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Kne\u017eica",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:population":4792,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67668,
+    45.10548,
+    16.67668,
+    45.10548
+],
+  "geometry": {"coordinates":[16.67668,45.10548],"type":"Point"}
+}

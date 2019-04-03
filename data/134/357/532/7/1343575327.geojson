@@ -1,0 +1,67 @@
+{
+  "id": 1343575327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65951,44.79378,16.65951,44.79378",
+    "geom:latitude":44.79378,
+    "geom:longitude":16.65951,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brlog",
+    "gn:country_code":"BA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3249629,
+    "gn:latitude":44.79378,
+    "gn:longitude":16.65951,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Brlog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3249629
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"24ac243094d3222d06a4250f9e0d7934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759219,
+            "locality_id":1343575327,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1343575327,
+    "wof:lastmodified":1537074846,
+    "wof:name":"Brlog",
+    "wof:parent_id":1108759219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65951,
+    44.79378,
+    16.65951,
+    44.79378
+],
+  "geometry": {"coordinates":[16.65951,44.79378],"type":"Point"}
+}

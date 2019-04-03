@@ -1,0 +1,71 @@
+{
+  "id": 1343569965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69977,43.53562,18.69977,43.53562",
+    "geom:latitude":43.53562,
+    "geom:longitude":18.69977,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Danicici",
+    "gn:country_code":"BA",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3267856,
+    "gn:latitude":43.53562,
+    "gn:longitude":18.69977,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Dani\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dani\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267856,
+        "wk:page":"Dani%C4%8Di%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e8a1ebfa2af349763f9cf116f1aa7a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1343569965,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343569965,
+    "wof:lastmodified":1537585668,
+    "wof:name":"Danicici",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69977,
+    43.53562,
+    18.69977,
+    43.53562
+],
+  "geometry": {"coordinates":[18.69977,43.53562],"type":"Point"}
+}

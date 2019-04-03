@@ -1,0 +1,67 @@
+{
+  "id": 1259392285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05028,44.99917,16.05028,44.99917",
+    "geom:latitude":44.99917,
+    "geom:longitude":16.05028,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Emrici",
+    "gn:country_code":"BA",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260861,
+    "gn:latitude":44.99917,
+    "gn:longitude":16.05028,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Emri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260861
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c54f5f979ffa04d7df2d7f517ba9aad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759003,
+            "locality_id":1259392285,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1259392285,
+    "wof:lastmodified":1536988653,
+    "wof:name":"Emrici",
+    "wof:parent_id":1108759003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05027999999999,
+    44.99917,
+    16.05027999999999,
+    44.99917
+],
+  "geometry": {"coordinates":[16.05027999999999,44.99917],"type":"Point"}
+}

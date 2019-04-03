@@ -1,0 +1,61 @@
+{
+  "id": 1209114841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0312,43.86881,19.0312,43.86881",
+    "geom:latitude":43.86881,
+    "geom:longitude":19.0312,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Terzici",
+    "gn:country_code":"BA",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269114,
+    "gn:latitude":43.86881,
+    "gn:longitude":19.0312,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Terzi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269114
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cb2bff4b1ffcd2cc633c2326922981a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209114841
+        }
+    ],
+    "wof:id":1209114841,
+    "wof:lastmodified":1536297288,
+    "wof:name":"Terzici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0312,
+    43.86881,
+    19.0312,
+    43.86881
+],
+  "geometry": {"coordinates":[19.0312,43.86881],"type":"Point"}
+}

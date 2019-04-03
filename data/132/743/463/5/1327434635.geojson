@@ -1,0 +1,72 @@
+{
+  "id": 1327434635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00453,45.11803,18.00453,45.11803",
+    "geom:latitude":45.11803,
+    "geom:longitude":18.00453,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donja Mocila",
+    "gn:country_code":"BA",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194957,
+    "gn:latitude":45.11803,
+    "gn:longitude":18.00453,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donja Mo\u010dila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u010dila Donja",
+        "Donja Mo\u010dila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194957,
+        "wk:page":"Donja_Mo%C4%8Dila"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f7e81e4c4a4ec31c9a7ad6c38e07373e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759009,
+            "locality_id":1327434635,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327434635,
+    "wof:lastmodified":1537585580,
+    "wof:name":"Donja Mocila",
+    "wof:parent_id":1108759009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00453,
+    45.11803,
+    18.00453,
+    45.11803
+],
+  "geometry": {"coordinates":[18.00453,45.11803],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 890518655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85217,45.13443,15.85217,45.13443",
+    "geom:latitude":45.13443,
+    "geom:longitude":15.85217,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":6033,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Malla Klladusha"
+    ],
+    "name:bos_x_preferred":[
+        "Mala Kladu\u0161a"
+    ],
+    "name:dut_x_preferred":[
+        "\u200eMala Kladu\u0161a"
+    ],
+    "name:eng_x_preferred":[
+        "Mala Kladu\u0161a"
+    ],
+    "name:fre_x_preferred":[
+        "Mala Kladu\u0161a"
+    ],
+    "name:hrv_x_preferred":[
+        "Mala Kladu\u0161a"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u041a\u043b\u0430\u0434\u0443\u0448\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mala Kladu\u0161a"
+    ],
+    "qs:name":"Mala Kladu\u0161a",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":808,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195839,
+        "qs:id":1044025,
+        "wd:id":"Q3281109",
+        "wk:page":"Velika Kladu\u0161a"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056074,
+    "wof:geomhash":"75c91f2f6936f6f659754b3940a859f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":890518655,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890518655,
+    "wof:lastmodified":1527751237,
+    "wof:name":"Mala Kladu\u0161a",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:population":6033,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85217,
+    45.13443,
+    15.85217,
+    45.13443
+],
+  "geometry": {"coordinates":[15.85217,45.13443],"type":"Point"}
+}

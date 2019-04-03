@@ -1,0 +1,67 @@
+{
+  "id": 1259897651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67,42.91722,17.67,42.91722",
+    "geom:latitude":42.91722,
+    "geom:longitude":17.67,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Duzi",
+    "gn:country_code":"BA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200925,
+    "gn:latitude":42.91722,
+    "gn:longitude":17.67,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Du\u017ei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200925
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ce2b2c2a3a954eeb89edc97210434395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759177,
+            "locality_id":1259897651,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1259897651,
+    "wof:lastmodified":1536758863,
+    "wof:name":"Duzi",
+    "wof:parent_id":1108759177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67,
+    42.91722,
+    17.67,
+    42.91722
+],
+  "geometry": {"coordinates":[17.67,42.91722],"type":"Point"}
+}

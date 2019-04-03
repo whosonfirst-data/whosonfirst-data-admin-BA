@@ -1,0 +1,67 @@
+{
+  "id": 1292907433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53083,43.78111,17.53083,43.78111",
+    "geom:latitude":43.78111,
+    "geom:longitude":17.53083,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Podonis",
+    "gn:country_code":"BA",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291859,
+    "gn:latitude":43.78111,
+    "gn:longitude":17.53083,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Podoni\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291859
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3d6cb4e9e8275cf5e1326496eaa4401a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1292907433,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1292907433,
+    "wof:lastmodified":1536627383,
+    "wof:name":"Podonis",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53083,
+    43.78111,
+    17.53083,
+    43.78111
+],
+  "geometry": {"coordinates":[17.53083,43.78111],"type":"Point"}
+}

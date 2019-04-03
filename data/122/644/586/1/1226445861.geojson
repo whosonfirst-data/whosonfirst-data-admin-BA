@@ -1,0 +1,67 @@
+{
+  "id": 1226445861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05031,44.25279,17.05031,44.25279",
+    "geom:latitude":44.25279,
+    "geom:longitude":17.05031,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vujkovici",
+    "gn:country_code":"BA",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3262336,
+    "gn:latitude":44.25279,
+    "gn:longitude":17.05031,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vujkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3262336
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dca22de877afd68099fe905e498c1120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1226445861,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226445861,
+    "wof:lastmodified":1536644683,
+    "wof:name":"Vujkovici",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05031,
+    44.25279000000001,
+    17.05031,
+    44.25279000000001
+],
+  "geometry": {"coordinates":[17.05031,44.25279000000001],"type":"Point"}
+}

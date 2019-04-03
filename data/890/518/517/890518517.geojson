@@ -1,0 +1,95 @@
+{
+  "id": 890518517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.23933,44.68966,19.23933,44.68966",
+    "geom:latitude":44.68966,
+    "geom:longitude":19.23933,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":863,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Koj\u010dinovac"
+    ],
+    "name:dut_x_preferred":[
+        "Koj\u010dinovac"
+    ],
+    "name:eng_x_preferred":[
+        "Koj\u010dinovac"
+    ],
+    "name:fre_x_preferred":[
+        "Koj\u010dinovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Koj\u010dinovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0439\u0447\u0438\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Koj\u010dinovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0458\u0447\u0438\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Koj\u010dinovac"
+    ],
+    "qs:name":"Koj\u010dinovac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197926,
+        "qs:id":95115,
+        "wd:id":"Q3113608",
+        "wk:page":"Koj\u010dinovac"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056068,
+    "wof:geomhash":"1b4624872124105e1d7b722a97a1f074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":890518517,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518517,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Koj\u010dinovac",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:population":863,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.23933,
+    44.68966,
+    19.23933,
+    44.68966
+],
+  "geometry": {"coordinates":[19.23933,44.68966],"type":"Point"}
+}

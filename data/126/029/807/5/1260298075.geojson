@@ -1,0 +1,67 @@
+{
+  "id": 1260298075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18702,44.21729,19.18702,44.21729",
+    "geom:latitude":44.21729,
+    "geom:longitude":19.18702,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Delijani",
+    "gn:country_code":"BA",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275589,
+    "gn:latitude":44.21729,
+    "gn:longitude":19.18702,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Delijani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275589
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b0ee4a31ff95dd3e23a560352a94d5ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759021,
+            "locality_id":1260298075,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260298075,
+    "wof:lastmodified":1536692482,
+    "wof:name":"Delijani",
+    "wof:parent_id":1108759021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18702,
+    44.21729000000001,
+    19.18702,
+    44.21729000000001
+],
+  "geometry": {"coordinates":[19.18702,44.21729000000001],"type":"Point"}
+}

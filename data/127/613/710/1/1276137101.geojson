@@ -1,0 +1,67 @@
+{
+  "id": 1276137101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66095,43.16238,17.66095,43.16238",
+    "geom:latitude":43.16238,
+    "geom:longitude":17.66095,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bitunjani",
+    "gn:country_code":"BA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288451,
+    "gn:latitude":43.16238,
+    "gn:longitude":17.66095,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bitunjani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288451
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"60b6f749f68e63802f6818d413d233b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759037,
+            "locality_id":1276137101,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1276137101,
+    "wof:lastmodified":1537039879,
+    "wof:name":"Bitunjani",
+    "wof:parent_id":1108759037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66095,
+    43.16238,
+    17.66095,
+    43.16238
+],
+  "geometry": {"coordinates":[17.66095,43.16238],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243186115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98445,44.16558,17.98445,44.16558",
+    "geom:latitude":44.16558,
+    "geom:longitude":17.98445,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tisina",
+    "gn:country_code":"BA",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189100,
+    "gn:latitude":44.16558,
+    "gn:longitude":17.98445,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ti\u0161ina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189100
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7b36ea5bb11c5f0e929639b4ec73ca17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1243186115,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1243186115,
+    "wof:lastmodified":1536683725,
+    "wof:name":"Tisina",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98445,
+    44.16558,
+    17.98445,
+    44.16558
+],
+  "geometry": {"coordinates":[17.98445,44.16558],"type":"Point"}
+}

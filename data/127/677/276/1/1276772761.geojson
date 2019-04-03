@@ -1,0 +1,71 @@
+{
+  "id": 1276772761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51114,44.03574,17.51114,44.03574",
+    "geom:latitude":44.03574,
+    "geom:longitude":17.51114,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hapstici",
+    "gn:country_code":"BA",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199416,
+    "gn:latitude":44.03574,
+    "gn:longitude":17.51114,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Hapsti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hapsti\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199416,
+        "wk:page":"Hapsti%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"886879bdb8b33c4706dfb8e111daf6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759029,
+            "locality_id":1276772761,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1276772761,
+    "wof:lastmodified":1537585597,
+    "wof:name":"Hapstici",
+    "wof:parent_id":1108759029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51114,
+    44.03574,
+    17.51114,
+    44.03574
+],
+  "geometry": {"coordinates":[17.51114,44.03574],"type":"Point"}
+}

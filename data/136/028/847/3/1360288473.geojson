@@ -1,0 +1,67 @@
+{
+  "id": 1360288473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.74556,43.5725,18.74556,43.5725",
+    "geom:latitude":43.5725,
+    "geom:longitude":18.74556,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ulinje",
+    "gn:country_code":"BA",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273118,
+    "gn:latitude":43.5725,
+    "gn:longitude":18.74556,
+    "gn:modification_date":"1998-06-04",
+    "gn:name":"Ulinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273118
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"af13ca28151ba189d616a0e93e383501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1360288473,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360288473,
+    "wof:lastmodified":1536652044,
+    "wof:name":"Ulinje",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.74556,
+    43.5725,
+    18.74556,
+    43.5725
+],
+  "geometry": {"coordinates":[18.74556,43.5725],"type":"Point"}
+}

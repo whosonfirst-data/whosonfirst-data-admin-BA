@@ -1,0 +1,72 @@
+{
+  "id": 1226251489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25618,43.06138,18.25618,43.06138",
+    "geom:latitude":43.06138,
+    "geom:longitude":18.25618,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bijeljani",
+    "gn:country_code":"BA",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204188,
+    "gn:latitude":43.06138,
+    "gn:longitude":18.25618,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bijeljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bjeljani",
+        "Bijeljani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204188,
+        "wk:page":"Bijeljani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1608ff6b59eb95d26cdde6a95f40e10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758997,
+            "locality_id":1226251489,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226251489,
+    "wof:lastmodified":1537585627,
+    "wof:name":"Bijeljani",
+    "wof:parent_id":1108758997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25618,
+    43.06138,
+    18.25618,
+    43.06138
+],
+  "geometry": {"coordinates":[18.25618,43.06138],"type":"Point"}
+}

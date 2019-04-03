@@ -1,0 +1,68 @@
+{
+  "id": 1310219313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33152,44.16849,17.33152,44.16849",
+    "geom:latitude":44.16849,
+    "geom:longitude":17.33152,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rasavci",
+    "gn:country_code":"BA",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3191958,
+    "gn:latitude":44.16849,
+    "gn:longitude":17.33152,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Rasavci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191958,
+        "wk:page":"Rasavci%2C_Donji_Vakuf"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e4234dfd3d7587c184deec18b108e0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759065,
+            "locality_id":1310219313,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1310219313,
+    "wof:lastmodified":1537486731,
+    "wof:name":"Rasavci",
+    "wof:parent_id":1108759065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33152,
+    44.16849000000001,
+    17.33152,
+    44.16849000000001
+],
+  "geometry": {"coordinates":[17.33152,44.16849000000001],"type":"Point"}
+}

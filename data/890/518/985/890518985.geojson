@@ -1,0 +1,67 @@
+{
+  "id": 890518985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.847732,44.300817,18.847732,44.300817",
+    "geom:latitude":44.300817,
+    "geom:longitude":18.847732,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sejkovici",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":943858,
+        "qs:id":989300
+    },
+    "wof:country":"BA",
+    "wof:created":1469056087,
+    "wof:geomhash":"233af19768632d345bc099f7d0b597a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759227,
+            "locality_id":890518985,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518985,
+    "wof:lastmodified":1500036172,
+    "wof:name":"Sejkovici",
+    "wof:parent_id":1108759227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.847732,
+    44.300817,
+    18.847732,
+    44.300817
+],
+  "geometry": {"coordinates":[18.847732,44.300817],"type":"Point"}
+}

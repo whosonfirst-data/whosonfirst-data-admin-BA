@@ -1,0 +1,71 @@
+{
+  "id": 1326544097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89997,43.95436,17.89997,43.95436",
+    "geom:latitude":43.95436,
+    "geom:longitude":17.89997,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Selakovici",
+    "gn:country_code":"BA",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290186,
+    "gn:latitude":43.95436,
+    "gn:longitude":17.89997,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Selakovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Selakovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290186,
+        "wk:page":"Selakovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b6489a7f3f36ab94260ff5190a1c006d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1326544097,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1326544097,
+    "wof:lastmodified":1537585676,
+    "wof:name":"Selakovici",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89997,
+    43.95436,
+    17.89997,
+    43.95436
+],
+  "geometry": {"coordinates":[17.89997,43.95436],"type":"Point"}
+}

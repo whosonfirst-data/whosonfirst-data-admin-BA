@@ -1,0 +1,67 @@
+{
+  "id": 1242878275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67617,44.54813,18.67617,44.54813",
+    "geom:latitude":44.54813,
+    "geom:longitude":18.67617,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kojsino",
+    "gn:country_code":"BA",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260158,
+    "gn:latitude":44.54813,
+    "gn:longitude":18.67617,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Koj\u0161ino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260158
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d7e51f3ded6d929559068be94a155498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1242878275,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1242878275,
+    "wof:lastmodified":1536628854,
+    "wof:name":"Kojsino",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67617000000001,
+    44.54813,
+    18.67617000000001,
+    44.54813
+],
+  "geometry": {"coordinates":[18.67617000000001,44.54813],"type":"Point"}
+}

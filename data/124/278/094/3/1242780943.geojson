@@ -1,0 +1,67 @@
+{
+  "id": 1242780943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08635,44.92265,17.08635,44.92265",
+    "geom:latitude":44.92265,
+    "geom:longitude":17.08635,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dvorani",
+    "gn:country_code":"BA",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251642,
+    "gn:latitude":44.92265,
+    "gn:longitude":17.08635,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Dvorani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251642
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"96ddd96b14b84fc862a69ed3a728e8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1242780943,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242780943,
+    "wof:lastmodified":1536771284,
+    "wof:name":"Dvorani",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08635,
+    44.92265,
+    17.08635,
+    44.92265
+],
+  "geometry": {"coordinates":[17.08635,44.92265],"type":"Point"}
+}

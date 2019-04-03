@@ -1,0 +1,67 @@
+{
+  "id": 1310618867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23806,44.44361,16.23806,44.44361",
+    "geom:latitude":44.44361,
+    "geom:longitude":16.23806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Podgajcani",
+    "gn:country_code":"BA",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257741,
+    "gn:latitude":44.44361,
+    "gn:longitude":16.23806,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Podgaj\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257741
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"34aca967ae3547ea57422e720777c647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1310618867,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1310618867,
+    "wof:lastmodified":1536753396,
+    "wof:name":"Podgajcani",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23806,
+    44.44361,
+    16.23806,
+    44.44361
+],
+  "geometry": {"coordinates":[16.23806,44.44361],"type":"Point"}
+}

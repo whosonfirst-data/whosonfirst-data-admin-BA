@@ -1,0 +1,67 @@
+{
+  "id": 1360087967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48389,43.84278,18.48389,43.84278",
+    "geom:latitude":43.84278,
+    "geom:longitude":18.48389,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Celjigovici",
+    "gn:country_code":"BA",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267561,
+    "gn:latitude":43.84278,
+    "gn:longitude":18.48389,
+    "gn:modification_date":"1998-05-27",
+    "gn:name":"Celjigovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267561
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"608b8e17d0e4978e73c0244ad174cf5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759247,
+            "locality_id":1360087967,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360087967,
+    "wof:lastmodified":1536942057,
+    "wof:name":"Celjigovici",
+    "wof:parent_id":1108759247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48389,
+    43.84278,
+    18.48389,
+    43.84278
+],
+  "geometry": {"coordinates":[18.48389,43.84278],"type":"Point"}
+}

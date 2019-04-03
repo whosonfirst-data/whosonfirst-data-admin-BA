@@ -1,0 +1,67 @@
+{
+  "id": 1310009131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.39809,44.50888,17.39809,44.50888",
+    "geom:latitude":44.50888,
+    "geom:longitude":17.39809,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bencuzi",
+    "gn:country_code":"BA",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251108,
+    "gn:latitude":44.50888,
+    "gn:longitude":17.39809,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bencuzi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251108
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"980b26bbd0b4b9c444aaf10fa6797253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759233,
+            "locality_id":1310009131,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310009131,
+    "wof:lastmodified":1536636875,
+    "wof:name":"Bencuzi",
+    "wof:parent_id":1108759233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39809,
+    44.50888,
+    17.39809,
+    44.50888
+],
+  "geometry": {"coordinates":[17.39809,44.50888],"type":"Point"}
+}

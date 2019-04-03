@@ -1,0 +1,71 @@
+{
+  "id": 1344166585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55352,44.33892,16.55352,44.33892",
+    "geom:latitude":44.33892,
+    "geom:longitude":16.55352,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Marceta",
+    "gn:country_code":"BA",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210600,
+    "gn:latitude":44.33892,
+    "gn:longitude":16.55352,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mar\u010deta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u010dete",
+        "Mar\u010deta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210600
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a92a5a3aea1b66584e1097c133d64abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759067,
+            "locality_id":1344166585,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1344166585,
+    "wof:lastmodified":1537585640,
+    "wof:name":"Marceta",
+    "wof:parent_id":1108759067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55352,
+    44.33892,
+    16.55352,
+    44.33892
+],
+  "geometry": {"coordinates":[16.55352,44.33892],"type":"Point"}
+}

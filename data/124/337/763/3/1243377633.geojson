@@ -1,0 +1,67 @@
+{
+  "id": 1243377633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0774,44.61993,18.0774,44.61993",
+    "geom:latitude":44.61993,
+    "geom:longitude":18.0774,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kosova",
+    "gn:country_code":"BA",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197601,
+    "gn:latitude":44.61993,
+    "gn:longitude":18.0774,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kosova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197601
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a4cd4ae6e9efeecbf333a4d768c7e7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1243377633,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1243377633,
+    "wof:lastmodified":1536904930,
+    "wof:name":"Kosova",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0774,
+    44.61993,
+    18.0774,
+    44.61993
+],
+  "geometry": {"coordinates":[18.0774,44.61993],"type":"Point"}
+}

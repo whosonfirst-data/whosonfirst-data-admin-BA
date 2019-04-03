@@ -1,0 +1,67 @@
+{
+  "id": 1327044189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29027,44.46358,18.29027,44.46358",
+    "geom:latitude":44.46358,
+    "geom:longitude":18.29027,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bozici",
+    "gn:country_code":"BA",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257336,
+    "gn:latitude":44.46358,
+    "gn:longitude":18.29027,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bo\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257336
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"07e63e07e42a3c0561bd2d3b67481b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1327044189,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1327044189,
+    "wof:lastmodified":1536743105,
+    "wof:name":"Bozici",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29027,
+    44.46358,
+    18.29027,
+    44.46358
+],
+  "geometry": {"coordinates":[18.29027,44.46358],"type":"Point"}
+}

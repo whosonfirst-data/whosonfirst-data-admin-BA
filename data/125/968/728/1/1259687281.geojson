@@ -1,0 +1,68 @@
+{
+  "id": 1259687281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83476,44.80363,17.83476,44.80363",
+    "geom:latitude":44.80363,
+    "geom:longitude":17.83476,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"3294894.0",
+    "gn:asciiname":"Tutnjevici",
+    "gn:country_code":"BA",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252014,
+    "gn:latitude":44.80363,
+    "gn:longitude":17.83476,
+    "gn:modification_date":"2013-12-07",
+    "gn:name":"Tutnjevici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252014
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0c90e42f2ce063f7312515843b49b051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1259687281,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259687281,
+    "wof:lastmodified":1537058935,
+    "wof:name":"Tutnjevici",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83476,
+    44.80363,
+    17.83476,
+    44.80363
+],
+  "geometry": {"coordinates":[17.83476,44.80363],"type":"Point"}
+}

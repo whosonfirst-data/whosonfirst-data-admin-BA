@@ -1,0 +1,71 @@
+{
+  "id": 1360197303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93374,43.54849,18.93374,43.54849",
+    "geom:latitude":43.54849,
+    "geom:longitude":18.93374,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ladevci",
+    "gn:country_code":"BA",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271761,
+    "gn:latitude":43.54849,
+    "gn:longitude":18.93374,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"La\u0111evci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u0111evci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271761,
+        "wk:page":"La%C4%91evci_%28%C4%8Cajni%C4%8De%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"59e310290d8e62c08737ee50ea9edd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1360197303,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360197303,
+    "wof:lastmodified":1537585671,
+    "wof:name":"Ladevci",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93374,
+    43.54849,
+    18.93374,
+    43.54849
+],
+  "geometry": {"coordinates":[18.93374,43.54849],"type":"Point"}
+}

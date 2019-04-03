@@ -1,0 +1,71 @@
+{
+  "id": 1259587241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39288,44.77835,18.39288,44.77835",
+    "geom:latitude":44.77835,
+    "geom:longitude":18.39288,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dzakule",
+    "gn:country_code":"BA",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210912,
+    "gn:latitude":44.77835,
+    "gn:longitude":18.39288,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"D\u017eakule",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u017eakule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210912,
+        "wk:page":"D%C5%BEakule"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"74bbed5ee0adf7bcc8e5e3933bcaae2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1259587241,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1259587241,
+    "wof:lastmodified":1537585643,
+    "wof:name":"Dzakule",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39288,
+    44.77835,
+    18.39288,
+    44.77835
+],
+  "geometry": {"coordinates":[18.39288,44.77835],"type":"Point"}
+}

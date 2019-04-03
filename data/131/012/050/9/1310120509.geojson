@@ -1,0 +1,67 @@
+{
+  "id": 1310120509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70212,44.3237,18.70212,44.3237",
+    "geom:latitude":44.3237,
+    "geom:longitude":18.70212,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mladez",
+    "gn:country_code":"BA",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3244926,
+    "gn:latitude":44.3237,
+    "gn:longitude":18.70212,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mlade\u017e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3244926
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d414c6c07331190e341fa9c8d0c16990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759129,
+            "locality_id":1310120509,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310120509,
+    "wof:lastmodified":1536974287,
+    "wof:name":"Mladez",
+    "wof:parent_id":1108759129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70212,
+    44.3237,
+    18.70212,
+    44.3237
+],
+  "geometry": {"coordinates":[18.70212,44.3237],"type":"Point"}
+}

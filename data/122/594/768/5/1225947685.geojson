@@ -1,0 +1,68 @@
+{
+  "id": 1225947685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10994,44.69104,19.10994,44.69104",
+    "geom:latitude":44.69104,
+    "geom:longitude":19.10994,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Suho Polje",
+    "gn:country_code":"BA",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3189545,
+    "gn:latitude":44.69104,
+    "gn:longitude":19.10994,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Suho Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189545,
+        "wk:page":"Suho_Polje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"15b6d76979168bf02df62ef9881fdef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1225947685,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225947685,
+    "wof:lastmodified":1537486720,
+    "wof:name":"Suho Polje",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10994,
+    44.69104,
+    19.10994,
+    44.69104
+],
+  "geometry": {"coordinates":[19.10994,44.69104],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243080737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9248,44.74634,18.9248,44.74634",
+    "geom:latitude":44.74634,
+    "geom:longitude":18.9248,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bobetino Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203893,
+    "gn:latitude":44.74634,
+    "gn:longitude":18.9248,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bobetino Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babetino Brdo",
+        "Bobetino Brdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203893
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"145b1ec8b596dd8f93b61f7658417879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759159,
+            "locality_id":1243080737,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243080737,
+    "wof:lastmodified":1537585625,
+    "wof:name":"Bobetino Brdo",
+    "wof:parent_id":1108759159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9248,
+    44.74634,
+    18.9248,
+    44.74634
+],
+  "geometry": {"coordinates":[18.9248,44.74634],"type":"Point"}
+}

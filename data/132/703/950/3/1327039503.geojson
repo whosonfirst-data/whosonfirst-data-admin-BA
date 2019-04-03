@@ -1,0 +1,67 @@
+{
+  "id": 1327039503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89389,45.02444,15.89389,45.02444",
+    "geom:latitude":45.02444,
+    "geom:longitude":15.89389,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sanac Brijeg",
+    "gn:country_code":"BA",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277991,
+    "gn:latitude":45.02444,
+    "gn:longitude":15.89389,
+    "gn:modification_date":"1998-01-08",
+    "gn:name":"\u0160anac Brijeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277991
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ef2c9360e323f226a77766cc481a9780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1327039503,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1327039503,
+    "wof:lastmodified":1536749954,
+    "wof:name":"Sanac Brijeg",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89389,
+    45.02444000000001,
+    15.89389,
+    45.02444000000001
+],
+  "geometry": {"coordinates":[15.89389,45.02444000000001],"type":"Point"}
+}

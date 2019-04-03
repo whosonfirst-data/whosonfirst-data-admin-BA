@@ -1,0 +1,67 @@
+{
+  "id": 1310615281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0228,44.63839,18.0228,44.63839",
+    "geom:latitude":44.63839,
+    "geom:longitude":18.0228,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Salkovici",
+    "gn:country_code":"BA",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254831,
+    "gn:latitude":44.63839,
+    "gn:longitude":18.0228,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Salkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254831
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"147a54574dd906558fa54e3e33fc3574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759255,
+            "locality_id":1310615281,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1310615281,
+    "wof:lastmodified":1536758654,
+    "wof:name":"Salkovici",
+    "wof:parent_id":1108759255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0228,
+    44.63839,
+    18.0228,
+    44.63839
+],
+  "geometry": {"coordinates":[18.0228,44.63839],"type":"Point"}
+}

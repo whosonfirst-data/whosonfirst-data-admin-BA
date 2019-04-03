@@ -1,0 +1,67 @@
+{
+  "id": 1343679521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77667,44.92194,15.77667,44.92194",
+    "geom:latitude":44.92194,
+    "geom:longitude":15.77667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dubaj",
+    "gn:country_code":"BA",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212305,
+    "gn:latitude":44.92194,
+    "gn:longitude":15.77667,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Dubaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212305
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6e9a26d782dd0894dc3754904134a072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1343679521,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1343679521,
+    "wof:lastmodified":1536928281,
+    "wof:name":"Dubaj",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77667,
+    44.92194,
+    15.77667,
+    44.92194
+],
+  "geometry": {"coordinates":[15.77667,44.92194],"type":"Point"}
+}

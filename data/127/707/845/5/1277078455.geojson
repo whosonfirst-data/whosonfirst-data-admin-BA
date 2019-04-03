@@ -1,0 +1,67 @@
+{
+  "id": 1277078455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81337,43.13554,17.81337,43.13554",
+    "geom:latitude":43.13554,
+    "geom:longitude":17.81337,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Potkosa",
+    "gn:country_code":"BA",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261943,
+    "gn:latitude":43.13554,
+    "gn:longitude":17.81337,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Potkosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261943
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e22b4ba0fbf5d4111afb281924b4c99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759037,
+            "locality_id":1277078455,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1277078455,
+    "wof:lastmodified":1536774409,
+    "wof:name":"Potkosa",
+    "wof:parent_id":1108759037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81337000000001,
+    43.13554,
+    17.81337000000001,
+    43.13554
+],
+  "geometry": {"coordinates":[17.81337000000001,43.13554],"type":"Point"}
+}

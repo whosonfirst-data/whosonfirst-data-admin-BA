@@ -1,0 +1,67 @@
+{
+  "id": 1292921337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35647,43.46775,17.35647,43.46775",
+    "geom:latitude":43.46775,
+    "geom:longitude":17.35647,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cuture",
+    "gn:country_code":"BA",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284046,
+    "gn:latitude":43.46775,
+    "gn:longitude":17.35647,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u010cuture",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284046
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0d94a8e25e6c31a17bf0cfa56dc916bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1292921337,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1292921337,
+    "wof:lastmodified":1536606188,
+    "wof:name":"Cuture",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35647,
+    43.46775,
+    17.35647,
+    43.46775
+],
+  "geometry": {"coordinates":[17.35647,43.46775],"type":"Point"}
+}

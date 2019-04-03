@@ -1,0 +1,72 @@
+{
+  "id": 1259600929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99669,43.80978,16.99669,43.80978",
+    "geom:latitude":43.80978,
+    "geom:longitude":16.99669,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zabljak",
+    "gn:country_code":"BA",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186998,
+    "gn:latitude":43.80978,
+    "gn:longitude":16.99669,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u017dabljak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donji \u017dabljak",
+        "\u017dabljak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186998,
+        "wk:page":"%C5%BDabljak_%28Livno%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9b269847a0785b9cdc2208a067fcd38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1259600929,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1259600929,
+    "wof:lastmodified":1537585549,
+    "wof:name":"Zabljak",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99669,
+    43.80978,
+    16.99669,
+    43.80978
+],
+  "geometry": {"coordinates":[16.99669,43.80978],"type":"Point"}
+}

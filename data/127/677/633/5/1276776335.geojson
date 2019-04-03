@@ -1,0 +1,67 @@
+{
+  "id": 1276776335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94796,44.16336,18.94796,44.16336",
+    "geom:latitude":44.16336,
+    "geom:longitude":18.94796,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tugovo",
+    "gn:country_code":"BA",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204896,
+    "gn:latitude":44.16336,
+    "gn:longitude":18.94796,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tugovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204896
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6d5c8080c41f6afec06051559c713cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759289,
+            "locality_id":1276776335,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276776335,
+    "wof:lastmodified":1536682127,
+    "wof:name":"Tugovo",
+    "wof:parent_id":1108759289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94796,
+    44.16336,
+    18.94796,
+    44.16336
+],
+  "geometry": {"coordinates":[18.94796,44.16336],"type":"Point"}
+}

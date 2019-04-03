@@ -1,0 +1,67 @@
+{
+  "id": 1276875897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90932,44.66199,16.90932,44.66199",
+    "geom:latitude":44.66199,
+    "geom:longitude":16.90932,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pantelici",
+    "gn:country_code":"BA",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247341,
+    "gn:latitude":44.66199,
+    "gn:longitude":16.90932,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Panteli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247341
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"aeeec08a819e5218486ed53e2cc8c0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759223,
+            "locality_id":1276875897,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276875897,
+    "wof:lastmodified":1537044596,
+    "wof:name":"Pantelici",
+    "wof:parent_id":1108759223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90932,
+    44.66199,
+    16.90932,
+    44.66199
+],
+  "geometry": {"coordinates":[16.90932,44.66199],"type":"Point"}
+}

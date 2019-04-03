@@ -1,0 +1,67 @@
+{
+  "id": 1360299491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18782,44.52653,18.18782,44.52653",
+    "geom:latitude":44.52653,
+    "geom:longitude":18.18782,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Keresi",
+    "gn:country_code":"BA",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260475,
+    "gn:latitude":44.52653,
+    "gn:longitude":18.18782,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kere\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260475
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"05f170af02c06dd94e5dbe0de25422cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1360299491,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1360299491,
+    "wof:lastmodified":1536634959,
+    "wof:name":"Keresi",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18782,
+    44.52653,
+    18.18782,
+    44.52653
+],
+  "geometry": {"coordinates":[18.18782,44.52653],"type":"Point"}
+}

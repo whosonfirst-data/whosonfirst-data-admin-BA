@@ -1,0 +1,71 @@
+{
+  "id": 1242795373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89488,44.25671,17.89488,44.25671",
+    "geom:latitude":44.25671,
+    "geom:longitude":17.89488,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Vraca",
+    "gn:country_code":"BA",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201594,
+    "gn:latitude":44.25671,
+    "gn:longitude":17.89488,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donja Vraca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vra\u010da",
+        "Donja Vraca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201594
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1328a21059041bf42616814430e11a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1242795373,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1242795373,
+    "wof:lastmodified":1537585612,
+    "wof:name":"Donja Vraca",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89488,
+    44.25671,
+    17.89488,
+    44.25671
+],
+  "geometry": {"coordinates":[17.89488,44.25671],"type":"Point"}
+}

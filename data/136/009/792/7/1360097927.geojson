@@ -1,0 +1,67 @@
+{
+  "id": 1360097927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14274,44.4304,17.14274,44.4304",
+    "geom:latitude":44.4304,
+    "geom:longitude":17.14274,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bjelajci",
+    "gn:country_code":"BA",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210500,
+    "gn:latitude":44.4304,
+    "gn:longitude":17.14274,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bjelajci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210500
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e0d5db695783887fb20f8423701acf00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1360097927,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360097927,
+    "wof:lastmodified":1536927776,
+    "wof:name":"Bjelajci",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14274,
+    44.4304,
+    17.14274,
+    44.4304
+],
+  "geometry": {"coordinates":[17.14274,44.4304],"type":"Point"}
+}

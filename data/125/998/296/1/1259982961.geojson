@@ -1,0 +1,67 @@
+{
+  "id": 1259982961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46458,44.88288,16.46458,44.88288",
+    "geom:latitude":44.88288,
+    "geom:longitude":16.46458,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Antonica Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248220,
+    "gn:latitude":44.88288,
+    "gn:longitude":16.46458,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Antoni\u0107a Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248220
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"592fabad2b0e65db1f8167f5b0a53277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759223,
+            "locality_id":1259982961,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259982961,
+    "wof:lastmodified":1536634573,
+    "wof:name":"Antonica Brdo",
+    "wof:parent_id":1108759223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46458,
+    44.88288,
+    16.46458,
+    44.88288
+],
+  "geometry": {"coordinates":[16.46458,44.88288],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293490895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44394,43.62913,19.44394,43.62913",
+    "geom:latitude":43.62913,
+    "geom:longitude":19.44394,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Oskorusa",
+    "gn:country_code":"BA",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193916,
+    "gn:latitude":43.62913,
+    "gn:longitude":19.44394,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Oskoru\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oskoru\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193916
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0b10f2c06e988647f91754c975c99f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759217,
+            "locality_id":1293490895,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293490895,
+    "wof:lastmodified":1537585576,
+    "wof:name":"Oskorusa",
+    "wof:parent_id":1108759217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44394,
+    43.62913,
+    19.44394,
+    43.62913
+],
+  "geometry": {"coordinates":[19.44394,43.62913],"type":"Point"}
+}

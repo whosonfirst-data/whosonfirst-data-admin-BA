@@ -1,0 +1,67 @@
+{
+  "id": 1327143099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.19387,44.23228,19.19387,44.23228",
+    "geom:latitude":44.23228,
+    "geom:longitude":19.19387,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornji Bacici",
+    "gn:country_code":"BA",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211687,
+    "gn:latitude":44.23228,
+    "gn:longitude":19.19387,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornji Ba\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211687
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"26d89c8dde57c27372923bc1ca30b494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759021,
+            "locality_id":1327143099,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327143099,
+    "wof:lastmodified":1537095224,
+    "wof:name":"Gornji Bacici",
+    "wof:parent_id":1108759021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.19387,
+    44.23228,
+    19.19387,
+    44.23228
+],
+  "geometry": {"coordinates":[19.19387,44.23228],"type":"Point"}
+}

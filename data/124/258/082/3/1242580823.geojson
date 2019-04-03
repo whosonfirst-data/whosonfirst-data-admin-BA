@@ -1,0 +1,67 @@
+{
+  "id": 1242580823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.48388,43.62119,19.48388,43.62119",
+    "geom:latitude":43.62119,
+    "geom:longitude":19.48388,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Plema",
+    "gn:country_code":"BA",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3193212,
+    "gn:latitude":43.62119,
+    "gn:longitude":19.48388,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Plema",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193212
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"06ab925714fca459c33ce606ccae287e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759217,
+            "locality_id":1242580823,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242580823,
+    "wof:lastmodified":1537056504,
+    "wof:name":"Plema",
+    "wof:parent_id":1108759217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.48388,
+    43.62119000000001,
+    19.48388,
+    43.62119000000001
+],
+  "geometry": {"coordinates":[19.48388,43.62119000000001],"type":"Point"}
+}

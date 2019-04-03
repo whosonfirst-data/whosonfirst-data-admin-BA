@@ -1,0 +1,67 @@
+{
+  "id": 1327032997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8536,44.5845,17.8536,44.5845",
+    "geom:latitude":44.5845,
+    "geom:longitude":17.8536,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bardaci",
+    "gn:country_code":"BA",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3258413,
+    "gn:latitude":44.5845,
+    "gn:longitude":17.8536,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bardaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258413
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3b17a44c7ac1f9e7afc109997433d9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1327032997,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327032997,
+    "wof:lastmodified":1536759730,
+    "wof:name":"Bardaci",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8536,
+    44.5845,
+    17.8536,
+    44.5845
+],
+  "geometry": {"coordinates":[17.8536,44.5845],"type":"Point"}
+}

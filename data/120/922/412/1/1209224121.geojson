@@ -1,0 +1,61 @@
+{
+  "id": 1209224121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83176,43.72657,18.83176,43.72657",
+    "geom:latitude":43.72657,
+    "geom:longitude":18.83176,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornje Bare",
+    "gn:country_code":"BA",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3270503,
+    "gn:latitude":43.72657,
+    "gn:longitude":18.83176,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornje Bare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270503
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fb6953f6a5b875662d175965064ff0d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209224121
+        }
+    ],
+    "wof:id":1209224121,
+    "wof:lastmodified":1536293857,
+    "wof:name":"Gornje Bare",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83176,
+    43.72657,
+    18.83176,
+    43.72657
+],
+  "geometry": {"coordinates":[18.83176,43.72657],"type":"Point"}
+}

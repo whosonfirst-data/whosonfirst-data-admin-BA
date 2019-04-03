@@ -1,0 +1,67 @@
+{
+  "id": 1293306785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79936,44.40627,18.79936,44.40627",
+    "geom:latitude":44.40627,
+    "geom:longitude":18.79936,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Filipovici",
+    "gn:country_code":"BA",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3276233,
+    "gn:latitude":44.40627,
+    "gn:longitude":18.79936,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Filipovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276233
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"943e31ac1f9fb38a3c8f3788fdf2f3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":1293306785,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1293306785,
+    "wof:lastmodified":1537045571,
+    "wof:name":"Filipovici",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79936,
+    44.40627,
+    18.79936,
+    44.40627
+],
+  "geometry": {"coordinates":[18.79936,44.40627],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260185497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86114,43.5061,18.86114,43.5061",
+    "geom:latitude":43.5061,
+    "geom:longitude":18.86114,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Brusna",
+    "gn:country_code":"BA",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203194,
+    "gn:latitude":43.5061,
+    "gn:longitude":18.86114,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Brusna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203194,
+        "wk:page":"Brusna"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d8a28feb576f325fa6f62aec696d364a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1260185497,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260185497,
+    "wof:lastmodified":1537486793,
+    "wof:name":"Brusna",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86114,
+    43.5061,
+    18.86114,
+    43.5061
+],
+  "geometry": {"coordinates":[18.86114,43.5061],"type":"Point"}
+}

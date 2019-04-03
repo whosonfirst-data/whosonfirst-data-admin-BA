@@ -1,0 +1,61 @@
+{
+  "id": 1209228653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03072,45.01956,16.03072,45.01956",
+    "geom:latitude":45.01956,
+    "geom:longitude":16.03072,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Durakovici",
+    "gn:country_code":"BA",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278845,
+    "gn:latitude":45.01956,
+    "gn:longitude":16.03072,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Durakovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278845
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2ff6547645e432b0d3417edb11480704",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209228653
+        }
+    ],
+    "wof:id":1209228653,
+    "wof:lastmodified":1536293711,
+    "wof:name":"Durakovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.030720000000002,
+    45.01956,
+    16.030720000000002,
+    45.01956
+],
+  "geometry": {"coordinates":[16.03072,45.01956],"type":"Point"}
+}

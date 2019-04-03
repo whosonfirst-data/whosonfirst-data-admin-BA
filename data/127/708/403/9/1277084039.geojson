@@ -1,0 +1,67 @@
+{
+  "id": 1277084039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97599,45.16181,15.97599,45.16181",
+    "geom:latitude":45.16181,
+    "geom:longitude":15.97599,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Poljice",
+    "gn:country_code":"BA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277418,
+    "gn:latitude":45.16181,
+    "gn:longitude":15.97599,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Poljice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277418
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"498566011f7935a1d94639b1836eda90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1277084039,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1277084039,
+    "wof:lastmodified":1536766057,
+    "wof:name":"Poljice",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97599,
+    45.16181,
+    15.97599,
+    45.16181
+],
+  "geometry": {"coordinates":[15.97599,45.16181],"type":"Point"}
+}

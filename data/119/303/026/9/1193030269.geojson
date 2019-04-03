@@ -1,0 +1,67 @@
+{
+  "id": 1193030269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07194,44.98444,16.07194,44.98444",
+    "geom:latitude":44.98444,
+    "geom:longitude":16.07194,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Muzafirovici",
+    "gn:country_code":"BA",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260893,
+    "gn:latitude":44.98444,
+    "gn:longitude":16.07194,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Muzafirovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260893
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1efdeb90529e682d374060618d2f0054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759003,
+            "locality_id":1193030269,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1193030269,
+    "wof:lastmodified":1536364739,
+    "wof:name":"Muzafirovici",
+    "wof:parent_id":1108759003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07194,
+    44.98444,
+    16.07194,
+    44.98444
+],
+  "geometry": {"coordinates":[16.07194,44.98444],"type":"Point"}
+}

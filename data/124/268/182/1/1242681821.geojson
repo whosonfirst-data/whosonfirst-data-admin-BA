@@ -1,0 +1,73 @@
+{
+  "id": 1242681821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45398,44.91678,18.45398,44.91678",
+    "geom:latitude":44.91678,
+    "geom:longitude":18.45398,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornje Ledenice",
+    "gn:country_code":"BA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200116,
+    "gn:latitude":44.91678,
+    "gn:longitude":18.45398,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornje Ledenice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ledenice Gornje",
+        "Muslimanski Ledenice",
+        "Gornje Ledenice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200116,
+        "wk:page":"Gornje_Ledenice"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8149727cf361aa971070f7e15b37f6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759097,
+            "locality_id":1242681821,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242681821,
+    "wof:lastmodified":1537585602,
+    "wof:name":"Gornje Ledenice",
+    "wof:parent_id":1108759097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45398,
+    44.91678,
+    18.45398,
+    44.91678
+],
+  "geometry": {"coordinates":[18.45398,44.91678],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310120557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72461,44.41065,18.72461,44.41065",
+    "geom:latitude":44.41065,
+    "geom:longitude":18.72461,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sibovi",
+    "gn:country_code":"BA",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3245047,
+    "gn:latitude":44.41065,
+    "gn:longitude":18.72461,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sibovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3245047
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"79d3778bf4e948d8a515586072ce9148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":1310120557,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310120557,
+    "wof:lastmodified":1536974219,
+    "wof:name":"Sibovi",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72461,
+    44.41065,
+    18.72461,
+    44.41065
+],
+  "geometry": {"coordinates":[18.72461,44.41065],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293296929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80878,42.92222,17.80878,42.92222",
+    "geom:latitude":42.92222,
+    "geom:longitude":17.80878,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Zelenikovac",
+    "gn:country_code":"BA",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3262331,
+    "gn:latitude":42.92222,
+    "gn:longitude":17.80878,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornji Zelenikovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3262331
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4ccbc2e860b4089247b1f50241c93116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759177,
+            "locality_id":1293296929,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1293296929,
+    "wof:lastmodified":1537059117,
+    "wof:name":"Gornji Zelenikovac",
+    "wof:parent_id":1108759177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80878,
+    42.92222,
+    17.80878,
+    42.92222
+],
+  "geometry": {"coordinates":[17.80878,42.92222],"type":"Point"}
+}

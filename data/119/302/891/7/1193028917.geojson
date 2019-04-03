@@ -1,0 +1,67 @@
+{
+  "id": 1193028917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68219,43.55258,18.68219,43.55258",
+    "geom:latitude":43.55258,
+    "geom:longitude":18.68219,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Klobucari",
+    "gn:country_code":"BA",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267877,
+    "gn:latitude":43.55258,
+    "gn:longitude":18.68219,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Klobu\u010dari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267877
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6098e25aa42bbe6af9e97b43ae2ab9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1193028917,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193028917,
+    "wof:lastmodified":1536365667,
+    "wof:name":"Klobucari",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68219,
+    43.55258,
+    18.68219,
+    43.55258
+],
+  "geometry": {"coordinates":[18.68219,43.55258],"type":"Point"}
+}

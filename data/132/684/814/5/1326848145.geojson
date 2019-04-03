@@ -1,0 +1,67 @@
+{
+  "id": 1326848145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98538,43.64042,16.98538,43.64042",
+    "geom:latitude":43.64042,
+    "geom:longitude":16.98538,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brana Kazaginac",
+    "gn:country_code":"BA",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286632,
+    "gn:latitude":43.64042,
+    "gn:longitude":16.98538,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Brana Kazaginac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286632
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"881073da7433c2861ae224761f8388b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1326848145,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1326848145,
+    "wof:lastmodified":1537024715,
+    "wof:name":"Brana Kazaginac",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98538,
+    43.64042,
+    16.98538,
+    43.64042
+],
+  "geometry": {"coordinates":[16.98538,43.64042],"type":"Point"}
+}

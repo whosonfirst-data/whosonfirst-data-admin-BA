@@ -1,0 +1,71 @@
+{
+  "id": 1293896285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95444,44.70444,16.95444,44.70444",
+    "geom:latitude":44.70444,
+    "geom:longitude":16.95444,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Radmanici",
+    "gn:country_code":"BA",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192114,
+    "gn:latitude":44.70444,
+    "gn:longitude":16.95444,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Radmani\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Radmani\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192114,
+        "wk:page":"Radmani%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9019a4f54d61fb0d60ba65c6b0ae5bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1293896285,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293896285,
+    "wof:lastmodified":1537585568,
+    "wof:name":"Radmanici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95444,
+    44.70444000000001,
+    16.95444,
+    44.70444000000001
+],
+  "geometry": {"coordinates":[16.95444,44.70444000000001],"type":"Point"}
+}

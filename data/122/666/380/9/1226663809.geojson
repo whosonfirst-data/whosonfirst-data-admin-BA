@@ -1,0 +1,74 @@
+{
+  "id": 1226663809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72,43.11333,17.72,43.11333",
+    "geom:latitude":43.11333,
+    "geom:longitude":17.72,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tasovcici",
+    "gn:country_code":"BA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189194,
+    "gn:latitude":43.11333,
+    "gn:longitude":17.72,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"Tasov\u010di\u0107i",
+    "gn:population":2007,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tasov\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189194,
+        "wk:page":"Tasov%C4%8Di%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"932c44de8414b4bad2b51c70c1cb05c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759037,
+            "locality_id":1226663809,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1226663809,
+    "wof:lastmodified":1537585558,
+    "wof:name":"Tasovcici",
+    "wof:parent_id":1108759037,
+    "wof:placetype":"locality",
+    "wof:population":2007,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72,
+    43.11333,
+    17.72,
+    43.11333
+],
+  "geometry": {"coordinates":[17.72,43.11333],"type":"Point"}
+}

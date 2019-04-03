@@ -1,0 +1,72 @@
+{
+  "id": 1276670999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.05856,43.75245,19.05856,43.75245",
+    "geom:latitude":43.75245,
+    "geom:longitude":19.05856,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vratsalici",
+    "gn:country_code":"BA",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187321,
+    "gn:latitude":43.75245,
+    "gn:longitude":19.05856,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vratsali\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vratisali\u0107i",
+        "Vratisali\u0107",
+        "Vratsali\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187321
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1eb112d0ac4c7d39ffe5d4805f972cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1276670999,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276670999,
+    "wof:lastmodified":1537585550,
+    "wof:name":"Vratsalici",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05856,
+    43.75245,
+    19.05856,
+    43.75245
+],
+  "geometry": {"coordinates":[19.05856,43.75245],"type":"Point"}
+}

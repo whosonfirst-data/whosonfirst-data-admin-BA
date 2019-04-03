@@ -1,0 +1,67 @@
+{
+  "id": 1260299411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87801,43.2698,17.87801,43.2698",
+    "geom:latitude":43.2698,
+    "geom:longitude":17.87801,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Podgrade",
+    "gn:country_code":"BA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263506,
+    "gn:latitude":43.2698,
+    "gn:longitude":17.87801,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Podgrade",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263506
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fa5115a77a19629b2160328a8d4168e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1260299411,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1260299411,
+    "wof:lastmodified":1536690618,
+    "wof:name":"Podgrade",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87801,
+    43.2698,
+    17.87801,
+    43.2698
+],
+  "geometry": {"coordinates":[17.87801,43.2698],"type":"Point"}
+}

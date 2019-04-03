@@ -1,0 +1,71 @@
+{
+  "id": 1327351331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91241,45.12502,15.91241,45.12502",
+    "geom:latitude":45.12502,
+    "geom:longitude":15.91241,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Todorovska Slapnica",
+    "gn:country_code":"BA",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210369,
+    "gn:latitude":45.12502,
+    "gn:longitude":15.91241,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Todorovska Slapnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slapnica",
+        "Todorovska Slapnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210369
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"06863c8b819e4b614a7357a8251bd3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1327351331,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1327351331,
+    "wof:lastmodified":1537585637,
+    "wof:name":"Todorovska Slapnica",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91241,
+    45.12502,
+    15.91241,
+    45.12502
+],
+  "geometry": {"coordinates":[15.91241,45.12502],"type":"Point"}
+}

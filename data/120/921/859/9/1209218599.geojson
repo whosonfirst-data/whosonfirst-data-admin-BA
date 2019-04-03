@@ -1,0 +1,61 @@
+{
+  "id": 1209218599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66108,44.16231,17.66108,44.16231",
+    "geom:latitude":44.16231,
+    "geom:longitude":17.66108,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rastovci",
+    "gn:country_code":"BA",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291782,
+    "gn:latitude":44.16231,
+    "gn:longitude":17.66108,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Rastovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291782
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2a1cd37e95c94bf1303c75fe6bcc930a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209218599
+        }
+    ],
+    "wof:id":1209218599,
+    "wof:lastmodified":1536294042,
+    "wof:name":"Rastovci",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66108,
+    44.16231,
+    17.66108,
+    44.16231
+],
+  "geometry": {"coordinates":[17.66108,44.16231],"type":"Point"}
+}

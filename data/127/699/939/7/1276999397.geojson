@@ -1,0 +1,67 @@
+{
+  "id": 1276999397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52143,44.31269,17.52143,44.31269",
+    "geom:latitude":44.31269,
+    "geom:longitude":17.52143,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cogici",
+    "gn:country_code":"BA",
+    "gn:dem":1028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3251356,
+    "gn:latitude":44.31269,
+    "gn:longitude":17.52143,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u010cogi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251356
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8a4c7dcdcfe7de77ba447e6400b5162f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759263,
+            "locality_id":1276999397,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1276999397,
+    "wof:lastmodified":1536880171,
+    "wof:name":"Cogici",
+    "wof:parent_id":1108759263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52143,
+    44.31269,
+    17.52143,
+    44.31269
+],
+  "geometry": {"coordinates":[17.52143,44.31269],"type":"Point"}
+}

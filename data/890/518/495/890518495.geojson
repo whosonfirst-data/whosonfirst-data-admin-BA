@@ -1,0 +1,90 @@
+{
+  "id": 890518495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79106,43.58338,18.79106,43.58338",
+    "geom:latitude":43.58338,
+    "geom:longitude":18.79106,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4446,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ustikolina"
+    ],
+    "name:dut_x_preferred":[
+        "Ustikolina"
+    ],
+    "name:eng_x_preferred":[
+        "Ustikolina"
+    ],
+    "name:fre_x_preferred":[
+        "Ustikolina"
+    ],
+    "name:hrv_x_preferred":[
+        "Ustikolina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0441\u0442\u0438\u043a\u043e\u043b\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ustikolina"
+    ],
+    "qs:name":"Ustikolina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188458,
+        "gp:id":944383,
+        "qs:id":147093,
+        "wd:id":"Q3110920",
+        "wk:page":"Ustikolina"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056067,
+    "wof:geomhash":"81ddf2407145870222fc4e020499d0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759071,
+            "locality_id":890518495,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":890518495,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Ustikolina",
+    "wof:parent_id":1108759071,
+    "wof:placetype":"locality",
+    "wof:population":4446,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79106,
+    43.58338,
+    18.79106,
+    43.58338
+],
+  "geometry": {"coordinates":[18.79106,43.58338],"type":"Point"}
+}

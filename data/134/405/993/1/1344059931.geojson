@@ -1,0 +1,67 @@
+{
+  "id": 1344059931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14166,44.93632,17.14166,44.93632",
+    "geom:latitude":44.93632,
+    "geom:longitude":17.14166,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Smiljcici",
+    "gn:country_code":"BA",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3245800,
+    "gn:latitude":44.93632,
+    "gn:longitude":17.14166,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Smilj\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3245800
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cab80d66cb3f93e99fbb9c7775e7cc45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1344059931,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344059931,
+    "wof:lastmodified":1536875370,
+    "wof:name":"Smiljcici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14166,
+    44.93632,
+    17.14166,
+    44.93632
+],
+  "geometry": {"coordinates":[17.14166,44.93632],"type":"Point"}
+}

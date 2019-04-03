@@ -1,0 +1,67 @@
+{
+  "id": 1310610577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.34963,44.73711,18.34963,44.73711",
+    "geom:latitude":44.73711,
+    "geom:longitude":18.34963,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Delica Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255208,
+    "gn:latitude":44.73711,
+    "gn:longitude":18.34963,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Deli\u0107a Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255208
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2005b603b78f3fce22ad2010e362d574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1310610577,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310610577,
+    "wof:lastmodified":1536765664,
+    "wof:name":"Delica Brdo",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34963,
+    44.73711,
+    18.34963,
+    44.73711
+],
+  "geometry": {"coordinates":[18.34963,44.73711],"type":"Point"}
+}

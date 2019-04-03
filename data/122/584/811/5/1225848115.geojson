@@ -1,0 +1,71 @@
+{
+  "id": 1225848115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.39913,44.00334,19.39913,44.00334",
+    "geom:latitude":44.00334,
+    "geom:longitude":19.39913,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gladovici",
+    "gn:country_code":"BA",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238873,
+    "gn:latitude":44.00334,
+    "gn:longitude":19.39913,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gladovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gladovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238873,
+        "wk:page":"Gladovi%C4%87i_%28Srebrenica%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6e15750d7b029df1536a7ec9ab91bcd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1225848115,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225848115,
+    "wof:lastmodified":1537585660,
+    "wof:name":"Gladovici",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.39913,
+    44.00334,
+    19.39913,
+    44.00334
+],
+  "geometry": {"coordinates":[19.39913,44.00334],"type":"Point"}
+}

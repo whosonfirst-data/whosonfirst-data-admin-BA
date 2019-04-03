@@ -1,0 +1,67 @@
+{
+  "id": 1259797693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71238,44.1795,17.71238,44.1795",
+    "geom:latitude":44.1795,
+    "geom:longitude":17.71238,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Borje",
+    "gn:country_code":"BA",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289577,
+    "gn:latitude":44.1795,
+    "gn:longitude":17.71238,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Borje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289577
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"93c1639d0fbe851fbd0f8c0b2309c37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759183,
+            "locality_id":1259797693,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1259797693,
+    "wof:lastmodified":1536902766,
+    "wof:name":"Borje",
+    "wof:parent_id":1108759183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71238,
+    44.1795,
+    17.71238,
+    44.1795
+],
+  "geometry": {"coordinates":[17.71238,44.1795],"type":"Point"}
+}

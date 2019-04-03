@@ -1,0 +1,71 @@
+{
+  "id": 1310308049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62656,43.58071,18.62656,43.58071",
+    "geom:latitude":43.58071,
+    "geom:longitude":18.62656,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Crneta",
+    "gn:country_code":"BA",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3206551,
+    "gn:latitude":43.58071,
+    "gn:longitude":18.62656,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Crneta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Crnota",
+        "Crneta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206551
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2bafccc2e1622b8157df0915cec1ddaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1310308049,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310308049,
+    "wof:lastmodified":1537585635,
+    "wof:name":"Crneta",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62656,
+    43.58071,
+    18.62656,
+    43.58071
+],
+  "geometry": {"coordinates":[18.62656,43.58071],"type":"Point"}
+}

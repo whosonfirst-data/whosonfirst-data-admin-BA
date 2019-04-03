@@ -1,0 +1,67 @@
+{
+  "id": 1243185375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40298,44.89265,16.40298,44.89265",
+    "geom:latitude":44.89265,
+    "geom:longitude":16.40298,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kosa",
+    "gn:country_code":"BA",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3249550,
+    "gn:latitude":44.89265,
+    "gn:longitude":16.40298,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3249550
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"16ffbc260251312f4143ad3172c463df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759223,
+            "locality_id":1243185375,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243185375,
+    "wof:lastmodified":1536684837,
+    "wof:name":"Kosa",
+    "wof:parent_id":1108759223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40298,
+    44.89265,
+    16.40298,
+    44.89265
+],
+  "geometry": {"coordinates":[16.40298,44.89265],"type":"Point"}
+}

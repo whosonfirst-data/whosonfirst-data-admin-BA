@@ -1,0 +1,67 @@
+{
+  "id": 1276566325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10748,42.72595,18.10748,42.72595",
+    "geom:latitude":42.72595,
+    "geom:longitude":18.10748,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Trnovica",
+    "gn:country_code":"BA",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3263648,
+    "gn:latitude":42.72595,
+    "gn:longitude":18.10748,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Trnovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263648
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"47fc3a50281227d19766eabc954198c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759213,
+            "locality_id":1276566325,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1276566325,
+    "wof:lastmodified":1536963828,
+    "wof:name":"Trnovica",
+    "wof:parent_id":1108759213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10748,
+    42.72595,
+    18.10748,
+    42.72595
+],
+  "geometry": {"coordinates":[18.10748,42.72595],"type":"Point"}
+}

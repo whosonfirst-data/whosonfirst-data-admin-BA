@@ -1,0 +1,61 @@
+{
+  "id": 1209533379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87689,44.12255,17.87689,44.12255",
+    "geom:latitude":44.12255,
+    "geom:longitude":17.87689,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sajtovici",
+    "gn:country_code":"BA",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288736,
+    "gn:latitude":44.12255,
+    "gn:longitude":17.87689,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Sajtovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288736
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ea17b1e7abc94a4fe0863d43b4de3a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209533379
+        }
+    ],
+    "wof:id":1209533379,
+    "wof:lastmodified":1536284214,
+    "wof:name":"Sajtovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87689,
+    44.12255,
+    17.87689,
+    44.12255
+],
+  "geometry": {"coordinates":[17.87689,44.12255],"type":"Point"}
+}

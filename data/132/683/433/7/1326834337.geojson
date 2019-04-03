@@ -1,0 +1,67 @@
+{
+  "id": 1326834337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29542,43.56521,18.29542,43.56521",
+    "geom:latitude":43.56521,
+    "geom:longitude":18.29542,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dzevlani",
+    "gn:country_code":"BA",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269717,
+    "gn:latitude":43.56521,
+    "gn:longitude":18.29542,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"D\u017eevlani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269717
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f9008f77f810657d2ffefa4191b7df81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1326834337,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1326834337,
+    "wof:lastmodified":1537043898,
+    "wof:name":"Dzevlani",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29542,
+    43.56521,
+    18.29542,
+    43.56521
+],
+  "geometry": {"coordinates":[18.29542,43.56521],"type":"Point"}
+}

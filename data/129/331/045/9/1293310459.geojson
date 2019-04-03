@@ -1,0 +1,65 @@
+{
+  "id": 1293310459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35955,44.0845,16.35955,44.0845",
+    "geom:latitude":44.0845,
+    "geom:longitude":16.35955,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Duler",
+    "gn:country_code":"BA",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3280142,
+    "gn:latitude":44.0845,
+    "gn:longitude":16.35955,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Duler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280142
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5d201f11db3f496b5a69bf036a2a2ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293310459,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1293310459,
+    "wof:lastmodified":1537040548,
+    "wof:name":"Duler",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35955,
+    44.0845,
+    16.35955,
+    44.0845
+],
+  "geometry": {"coordinates":[16.35955,44.0845],"type":"Point"}
+}

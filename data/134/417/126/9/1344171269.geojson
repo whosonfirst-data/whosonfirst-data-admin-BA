@@ -1,0 +1,68 @@
+{
+  "id": 1344171269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47017,43.89751,18.47017,43.89751",
+    "geom:latitude":43.89751,
+    "geom:longitude":18.47017,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornje Biosko",
+    "gn:country_code":"BA",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3200146,
+    "gn:latitude":43.89751,
+    "gn:longitude":18.47017,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornje Biosko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200146,
+        "wk:page":"Gornje_Biosko"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"24d18287b87a56b1719ee97c2eeba067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759245,
+            "locality_id":1344171269,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1344171269,
+    "wof:lastmodified":1537486772,
+    "wof:name":"Gornje Biosko",
+    "wof:parent_id":1108759245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47017,
+    43.89751,
+    18.47017,
+    43.89751
+],
+  "geometry": {"coordinates":[18.47017,43.89751],"type":"Point"}
+}

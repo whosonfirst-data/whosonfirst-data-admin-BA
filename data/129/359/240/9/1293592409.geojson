@@ -1,0 +1,67 @@
+{
+  "id": 1293592409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95314,44.77798,16.95314,44.77798",
+    "geom:latitude":44.77798,
+    "geom:longitude":16.95314,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donji Savici",
+    "gn:country_code":"BA",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247198,
+    "gn:latitude":44.77798,
+    "gn:longitude":16.95314,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donji Savi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247198
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0ac518e0f61c2d0cc6edf03ad159757e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1293592409,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293592409,
+    "wof:lastmodified":1536634530,
+    "wof:name":"Donji Savici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95314,
+    44.77798,
+    16.95314,
+    44.77798
+],
+  "geometry": {"coordinates":[16.95314,44.77798],"type":"Point"}
+}

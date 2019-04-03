@@ -1,0 +1,67 @@
+{
+  "id": 1327033005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71398,44.99075,17.71398,44.99075",
+    "geom:latitude":44.99075,
+    "geom:longitude":17.71398,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Knezevici",
+    "gn:country_code":"BA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253122,
+    "gn:latitude":44.99075,
+    "gn:longitude":17.71398,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kne\u017eevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253122
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ad4adaaa71887f5a5e981b1c56ef4657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1327033005,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327033005,
+    "wof:lastmodified":1536759720,
+    "wof:name":"Knezevici",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71398,
+    44.99075,
+    17.71398,
+    44.99075
+],
+  "geometry": {"coordinates":[17.71398,44.99075],"type":"Point"}
+}

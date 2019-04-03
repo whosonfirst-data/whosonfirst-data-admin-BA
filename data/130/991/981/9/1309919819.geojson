@@ -1,0 +1,67 @@
+{
+  "id": 1309919819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58195,43.54042,17.58195,43.54042",
+    "geom:latitude":43.54042,
+    "geom:longitude":17.58195,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zagreblje",
+    "gn:country_code":"BA",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290185,
+    "gn:latitude":43.54042,
+    "gn:longitude":17.58195,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zagreblje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290185
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0083acc6ab58096b764f48838ee305c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1309919819,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1309919819,
+    "wof:lastmodified":1536767060,
+    "wof:name":"Zagreblje",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58195,
+    43.54042000000001,
+    17.58195,
+    43.54042000000001
+],
+  "geometry": {"coordinates":[17.58195,43.54042000000001],"type":"Point"}
+}

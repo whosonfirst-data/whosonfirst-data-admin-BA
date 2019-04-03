@@ -1,0 +1,66 @@
+{
+  "id": 890518661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72607,44.52478,18.72607,44.52478",
+    "geom:latitude":44.52478,
+    "geom:longitude":18.72607,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Slavinovi\u0107i",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190595,
+        "gp:id":943911,
+        "qs:id":581608
+    },
+    "wof:country":"BA",
+    "wof:created":1469056074,
+    "wof:geomhash":"850b63f09aeca0ae1bc36ee88193e457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":890518661,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890518661,
+    "wof:lastmodified":1505343910,
+    "wof:name":"Slavinovi\u0107i",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72607,
+    44.52478,
+    18.72607,
+    44.52478
+],
+  "geometry": {"coordinates":[18.72607,44.52478],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343371841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99005,43.21168,17.99005,43.21168",
+    "geom:latitude":43.21168,
+    "geom:longitude":17.99005,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zuberin",
+    "gn:country_code":"BA",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186326,
+    "gn:latitude":43.21168,
+    "gn:longitude":17.99005,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u017duberin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017duberin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186326,
+        "wk:page":"%C5%BDuberin"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"08b8e441d7e6f0682a05f8585599024c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1343371841,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343371841,
+    "wof:lastmodified":1537585546,
+    "wof:name":"Zuberin",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99005,
+    43.21168,
+    17.99005,
+    43.21168
+],
+  "geometry": {"coordinates":[17.99005,43.21168],"type":"Point"}
+}

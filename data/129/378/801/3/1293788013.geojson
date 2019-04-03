@@ -1,0 +1,67 @@
+{
+  "id": 1293788013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.21977,43.76143,17.21977,43.76143",
+    "geom:latitude":43.76143,
+    "geom:longitude":17.21977,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Seline",
+    "gn:country_code":"BA",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284086,
+    "gn:latitude":43.76143,
+    "gn:longitude":17.21977,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Seline",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284086
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2832138cf91b64bba0cc5ea5c3bde059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1293788013,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1293788013,
+    "wof:lastmodified":1536849752,
+    "wof:name":"Seline",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.21977,
+    43.76143,
+    17.21977,
+    43.76143
+],
+  "geometry": {"coordinates":[17.21977,43.76143],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293887641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01222,45.09556,16.01222,45.09556",
+    "geom:latitude":45.09556,
+    "geom:longitude":16.01222,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Veladzici",
+    "gn:country_code":"BA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278483,
+    "gn:latitude":45.09556,
+    "gn:longitude":16.01222,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Velad\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278483
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"af264358ec1d9e33f8cb5e8ffb5de96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759033,
+            "locality_id":1293887641,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293887641,
+    "wof:lastmodified":1536707637,
+    "wof:name":"Veladzici",
+    "wof:parent_id":1108759033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01222000000001,
+    45.09556,
+    16.01222000000001,
+    45.09556
+],
+  "geometry": {"coordinates":[16.01222000000001,45.09556],"type":"Point"}
+}

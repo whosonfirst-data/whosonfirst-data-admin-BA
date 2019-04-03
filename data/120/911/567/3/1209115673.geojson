@@ -1,0 +1,61 @@
+{
+  "id": 1209115673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28023,44.80376,16.28023,44.80376",
+    "geom:latitude":44.80376,
+    "geom:longitude":16.28023,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kravljak",
+    "gn:country_code":"BA",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247882,
+    "gn:latitude":44.80376,
+    "gn:longitude":16.28023,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kravljak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247882
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"54cc8f2395912610f05a5e13bbef8a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209115673
+        }
+    ],
+    "wof:id":1209115673,
+    "wof:lastmodified":1536297261,
+    "wof:name":"Kravljak",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28023,
+    44.80376,
+    16.28023,
+    44.80376
+],
+  "geometry": {"coordinates":[16.28023,44.80376],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226051603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.24818,44.85818,18.24818,44.85818",
+    "geom:latitude":44.85818,
+    "geom:longitude":18.24818,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zelin",
+    "gn:country_code":"BA",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253679,
+    "gn:latitude":44.85818,
+    "gn:longitude":18.24818,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u017delin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253679
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"34577dffadd246e4c2960b6cf9fc168b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759169,
+            "locality_id":1226051603,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226051603,
+    "wof:lastmodified":1536716954,
+    "wof:name":"Zelin",
+    "wof:parent_id":1108759169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.24818,
+    44.85818,
+    18.24818,
+    44.85818
+],
+  "geometry": {"coordinates":[18.24818,44.85818],"type":"Point"}
+}

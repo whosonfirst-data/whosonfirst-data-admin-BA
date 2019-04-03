@@ -1,0 +1,67 @@
+{
+  "id": 1343765355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71511,44.92208,17.71511,44.92208",
+    "geom:latitude":44.92208,
+    "geom:longitude":17.71511,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cadavica",
+    "gn:country_code":"BA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252985,
+    "gn:latitude":44.92208,
+    "gn:longitude":17.71511,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u010ca\u0111avica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252985
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"24d33451898459f2ba5baa4d61bc215e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1343765355,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343765355,
+    "wof:lastmodified":1536803764,
+    "wof:name":"Cadavica",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71511,
+    44.92208,
+    17.71511,
+    44.92208
+],
+  "geometry": {"coordinates":[17.71511,44.92208],"type":"Point"}
+}

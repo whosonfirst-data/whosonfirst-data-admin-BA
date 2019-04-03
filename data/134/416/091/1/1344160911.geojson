@@ -1,0 +1,72 @@
+{
+  "id": 1344160911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17933,44.0695,18.17933,44.0695",
+    "geom:latitude":44.0695,
+    "geom:longitude":18.17933,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Bistrani",
+    "gn:country_code":"BA",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3204076,
+    "gn:latitude":44.0695,
+    "gn:longitude":18.17933,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Gornji Bi\u0161trani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u0161trani",
+        "Gornji Bi\u0161trani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204076,
+        "wk:page":"Bi%C5%A1trani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c196f97b45bab5a6935527a32c68018c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1344160911,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1344160911,
+    "wof:lastmodified":1537585626,
+    "wof:name":"Gornji Bistrani",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17933,
+    44.0695,
+    18.17933,
+    44.0695
+],
+  "geometry": {"coordinates":[18.17933,44.0695],"type":"Point"}
+}

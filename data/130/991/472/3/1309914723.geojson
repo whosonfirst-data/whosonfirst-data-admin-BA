@@ -1,0 +1,67 @@
+{
+  "id": 1309914723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.06309,44.30464,19.06309,44.30464",
+    "geom:latitude":44.30464,
+    "geom:longitude":19.06309,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Parni Lug",
+    "gn:country_code":"BA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271732,
+    "gn:latitude":44.30464,
+    "gn:longitude":19.06309,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Parni Lug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271732
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cdae99f048480dae168392acd85943fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759289,
+            "locality_id":1309914723,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309914723,
+    "wof:lastmodified":1536774655,
+    "wof:name":"Parni Lug",
+    "wof:parent_id":1108759289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06309,
+    44.30464,
+    19.06309,
+    44.30464
+],
+  "geometry": {"coordinates":[19.06309,44.30464],"type":"Point"}
+}

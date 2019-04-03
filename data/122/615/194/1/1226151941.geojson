@@ -1,0 +1,68 @@
+{
+  "id": 1226151941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23061,44.72915,17.23061,44.72915",
+    "geom:latitude":44.72915,
+    "geom:longitude":17.23061,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ponir",
+    "gn:country_code":"BA",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3192738,
+    "gn:latitude":44.72915,
+    "gn:longitude":17.23061,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ponir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192738,
+        "wk:page":"Ponir"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d546621ee7d075c4c8a6d89757e8d03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1226151941,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226151941,
+    "wof:lastmodified":1537486736,
+    "wof:name":"Ponir",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23061,
+    44.72915,
+    17.23061,
+    44.72915
+],
+  "geometry": {"coordinates":[17.23061,44.72915],"type":"Point"}
+}

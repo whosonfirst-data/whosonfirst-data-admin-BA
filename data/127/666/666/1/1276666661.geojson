@@ -1,0 +1,71 @@
+{
+  "id": 1276666661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21897,44.09898,19.21897,44.09898",
+    "geom:latitude":44.09898,
+    "geom:longitude":19.21897,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Suceska",
+    "gn:country_code":"BA",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3189588,
+    "gn:latitude":44.09898,
+    "gn:longitude":19.21897,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Su\u0107eska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su\u0107eska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189588,
+        "wk:page":"Su%C4%87eska"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d9c5783326cf8f3a196d176406fbbb2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1276666661,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276666661,
+    "wof:lastmodified":1537585558,
+    "wof:name":"Suceska",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21897,
+    44.09898,
+    19.21897,
+    44.09898
+],
+  "geometry": {"coordinates":[19.21897,44.09898],"type":"Point"}
+}

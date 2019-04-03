@@ -1,0 +1,67 @@
+{
+  "id": 1309721653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89397,44.92654,15.89397,44.92654",
+    "geom:latitude":44.92654,
+    "geom:longitude":15.89397,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kraljevac",
+    "gn:country_code":"BA",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212292,
+    "gn:latitude":44.92654,
+    "gn:longitude":15.89397,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kraljevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212292
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"724e0e226c50fe40ea1853bfc9c1f738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1309721653,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1309721653,
+    "wof:lastmodified":1537050204,
+    "wof:name":"Kraljevac",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89397,
+    44.92654,
+    15.89397,
+    44.92654
+],
+  "geometry": {"coordinates":[15.89397,44.92654],"type":"Point"}
+}

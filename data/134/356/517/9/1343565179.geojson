@@ -1,0 +1,67 @@
+{
+  "id": 1343565179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96282,44.34717,17.96282,44.34717",
+    "geom:latitude":44.34717,
+    "geom:longitude":17.96282,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kovanici",
+    "gn:country_code":"BA",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197505,
+    "gn:latitude":44.34717,
+    "gn:longitude":17.96282,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kovani\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197505
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e6c3cd2a6c50f30f67b04f57e41e5227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1343565179,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1343565179,
+    "wof:lastmodified":1537089406,
+    "wof:name":"Kovanici",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96282,
+    44.34717,
+    17.96282,
+    44.34717
+],
+  "geometry": {"coordinates":[17.96282,44.34717],"type":"Point"}
+}

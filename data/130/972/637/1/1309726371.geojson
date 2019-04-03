@@ -1,0 +1,72 @@
+{
+  "id": 1309726371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42248,44.4408,18.42248,44.4408",
+    "geom:latitude":44.4408,
+    "geom:longitude":18.42248,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jaruske Gornje",
+    "gn:country_code":"BA",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3198843,
+    "gn:latitude":44.4408,
+    "gn:longitude":18.42248,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Jaru\u0161ke Gornje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muslimanske Jazu\u0161ke",
+        "Jaru\u0161ke Gornje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198843,
+        "wk:page":"Jaru%C5%A1ke_Gornje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"50ecf831441757e2a6f95f289b489dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759161,
+            "locality_id":1309726371,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1309726371,
+    "wof:lastmodified":1537585595,
+    "wof:name":"Jaruske Gornje",
+    "wof:parent_id":1108759161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42248,
+    44.4408,
+    18.42248,
+    44.4408
+],
+  "geometry": {"coordinates":[18.42248,44.4408],"type":"Point"}
+}

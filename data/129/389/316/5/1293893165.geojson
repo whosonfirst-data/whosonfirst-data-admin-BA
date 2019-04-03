@@ -1,0 +1,71 @@
+{
+  "id": 1293893165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27917,43.49556,17.27917,43.49556",
+    "geom:latitude":43.49556,
+    "geom:longitude":17.27917,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tomica Brig",
+    "gn:country_code":"BA",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284141,
+    "gn:latitude":43.49556,
+    "gn:longitude":17.27917,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Tomi\u0107a Brig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tomi\u0107a Brig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284141,
+        "wk:page":"Tomi%C4%87a_brig"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9a8fe17a13ea43eb239c461e3ac22493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1293893165,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1293893165,
+    "wof:lastmodified":1537585674,
+    "wof:name":"Tomica Brig",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27917,
+    43.49556,
+    17.27917,
+    43.49556
+],
+  "geometry": {"coordinates":[17.27917,43.49556],"type":"Point"}
+}

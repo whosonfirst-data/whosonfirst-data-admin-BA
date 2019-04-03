@@ -1,0 +1,67 @@
+{
+  "id": 1259982787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85101,44.49595,16.85101,44.49595",
+    "geom:latitude":44.49595,
+    "geom:longitude":16.85101,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kevci",
+    "gn:country_code":"BA",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3262032,
+    "gn:latitude":44.49595,
+    "gn:longitude":16.85101,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3262032
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a19622e028143486149629d228aa51e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759135,
+            "locality_id":1259982787,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259982787,
+    "wof:lastmodified":1536634840,
+    "wof:name":"Kevci",
+    "wof:parent_id":1108759135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85101,
+    44.49595,
+    16.85101,
+    44.49595
+],
+  "geometry": {"coordinates":[16.85101,44.49595],"type":"Point"}
+}

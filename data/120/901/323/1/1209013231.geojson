@@ -1,0 +1,67 @@
+{
+  "id": 1209013231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16638,44.62363,18.16638,44.62363",
+    "geom:latitude":44.62363,
+    "geom:longitude":18.16638,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornja Paklenica",
+    "gn:country_code":"BA",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200213,
+    "gn:latitude":44.62363,
+    "gn:longitude":18.16638,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornja Paklenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paklenica Gornja",
+        "Paklenica",
+        "Gornja Paklenica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200213,
+        "wk:page":"Gornja_Paklenica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d285832af6cdcded9a3aa82e0a7e0239",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209013231
+        }
+    ],
+    "wof:id":1209013231,
+    "wof:lastmodified":1537585603,
+    "wof:name":"Gornja Paklenica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16638,
+    44.62363,
+    18.16638,
+    44.62363
+],
+  "geometry": {"coordinates":[18.16638,44.62363],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343776325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56093,44.00571,17.56093,44.00571",
+    "geom:latitude":44.00571,
+    "geom:longitude":17.56093,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dervisi",
+    "gn:country_code":"BA",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291889,
+    "gn:latitude":44.00571,
+    "gn:longitude":17.56093,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Dervi\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291889
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ae81bca7dc2c057b7e20b11d4b3bb920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":1343776325,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1343776325,
+    "wof:lastmodified":1536788447,
+    "wof:name":"Dervisi",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56093,
+    44.00571,
+    17.56093,
+    44.00571
+],
+  "geometry": {"coordinates":[17.56093,44.00571],"type":"Point"}
+}

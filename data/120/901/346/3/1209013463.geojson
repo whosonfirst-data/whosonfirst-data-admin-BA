@@ -1,0 +1,61 @@
+{
+  "id": 1209013463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12498,45.15104,17.12498,45.15104",
+    "geom:latitude":45.15104,
+    "geom:longitude":17.12498,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Potok",
+    "gn:country_code":"BA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285333,
+    "gn:latitude":45.15104,
+    "gn:longitude":17.12498,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Potok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285333
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7f8c3fd3f9040aa1b74d15e2e4333377",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209013463
+        }
+    ],
+    "wof:id":1209013463,
+    "wof:lastmodified":1536300371,
+    "wof:name":"Potok",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.124979999999994,
+    45.15104,
+    17.124979999999994,
+    45.15104
+],
+  "geometry": {"coordinates":[17.12497999999999,45.15104],"type":"Point"}
+}

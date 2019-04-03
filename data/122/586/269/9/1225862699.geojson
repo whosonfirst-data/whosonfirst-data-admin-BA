@@ -1,0 +1,68 @@
+{
+  "id": 1225862699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15683,43.86974,18.15683,43.86974",
+    "geom:latitude":43.86974,
+    "geom:longitude":18.15683,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Homolj",
+    "gn:country_code":"BA",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296496,
+    "gn:latitude":43.86974,
+    "gn:longitude":18.15683,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Homolj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296496,
+        "wk:page":"Homolj"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cab222a78fb338117d0459d632ad9344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759127,
+            "locality_id":1225862699,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1225862699,
+    "wof:lastmodified":1537486862,
+    "wof:name":"Homolj",
+    "wof:parent_id":1108759127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15683,
+    43.86974,
+    18.15683,
+    43.86974
+],
+  "geometry": {"coordinates":[18.15683,43.86974],"type":"Point"}
+}

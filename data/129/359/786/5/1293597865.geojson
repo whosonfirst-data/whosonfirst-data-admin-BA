@@ -1,0 +1,67 @@
+{
+  "id": 1293597865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.82633,44.30344,18.82633,44.30344",
+    "geom:latitude":44.30344,
+    "geom:longitude":18.82633,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zioci",
+    "gn:country_code":"BA",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276870,
+    "gn:latitude":44.30344,
+    "gn:longitude":18.82633,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u017dioci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276870
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6e40012cada1a146713d46c7ba574385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759227,
+            "locality_id":1293597865,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293597865,
+    "wof:lastmodified":1536626055,
+    "wof:name":"Zioci",
+    "wof:parent_id":1108759227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82633,
+    44.30344,
+    18.82633,
+    44.30344
+],
+  "geometry": {"coordinates":[18.82633,44.30344],"type":"Point"}
+}

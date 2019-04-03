@@ -1,0 +1,72 @@
+{
+  "id": 1226456779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83779,44.60658,16.83779,44.60658",
+    "geom:latitude":44.60658,
+    "geom:longitude":16.83779,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donje Sokolovo",
+    "gn:country_code":"BA",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201530,
+    "gn:latitude":44.60658,
+    "gn:longitude":16.83779,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donje Sokolovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sokolovo Donje",
+        "Donje Sokolovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201530,
+        "wk:page":"Donje_Sokolovo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6fdd18a2d1ea3b1ad67ad476c9ad065a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1226456779,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1226456779,
+    "wof:lastmodified":1537585611,
+    "wof:name":"Donje Sokolovo",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83779,
+    44.60658,
+    16.83779,
+    44.60658
+],
+  "geometry": {"coordinates":[16.83779,44.60658],"type":"Point"}
+}

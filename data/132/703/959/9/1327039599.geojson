@@ -1,0 +1,73 @@
+{
+  "id": 1327039599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10694,43.65,17.10694,43.65",
+    "geom:latitude":43.65,
+    "geom:longitude":17.10694,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dobrici",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201942,
+    "gn:latitude":43.65,
+    "gn:longitude":17.10694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dobri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobri\u0107",
+        "Dobri\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201942,
+        "wk:page":"Dobri%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1dae3b38fb06f0bb4901c7aa36f1907d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1327039599,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1327039599,
+    "wof:lastmodified":1537585614,
+    "wof:name":"Dobrici",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10694,
+    43.65,
+    17.10694,
+    43.65
+],
+  "geometry": {"coordinates":[17.10694,43.65],"type":"Point"}
+}

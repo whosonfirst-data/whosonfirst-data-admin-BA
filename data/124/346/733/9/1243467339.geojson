@@ -1,0 +1,67 @@
+{
+  "id": 1243467339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91656,45.09734,16.91656,45.09734",
+    "geom:latitude":45.09734,
+    "geom:longitude":16.91656,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donje Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286790,
+    "gn:latitude":45.09734,
+    "gn:longitude":16.91656,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donje Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286790
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9a9ba87fb35c87b05b41d36ee252bd8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1243467339,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243467339,
+    "wof:lastmodified":1536775944,
+    "wof:name":"Donje Brdo",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91656,
+    45.09734,
+    16.91656,
+    45.09734
+],
+  "geometry": {"coordinates":[16.91656,45.09734],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209043735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73875,44.91597,18.73875,44.91597",
+    "geom:latitude":44.91597,
+    "geom:longitude":18.73875,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Gorice",
+    "gn:country_code":"BA",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200321,
+    "gn:latitude":44.91597,
+    "gn:longitude":18.73875,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Gorice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200321,
+        "wk:page":"Gorice_%28Br%C4%8Dko%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"37b78f117f4d0ad0ccff1cb7bc55bff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209043735
+        }
+    ],
+    "wof:id":1209043735,
+    "wof:lastmodified":1537486774,
+    "wof:name":"Gorice",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73875,
+    44.91597,
+    18.73875,
+    44.91597
+],
+  "geometry": {"coordinates":[18.73875,44.91597],"type":"Point"}
+}

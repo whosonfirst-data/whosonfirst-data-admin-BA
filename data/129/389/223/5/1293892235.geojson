@@ -1,0 +1,68 @@
+{
+  "id": 1293892235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94695,45.21035,16.94695,45.21035",
+    "geom:latitude":45.21035,
+    "geom:longitude":16.94695,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Demirovac",
+    "gn:country_code":"BA",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3211955,
+    "gn:latitude":45.21035,
+    "gn:longitude":16.94695,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Demirovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211955,
+        "wk:page":"Demirovac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0560ad6a6d09e5886f9e42bbf38c6e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1293892235,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293892235,
+    "wof:lastmodified":1537486818,
+    "wof:name":"Demirovac",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94695,
+    45.21035,
+    16.94695,
+    45.21035
+],
+  "geometry": {"coordinates":[16.94695,45.21035],"type":"Point"}
+}

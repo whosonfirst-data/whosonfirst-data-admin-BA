@@ -1,0 +1,72 @@
+{
+  "id": 1343961193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.30395,43.81107,19.30395,43.81107",
+    "geom:latitude":43.81107,
+    "geom:longitude":19.30395,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Velji Lug",
+    "gn:country_code":"BA",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3187873,
+    "gn:latitude":43.81107,
+    "gn:longitude":19.30395,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Velji Lug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornji Velji Lug",
+        "Velji Lug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187873,
+        "wk:page":"Velji_Lug"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b4ce569885735377f0e82c3460a670a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1343961193,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343961193,
+    "wof:lastmodified":1537585553,
+    "wof:name":"Velji Lug",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.30395,
+    43.81107,
+    19.30395,
+    43.81107
+],
+  "geometry": {"coordinates":[19.30395,43.81107],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360289605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0831,44.54116,18.0831,44.54116",
+    "geom:latitude":44.54116,
+    "geom:longitude":18.0831,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krusevlje",
+    "gn:country_code":"BA",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258948,
+    "gn:latitude":44.54116,
+    "gn:longitude":18.0831,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kru\u0161evlje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258948
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1bf477715f3c89eb82b6fb931557bdec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1360289605,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1360289605,
+    "wof:lastmodified":1536650344,
+    "wof:name":"Krusevlje",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0831,
+    44.54116,
+    18.0831,
+    44.54116
+],
+  "geometry": {"coordinates":[18.0831,44.54116],"type":"Point"}
+}

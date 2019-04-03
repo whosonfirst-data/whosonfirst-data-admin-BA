@@ -1,0 +1,67 @@
+{
+  "id": 1360198515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07154,43.86815,18.07154,43.86815",
+    "geom:latitude":43.86815,
+    "geom:longitude":18.07154,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mratinici",
+    "gn:country_code":"BA",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194769,
+    "gn:latitude":43.86815,
+    "gn:longitude":18.07154,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mratini\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194769
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2c1e21bda7168fe060f9f2040f882b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759143,
+            "locality_id":1360198515,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1360198515,
+    "wof:lastmodified":1536782445,
+    "wof:name":"Mratinici",
+    "wof:parent_id":1108759143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07154,
+    43.86815,
+    18.07154,
+    43.86815
+],
+  "geometry": {"coordinates":[18.07154,43.86815],"type":"Point"}
+}

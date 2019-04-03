@@ -1,0 +1,71 @@
+{
+  "id": 1343473017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80174,44.91603,15.80174,44.91603",
+    "geom:latitude":44.91603,
+    "geom:longitude":15.80174,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brezove Poljane",
+    "gn:country_code":"BA",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212914,
+    "gn:latitude":44.91603,
+    "gn:longitude":15.80174,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Brezove Poljane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poljane",
+        "Brezove Poljane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212914
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"00c97de9d2dd656af6ca78ebacf636c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1343473017,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1343473017,
+    "wof:lastmodified":1537585656,
+    "wof:name":"Brezove Poljane",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80174,
+    44.91603,
+    15.80174,
+    44.91603
+],
+  "geometry": {"coordinates":[15.80174,44.91603],"type":"Point"}
+}

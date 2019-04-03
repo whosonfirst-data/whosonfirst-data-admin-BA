@@ -1,0 +1,71 @@
+{
+  "id": 1310109043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96943,44.25284,18.96943,44.25284",
+    "geom:latitude":44.25284,
+    "geom:longitude":18.96943,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sadici Donji",
+    "gn:country_code":"BA",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191366,
+    "gn:latitude":44.25284,
+    "gn:longitude":18.96943,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0160adi\u0107i Donji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160adi\u0107i",
+        "\u0160adi\u0107i Donji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191366
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"44e43387c2faf59ed744b6b44f67a5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759289,
+            "locality_id":1310109043,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310109043,
+    "wof:lastmodified":1537585565,
+    "wof:name":"Sadici Donji",
+    "wof:parent_id":1108759289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96943,
+    44.25284,
+    18.96943,
+    44.25284
+],
+  "geometry": {"coordinates":[18.96943,44.25284],"type":"Point"}
+}

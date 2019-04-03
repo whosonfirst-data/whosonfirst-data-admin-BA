@@ -1,0 +1,75 @@
+{
+  "id": 890519059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72685,44.47229,18.72685,44.47229",
+    "geom:latitude":44.47229,
+    "geom:longitude":18.72685,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4821,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Gornje Dubrave"
+    ],
+    "qs:name":"Dubrave Gornje",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201060,
+        "gp:id":941562,
+        "qs:id":147285
+    },
+    "wof:country":"BA",
+    "wof:created":1469056090,
+    "wof:geomhash":"5356331eaeb7bbf226b9e40e332ee852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":890519059,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890519059,
+    "wof:lastmodified":1505343912,
+    "wof:name":"Dubrave Gornje",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:population":4821,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72685,
+    44.47229,
+    18.72685,
+    44.47229
+],
+  "geometry": {"coordinates":[18.72685,44.47229],"type":"Point"}
+}

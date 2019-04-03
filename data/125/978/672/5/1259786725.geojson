@@ -1,0 +1,68 @@
+{
+  "id": 1259786725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18332,43.71131,19.18332,43.71131",
+    "geom:latitude":43.71131,
+    "geom:longitude":19.18332,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bistrivode",
+    "gn:country_code":"BA",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3269658,
+    "gn:latitude":43.71131,
+    "gn:longitude":19.18332,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bistrivode",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269658,
+        "wk:page":"Bistrivode"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9868d3a26389ee4a1eddb7ebd650bec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1259786725,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259786725,
+    "wof:lastmodified":1537486841,
+    "wof:name":"Bistrivode",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18332,
+    43.71131,
+    19.18332,
+    43.71131
+],
+  "geometry": {"coordinates":[19.18332,43.71131],"type":"Point"}
+}

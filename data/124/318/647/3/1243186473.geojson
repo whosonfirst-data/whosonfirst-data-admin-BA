@@ -1,0 +1,71 @@
+{
+  "id": 1243186473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18417,43.8575,17.18417,43.8575",
+    "geom:latitude":43.8575,
+    "geom:longitude":17.18417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bogdasic",
+    "gn:country_code":"BA",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284508,
+    "gn:latitude":43.8575,
+    "gn:longitude":17.18417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bogda\u0161i\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogda\u0161i\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284508,
+        "wk:page":"Bogda%C5%A1i%C4%87"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4c445e4103b07bd1c75ce70160aa4205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1243186473,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1243186473,
+    "wof:lastmodified":1537585674,
+    "wof:name":"Bogdasic",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18417,
+    43.8575,
+    17.18417,
+    43.8575
+],
+  "geometry": {"coordinates":[17.18417,43.8575],"type":"Point"}
+}

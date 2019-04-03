@@ -1,0 +1,67 @@
+{
+  "id": 1343462665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85165,43.2299,17.85165,43.2299",
+    "geom:latitude":43.2299,
+    "geom:longitude":17.85165,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hodbina",
+    "gn:country_code":"BA",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199364,
+    "gn:latitude":43.2299,
+    "gn:longitude":17.85165,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Hodbina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199364
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6e69c6645b3ce80c02d980a09643316a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1343462665,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1343462665,
+    "wof:lastmodified":1536742679,
+    "wof:name":"Hodbina",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85165,
+    43.2299,
+    17.85165,
+    43.2299
+],
+  "geometry": {"coordinates":[17.85165,43.2299],"type":"Point"}
+}

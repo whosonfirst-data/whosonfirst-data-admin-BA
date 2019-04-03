@@ -1,0 +1,68 @@
+{
+  "id": 1259487337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39589,44.41254,16.39589,44.41254",
+    "geom:latitude":44.41254,
+    "geom:longitude":16.39589,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Podovi",
+    "gn:country_code":"BA",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210635,
+    "gn:latitude":44.41254,
+    "gn:longitude":16.39589,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Podovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210635,
+        "wk:page":"Podovi_%28Drvar%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3ce709d74e001047fb39d72038c24abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759067,
+            "locality_id":1259487337,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1259487337,
+    "wof:lastmodified":1537486809,
+    "wof:name":"Podovi",
+    "wof:parent_id":1108759067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39589,
+    44.41254,
+    16.39589,
+    44.41254
+],
+  "geometry": {"coordinates":[16.39589,44.41254],"type":"Point"}
+}

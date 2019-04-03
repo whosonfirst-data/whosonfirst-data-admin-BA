@@ -1,0 +1,73 @@
+{
+  "id": 1226345235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31881,44.73998,17.31881,44.73998",
+    "geom:latitude":44.73998,
+    "geom:longitude":17.31881,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Celinac",
+    "gn:country_code":"BA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3202784,
+    "gn:latitude":44.73998,
+    "gn:longitude":17.31881,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"\u010celinac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muslimlanski \u010celinac",
+        "\u010celinac",
+        "Donji \u010celinac",
+        "\u010celinac Donji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202784
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3e6327cd04a82574d20be7d1e13dfd63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759045,
+            "locality_id":1226345235,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226345235,
+    "wof:lastmodified":1537585618,
+    "wof:name":"Celinac",
+    "wof:parent_id":1108759045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31881,
+    44.73998,
+    17.31881,
+    44.73998
+],
+  "geometry": {"coordinates":[17.31881,44.73998],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209123917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.92562,44.67661,17.92562,44.67661",
+    "geom:latitude":44.67661,
+    "geom:longitude":17.92562,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Strasevici",
+    "gn:country_code":"BA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252335,
+    "gn:latitude":44.67661,
+    "gn:longitude":17.92562,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Stra\u0161evi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252335
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"20a931fbc23e3b54c82e9308caa2e63d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209123917
+        }
+    ],
+    "wof:id":1209123917,
+    "wof:lastmodified":1536297014,
+    "wof:name":"Strasevici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.925620000000006,
+    44.67661,
+    17.925620000000006,
+    44.67661
+],
+  "geometry": {"coordinates":[17.92562000000001,44.67661],"type":"Point"}
+}

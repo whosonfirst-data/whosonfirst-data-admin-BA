@@ -1,0 +1,71 @@
+{
+  "id": 1210019533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85608,44.29253,18.85608,44.29253",
+    "geom:latitude":44.29253,
+    "geom:longitude":18.85608,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sucani",
+    "gn:country_code":"BA",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3211357,
+    "gn:latitude":44.29253,
+    "gn:longitude":18.85608,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Su\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sup\u010dane",
+        "Su\u010dani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211357
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"abbe15a4b1d1a861d25b9fcd756c2cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759227,
+            "locality_id":1210019533,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1210019533,
+    "wof:lastmodified":1537585649,
+    "wof:name":"Sucani",
+    "wof:parent_id":1108759227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85608,
+    44.29253,
+    18.85608,
+    44.29253
+],
+  "geometry": {"coordinates":[18.85608,44.29253],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343675833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42689,43.30697,17.42689,43.30697",
+    "geom:latitude":43.30697,
+    "geom:longitude":17.42689,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Elpezi",
+    "gn:country_code":"BA",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288304,
+    "gn:latitude":43.30697,
+    "gn:longitude":17.42689,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Elpezi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288304
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fc4d0dc68b53333a73ac955dd63b198b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1343675833,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1343675833,
+    "wof:lastmodified":1536933575,
+    "wof:name":"Elpezi",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42689,
+    43.30697,
+    17.42689,
+    43.30697
+],
+  "geometry": {"coordinates":[17.42689,43.30697],"type":"Point"}
+}

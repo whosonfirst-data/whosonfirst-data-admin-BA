@@ -1,0 +1,71 @@
+{
+  "id": 1276237939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83078,43.97472,17.83078,43.97472",
+    "geom:latitude":43.97472,
+    "geom:longitude":17.83078,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Merdzanici",
+    "gn:country_code":"BA",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213043,
+    "gn:latitude":43.97472,
+    "gn:longitude":17.83078,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Merd\u017eani\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Merd\u017eani\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213043,
+        "wk:page":"Merd%C5%BEani%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0e8652c3a1f06f89a041cffbf5d67f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1276237939,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1276237939,
+    "wof:lastmodified":1537585657,
+    "wof:name":"Merdzanici",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83077999999999,
+    43.97472,
+    17.83077999999999,
+    43.97472
+],
+  "geometry": {"coordinates":[17.83077999999999,43.97472],"type":"Point"}
+}

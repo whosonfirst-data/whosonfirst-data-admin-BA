@@ -1,0 +1,72 @@
+{
+  "id": 1343264785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75177,44.53755,17.75177,44.53755",
+    "geom:latitude":44.53755,
+    "geom:longitude":17.75177,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornji Kuzmani",
+    "gn:country_code":"BA",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196841,
+    "gn:latitude":44.53755,
+    "gn:longitude":17.75177,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornji Kuzmani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuzmani",
+        "Kuzmani\u0107i",
+        "Gornji Kuzmani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196841
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5b2c8500093a859048fa36222d49c26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1343264785,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343264785,
+    "wof:lastmodified":1537585587,
+    "wof:name":"Gornji Kuzmani",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75177,
+    44.53755,
+    17.75177,
+    44.53755
+],
+  "geometry": {"coordinates":[17.75177,44.53755],"type":"Point"}
+}

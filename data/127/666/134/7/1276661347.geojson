@@ -1,0 +1,68 @@
+{
+  "id": 1276661347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99836,43.659,18.99836,43.659",
+    "geom:latitude":43.659,
+    "geom:longitude":18.99836,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vranpotok",
+    "gn:country_code":"BA",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273704,
+    "gn:latitude":43.659,
+    "gn:longitude":18.99836,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vranpotok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273704,
+        "wk:page":"Vranpotok"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e93f86216ea9f3125e946fc6d63b00d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759083,
+            "locality_id":1276661347,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1276661347,
+    "wof:lastmodified":1537486848,
+    "wof:name":"Vranpotok",
+    "wof:parent_id":1108759083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99836,
+    43.659,
+    18.99836,
+    43.659
+],
+  "geometry": {"coordinates":[18.99836,43.659],"type":"Point"}
+}

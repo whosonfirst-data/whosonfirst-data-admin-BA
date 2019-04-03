@@ -1,0 +1,67 @@
+{
+  "id": 1276242515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.62861,43.21444,17.62861,43.21444",
+    "geom:latitude":43.21444,
+    "geom:longitude":17.62861,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Barbarici",
+    "gn:country_code":"BA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289014,
+    "gn:latitude":43.21444,
+    "gn:longitude":17.62861,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Barbari\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289014
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1c818fd6d13e11f0fca0eb40249e6ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759049,
+            "locality_id":1276242515,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1276242515,
+    "wof:lastmodified":1536900325,
+    "wof:name":"Barbarici",
+    "wof:parent_id":1108759049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62861000000001,
+    43.21444,
+    17.62861000000001,
+    43.21444
+],
+  "geometry": {"coordinates":[17.62861000000001,43.21444],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293886601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.71242,43.5333,18.71242,43.5333",
+    "geom:latitude":43.5333,
+    "geom:longitude":18.71242,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Radojevici",
+    "gn:country_code":"BA",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3269977,
+    "gn:latitude":43.5333,
+    "gn:longitude":18.71242,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Radojevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Radojevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269977,
+        "wk:page":"Radojevi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"402f55dd6629d0203e32335cea979481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1293886601,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293886601,
+    "wof:lastmodified":1537585669,
+    "wof:name":"Radojevici",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71242,
+    43.5333,
+    18.71242,
+    43.5333
+],
+  "geometry": {"coordinates":[18.71242,43.5333],"type":"Point"}
+}

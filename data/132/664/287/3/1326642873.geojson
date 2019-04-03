@@ -1,0 +1,67 @@
+{
+  "id": 1326642873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32339,44.65698,17.32339,44.65698",
+    "geom:latitude":44.65698,
+    "geom:longitude":17.32339,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zeljkovici",
+    "gn:country_code":"BA",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248149,
+    "gn:latitude":44.65698,
+    "gn:longitude":17.32339,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zeljkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248149
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"60725997ba1d1484586da6f6caa43b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1326642873,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326642873,
+    "wof:lastmodified":1536823518,
+    "wof:name":"Zeljkovici",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32339,
+    44.65698,
+    17.32339,
+    44.65698
+],
+  "geometry": {"coordinates":[17.32339,44.65698],"type":"Point"}
+}

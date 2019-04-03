@@ -1,0 +1,67 @@
+{
+  "id": 1326533021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17064,44.53991,17.17064,44.53991",
+    "geom:latitude":44.53991,
+    "geom:longitude":17.17064,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Drenik",
+    "gn:country_code":"BA",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250608,
+    "gn:latitude":44.53991,
+    "gn:longitude":17.17064,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Drenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250608
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9b19c2a2a0d496aa14c9773fc499f7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1326533021,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326533021,
+    "wof:lastmodified":1536982181,
+    "wof:name":"Drenik",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17064,
+    44.53991,
+    17.17064,
+    44.53991
+],
+  "geometry": {"coordinates":[17.17064,44.53991],"type":"Point"}
+}

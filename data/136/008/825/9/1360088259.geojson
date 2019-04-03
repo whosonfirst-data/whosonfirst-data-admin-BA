@@ -1,0 +1,71 @@
+{
+  "id": 1360088259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8591,44.28997,16.8591,44.28997",
+    "geom:latitude":44.28997,
+    "geom:longitude":16.8591,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jasenovi Potoci",
+    "gn:country_code":"BA",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3198811,
+    "gn:latitude":44.28997,
+    "gn:longitude":16.8591,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jasenovi Potoci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potok",
+        "Jasenovi Potoci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198811
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"610b9edfe16abf752cccd7cc8ecbe92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1360088259,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360088259,
+    "wof:lastmodified":1537585595,
+    "wof:name":"Jasenovi Potoci",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8591,
+    44.28997,
+    16.8591,
+    44.28997
+],
+  "geometry": {"coordinates":[16.8591,44.28997],"type":"Point"}
+}

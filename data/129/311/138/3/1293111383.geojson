@@ -1,0 +1,71 @@
+{
+  "id": 1293111383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9888,45.00674,17.9888,45.00674",
+    "geom:latitude":45.00674,
+    "geom:longitude":17.9888,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zeravac",
+    "gn:country_code":"BA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240270,
+    "gn:latitude":45.00674,
+    "gn:longitude":17.9888,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u017deravac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017deravac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240270,
+        "wk:page":"%C5%BDeravac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a548d47ab4692d78fcb8cca38fd01dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1293111383,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293111383,
+    "wof:lastmodified":1537585661,
+    "wof:name":"Zeravac",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9888,
+    45.00674,
+    17.9888,
+    45.00674
+],
+  "geometry": {"coordinates":[17.9888,45.00674],"type":"Point"}
+}

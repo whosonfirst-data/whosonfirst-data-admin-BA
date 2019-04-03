@@ -1,0 +1,71 @@
+{
+  "id": 1210033905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65819,44.29399,18.65819,44.29399",
+    "geom:latitude":44.29399,
+    "geom:longitude":18.65819,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Olovci",
+    "gn:country_code":"BA",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3244769,
+    "gn:latitude":44.29399,
+    "gn:longitude":18.65819,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornji Olovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornje Olovci",
+        "Gornji Olovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3244769
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a3391899782ab530f4689f71115f720d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759129,
+            "locality_id":1210033905,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1210033905,
+    "wof:lastmodified":1537585662,
+    "wof:name":"Gornji Olovci",
+    "wof:parent_id":1108759129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65819,
+    44.29399,
+    18.65819,
+    44.29399
+],
+  "geometry": {"coordinates":[18.65819,44.29399],"type":"Point"}
+}

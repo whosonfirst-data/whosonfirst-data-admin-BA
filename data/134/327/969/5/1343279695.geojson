@@ -1,0 +1,72 @@
+{
+  "id": 1343279695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.53139,44.00806,18.53139,44.00806",
+    "geom:latitude":44.00806,
+    "geom:longitude":18.53139,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ovcija Ravan",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3244592,
+    "gn:latitude":44.00806,
+    "gn:longitude":18.53139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ov\u010dija Ravan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ov\u010dja Ravan",
+        "Ov\u010dija Ravan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3244592
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dfbc4ecafe8b2cbd2c77ce67edca3f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759109,
+            "locality_id":1343279695,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1343279695,
+    "wof:lastmodified":1537585661,
+    "wof:name":"Ovcija Ravan",
+    "wof:parent_id":1108759109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.53139,
+    44.00806,
+    18.53139,
+    44.00806
+],
+  "geometry": {"coordinates":[18.53139,44.00806],"type":"Point"}
+}

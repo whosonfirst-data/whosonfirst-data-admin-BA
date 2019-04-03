@@ -1,0 +1,104 @@
+{
+  "id": 101912509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":610533.310504,
+    "geom:bbox":"17.8467591104,44.6036989683,17.8690467208,44.6131570328",
+    "geom:latitude":44.608789,
+    "geom:longitude":17.859244,
+    "gn:id":"",
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "lbl:latitude":44.608735,
+    "lbl:longitude":17.859075,
+    "mps:latitude":44.608735,
+    "mps:longitude":17.859075,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Urganch"
+    ],
+    "name:eng_x_variant":[
+        "Novo-Urgench",
+        "UGC",
+        "Urgench",
+        "Yrgench"
+    ],
+    "qs:a0":"Bosnia and Herzegovina",
+    "qs:a1":"*",
+    "qs:a1r":"6",
+    "qs:adm0":"Bosnia and Herzegovina",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Slatina Kod Teslica",
+    "qs:name":"Slatina Kod Teslica",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop":0,
+    "qs:pop_sr":"0",
+    "qs:source":"HCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669253,
+        1108759259,
+        85632267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22722336,
+        "qs:id":1292527
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"65f2a0ac764005beefdc8db115c07808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":101912509,
+            "region_id":85669253
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":101912509,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":101912509,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1500036109,
+    "wof:name":"Slatina Kod Teslica",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.84675911041967,
+    44.60369896830184,
+    17.86904672081357,
+    44.61315703282878
+],
+  "geometry": {"coordinates":[[[17.8688983573619,44.60369896830184],[17.84675911041967,44.61006465151314],[17.85327237234043,44.60957311582331],[17.85377330300236,44.61315703282878],[17.8587817498717,44.61277859753557],[17.85853111741073,44.61098665456586],[17.86103523989664,44.61079735375995],[17.86090989235754,44.60990138455037],[17.86717003466913,44.60942787839622],[17.86704459446884,44.60853191709197],[17.86579259313049,44.60862664661914],[17.86541636270465,44.60593875264647],[17.86666830531061,44.60584402834661],[17.86654288607116,44.60494806382042],[17.86904672081357,44.60475857365088],[17.8688983573619,44.60369896830184]]],"type":"Polygon"}
+}

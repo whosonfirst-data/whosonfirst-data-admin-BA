@@ -1,0 +1,67 @@
+{
+  "id": 1260293629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48612,44.957,18.48612,44.957",
+    "geom:latitude":44.957,
+    "geom:longitude":18.48612,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Polojcani",
+    "gn:country_code":"BA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254418,
+    "gn:latitude":44.957,
+    "gn:longitude":18.48612,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Poloj\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254418
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cacb2a950305aeb6acd9121fcd56d2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759017,
+            "locality_id":1260293629,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260293629,
+    "wof:lastmodified":1536698467,
+    "wof:name":"Polojcani",
+    "wof:parent_id":1108759017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48612,
+    44.957,
+    18.48612,
+    44.957
+],
+  "geometry": {"coordinates":[18.48612,44.957],"type":"Point"}
+}

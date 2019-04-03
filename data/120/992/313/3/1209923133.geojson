@@ -1,0 +1,67 @@
+{
+  "id": 1209923133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57047,44.9483,16.57047,44.9483",
+    "geom:latitude":44.9483,
+    "geom:longitude":16.57047,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Josici",
+    "gn:country_code":"BA",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3245814,
+    "gn:latitude":44.9483,
+    "gn:longitude":16.57047,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Josi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3245814
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"121a0114b9a9fee83ba58513f5a3f0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1209923133,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209923133,
+    "wof:lastmodified":1536396101,
+    "wof:name":"Josici",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57047,
+    44.9483,
+    16.57047,
+    44.9483
+],
+  "geometry": {"coordinates":[16.57047,44.9483],"type":"Point"}
+}

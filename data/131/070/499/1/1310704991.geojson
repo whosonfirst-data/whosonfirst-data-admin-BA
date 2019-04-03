@@ -1,0 +1,71 @@
+{
+  "id": 1310704991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47421,44.55588,17.47421,44.55588",
+    "geom:latitude":44.55588,
+    "geom:longitude":17.47421,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Orahova",
+    "gn:country_code":"BA",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194071,
+    "gn:latitude":44.55588,
+    "gn:longitude":17.47421,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Orahova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Orahova",
+        "Orahova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194071
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"61389053716c7118cc8323d956342ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1310704991,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310704991,
+    "wof:lastmodified":1537585577,
+    "wof:name":"Orahova",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47421,
+    44.55588,
+    17.47421,
+    44.55588
+],
+  "geometry": {"coordinates":[17.47421,44.55588],"type":"Point"}
+}

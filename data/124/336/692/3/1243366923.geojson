@@ -1,0 +1,67 @@
+{
+  "id": 1243366923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04278,44.80673,19.04278,44.80673",
+    "geom:latitude":44.80673,
+    "geom:longitude":19.04278,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ravnjak",
+    "gn:country_code":"BA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254941,
+    "gn:latitude":44.80673,
+    "gn:longitude":19.04278,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ravnjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254941
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e9ee1353726b7c55287004799eb34228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1243366923,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243366923,
+    "wof:lastmodified":1536920861,
+    "wof:name":"Ravnjak",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04278,
+    44.80673,
+    19.04278,
+    44.80673
+],
+  "geometry": {"coordinates":[19.04278,44.80673],"type":"Point"}
+}

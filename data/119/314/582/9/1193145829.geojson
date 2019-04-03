@@ -1,0 +1,67 @@
+{
+  "id": 1193145829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26817,45.13242,17.26817,45.13242",
+    "geom:latitude":45.13242,
+    "geom:longitude":17.26817,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nasip",
+    "gn:country_code":"BA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284942,
+    "gn:latitude":45.13242,
+    "gn:longitude":17.26817,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Nasip",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284942
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"add7baf2e309eaab6a4b1cd90707c723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1193145829,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193145829,
+    "wof:lastmodified":1536383491,
+    "wof:name":"Nasip",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26817,
+    45.13242,
+    17.26817,
+    45.13242
+],
+  "geometry": {"coordinates":[17.26817,45.13242],"type":"Point"}
+}

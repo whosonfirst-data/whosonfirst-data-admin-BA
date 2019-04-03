@@ -1,0 +1,67 @@
+{
+  "id": 1225947673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57068,44.9682,17.57068,44.9682",
+    "geom:latitude":44.9682,
+    "geom:longitude":17.57068,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rusko Polje",
+    "gn:country_code":"BA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251903,
+    "gn:latitude":44.9682,
+    "gn:longitude":17.57068,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Rusko Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251903
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0382e515afa2a964ddfd5b58bccbad86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759237,
+            "locality_id":1225947673,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225947673,
+    "wof:lastmodified":1536865198,
+    "wof:name":"Rusko Polje",
+    "wof:parent_id":1108759237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57068,
+    44.9682,
+    17.57068,
+    44.9682
+],
+  "geometry": {"coordinates":[17.57068,44.9682],"type":"Point"}
+}

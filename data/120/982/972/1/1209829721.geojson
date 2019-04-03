@@ -1,0 +1,67 @@
+{
+  "id": 1209829721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56222,43.16944,17.56222,43.16944",
+    "geom:latitude":43.16944,
+    "geom:longitude":17.56222,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vitaljina",
+    "gn:country_code":"BA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3288884,
+    "gn:latitude":43.16944,
+    "gn:longitude":17.56222,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Vitaljina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288884
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e1859ebbe7d6584fb998c3b5c6e4aa53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1209829721,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1209829721,
+    "wof:lastmodified":1536369770,
+    "wof:name":"Vitaljina",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56222,
+    43.16944,
+    17.56222,
+    43.16944
+],
+  "geometry": {"coordinates":[17.56222,43.16944],"type":"Point"}
+}

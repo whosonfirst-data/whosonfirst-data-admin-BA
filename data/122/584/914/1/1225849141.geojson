@@ -1,0 +1,74 @@
+{
+  "id": 1225849141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17129,44.51276,18.17129,44.51276",
+    "geom:latitude":44.51276,
+    "geom:longitude":18.17129,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bradici Gornji",
+    "gn:country_code":"BA",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203586,
+    "gn:latitude":44.51276,
+    "gn:longitude":18.17129,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bradi\u0107i Gornji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hrvatski Bradi\u0107i",
+        "Bradi\u0107 Gornji",
+        "Bradi\u0107i Hrvatski",
+        "Bradi\u0107i Gornji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203586,
+        "wk:page":"Bradi%C4%87i_Gornji"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"92ffa635ca396b0a8ade05aab4f76274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1225849141,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1225849141,
+    "wof:lastmodified":1537585623,
+    "wof:name":"Bradici Gornji",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17129,
+    44.51276,
+    18.17129,
+    44.51276
+],
+  "geometry": {"coordinates":[18.17129,44.51276],"type":"Point"}
+}

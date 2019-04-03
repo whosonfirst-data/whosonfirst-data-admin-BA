@@ -1,0 +1,67 @@
+{
+  "id": 1327042763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08062,44.68136,17.08062,44.68136",
+    "geom:latitude":44.68136,
+    "geom:longitude":17.08062,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vukmiri",
+    "gn:country_code":"BA",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250353,
+    "gn:latitude":44.68136,
+    "gn:longitude":17.08062,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vukmiri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250353
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0545967a8f951278ea7fdd778cc47e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1327042763,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327042763,
+    "wof:lastmodified":1536745127,
+    "wof:name":"Vukmiri",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08062,
+    44.68136,
+    17.08062,
+    44.68136
+],
+  "geometry": {"coordinates":[17.08062,44.68136],"type":"Point"}
+}

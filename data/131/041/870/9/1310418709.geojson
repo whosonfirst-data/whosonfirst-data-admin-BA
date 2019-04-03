@@ -1,0 +1,71 @@
+{
+  "id": 1310418709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11298,43.25076,18.11298,43.25076",
+    "geom:latitude":43.25076,
+    "geom:longitude":18.11298,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sehovina",
+    "gn:country_code":"BA",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191163,
+    "gn:latitude":43.25076,
+    "gn:longitude":18.11298,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160ehovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ehovina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191163,
+        "wk:page":"%C5%A0ehovina"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"77c3d921ce093d4b05527eb613d63178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1310418709,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310418709,
+    "wof:lastmodified":1537585564,
+    "wof:name":"Sehovina",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11298,
+    43.25076,
+    18.11298,
+    43.25076
+],
+  "geometry": {"coordinates":[18.11298,43.25076],"type":"Point"}
+}

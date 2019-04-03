@@ -1,0 +1,67 @@
+{
+  "id": 1310207941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04909,44.97782,18.04909,44.97782",
+    "geom:latitude":44.97782,
+    "geom:longitude":18.04909,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Buban",
+    "gn:country_code":"BA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3256834,
+    "gn:latitude":44.97782,
+    "gn:longitude":18.04909,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Buban",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256834
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e28ddcde10da11a3f62faf32e2a3441f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1310207941,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310207941,
+    "wof:lastmodified":1536847624,
+    "wof:name":"Buban",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04909,
+    44.97782,
+    18.04909,
+    44.97782
+],
+  "geometry": {"coordinates":[18.04909,44.97782],"type":"Point"}
+}

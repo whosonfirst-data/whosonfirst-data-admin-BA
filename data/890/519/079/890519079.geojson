@@ -1,0 +1,135 @@
+{
+  "id": 890519079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4,44.14361,17.4,44.14361",
+    "geom:latitude":44.14361,
+    "geom:longitude":17.4,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":7955,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Donji Vakufi"
+    ],
+    "name:bos_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:cze_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:dut_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:eng_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:fre_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:ger_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:ita_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30cb\u30fb\u30f4\u30a1\u30af\u30d5"
+    ],
+    "name:pol_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u044c\u0438-\u0412\u0430\u043a\u0443\u0444"
+    ],
+    "name:slo_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:spa_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u0412\u0430\u043a\u0443\u0444"
+    ],
+    "name:swe_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043d\u0438-\u0412\u0430\u043a\u0443\u0444"
+    ],
+    "name:tur_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:unk_x_variant":[
+        "Srbobran"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0646\u0626\u06cc \u0648\u0627\u06a9\u0648\u0641"
+    ],
+    "qs:name":"Donji Vakuf",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":64,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":269,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201376,
+        "gp:id":941465,
+        "qs:id":186325,
+        "wd:id":"Q1017938",
+        "wk:page":"Donji Vakuf"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056091,
+    "wof:geomhash":"0d54581a550fa471c3003de4b3c7bcf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759065,
+            "locality_id":890519079,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":890519079,
+    "wof:lastmodified":1527751220,
+    "wof:name":"Donji Vakuf",
+    "wof:parent_id":1108759065,
+    "wof:placetype":"locality",
+    "wof:population":7955,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4,
+    44.14361,
+    17.4,
+    44.14361
+],
+  "geometry": {"coordinates":[17.4,44.14361],"type":"Point"}
+}

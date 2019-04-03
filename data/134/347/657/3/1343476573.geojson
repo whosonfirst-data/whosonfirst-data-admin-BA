@@ -1,0 +1,67 @@
+{
+  "id": 1343476573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45004,44.34809,16.45004,44.34809",
+    "geom:latitude":44.34809,
+    "geom:longitude":16.45004,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Medarevici",
+    "gn:country_code":"BA",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260102,
+    "gn:latitude":44.34809,
+    "gn:longitude":16.45004,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Medarevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260102
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"82dda1d0d421becc294dd82c82466bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759067,
+            "locality_id":1343476573,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1343476573,
+    "wof:lastmodified":1536723225,
+    "wof:name":"Medarevici",
+    "wof:parent_id":1108759067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45004,
+    44.34809,
+    16.45004,
+    44.34809
+],
+  "geometry": {"coordinates":[16.45004,44.34809],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276771781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.81707,45.16571,16.81707,45.16571",
+    "geom:latitude":45.16571,
+    "geom:longitude":16.81707,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tamamovic",
+    "gn:country_code":"BA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285953,
+    "gn:latitude":45.16571,
+    "gn:longitude":16.81707,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tamamovi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285953
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7b4ad6df2fa3947f642bef0f130130b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1276771781,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276771781,
+    "wof:lastmodified":1536688324,
+    "wof:name":"Tamamovic",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.81707,
+    45.16571,
+    16.81707,
+    45.16571
+],
+  "geometry": {"coordinates":[16.81707,45.16571],"type":"Point"}
+}

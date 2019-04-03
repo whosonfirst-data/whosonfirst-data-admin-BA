@@ -1,0 +1,67 @@
+{
+  "id": 1225849093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16056,43.84306,18.16056,43.84306",
+    "geom:latitude":43.84306,
+    "geom:longitude":18.16056,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Basce",
+    "gn:country_code":"BA",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296364,
+    "gn:latitude":43.84306,
+    "gn:longitude":18.16056,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Ba\u0161\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296364
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c47c1fc6e13a61fe0a749f3886a52008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1225849093,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1225849093,
+    "wof:lastmodified":1537008087,
+    "wof:name":"Basce",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16056,
+    43.84306,
+    18.16056,
+    43.84306
+],
+  "geometry": {"coordinates":[18.16056,43.84306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360295061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28715,43.99347,17.28715,43.99347",
+    "geom:latitude":43.99347,
+    "geom:longitude":17.28715,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donji Odzak",
+    "gn:country_code":"BA",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284937,
+    "gn:latitude":43.99347,
+    "gn:longitude":17.28715,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donji Od\u017eak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284937
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0f97e4db2c3e5e8c831bfbf05789de39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759145,
+            "locality_id":1360295061,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1360295061,
+    "wof:lastmodified":1536641797,
+    "wof:name":"Donji Odzak",
+    "wof:parent_id":1108759145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28715,
+    43.99347,
+    17.28715,
+    43.99347
+],
+  "geometry": {"coordinates":[17.28715,43.99347],"type":"Point"}
+}

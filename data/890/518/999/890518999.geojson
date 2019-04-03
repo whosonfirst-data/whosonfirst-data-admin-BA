@@ -1,0 +1,81 @@
+{
+  "id": 890518999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.71202,44.54874,18.71202,44.54874",
+    "geom:latitude":44.54874,
+    "geom:longitude":18.71202,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":4,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Grabovica Donja"
+    ],
+    "name:eng_x_preferred":[
+        "Grabovica Donja"
+    ],
+    "name:fre_x_preferred":[
+        "Grabovica Donja"
+    ],
+    "name:hrv_x_preferred":[
+        "Grabovica Donja"
+    ],
+    "name:unk_x_variant":[
+        "Muslimanska-Grabovica"
+    ],
+    "qs:name":"Grabovica Donja",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199804,
+        "qs:id":95141,
+        "wd:id":"Q3112973"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056087,
+    "wof:geomhash":"50ae2e3c3ea7e6791efb6087e5537b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":890518999,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890518999,
+    "wof:lastmodified":1513898819,
+    "wof:name":"Grabovica Donja",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71202,
+    44.54874,
+    18.71202,
+    44.54874
+],
+  "geometry": {"coordinates":[18.71202,44.54874],"type":"Point"}
+}

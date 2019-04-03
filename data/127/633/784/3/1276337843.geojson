@@ -1,0 +1,72 @@
+{
+  "id": 1276337843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37936,45.13253,17.37936,45.13253",
+    "geom:latitude":45.13253,
+    "geom:longitude":17.37936,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornja Dolina",
+    "gn:country_code":"BA",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200267,
+    "gn:latitude":45.13253,
+    "gn:longitude":17.37936,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornja Dolina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolina Gornja",
+        "Gornja Dolina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200267,
+        "wk:page":"Gornja_Dolina"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1f112a7d8b897c69fb4b66fa16dcfed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1276337843,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276337843,
+    "wof:lastmodified":1537585604,
+    "wof:name":"Gornja Dolina",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37936,
+    45.13253,
+    17.37936,
+    45.13253
+],
+  "geometry": {"coordinates":[17.37936,45.13253],"type":"Point"}
+}

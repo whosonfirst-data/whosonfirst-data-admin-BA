@@ -1,0 +1,65 @@
+{
+  "id": 1209633071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02583,44.41356,18.02583,44.41356",
+    "geom:latitude":44.41356,
+    "geom:longitude":18.02583,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hrastusje",
+    "gn:country_code":"BA",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211170,
+    "gn:latitude":44.41356,
+    "gn:longitude":18.02583,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Hrastu\u0161je",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hrastu\u0161a",
+        "Hrastu\u0161je"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211170
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a54c5400e599b85f3cd2e195b55e7f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209633071
+        }
+    ],
+    "wof:id":1209633071,
+    "wof:lastmodified":1537585646,
+    "wof:name":"Hrastusje",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02583,
+    44.41356,
+    18.02583,
+    44.41356
+],
+  "geometry": {"coordinates":[18.02583,44.41356],"type":"Point"}
+}

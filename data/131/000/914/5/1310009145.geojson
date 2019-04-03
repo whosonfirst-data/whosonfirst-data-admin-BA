@@ -1,0 +1,71 @@
+{
+  "id": 1310009145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52023,43.94685,18.52023,43.94685",
+    "geom:latitude":43.94685,
+    "geom:longitude":18.52023,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sljeme",
+    "gn:country_code":"BA",
+    "gn:dem":1365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3266100,
+    "gn:latitude":43.94685,
+    "gn:longitude":18.52023,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0160ljeme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ljeme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266100,
+        "wk:page":"%C5%A0ljeme"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f7d40759ffea297cfb6b1ca5129e91dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759247,
+            "locality_id":1310009145,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310009145,
+    "wof:lastmodified":1537585666,
+    "wof:name":"Sljeme",
+    "wof:parent_id":1108759247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52023,
+    43.94685,
+    18.52023,
+    43.94685
+],
+  "geometry": {"coordinates":[18.52023,43.94685],"type":"Point"}
+}

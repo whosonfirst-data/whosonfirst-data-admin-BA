@@ -1,0 +1,67 @@
+{
+  "id": 1276999357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80037,43.51098,17.80037,43.51098",
+    "geom:latitude":43.51098,
+    "geom:longitude":17.80037,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lipova",
+    "gn:country_code":"BA",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344582,
+    "gn:latitude":43.51098,
+    "gn:longitude":17.80037,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Lipova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344582
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d9d85571f67de99c9d17713bacd8d2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1276999357,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1276999357,
+    "wof:lastmodified":1536880229,
+    "wof:name":"Lipova",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80037,
+    43.51098,
+    17.80037,
+    43.51098
+],
+  "geometry": {"coordinates":[17.80037,43.51098],"type":"Point"}
+}

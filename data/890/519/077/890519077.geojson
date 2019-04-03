@@ -1,0 +1,75 @@
+{
+  "id": 890519077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56982,44.48904,18.56982,44.48904",
+    "geom:latitude":44.48904,
+    "geom:longitude":18.56982,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3447,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kiseljak",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":260,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198137,
+        "gp:id":942302,
+        "qs:id":425861,
+        "wd:id":"Q1018000",
+        "wk:page":"Kiseljak"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056091,
+    "wof:geomhash":"cb6c8af1ec2dfc426c045f76ffa72b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":890519077,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890519077,
+    "wof:lastmodified":1527751220,
+    "wof:name":"Kiseljak",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:population":3447,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56982,
+    44.48904,
+    18.56982,
+    44.48904
+],
+  "geometry": {"coordinates":[18.56982,44.48904],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225961891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9,43.60054,18.9,43.60054",
+    "geom:latitude":43.60054,
+    "geom:longitude":18.9,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sucurici",
+    "gn:country_code":"BA",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271945,
+    "gn:latitude":43.60054,
+    "gn:longitude":18.9,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u0160u\u0107uri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160u\u0107uri\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271945,
+        "wk:page":"%C5%A0u%C4%87uri%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"664ab7f783071e1a30b96a4a688a78ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759083,
+            "locality_id":1225961891,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1225961891,
+    "wof:lastmodified":1537585671,
+    "wof:name":"Sucurici",
+    "wof:parent_id":1108759083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9,
+    43.60054,
+    18.9,
+    43.60054
+],
+  "geometry": {"coordinates":[18.9,43.60054],"type":"Point"}
+}

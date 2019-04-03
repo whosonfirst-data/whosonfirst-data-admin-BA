@@ -1,0 +1,92 @@
+{
+  "id": 890518693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.74941,44.46209,18.74941,44.46209",
+    "geom:latitude":44.46209,
+    "geom:longitude":18.74941,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3535,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vukovije Donje"
+    ],
+    "name:dut_x_preferred":[
+        "Vukovije Donje"
+    ],
+    "name:eng_x_preferred":[
+        "Vukovije Donje"
+    ],
+    "name:fre_x_preferred":[
+        "Vukovije Donje"
+    ],
+    "name:hrv_x_preferred":[
+        "Vukovije Donje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u0438\u0458\u0435 \u0414\u043e\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vukovije Donje"
+    ],
+    "name:unk_x_variant":[
+        "Donje Vukovije"
+    ],
+    "qs:name":"Vukovije Donje",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187040,
+        "qs:id":1043881,
+        "wd:id":"Q3118849",
+        "wk:page":"Vukovije Donje"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056075,
+    "wof:geomhash":"e4abc9bfb8261737d3136cee7254670c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759121,
+            "locality_id":890518693,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890518693,
+    "wof:lastmodified":1527751232,
+    "wof:name":"Vukovije Donje",
+    "wof:parent_id":1108759121,
+    "wof:placetype":"locality",
+    "wof:population":3535,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.74941,
+    44.46209,
+    18.74941,
+    44.46209
+],
+  "geometry": {"coordinates":[18.74941,44.46209],"type":"Point"}
+}

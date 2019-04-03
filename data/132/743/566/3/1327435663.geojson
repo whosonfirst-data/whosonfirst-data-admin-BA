@@ -1,0 +1,67 @@
+{
+  "id": 1327435663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0254,43.60685,18.0254,43.60685",
+    "geom:latitude":43.60685,
+    "geom:longitude":18.0254,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lucila",
+    "gn:country_code":"BA",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268319,
+    "gn:latitude":43.60685,
+    "gn:longitude":18.0254,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Lu\u010dila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268319
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9248c2e70767d44faf05c90f6239f44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1327435663,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1327435663,
+    "wof:lastmodified":1536676064,
+    "wof:name":"Lucila",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0254,
+    43.60685,
+    18.0254,
+    43.60685
+],
+  "geometry": {"coordinates":[18.0254,43.60685],"type":"Point"}
+}

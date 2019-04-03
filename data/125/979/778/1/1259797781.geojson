@@ -1,0 +1,67 @@
+{
+  "id": 1259797781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08389,44.46417,18.08389,44.46417",
+    "geom:latitude":44.46417,
+    "geom:longitude":18.08389,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ivici",
+    "gn:country_code":"BA",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211163,
+    "gn:latitude":44.46417,
+    "gn:longitude":18.08389,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Ivi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211163
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7c2fc31c2e95e6c23e2dd9b02edfa08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759299,
+            "locality_id":1259797781,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259797781,
+    "wof:lastmodified":1536902628,
+    "wof:name":"Ivici",
+    "wof:parent_id":1108759299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08389,
+    44.46417,
+    18.08389,
+    44.46417
+],
+  "geometry": {"coordinates":[18.08389,44.46417],"type":"Point"}
+}

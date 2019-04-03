@@ -1,0 +1,68 @@
+{
+  "id": 1276781529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61424,43.17067,17.61424,43.17067",
+    "geom:latitude":43.17067,
+    "geom:longitude":17.61424,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Studenci",
+    "gn:country_code":"BA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3189641,
+    "gn:latitude":43.17067,
+    "gn:longitude":17.61424,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Studenci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189641,
+        "wk:page":"Studenci%2C_Ljubu%C5%A1ki"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5e9bda2b464f7bb16077852f777da7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1276781529,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1276781529,
+    "wof:lastmodified":1537486721,
+    "wof:name":"Studenci",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61424,
+    43.17067,
+    17.61424,
+    43.17067
+],
+  "geometry": {"coordinates":[17.61424,43.17067],"type":"Point"}
+}

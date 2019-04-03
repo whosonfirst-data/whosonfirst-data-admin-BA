@@ -1,0 +1,67 @@
+{
+  "id": 1344166599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25389,43.63639,18.25389,43.63639",
+    "geom:latitude":43.63639,
+    "geom:longitude":18.25389,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ozimine",
+    "gn:country_code":"BA",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268199,
+    "gn:latitude":43.63639,
+    "gn:longitude":18.25389,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Ozimine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268199
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"58241b340349e943adf8695151d1d0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1344166599,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1344166599,
+    "wof:lastmodified":1536722686,
+    "wof:name":"Ozimine",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25389,
+    43.63639000000001,
+    18.25389,
+    43.63639000000001
+],
+  "geometry": {"coordinates":[18.25389,43.63639000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343776081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53676,43.27522,17.53676,43.27522",
+    "geom:latitude":43.27522,
+    "geom:longitude":17.53676,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pavlovici",
+    "gn:country_code":"BA",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291808,
+    "gn:latitude":43.27522,
+    "gn:longitude":17.53676,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pavlovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291808
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"268987c3599ffbee2ef47430af667832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1343776081,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1343776081,
+    "wof:lastmodified":1536788791,
+    "wof:name":"Pavlovici",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53676,
+    43.27522,
+    17.53676,
+    43.27522
+],
+  "geometry": {"coordinates":[17.53676,43.27522],"type":"Point"}
+}

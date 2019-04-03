@@ -1,0 +1,67 @@
+{
+  "id": 1260083357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63772,44.86475,17.63772,44.86475",
+    "geom:latitude":44.86475,
+    "geom:longitude":17.63772,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Radunjevac",
+    "gn:country_code":"BA",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253932,
+    "gn:latitude":44.86475,
+    "gn:longitude":17.63772,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Radunjevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253932
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"12cc7cad0a235dbb93916c212fa34b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1260083357,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260083357,
+    "wof:lastmodified":1536987350,
+    "wof:name":"Radunjevac",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63772,
+    44.86475,
+    17.63772,
+    44.86475
+],
+  "geometry": {"coordinates":[17.63772,44.86475],"type":"Point"}
+}

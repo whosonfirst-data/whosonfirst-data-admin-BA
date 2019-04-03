@@ -1,0 +1,73 @@
+{
+  "id": 1293014603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.14162,44.02454,18.14162,44.02454",
+    "geom:latitude":44.02454,
+    "geom:longitude":18.14162,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donje Mostre",
+    "gn:country_code":"BA",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201556,
+    "gn:latitude":44.02454,
+    "gn:longitude":18.14162,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Donje Mo\u0161tre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u0161tre Donje",
+        "Donje Me\u0161tre",
+        "Mo\u0161tre",
+        "Donje Mo\u0161tre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201556
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9474436127e11506b384cd2ced87b3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759285,
+            "locality_id":1293014603,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1293014603,
+    "wof:lastmodified":1537585611,
+    "wof:name":"Donje Mostre",
+    "wof:parent_id":1108759285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14162,
+    44.02454,
+    18.14162,
+    44.02454
+],
+  "geometry": {"coordinates":[18.14162,44.02454],"type":"Point"}
+}

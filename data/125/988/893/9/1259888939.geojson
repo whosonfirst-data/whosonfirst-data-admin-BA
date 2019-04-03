@@ -1,0 +1,67 @@
+{
+  "id": 1259888939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31576,44.87526,18.31576,44.87526",
+    "geom:latitude":44.87526,
+    "geom:longitude":18.31576,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tolisa",
+    "gn:country_code":"BA",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3189042,
+    "gn:latitude":44.87526,
+    "gn:longitude":18.31576,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tolisa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189042
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"df0bc396de982471fe6194d5522ec937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759097,
+            "locality_id":1259888939,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259888939,
+    "wof:lastmodified":1536771741,
+    "wof:name":"Tolisa",
+    "wof:parent_id":1108759097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31576,
+    44.87526,
+    18.31576,
+    44.87526
+],
+  "geometry": {"coordinates":[18.31576,44.87526],"type":"Point"}
+}

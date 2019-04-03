@@ -1,0 +1,67 @@
+{
+  "id": 1193020103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04527,44.98785,16.04527,44.98785",
+    "geom:latitude":44.98785,
+    "geom:longitude":16.04527,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hadzici",
+    "gn:country_code":"BA",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260854,
+    "gn:latitude":44.98785,
+    "gn:longitude":16.04527,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Had\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260854
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"acd0aaa20cb13955d04cfa9e51a705cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759003,
+            "locality_id":1193020103,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1193020103,
+    "wof:lastmodified":1536374160,
+    "wof:name":"Hadzici",
+    "wof:parent_id":1108759003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04527,
+    44.98785,
+    16.04527,
+    44.98785
+],
+  "geometry": {"coordinates":[16.04527,44.98785],"type":"Point"}
+}

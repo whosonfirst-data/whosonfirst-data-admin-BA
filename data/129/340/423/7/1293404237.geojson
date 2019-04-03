@@ -1,0 +1,67 @@
+{
+  "id": 1293404237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82469,45.13443,15.82469,45.13443",
+    "geom:latitude":45.13443,
+    "geom:longitude":15.82469,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Basici",
+    "gn:country_code":"BA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278949,
+    "gn:latitude":45.13443,
+    "gn:longitude":15.82469,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ba\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278949
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b6a73beff651cd9dae4f4b2c7a544c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1293404237,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293404237,
+    "wof:lastmodified":1536907211,
+    "wof:name":"Basici",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82469,
+    45.13443,
+    15.82469,
+    45.13443
+],
+  "geometry": {"coordinates":[15.82469,45.13443],"type":"Point"}
+}

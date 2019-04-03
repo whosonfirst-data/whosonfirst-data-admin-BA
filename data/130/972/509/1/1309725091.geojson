@@ -1,0 +1,67 @@
+{
+  "id": 1309725091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94306,43.48028,18.94306,43.48028",
+    "geom:latitude":43.48028,
+    "geom:longitude":18.94306,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Meljen",
+    "gn:country_code":"BA",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341523,
+    "gn:latitude":43.48028,
+    "gn:longitude":18.94306,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Meljen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341523
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5b400a40dc99b96a34fa564420027db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1309725091,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309725091,
+    "wof:lastmodified":1537045480,
+    "wof:name":"Meljen",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94306,
+    43.48028,
+    18.94306,
+    43.48028
+],
+  "geometry": {"coordinates":[18.94306,43.48028],"type":"Point"}
+}

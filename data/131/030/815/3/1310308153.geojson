@@ -1,0 +1,67 @@
+{
+  "id": 1310308153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8314,44.20685,18.8314,44.20685",
+    "geom:latitude":44.20685,
+    "geom:longitude":18.8314,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kljestani",
+    "gn:country_code":"BA",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3198054,
+    "gn:latitude":44.20685,
+    "gn:longitude":18.8314,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Klje\u0161tani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198054
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0bf5da851eb1be5be2cae02ad12c64d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759289,
+            "locality_id":1310308153,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310308153,
+    "wof:lastmodified":1536704335,
+    "wof:name":"Kljestani",
+    "wof:parent_id":1108759289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8314,
+    44.20685,
+    18.8314,
+    44.20685
+],
+  "geometry": {"coordinates":[18.8314,44.20685],"type":"Point"}
+}

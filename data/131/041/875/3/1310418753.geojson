@@ -1,0 +1,67 @@
+{
+  "id": 1310418753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97777,44.92301,17.97777,44.92301",
+    "geom:latitude":44.92301,
+    "geom:longitude":17.97777,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Principi",
+    "gn:country_code":"BA",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251298,
+    "gn:latitude":44.92301,
+    "gn:longitude":17.97777,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Principi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251298
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"17db946461030baf31d4597e76fcade8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1310418753,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310418753,
+    "wof:lastmodified":1537040385,
+    "wof:name":"Principi",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97777,
+    44.92301,
+    17.97777,
+    44.92301
+],
+  "geometry": {"coordinates":[17.97777,44.92301],"type":"Point"}
+}

@@ -1,0 +1,176 @@
+{
+  "id": 890519017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.667,44.7667,16.667,44.7667",
+    "geom:latitude":44.7667,
+    "geom:longitude":16.667,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":13551,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:bos_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0441\u043a\u0438 \u043c\u043e\u0441\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:ces_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:chi_x_preferred":[
+        "\u6851\u65af\u57fa\u83ab\u65af\u7279"
+    ],
+    "name:cze_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:dan_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:deu_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:dut_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:eng_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:fao_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:fre_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:ger_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:hbs_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:hrv_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:ile_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:ita_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:jav_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30b9\u30ad\u30fb\u30e2\u30b9\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\uc2a4\ud0a4\ubaa8\uc2a4\ud2b8"
+    ],
+    "name:lit_x_preferred":[
+        "Sanski Mostas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0430\u043d\u0441\u043a\u0438 \u041c\u043e\u0441\u0442"
+    ],
+    "name:pol_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0441\u043a\u0438-\u041c\u043e\u0441\u0442"
+    ],
+    "name:slv_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:spa_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0441\u043a\u0438 \u041c\u043e\u0441\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u0441\u043a\u0438-\u041c\u043e\u0441\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:unk_x_variant":[
+        "Sana"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u0633\u06a9\u06cc \u0645\u0648\u0633\u0679"
+    ],
+    "qs:name":"Sanski Most",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos":88,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":88,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":485,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191297,
+        "gp:id":943826,
+        "qs:id":909826,
+        "wd:id":"Q2189505",
+        "wk:page":"Sanski Most"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056088,
+    "wof:geomhash":"50d1d5f4f431fa671a93090b5791455f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759219,
+            "locality_id":890519017,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890519017,
+    "wof:lastmodified":1527751224,
+    "wof:name":"Sanski Most",
+    "wof:parent_id":1108759219,
+    "wof:placetype":"locality",
+    "wof:population":13551,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.667,
+    44.7667,
+    16.667,
+    44.7667
+],
+  "geometry": {"coordinates":[16.667,44.7667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260293691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76472,43.46619,18.76472,43.46619",
+    "geom:latitude":43.46619,
+    "geom:longitude":18.76472,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Perizovici",
+    "gn:country_code":"BA",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298639,
+    "gn:latitude":43.46619,
+    "gn:longitude":18.76472,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Perizovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298639
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dab11aa9710b6995cca4c5f89a33f648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1260293691,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260293691,
+    "wof:lastmodified":1536698384,
+    "wof:name":"Perizovici",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76472,
+    43.46619000000001,
+    18.76472,
+    43.46619000000001
+],
+  "geometry": {"coordinates":[18.76472,43.46619000000001],"type":"Point"}
+}

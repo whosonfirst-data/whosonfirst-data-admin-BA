@@ -1,0 +1,61 @@
+{
+  "id": 1209228715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70462,43.52864,17.70462,43.52864",
+    "geom:latitude":43.52864,
+    "geom:longitude":17.70462,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Dreznica",
+    "gn:country_code":"BA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3344241,
+    "gn:latitude":43.52864,
+    "gn:longitude":17.70462,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donja Dre\u017enica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344241
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"906f9c6ce1250921655a9dc1fe277f8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209228715
+        }
+    ],
+    "wof:id":1209228715,
+    "wof:lastmodified":1536293709,
+    "wof:name":"Donja Dreznica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.704620000000006,
+    43.52864,
+    17.704620000000006,
+    43.52864
+],
+  "geometry": {"coordinates":[17.70462000000001,43.52864],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326634105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23861,43.87639,17.23861,43.87639",
+    "geom:latitude":43.87639,
+    "geom:longitude":17.23861,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zelivodic",
+    "gn:country_code":"BA",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3284593,
+    "gn:latitude":43.87639,
+    "gn:longitude":17.23861,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"\u017delivodi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284593
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"11572288176829b36f8c847afd03369e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759145,
+            "locality_id":1326634105,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1326634105,
+    "wof:lastmodified":1536836011,
+    "wof:name":"Zelivodic",
+    "wof:parent_id":1108759145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23861,
+    43.87639,
+    17.23861,
+    43.87639
+],
+  "geometry": {"coordinates":[17.23861,43.87639],"type":"Point"}
+}

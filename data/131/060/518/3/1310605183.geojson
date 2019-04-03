@@ -1,0 +1,71 @@
+{
+  "id": 1310605183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38978,44.26617,17.38978,44.26617",
+    "geom:latitude":44.26617,
+    "geom:longitude":17.38978,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kokici",
+    "gn:country_code":"BA",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3197920,
+    "gn:latitude":44.26617,
+    "gn:longitude":17.38978,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Koki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Koki\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197920,
+        "wk:page":"Koki%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7b9bc18b511f189c80358a595a2a29f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759115,
+            "locality_id":1310605183,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1310605183,
+    "wof:lastmodified":1537585591,
+    "wof:name":"Kokici",
+    "wof:parent_id":1108759115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38978,
+    44.26617,
+    17.38978,
+    44.26617
+],
+  "geometry": {"coordinates":[17.38978,44.26617],"type":"Point"}
+}

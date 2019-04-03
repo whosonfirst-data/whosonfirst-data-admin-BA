@@ -1,0 +1,68 @@
+{
+  "id": 1243077141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25369,43.66338,18.25369,43.66338",
+    "geom:latitude":43.66338,
+    "geom:longitude":18.25369,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kramari",
+    "gn:country_code":"BA",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197381,
+    "gn:latitude":43.66338,
+    "gn:longitude":18.25369,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kramari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197381,
+        "wk:page":"Kramari"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e30d9b9adb4ef2a7fb4c27633a87324b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1243077141,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1243077141,
+    "wof:lastmodified":1537486757,
+    "wof:name":"Kramari",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25369,
+    43.66338,
+    18.25369,
+    43.66338
+],
+  "geometry": {"coordinates":[18.25369,43.66338],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327152217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73368,44.57901,16.73368,44.57901",
+    "geom:latitude":44.57901,
+    "geom:longitude":16.73368,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donji Ramici",
+    "gn:country_code":"BA",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201407,
+    "gn:latitude":44.57901,
+    "gn:longitude":16.73368,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Donji Rami\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rami\u0107i Donji",
+        "Pravoslavni Rami\u0107i",
+        "Donji Rami\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201407,
+        "wk:page":"Donji_Rami%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8bbf00267dc1a4caf4d71edc77a3ba50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1327152217,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1327152217,
+    "wof:lastmodified":1537585610,
+    "wof:name":"Donji Ramici",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73368,
+    44.57901,
+    16.73368,
+    44.57901
+],
+  "geometry": {"coordinates":[16.73368,44.57901],"type":"Point"}
+}

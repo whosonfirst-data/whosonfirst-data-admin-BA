@@ -1,0 +1,68 @@
+{
+  "id": 1226553641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37911,44.28129,17.37911,44.28129",
+    "geom:latitude":44.28129,
+    "geom:longitude":17.37911,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krezluk",
+    "gn:country_code":"BA",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197292,
+    "gn:latitude":44.28129,
+    "gn:longitude":17.37911,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Krezluk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197292,
+        "wk:page":"Krezluk"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5dd61d217459d0b0ebedc7dcc0b4ad5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759115,
+            "locality_id":1226553641,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1226553641,
+    "wof:lastmodified":1537486756,
+    "wof:name":"Krezluk",
+    "wof:parent_id":1108759115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37911,
+    44.28129000000001,
+    17.37911,
+    44.28129000000001
+],
+  "geometry": {"coordinates":[17.37911,44.28129000000001],"type":"Point"}
+}

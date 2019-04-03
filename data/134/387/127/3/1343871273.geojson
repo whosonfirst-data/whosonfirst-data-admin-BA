@@ -1,0 +1,71 @@
+{
+  "id": 1343871273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96417,44.1535,18.96417,44.1535",
+    "geom:latitude":44.1535,
+    "geom:longitude":18.96417,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornji Zalukovik",
+    "gn:country_code":"BA",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3211388,
+    "gn:latitude":44.1535,
+    "gn:longitude":18.96417,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornji Zalukovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornji Zabukovik",
+        "Gornji Zalukovik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211388
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f3afe1d1deb074249010b1adcb33c670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759289,
+            "locality_id":1343871273,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343871273,
+    "wof:lastmodified":1537585649,
+    "wof:name":"Gornji Zalukovik",
+    "wof:parent_id":1108759289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96417000000001,
+    44.1535,
+    18.96417000000001,
+    44.1535
+],
+  "geometry": {"coordinates":[18.96417000000001,44.1535],"type":"Point"}
+}

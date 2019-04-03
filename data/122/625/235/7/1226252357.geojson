@@ -1,0 +1,72 @@
+{
+  "id": 1226252357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.84031,44.5085,18.84031,44.5085",
+    "geom:latitude":44.5085,
+    "geom:longitude":18.84031,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hrasno Donje",
+    "gn:country_code":"BA",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199311,
+    "gn:latitude":44.5085,
+    "gn:longitude":18.84031,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Hrasno Donje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donje Hrasno",
+        "Hrasno Donje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199311,
+        "wk:page":"Hrasno_Donje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"86833fe393024222fa51baaddf2ce91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759121,
+            "locality_id":1226252357,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1226252357,
+    "wof:lastmodified":1537585596,
+    "wof:name":"Hrasno Donje",
+    "wof:parent_id":1108759121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.84031,
+    44.5085,
+    18.84031,
+    44.5085
+],
+  "geometry": {"coordinates":[18.84031,44.5085],"type":"Point"}
+}

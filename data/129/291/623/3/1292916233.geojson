@@ -1,0 +1,67 @@
+{
+  "id": 1292916233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05175,44.85259,18.05175,44.85259",
+    "geom:latitude":44.85259,
+    "geom:longitude":18.05175,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Katavici",
+    "gn:country_code":"BA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255742,
+    "gn:latitude":44.85259,
+    "gn:longitude":18.05175,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Katavi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255742
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5e5996ab2ae92219dcf6656cfa468cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1292916233,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1292916233,
+    "wof:lastmodified":1536614067,
+    "wof:name":"Katavici",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05175,
+    44.85259,
+    18.05175,
+    44.85259
+],
+  "geometry": {"coordinates":[18.05175,44.85259],"type":"Point"}
+}

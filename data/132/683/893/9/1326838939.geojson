@@ -1,0 +1,67 @@
+{
+  "id": 1326838939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15468,44.91384,18.15468,44.91384",
+    "geom:latitude":44.91384,
+    "geom:longitude":18.15468,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lazici",
+    "gn:country_code":"BA",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256248,
+    "gn:latitude":44.91384,
+    "gn:longitude":18.15468,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Lazi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256248
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"35f1c6e3b304eaa86429b37fae2c5a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759169,
+            "locality_id":1326838939,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326838939,
+    "wof:lastmodified":1537037400,
+    "wof:name":"Lazici",
+    "wof:parent_id":1108759169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15468,
+    44.91384,
+    18.15468,
+    44.91384
+],
+  "geometry": {"coordinates":[18.15468,44.91384],"type":"Point"}
+}

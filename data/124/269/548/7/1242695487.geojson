@@ -1,0 +1,67 @@
+{
+  "id": 1242695487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73964,43.59368,18.73964,43.59368",
+    "geom:latitude":43.59368,
+    "geom:longitude":18.73964,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Osoje",
+    "gn:country_code":"BA",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268636,
+    "gn:latitude":43.59368,
+    "gn:longitude":18.73964,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Osoje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268636
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"68177b13c18ad0a023f1d3e139bd8de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759071,
+            "locality_id":1242695487,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1242695487,
+    "wof:lastmodified":1536893700,
+    "wof:name":"Osoje",
+    "wof:parent_id":1108759071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73964,
+    43.59368,
+    18.73964,
+    43.59368
+],
+  "geometry": {"coordinates":[18.73964,43.59368],"type":"Point"}
+}

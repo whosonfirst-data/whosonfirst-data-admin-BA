@@ -1,0 +1,72 @@
+{
+  "id": 1344069665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.03306,44.95083,18.03306,44.95083",
+    "geom:latitude":44.95083,
+    "geom:longitude":18.03306,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jerkovici",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254106,
+    "gn:latitude":44.95083,
+    "gn:longitude":18.03306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jerkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jerkovi\u0107a",
+        "Jerkovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254106
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fa1814b5ae8adaf7120d5541e8cd01f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1344069665,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344069665,
+    "wof:lastmodified":1537585663,
+    "wof:name":"Jerkovici",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.03306,
+    44.95083,
+    18.03306,
+    44.95083
+],
+  "geometry": {"coordinates":[18.03306,44.95083],"type":"Point"}
+}

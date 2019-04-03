@@ -1,0 +1,96 @@
+{
+  "id": 890518837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.86329,43.77414,16.86329,43.77414",
+    "geom:latitude":43.77414,
+    "geom:longitude":16.86329,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4371,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Orguz"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u0433\u0443\u0437"
+    ],
+    "name:dut_x_preferred":[
+        "Orguz"
+    ],
+    "name:eng_x_preferred":[
+        "Orguz"
+    ],
+    "name:fre_x_preferred":[
+        "Orguz"
+    ],
+    "name:hrv_x_preferred":[
+        "Orguz"
+    ],
+    "name:swe_x_preferred":[
+        "Orguz"
+    ],
+    "qs:name":"Orguz",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":201,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194013,
+        "gp:id":943200,
+        "qs:id":1085462,
+        "wd:id":"Q3042786",
+        "wk:page":"Orguz"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056081,
+    "wof:geomhash":"9f7896aedc69ac1fa385747b7fb2d76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":890518837,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":890518837,
+    "wof:lastmodified":1527758437,
+    "wof:name":"Orguz",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:population":4371,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86329,
+    43.77414,
+    16.86329,
+    43.77414
+],
+  "geometry": {"coordinates":[16.86329,43.77414],"type":"Point"}
+}

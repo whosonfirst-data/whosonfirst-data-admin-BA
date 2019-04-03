@@ -1,0 +1,61 @@
+{
+  "id": 1209120271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81651,44.21438,18.81651,44.21438",
+    "geom:latitude":44.21438,
+    "geom:longitude":18.81651,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Turalici",
+    "gn:country_code":"BA",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188638,
+    "gn:latitude":44.21438,
+    "gn:longitude":18.81651,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Turali\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188638
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"afb50f2c0d15b6fb8fa7f61a8b09a1b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209120271
+        }
+    ],
+    "wof:id":1209120271,
+    "wof:lastmodified":1536297122,
+    "wof:name":"Turalici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81651,
+    44.21438,
+    18.81651,
+    44.21438
+],
+  "geometry": {"coordinates":[18.81651,44.21438],"type":"Point"}
+}

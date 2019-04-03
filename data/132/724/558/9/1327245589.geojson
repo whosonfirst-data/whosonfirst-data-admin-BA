@@ -1,0 +1,67 @@
+{
+  "id": 1327245589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58686,43.45145,17.58686,43.45145",
+    "geom:latitude":43.45145,
+    "geom:longitude":17.58686,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Dobrinj",
+    "gn:country_code":"BA",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290450,
+    "gn:latitude":43.45145,
+    "gn:longitude":17.58686,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornji Dobrinj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290450
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f5cb6b97e497fc5684726e54d517c690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759231,
+            "locality_id":1327245589,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1327245589,
+    "wof:lastmodified":1536950635,
+    "wof:name":"Gornji Dobrinj",
+    "wof:parent_id":1108759231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58686,
+    43.45145,
+    17.58686,
+    43.45145
+],
+  "geometry": {"coordinates":[17.58686,43.45145],"type":"Point"}
+}

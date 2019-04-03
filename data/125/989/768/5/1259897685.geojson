@@ -1,0 +1,71 @@
+{
+  "id": 1259897685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47361,44.71167,18.47361,44.71167",
+    "geom:latitude":44.71167,
+    "geom:longitude":18.47361,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Babunovici",
+    "gn:country_code":"BA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204694,
+    "gn:latitude":44.71167,
+    "gn:longitude":18.47361,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Babunovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babunovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204694,
+        "wk:page":"Babunovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b18a4d8bbaa1b9d07db110888c8b1c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759243,
+            "locality_id":1259897685,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1259897685,
+    "wof:lastmodified":1537585629,
+    "wof:name":"Babunovici",
+    "wof:parent_id":1108759243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47361,
+    44.71167,
+    18.47361,
+    44.71167
+],
+  "geometry": {"coordinates":[18.47361,44.71167],"type":"Point"}
+}

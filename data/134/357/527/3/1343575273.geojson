@@ -1,0 +1,67 @@
+{
+  "id": 1343575273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54184,44.52922,18.54184,44.52922",
+    "geom:latitude":44.52922,
+    "geom:longitude":18.54184,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tunici",
+    "gn:country_code":"BA",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263280,
+    "gn:latitude":44.52922,
+    "gn:longitude":18.54184,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tuni\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263280
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0cbdbe8eb681b042785b47d3c053290b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759161,
+            "locality_id":1343575273,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1343575273,
+    "wof:lastmodified":1537074922,
+    "wof:name":"Tunici",
+    "wof:parent_id":1108759161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54184,
+    44.52922,
+    18.54184,
+    44.52922
+],
+  "geometry": {"coordinates":[18.54184,44.52922],"type":"Point"}
+}

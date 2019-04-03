@@ -1,0 +1,61 @@
+{
+  "id": 1209328625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10111,43.5782,17.10111,43.5782",
+    "geom:latitude":43.5782,
+    "geom:longitude":17.10111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Skorici",
+    "gn:country_code":"BA",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283573,
+    "gn:latitude":43.5782,
+    "gn:longitude":17.10111,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Skori\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283573
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4ce5d4a6f6568f98541798da6e41542a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209328625
+        }
+    ],
+    "wof:id":1209328625,
+    "wof:lastmodified":1536290447,
+    "wof:name":"Skorici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.101110000000002,
+    43.5782,
+    17.101110000000002,
+    43.5782
+],
+  "geometry": {"coordinates":[17.10111,43.5782],"type":"Point"}
+}

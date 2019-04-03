@@ -1,0 +1,67 @@
+{
+  "id": 1343265125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.22061,44.13481,17.22061,44.13481",
+    "geom:latitude":44.13481,
+    "geom:longitude":17.22061,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Savkovica Do",
+    "gn:country_code":"BA",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238326,
+    "gn:latitude":44.13481,
+    "gn:longitude":17.22061,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Savkovi\u0107a Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238326
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d32835281b9e67ee4e3397350d4bb5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1343265125,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343265125,
+    "wof:lastmodified":1537026940,
+    "wof:name":"Savkovica Do",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.22061,
+    44.13481,
+    17.22061,
+    44.13481
+],
+  "geometry": {"coordinates":[17.22061,44.13481],"type":"Point"}
+}

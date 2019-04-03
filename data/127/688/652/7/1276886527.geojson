@@ -1,0 +1,67 @@
+{
+  "id": 1276886527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6409,43.2553,18.6409,43.2553",
+    "geom:latitude":43.2553,
+    "geom:longitude":18.6409,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Godijevica",
+    "gn:country_code":"BA",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296760,
+    "gn:latitude":43.2553,
+    "gn:longitude":18.6409,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Godijevica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296760
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b737a42e4c388b975f8edd065ccb9342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1276886527,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276886527,
+    "wof:lastmodified":1537030840,
+    "wof:name":"Godijevica",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6409,
+    43.2553,
+    18.6409,
+    43.2553
+],
+  "geometry": {"coordinates":[18.6409,43.2553],"type":"Point"}
+}

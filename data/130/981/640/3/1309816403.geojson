@@ -1,0 +1,71 @@
+{
+  "id": 1309816403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26472,43.82444,19.26472,43.82444",
+    "geom:latitude":43.82444,
+    "geom:longitude":19.26472,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donja Brstanica",
+    "gn:country_code":"BA",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3201710,
+    "gn:latitude":43.82444,
+    "gn:longitude":19.26472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Donja Br\u0161tanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Donja Br\u0161tanica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201710,
+        "wk:page":"Donja_Br%C5%A1tanica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"459e4982e96b8cd80a987c63c3483888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1309816403,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309816403,
+    "wof:lastmodified":1537585613,
+    "wof:name":"Donja Brstanica",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26472,
+    43.82444,
+    19.26472,
+    43.82444
+],
+  "geometry": {"coordinates":[19.26472,43.82444],"type":"Point"}
+}

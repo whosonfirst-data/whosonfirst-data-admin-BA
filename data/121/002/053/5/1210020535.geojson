@@ -1,0 +1,68 @@
+{
+  "id": 1210020535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8802,44.12932,17.8802,44.12932",
+    "geom:latitude":44.12932,
+    "geom:longitude":17.8802,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kaonik",
+    "gn:country_code":"BA",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210396,
+    "gn:latitude":44.12932,
+    "gn:longitude":17.8802,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kaonik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210396,
+        "wk:page":"Kaonik"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1f96974f77e5f310d3f775d68a42053f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759031,
+            "locality_id":1210020535,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1210020535,
+    "wof:lastmodified":1537486807,
+    "wof:name":"Kaonik",
+    "wof:parent_id":1108759031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8802,
+    44.12932,
+    17.8802,
+    44.12932
+],
+  "geometry": {"coordinates":[17.8802,44.12932],"type":"Point"}
+}

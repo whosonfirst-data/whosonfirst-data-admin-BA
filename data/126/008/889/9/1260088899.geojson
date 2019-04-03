@@ -1,0 +1,72 @@
+{
+  "id": 1260088899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6598,44.04096,18.6598,44.04096",
+    "geom:latitude":44.04096,
+    "geom:longitude":18.6598,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zunova",
+    "gn:country_code":"BA",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3186300,
+    "gn:latitude":44.04096,
+    "gn:longitude":18.6598,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u017dunova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dunovi",
+        "\u017dunova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186300,
+        "wk:page":"%C5%BDunovi"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"14864dc07f40e1691ed86d46581d45d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1260088899,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260088899,
+    "wof:lastmodified":1537585546,
+    "wof:name":"Zunova",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6598,
+    44.04096,
+    18.6598,
+    44.04096
+],
+  "geometry": {"coordinates":[18.6598,44.04096],"type":"Point"}
+}

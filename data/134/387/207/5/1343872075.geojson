@@ -1,0 +1,67 @@
+{
+  "id": 1343872075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68155,44.17493,18.68155,44.17493",
+    "geom:latitude":44.17493,
+    "geom:longitude":18.68155,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Velika Kula",
+    "gn:country_code":"BA",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188216,
+    "gn:latitude":44.17493,
+    "gn:longitude":18.68155,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Velika Kula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188216
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9843f366e202c842723b2a3669ce77ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759129,
+            "locality_id":1343872075,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1343872075,
+    "wof:lastmodified":1536649508,
+    "wof:name":"Velika Kula",
+    "wof:parent_id":1108759129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68155,
+    44.17493,
+    18.68155,
+    44.17493
+],
+  "geometry": {"coordinates":[18.68155,44.17493],"type":"Point"}
+}

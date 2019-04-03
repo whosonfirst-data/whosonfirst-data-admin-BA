@@ -1,0 +1,67 @@
+{
+  "id": 1360198563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96583,43.87583,17.96583,43.87583",
+    "geom:latitude":43.87583,
+    "geom:longitude":17.96583,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Luzine",
+    "gn:country_code":"BA",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289432,
+    "gn:latitude":43.87583,
+    "gn:longitude":17.96583,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Lu\u017eine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289432
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"467cc1a1c2811924fb57c97766a9fe77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1360198563,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1360198563,
+    "wof:lastmodified":1536782374,
+    "wof:name":"Luzine",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96583,
+    43.87583,
+    17.96583,
+    43.87583
+],
+  "geometry": {"coordinates":[17.96583,43.87583],"type":"Point"}
+}

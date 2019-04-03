@@ -1,0 +1,71 @@
+{
+  "id": 1276772039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63095,44.44565,17.63095,44.44565",
+    "geom:latitude":44.44565,
+    "geom:longitude":17.63095,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hajdarovici",
+    "gn:country_code":"BA",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210434,
+    "gn:latitude":44.44565,
+    "gn:longitude":17.63095,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Hajdarovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hajderovi\u0107i",
+        "Hajdarovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210434
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"008623cfc3ce1cbfac0a2f9736f1761e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1276772039,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276772039,
+    "wof:lastmodified":1537585638,
+    "wof:name":"Hajdarovici",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63095,
+    44.44565,
+    17.63095,
+    44.44565
+],
+  "geometry": {"coordinates":[17.63095,44.44565],"type":"Point"}
+}

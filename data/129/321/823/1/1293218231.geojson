@@ -1,0 +1,67 @@
+{
+  "id": 1293218231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.06861,43.53056,18.06861,43.53056",
+    "geom:latitude":43.53056,
+    "geom:longitude":18.06861,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vaganj",
+    "gn:country_code":"BA",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268766,
+    "gn:latitude":43.53056,
+    "gn:longitude":18.06861,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Vaganj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268766
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"373e00202ae1893be68332022e9bac6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1293218231,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1293218231,
+    "wof:lastmodified":1536678198,
+    "wof:name":"Vaganj",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.06861,
+    43.53056,
+    18.06861,
+    43.53056
+],
+  "geometry": {"coordinates":[18.06861,43.53056],"type":"Point"}
+}

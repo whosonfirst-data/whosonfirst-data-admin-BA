@@ -1,0 +1,67 @@
+{
+  "id": 1276995301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39987,43.87423,18.39987,43.87423",
+    "geom:latitude":43.87423,
+    "geom:longitude":18.39987,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bare",
+    "gn:country_code":"BA",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267788,
+    "gn:latitude":43.87423,
+    "gn:longitude":18.39987,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267788
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ef50fe963d3287e36730c3c98f4d810c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759187,
+            "locality_id":1276995301,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1276995301,
+    "wof:lastmodified":1536885792,
+    "wof:name":"Bare",
+    "wof:parent_id":1108759187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39987,
+    43.87423,
+    18.39987,
+    43.87423
+],
+  "geometry": {"coordinates":[18.39987,43.87423],"type":"Point"}
+}

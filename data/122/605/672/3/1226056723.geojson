@@ -1,0 +1,71 @@
+{
+  "id": 1226056723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00399,44.13717,18.00399,44.13717",
+    "geom:latitude":44.13717,
+    "geom:longitude":18.00399,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Biljesevo",
+    "gn:country_code":"BA",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204143,
+    "gn:latitude":44.13717,
+    "gn:longitude":18.00399,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Bilje\u0161evo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilje\u0161evo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204143,
+        "wk:page":"Bilje%C5%A1evo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"75edad512e03a2f455d8d75c684e4f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1226056723,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1226056723,
+    "wof:lastmodified":1537585627,
+    "wof:name":"Biljesevo",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00398999999999,
+    44.13717000000001,
+    18.00398999999999,
+    44.13717000000001
+],
+  "geometry": {"coordinates":[18.00398999999999,44.13717000000001],"type":"Point"}
+}

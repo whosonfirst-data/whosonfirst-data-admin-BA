@@ -1,0 +1,67 @@
+{
+  "id": 1242985533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68075,44.25354,18.68075,44.25354",
+    "geom:latitude":44.25354,
+    "geom:longitude":18.68075,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mladovo",
+    "gn:country_code":"BA",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194982,
+    "gn:latitude":44.25354,
+    "gn:longitude":18.68075,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mladovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194982
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5491629a4e93225855eaaa5379aba3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759129,
+            "locality_id":1242985533,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1242985533,
+    "wof:lastmodified":1536972586,
+    "wof:name":"Mladovo",
+    "wof:parent_id":1108759129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68075,
+    44.25354,
+    18.68075,
+    44.25354
+],
+  "geometry": {"coordinates":[18.68075,44.25354],"type":"Point"}
+}

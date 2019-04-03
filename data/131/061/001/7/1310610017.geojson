@@ -1,0 +1,67 @@
+{
+  "id": 1310610017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36971,43.73171,19.36971,43.73171",
+    "geom:latitude":43.73171,
+    "geom:longitude":19.36971,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jezera",
+    "gn:country_code":"BA",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299003,
+    "gn:latitude":43.73171,
+    "gn:longitude":19.36971,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Jezera",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299003
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7c88f3e8c2f2a7719e5be98cf914b764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1310610017,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310610017,
+    "wof:lastmodified":1536766490,
+    "wof:name":"Jezera",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36971,
+    43.73171,
+    19.36971,
+    43.73171
+],
+  "geometry": {"coordinates":[19.36971,43.73171],"type":"Point"}
+}

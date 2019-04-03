@@ -1,0 +1,67 @@
+{
+  "id": 1343765057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41454,44.87264,17.41454,44.87264",
+    "geom:latitude":44.87264,
+    "geom:longitude":17.41454,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mihajlovici",
+    "gn:country_code":"BA",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250590,
+    "gn:latitude":44.87264,
+    "gn:longitude":17.41454,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mihajlovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250590
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d91e2e46ae866d675069f5b5e9fc1df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759151,
+            "locality_id":1343765057,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343765057,
+    "wof:lastmodified":1536804171,
+    "wof:name":"Mihajlovici",
+    "wof:parent_id":1108759151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41454,
+    44.87264,
+    17.41454,
+    44.87264
+],
+  "geometry": {"coordinates":[17.41454,44.87264],"type":"Point"}
+}

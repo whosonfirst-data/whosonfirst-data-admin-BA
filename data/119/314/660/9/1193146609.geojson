@@ -1,0 +1,68 @@
+{
+  "id": 1193146609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2011,43.92897,17.2011,43.92897",
+    "geom:latitude":43.92897,
+    "geom:longitude":17.2011,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Malovan",
+    "gn:country_code":"BA",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199971,
+    "gn:latitude":43.92897,
+    "gn:longitude":17.2011,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornji Malovan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199971,
+        "wk:page":"Gornji_Malovan"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"86532ecf8a23644a0ad3a4741334066c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759145,
+            "locality_id":1193146609,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1193146609,
+    "wof:lastmodified":1537486771,
+    "wof:name":"Gornji Malovan",
+    "wof:parent_id":1108759145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2011,
+    43.92897,
+    17.2011,
+    43.92897
+],
+  "geometry": {"coordinates":[17.2011,43.92897],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209428779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16589,43.47982,18.16589,43.47982",
+    "geom:latitude":43.47982,
+    "geom:longitude":18.16589,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krnja Ravan",
+    "gn:country_code":"BA",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264473,
+    "gn:latitude":43.47982,
+    "gn:longitude":18.16589,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Krnja Ravan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264473
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2b5b2c811c5e849fcee817ac2508a4bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209428779
+        }
+    ],
+    "wof:id":1209428779,
+    "wof:lastmodified":1536287298,
+    "wof:name":"Krnja Ravan",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16589,
+    43.47982,
+    18.16589,
+    43.47982
+],
+  "geometry": {"coordinates":[18.16589,43.47982],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309813225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70084,43.67945,17.70084,43.67945",
+    "geom:latitude":43.67945,
+    "geom:longitude":17.70084,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kosne Luke",
+    "gn:country_code":"BA",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3344175,
+    "gn:latitude":43.67945,
+    "gn:longitude":17.70084,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kosne Luke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344175
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a7060a0b13885c8fa5b9a79ba5341c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759111,
+            "locality_id":1309813225,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1309813225,
+    "wof:lastmodified":1536920902,
+    "wof:name":"Kosne Luke",
+    "wof:parent_id":1108759111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70084,
+    43.67945,
+    17.70084,
+    43.67945
+],
+  "geometry": {"coordinates":[17.70084,43.67945],"type":"Point"}
+}

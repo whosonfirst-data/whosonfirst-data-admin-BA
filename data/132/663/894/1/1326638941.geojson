@@ -1,0 +1,67 @@
+{
+  "id": 1326638941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.06301,43.69438,19.06301,43.69438",
+    "geom:latitude":43.69438,
+    "geom:longitude":19.06301,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Surovi",
+    "gn:country_code":"BA",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3272794,
+    "gn:latitude":43.69438,
+    "gn:longitude":19.06301,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Surovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3272794
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2ced187fea69f2b7842d2e2eea5b069e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759085,
+            "locality_id":1326638941,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326638941,
+    "wof:lastmodified":1536829074,
+    "wof:name":"Surovi",
+    "wof:parent_id":1108759085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06301,
+    43.69438,
+    19.06301,
+    43.69438
+],
+  "geometry": {"coordinates":[19.06301,43.69438],"type":"Point"}
+}

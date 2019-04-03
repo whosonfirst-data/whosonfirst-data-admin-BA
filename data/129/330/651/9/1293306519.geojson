@@ -1,0 +1,73 @@
+{
+  "id": 1293306519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71703,44.58385,16.71703,44.58385",
+    "geom:latitude":44.58385,
+    "geom:longitude":16.71703,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Ramici",
+    "gn:country_code":"BA",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199936,
+    "gn:latitude":44.58385,
+    "gn:longitude":16.71703,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornji Rami\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rami\u0107i Gornji",
+        "Muslimanski Rami\u0107i",
+        "Gornji Rami\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199936,
+        "wk:page":"Gornji_Rami%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b1ddc14aa46aecc11d4242fcb082f30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1293306519,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293306519,
+    "wof:lastmodified":1537585600,
+    "wof:name":"Gornji Ramici",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71703,
+    44.58385,
+    16.71703,
+    44.58385
+],
+  "geometry": {"coordinates":[16.71703,44.58385],"type":"Point"}
+}

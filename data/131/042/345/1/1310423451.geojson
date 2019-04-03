@@ -1,0 +1,71 @@
+{
+  "id": 1310423451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1232,44.01086,18.1232,44.01086",
+    "geom:latitude":44.01086,
+    "geom:longitude":18.1232,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kolozici",
+    "gn:country_code":"BA",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197867,
+    "gn:latitude":44.01086,
+    "gn:longitude":18.1232,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Kolo\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolo\u0161i\u0107i",
+        "Kolo\u017ei\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197867
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f942dd018a1909bb86e6232e08ed546a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759285,
+            "locality_id":1310423451,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1310423451,
+    "wof:lastmodified":1537585591,
+    "wof:name":"Kolozici",
+    "wof:parent_id":1108759285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1232,
+    44.01086,
+    18.1232,
+    44.01086
+],
+  "geometry": {"coordinates":[18.1232,44.01086],"type":"Point"}
+}

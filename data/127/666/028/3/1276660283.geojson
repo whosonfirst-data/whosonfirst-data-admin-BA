@@ -1,0 +1,71 @@
+{
+  "id": 1276660283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.25833,43.82056,19.25833,43.82056",
+    "geom:latitude":43.82056,
+    "geom:longitude":19.25833,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornja Brstanica",
+    "gn:country_code":"BA",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3200277,
+    "gn:latitude":43.82056,
+    "gn:longitude":19.25833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gornja Br\u0161tanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Gornja Br\u0161tanica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200277,
+        "wk:page":"Gornja_Br%C5%A1tanica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ee3505203aba96078c82d90bd14bf182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1276660283,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276660283,
+    "wof:lastmodified":1537585604,
+    "wof:name":"Gornja Brstanica",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.25833,
+    43.82056,
+    19.25833,
+    43.82056
+],
+  "geometry": {"coordinates":[19.25833,43.82056],"type":"Point"}
+}

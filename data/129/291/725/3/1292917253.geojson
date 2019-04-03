@@ -1,0 +1,67 @@
+{
+  "id": 1292917253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40583,44.82962,18.40583,44.82962",
+    "geom:latitude":44.82962,
+    "geom:longitude":18.40583,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hrvatovici",
+    "gn:country_code":"BA",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253291,
+    "gn:latitude":44.82962,
+    "gn:longitude":18.40583,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Hrvatovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253291
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1063c1805cf7bb89262d6e9d820a5828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759093,
+            "locality_id":1292917253,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1292917253,
+    "wof:lastmodified":1536612466,
+    "wof:name":"Hrvatovici",
+    "wof:parent_id":1108759093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40583,
+    44.82962,
+    18.40583,
+    44.82962
+],
+  "geometry": {"coordinates":[18.40583,44.82962],"type":"Point"}
+}

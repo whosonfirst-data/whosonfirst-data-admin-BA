@@ -1,0 +1,71 @@
+{
+  "id": 1293218161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1575,43.77361,18.1575,43.77361",
+    "geom:latitude":43.77361,
+    "geom:longitude":18.1575,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jelec",
+    "gn:country_code":"BA",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212600,
+    "gn:latitude":43.77361,
+    "gn:longitude":18.1575,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jele\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jele\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212600,
+        "wk:page":"Jele%C4%8D_%28Had%C5%BEi%C4%87i%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"35738348f2b1b9f9ca4967bd5283633d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1293218161,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1293218161,
+    "wof:lastmodified":1537585656,
+    "wof:name":"Jelec",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1575,
+    43.77361,
+    18.1575,
+    43.77361
+],
+  "geometry": {"coordinates":[18.1575,43.77361],"type":"Point"}
+}

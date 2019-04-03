@@ -1,0 +1,193 @@
+{
+  "id": 890518709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80579,45.18497,15.80579,45.18497",
+    "geom:latitude":45.18497,
+    "geom:longitude":15.80579,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":19330,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Velika Klladusha"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u064a\u0643\u0627 \u0643\u0644\u0627\u062f\u0648\u0634\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:bos_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:ces_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u514b\u62c9\u675c\u6c99"
+    ],
+    "name:cze_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:dan_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:deu_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:dut_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:eng_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0627 \u06a9\u0644\u062f\u0648\u0634\u0627"
+    ],
+    "name:fre_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:ger_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b5\u03bb\u03af\u03ba\u03b1 \u039a\u03bb\u03b1\u03bd\u03c4\u03bf\u03cd\u03c3\u03b1"
+    ],
+    "name:hbs_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05dc\u05d9\u05e7\u05d4 \u05e7\u05dc\u05d3\u05d5\u05e9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:ita_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30ea\u30ab\u30fb\u30af\u30e9\u30c9\u30a5\u30b7\u30e3"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\ub9ac\uce74\ud074\ub77c\ub450\uc0e4"
+    ],
+    "name:lit_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041a\u043b\u0430\u0434\u0443\u0448\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:nno_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:nob_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0627 \u06a9\u0644\u062f\u0648\u0634\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:por_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430-\u041a\u043b\u0430\u0434\u0443\u0448\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:spa_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041a\u043b\u0430\u0434\u0443\u0448\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430-\u041a\u043b\u0430\u0434\u0443\u0448\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041a\u043b\u0430\u0434\u0443\u0448\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0644\u06cc\u06a9\u0627 \u06a9\u0644\u0627\u062f\u0648\u0634\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u514b\u62c9\u675c\u6c99"
+    ],
+    "qs:name":"Velika Kladu\u00b5a",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188225,
+        "gp:id":944431,
+        "qs:id":256125,
+        "wd:id":"Q994287"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056076,
+    "wof:geomhash":"cea2f082c29691e407ee0920bcf767d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":890518709,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890518709,
+    "wof:lastmodified":1513898879,
+    "wof:name":"Velika Kladu\u00b5a",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:population":19330,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80579,
+    45.18497,
+    15.80579,
+    45.18497
+],
+  "geometry": {"coordinates":[15.80579,45.18497],"type":"Point"}
+}

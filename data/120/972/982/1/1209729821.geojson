@@ -1,0 +1,67 @@
+{
+  "id": 1209729821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.563,43.67336,17.563,43.67336",
+    "geom:latitude":43.67336,
+    "geom:longitude":17.563,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ponor",
+    "gn:country_code":"BA",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292437,
+    "gn:latitude":43.67336,
+    "gn:longitude":17.563,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ponor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292437
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"14d1d1fffb0c80c9f2055c76351fbff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759111,
+            "locality_id":1209729821,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1209729821,
+    "wof:lastmodified":1536379855,
+    "wof:name":"Ponor",
+    "wof:parent_id":1108759111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.563,
+    43.67336,
+    17.563,
+    43.67336
+],
+  "geometry": {"coordinates":[17.563,43.67336],"type":"Point"}
+}

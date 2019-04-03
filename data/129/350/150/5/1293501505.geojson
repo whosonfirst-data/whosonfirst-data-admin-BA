@@ -1,0 +1,67 @@
+{
+  "id": 1293501505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21068,44.03676,18.21068,44.03676",
+    "geom:latitude":44.03676,
+    "geom:longitude":18.21068,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gorusa",
+    "gn:country_code":"BA",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298794,
+    "gn:latitude":44.03676,
+    "gn:longitude":18.21068,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Goru\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298794
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ad0a243ada46507df1c5e2b607712fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759285,
+            "locality_id":1293501505,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1293501505,
+    "wof:lastmodified":1536767196,
+    "wof:name":"Gorusa",
+    "wof:parent_id":1108759285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21068,
+    44.03676,
+    18.21068,
+    44.03676
+],
+  "geometry": {"coordinates":[18.21068,44.03676],"type":"Point"}
+}

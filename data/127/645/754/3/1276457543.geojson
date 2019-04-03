@@ -1,0 +1,71 @@
+{
+  "id": 1276457543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94419,43.85649,16.94419,43.85649",
+    "geom:latitude":43.85649,
+    "geom:longitude":16.94419,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mali Kablici",
+    "gn:country_code":"BA",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195697,
+    "gn:latitude":43.85649,
+    "gn:longitude":16.94419,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mali Kabli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mali Kabli\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195697,
+        "wk:page":"Mali_Kabli%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"eee26d445ccef44c70ca223fbd9d2020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1276457543,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1276457543,
+    "wof:lastmodified":1537585583,
+    "wof:name":"Mali Kablici",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94419,
+    43.85649,
+    16.94419,
+    43.85649
+],
+  "geometry": {"coordinates":[16.94419,43.85649],"type":"Point"}
+}

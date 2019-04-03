@@ -1,0 +1,61 @@
+{
+  "id": 1209018351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84714,44.56238,16.84714,44.56238",
+    "geom:latitude":44.56238,
+    "geom:longitude":16.84714,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tanasici",
+    "gn:country_code":"BA",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3245868,
+    "gn:latitude":44.56238,
+    "gn:longitude":16.84714,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tanasi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3245868
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d00a6899de15bde0b70e52dd8375a4cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209018351
+        }
+    ],
+    "wof:id":1209018351,
+    "wof:lastmodified":1536300223,
+    "wof:name":"Tanasici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84714,
+    44.56238,
+    16.84714,
+    44.56238
+],
+  "geometry": {"coordinates":[16.84714,44.56238],"type":"Point"}
+}

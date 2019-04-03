@@ -1,0 +1,67 @@
+{
+  "id": 1343967015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08861,43.64472,19.08861,43.64472",
+    "geom:latitude":43.64472,
+    "geom:longitude":19.08861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stancici",
+    "gn:country_code":"BA",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3273047,
+    "gn:latitude":43.64472,
+    "gn:longitude":19.08861,
+    "gn:modification_date":"1998-01-06",
+    "gn:name":"Stanci\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273047
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ae7715c02f824aa04ff25918d1cc7a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759035,
+            "locality_id":1343967015,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343967015,
+    "wof:lastmodified":1537009739,
+    "wof:name":"Stancici",
+    "wof:parent_id":1108759035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08861,
+    43.64472,
+    19.08861,
+    43.64472
+],
+  "geometry": {"coordinates":[19.08861,43.64472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209719555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2175,43.84389,18.2175,43.84389",
+    "geom:latitude":43.84389,
+    "geom:longitude":18.2175,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Binjezevo",
+    "gn:country_code":"BA",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204131,
+    "gn:latitude":43.84389,
+    "gn:longitude":18.2175,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Binje\u017eevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binje\u017eevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204131,
+        "wk:page":"Binje%C5%BEevo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"353bf443d062cacb88daa93441020052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1209719555,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1209719555,
+    "wof:lastmodified":1537585627,
+    "wof:name":"Binjezevo",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2175,
+    43.84389,
+    18.2175,
+    43.84389
+],
+  "geometry": {"coordinates":[18.2175,43.84389],"type":"Point"}
+}

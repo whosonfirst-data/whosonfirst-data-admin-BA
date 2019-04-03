@@ -1,0 +1,68 @@
+{
+  "id": 1293013375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46068,43.09116,18.46068,43.09116",
+    "geom:latitude":43.09116,
+    "geom:longitude":18.46068,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zagradci",
+    "gn:country_code":"BA",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186898,
+    "gn:latitude":43.09116,
+    "gn:longitude":18.46068,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zagradci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186898,
+        "wk:page":"Zagradci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0eed8571f20d33efc20df504d830223c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1293013375,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293013375,
+    "wof:lastmodified":1537486708,
+    "wof:name":"Zagradci",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46068,
+    43.09116,
+    18.46068,
+    43.09116
+],
+  "geometry": {"coordinates":[18.46068,43.09116],"type":"Point"}
+}

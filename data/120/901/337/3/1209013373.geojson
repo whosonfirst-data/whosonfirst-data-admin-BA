@@ -1,0 +1,61 @@
+{
+  "id": 1209013373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43285,44.46427,17.43285,44.46427",
+    "geom:latitude":44.46427,
+    "geom:longitude":17.43285,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nedici",
+    "gn:country_code":"BA",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3234850,
+    "gn:latitude":44.46427,
+    "gn:longitude":17.43285,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Nedi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3234850
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"eef8cac1ceb32ca117b5b80eebc5331a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209013373
+        }
+    ],
+    "wof:id":1209013373,
+    "wof:lastmodified":1536300374,
+    "wof:name":"Nedici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43285,
+    44.46427,
+    17.43285,
+    44.46427
+],
+  "geometry": {"coordinates":[17.43285,44.46427],"type":"Point"}
+}

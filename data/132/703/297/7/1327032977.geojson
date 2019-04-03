@@ -1,0 +1,72 @@
+{
+  "id": 1327032977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23034,42.83707,18.23034,42.83707",
+    "geom:latitude":42.83707,
+    "geom:longitude":18.23034,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Podstrasevica",
+    "gn:country_code":"BA",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192909,
+    "gn:latitude":42.83707,
+    "gn:longitude":18.23034,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Podstra\u0161evica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podstra\u0161ivica",
+        "Podstra\u0161evica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192909,
+        "wk:page":"Podstra%C5%A1ivica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5b90fcb27568dafd523770dfde54fcfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759265,
+            "locality_id":1327032977,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327032977,
+    "wof:lastmodified":1537585572,
+    "wof:name":"Podstrasevica",
+    "wof:parent_id":1108759265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23034,
+    42.83707,
+    18.23034,
+    42.83707
+],
+  "geometry": {"coordinates":[18.23034,42.83707],"type":"Point"}
+}

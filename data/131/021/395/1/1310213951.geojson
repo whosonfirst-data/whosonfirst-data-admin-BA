@@ -1,0 +1,67 @@
+{
+  "id": 1310213951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.09232,44.65501,19.09232,44.65501",
+    "geom:latitude":44.65501,
+    "geom:longitude":19.09232,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Milijas",
+    "gn:country_code":"BA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254391,
+    "gn:latitude":44.65501,
+    "gn:longitude":19.09232,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Milija\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254391
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8328a8371ac035b0151ebefe2a0be0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759273,
+            "locality_id":1310213951,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310213951,
+    "wof:lastmodified":1536838946,
+    "wof:name":"Milijas",
+    "wof:parent_id":1108759273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09232,
+    44.65501,
+    19.09232,
+    44.65501
+],
+  "geometry": {"coordinates":[19.09232,44.65501],"type":"Point"}
+}

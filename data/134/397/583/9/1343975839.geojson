@@ -1,0 +1,72 @@
+{
+  "id": 1343975839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32581,43.31085,17.32581,43.31085",
+    "geom:latitude":43.31085,
+    "geom:longitude":17.32581,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Putesevica",
+    "gn:country_code":"BA",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192188,
+    "gn:latitude":43.31085,
+    "gn:longitude":17.32581,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pute\u0161evica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pute\u0161avica",
+        "Pute\u0161evica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192188,
+        "wk:page":"Pute%C5%A1evica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2b274816992760bbccc5e1892c8964e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1343975839,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1343975839,
+    "wof:lastmodified":1537585568,
+    "wof:name":"Putesevica",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32581,
+    43.31085,
+    17.32581,
+    43.31085
+],
+  "geometry": {"coordinates":[17.32581,43.31085],"type":"Point"}
+}

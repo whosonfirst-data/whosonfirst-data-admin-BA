@@ -1,0 +1,68 @@
+{
+  "id": 1259692561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2875,44.12111,19.2875,44.12111",
+    "geom:latitude":44.12111,
+    "geom:longitude":19.2875,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fojhar",
+    "gn:country_code":"BA",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240111,
+    "gn:latitude":44.12111,
+    "gn:longitude":19.2875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fojhar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240111,
+        "wk:page":"Fojhar"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"14cd565945dc7c2112cf46d2a95d4cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1259692561,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259692561,
+    "wof:lastmodified":1537486826,
+    "wof:name":"Fojhar",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2875,
+    44.12111,
+    19.2875,
+    44.12111
+],
+  "geometry": {"coordinates":[19.2875,44.12111],"type":"Point"}
+}

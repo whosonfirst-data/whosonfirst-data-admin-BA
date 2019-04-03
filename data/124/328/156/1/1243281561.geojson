@@ -1,0 +1,71 @@
+{
+  "id": 1243281561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59722,44.64778,16.59722,44.64778",
+    "geom:latitude":44.64778,
+    "geom:longitude":16.59722,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Medede Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247848,
+    "gn:latitude":44.64778,
+    "gn:longitude":16.59722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Me\u0111e\u0111e Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Me\u0111e\u0111e Brdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247848,
+        "wk:page":"Me%C4%91e%C4%91e_Brdo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c0ccc0c04222a6a6f4336b0f3e81e89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1243281561,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1243281561,
+    "wof:lastmodified":1537585662,
+    "wof:name":"Medede Brdo",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59722,
+    44.64778,
+    16.59722,
+    44.64778
+],
+  "geometry": {"coordinates":[16.59722,44.64778],"type":"Point"}
+}

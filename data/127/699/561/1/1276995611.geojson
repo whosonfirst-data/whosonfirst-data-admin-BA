@@ -1,0 +1,67 @@
+{
+  "id": 1276995611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88899,44.25448,17.88899,44.25448",
+    "geom:latitude":44.25448,
+    "geom:longitude":17.88899,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Banloz",
+    "gn:country_code":"BA",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3249839,
+    "gn:latitude":44.25448,
+    "gn:longitude":17.88899,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Banloz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3249839
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fd12e379c5893f28938a31205e406592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1276995611,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1276995611,
+    "wof:lastmodified":1536885354,
+    "wof:name":"Banloz",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88899,
+    44.25448,
+    17.88899,
+    44.25448
+],
+  "geometry": {"coordinates":[17.88899,44.25448],"type":"Point"}
+}

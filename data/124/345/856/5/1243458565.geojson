@@ -1,0 +1,67 @@
+{
+  "id": 1243458565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81052,43.58486,18.81052,43.58486",
+    "geom:latitude":43.58486,
+    "geom:longitude":18.81052,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bratovcici",
+    "gn:country_code":"BA",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203535,
+    "gn:latitude":43.58486,
+    "gn:longitude":18.81052,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bratov\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203535
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e42b3dfaf6362d9d7216726788911a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759071,
+            "locality_id":1243458565,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1243458565,
+    "wof:lastmodified":1536788454,
+    "wof:name":"Bratovcici",
+    "wof:parent_id":1108759071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81052,
+    43.58486,
+    18.81052,
+    43.58486
+],
+  "geometry": {"coordinates":[18.81052,43.58486],"type":"Point"}
+}

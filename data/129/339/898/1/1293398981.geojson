@@ -1,0 +1,67 @@
+{
+  "id": 1293398981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94596,45.10982,16.94596,45.10982",
+    "geom:latitude":45.10982,
+    "geom:longitude":16.94596,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Babica Kosa",
+    "gn:country_code":"BA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286816,
+    "gn:latitude":45.10982,
+    "gn:longitude":16.94596,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Babi\u0107a Kosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286816
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2462ac6ce24ebb204de8df02a20f0d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1293398981,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293398981,
+    "wof:lastmodified":1536914987,
+    "wof:name":"Babica Kosa",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94596,
+    45.10982,
+    16.94596,
+    45.10982
+],
+  "geometry": {"coordinates":[16.94596,45.10982],"type":"Point"}
+}

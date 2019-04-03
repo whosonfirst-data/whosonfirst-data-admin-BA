@@ -1,0 +1,67 @@
+{
+  "id": 1193140369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.03845,44.80887,18.03845,44.80887",
+    "geom:latitude":44.80887,
+    "geom:longitude":18.03845,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gojkovici",
+    "gn:country_code":"BA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255002,
+    "gn:latitude":44.80887,
+    "gn:longitude":18.03845,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gojkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255002
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d51ff3dd097a91ddb0dc8faa313178ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1193140369,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193140369,
+    "wof:lastmodified":1536366416,
+    "wof:name":"Gojkovici",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.03845,
+    44.80887,
+    18.03845,
+    44.80887
+],
+  "geometry": {"coordinates":[18.03845,44.80887],"type":"Point"}
+}

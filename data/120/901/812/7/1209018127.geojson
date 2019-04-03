@@ -1,0 +1,61 @@
+{
+  "id": 1209018127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31323,43.41366,17.31323,43.41366",
+    "geom:latitude":43.41366,
+    "geom:longitude":17.31323,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lukovac",
+    "gn:country_code":"BA",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283977,
+    "gn:latitude":43.41366,
+    "gn:longitude":17.31323,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Lukovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283977
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b7f25cceb94447b33b40d87e8354a001",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209018127
+        }
+    ],
+    "wof:id":1209018127,
+    "wof:lastmodified":1536300230,
+    "wof:name":"Lukovac",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.313229999999994,
+    43.41366,
+    17.313229999999994,
+    43.41366
+],
+  "geometry": {"coordinates":[17.31322999999999,43.41366],"type":"Point"}
+}

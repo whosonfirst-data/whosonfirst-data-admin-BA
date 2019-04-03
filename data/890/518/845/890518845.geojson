@@ -1,0 +1,96 @@
+{
+  "id": 890518845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48389,43.2375,17.48389,43.2375",
+    "geom:latitude":43.2375,
+    "geom:longitude":17.48389,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4384,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vitina"
+    ],
+    "name:dut_x_preferred":[
+        "Vitina"
+    ],
+    "name:eng_x_preferred":[
+        "Vitina"
+    ],
+    "name:fre_x_preferred":[
+        "Vitina"
+    ],
+    "name:hrv_x_preferred":[
+        "Vitina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0442\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vitina"
+    ],
+    "qs:name":"Vitina",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":564,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187588,
+        "gp:id":944513,
+        "qs:id":147076,
+        "wd:id":"Q3119141",
+        "wk:page":"Vitina"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056081,
+    "wof:geomhash":"13a83a8ea46889bfcc80f33a95930353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":890518845,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":890518845,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Vitina",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:population":4384,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48389,
+    43.2375,
+    17.48389,
+    43.2375
+],
+  "geometry": {"coordinates":[17.48389,43.2375],"type":"Point"}
+}

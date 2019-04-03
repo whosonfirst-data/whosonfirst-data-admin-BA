@@ -1,0 +1,67 @@
+{
+  "id": 1226757221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12966,44.03015,17.12966,44.03015",
+    "geom:latitude":44.03015,
+    "geom:longitude":17.12966,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Matici",
+    "gn:country_code":"BA",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238154,
+    "gn:latitude":44.03015,
+    "gn:longitude":17.12966,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mati\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238154
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7616a559bc30bf5e13206687a50f5887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759145,
+            "locality_id":1226757221,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1226757221,
+    "wof:lastmodified":1536699211,
+    "wof:name":"Matici",
+    "wof:parent_id":1108759145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12966,
+    44.03015,
+    17.12966,
+    44.03015
+],
+  "geometry": {"coordinates":[17.12966,44.03015],"type":"Point"}
+}

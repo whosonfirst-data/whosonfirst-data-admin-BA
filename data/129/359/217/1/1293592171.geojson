@@ -1,0 +1,72 @@
+{
+  "id": 1293592171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5191,44.92613,18.5191,44.92613",
+    "geom:latitude":44.92613,
+    "geom:longitude":18.5191,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donja Tramosnica",
+    "gn:country_code":"BA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201612,
+    "gn:latitude":44.92613,
+    "gn:longitude":18.5191,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donja Tramo\u0161nica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tramo\u0161njica Donja",
+        "Donja Tramo\u0161nica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201612,
+        "wk:page":"Donja_Tramo%C5%A1nica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e56ae9fe3203e3ff9dbe4d766e19a108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759097,
+            "locality_id":1293592171,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293592171,
+    "wof:lastmodified":1537585612,
+    "wof:name":"Donja Tramosnica",
+    "wof:parent_id":1108759097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5191,
+    44.92613,
+    18.5191,
+    44.92613
+],
+  "geometry": {"coordinates":[18.5191,44.92613],"type":"Point"}
+}

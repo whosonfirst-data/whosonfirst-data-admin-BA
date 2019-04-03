@@ -1,0 +1,145 @@
+{
+  "id": 85929749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":28612941.477755,
+    "geom:bbox":"18.429411,43.859436,18.429411,43.859436",
+    "geom:latitude":43.859436,
+    "geom:longitude":18.429411,
+    "gn:id":"",
+    "iso:country":"BA",
+    "lbl:latitude":43.859436,
+    "lbl:longitude":18.429411,
+    "mps:latitude":43.856314,
+    "mps:longitude":18.439547,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:bos_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:deu_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:fra_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:hbs_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:hrv_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:ita_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30f4\u30a9\u30fb\u30b5\u30e9\u30a8\u30f4\u30a9"
+    ],
+    "name:nld_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:pol_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:spa_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u043e \u0421\u0430\u0440\u0430\u0458\u0435\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0421\u0430\u0440\u0430\u0454\u0432\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:unk_x_variant":[
+        "Novo Sarajevo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0648\u0648 \u0633\u0631\u0627\u0626\u06cc\u0648\u0648"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":7596,
+    "qs:local_sum":7596,
+    "qs:localhoods":1,
+    "qs:name":"Novo Sarajevo",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:name_adm2":"Sarajevski Kanton",
+    "qs:name_local":"Sarajevo",
+    "qs:photo_max":1728,
+    "qs:photo_sum":7596,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":100,
+    "qs:woe_adm0":23424761,
+    "qs:woe_adm1":24549661,
+    "qs:woe_adm2":29389657,
+    "qs:woe_lau":0,
+    "qs:woe_local":943828,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":394,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        1108759047,
+        85669235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55869076,
+        "qs:id":53215,
+        "wd:id":"Q1017960"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e60b790a45286cf23b2a2f75ec564bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759047,
+            "locality_id":-1,
+            "neighbourhood_id":85929749,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":85929749,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531939160,
+    "wof:name":"Novo Sarajevo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.429411,
+    43.859436,
+    18.429411,
+    43.859436
+],
+  "geometry": {"coordinates":[18.429411,43.859436],"type":"Point"}
+}

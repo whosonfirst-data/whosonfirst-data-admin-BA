@@ -1,0 +1,67 @@
+{
+  "id": 1343363051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41731,43.31133,17.41731,43.31133",
+    "geom:latitude":43.31133,
+    "geom:longitude":17.41731,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dubrava",
+    "gn:country_code":"BA",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3288254,
+    "gn:latitude":43.31133,
+    "gn:longitude":17.41731,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Dubrava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288254
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e8a047fc59c610fa89f34775ae5e1323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1343363051,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1343363051,
+    "wof:lastmodified":1536886236,
+    "wof:name":"Dubrava",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41731,
+    43.31133,
+    17.41731,
+    43.31133
+],
+  "geometry": {"coordinates":[17.41731,43.31133],"type":"Point"}
+}

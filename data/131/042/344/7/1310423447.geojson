@@ -1,0 +1,67 @@
+{
+  "id": 1310423447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.30829,44.74137,18.30829,44.74137",
+    "geom:latitude":44.74137,
+    "geom:longitude":18.30829,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Avdici",
+    "gn:country_code":"BA",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255173,
+    "gn:latitude":44.74137,
+    "gn:longitude":18.30829,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Avdi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255173
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6f80c10608e519c2b63e81d36aa21087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1310423447,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310423447,
+    "wof:lastmodified":1537033891,
+    "wof:name":"Avdici",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.30829,
+    44.74137,
+    18.30829,
+    44.74137
+],
+  "geometry": {"coordinates":[18.30829,44.74137],"type":"Point"}
+}

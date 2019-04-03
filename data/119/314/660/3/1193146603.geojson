@@ -1,0 +1,67 @@
+{
+  "id": 1193146603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92601,45.17477,15.92601,45.17477",
+    "geom:latitude":45.17477,
+    "geom:longitude":15.92601,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Celinja",
+    "gn:country_code":"BA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210365,
+    "gn:latitude":45.17477,
+    "gn:longitude":15.92601,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u010celinja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210365
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ac12f88671abde8ff5bb87dc6f6f8810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1193146603,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1193146603,
+    "wof:lastmodified":1536382708,
+    "wof:name":"Celinja",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92601,
+    45.17477,
+    15.92601,
+    45.17477
+],
+  "geometry": {"coordinates":[15.92601,45.17477],"type":"Point"}
+}

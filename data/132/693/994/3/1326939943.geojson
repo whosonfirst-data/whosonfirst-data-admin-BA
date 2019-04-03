@@ -1,0 +1,67 @@
+{
+  "id": 1326939943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3879,43.69911,18.3879,43.69911",
+    "geom:latitude":43.69911,
+    "geom:longitude":18.3879,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jagodar",
+    "gn:country_code":"BA",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268465,
+    "gn:latitude":43.69911,
+    "gn:longitude":18.3879,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Jagodar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268465
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c278f7c70418a965541cf19c3b6a44d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1326939943,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1326939943,
+    "wof:lastmodified":1536893295,
+    "wof:name":"Jagodar",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3879,
+    43.69911,
+    18.3879,
+    43.69911
+],
+  "geometry": {"coordinates":[18.3879,43.69911],"type":"Point"}
+}

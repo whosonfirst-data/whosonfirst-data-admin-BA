@@ -1,0 +1,61 @@
+{
+  "id": 1209627937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.905,44.37568,16.905,44.37568",
+    "geom:latitude":44.37568,
+    "geom:longitude":16.905,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Oparnice",
+    "gn:country_code":"BA",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3259546,
+    "gn:latitude":44.37568,
+    "gn:longitude":16.905,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Oparnice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259546
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"69f4fd43c900c925e986bf9b2504ab02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209627937
+        }
+    ],
+    "wof:id":1209627937,
+    "wof:lastmodified":1536281290,
+    "wof:name":"Oparnice",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.905,
+    44.37568,
+    16.905,
+    44.37568
+],
+  "geometry": {"coordinates":[16.905,44.37568],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225947531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62719,45.14847,16.62719,45.14847",
+    "geom:latitude":45.14847,
+    "geom:longitude":16.62719,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Suzica Potok",
+    "gn:country_code":"BA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281251,
+    "gn:latitude":45.14847,
+    "gn:longitude":16.62719,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Suzi\u0107a Potok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281251
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b6644e9a73f5906172c44c3d13de1a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1225947531,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225947531,
+    "wof:lastmodified":1536865411,
+    "wof:name":"Suzica Potok",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62719,
+    45.14847,
+    16.62719,
+    45.14847
+],
+  "geometry": {"coordinates":[16.62719,45.14847],"type":"Point"}
+}

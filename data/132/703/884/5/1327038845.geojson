@@ -1,0 +1,72 @@
+{
+  "id": 1327038845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52364,44.79352,17.52364,44.79352",
+    "geom:latitude":44.79352,
+    "geom:longitude":17.52364,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Branesci Gornji",
+    "gn:country_code":"BA",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203567,
+    "gn:latitude":44.79352,
+    "gn:longitude":17.52364,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Brane\u0161ci Gornji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornji Brane\u0161ci",
+        "Brane\u0161ci Gornji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203567,
+        "wk:page":"Brane%C5%A1ci_Gornji"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d88390bf2e361db26249df8c740143d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759045,
+            "locality_id":1327038845,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327038845,
+    "wof:lastmodified":1537585623,
+    "wof:name":"Branesci Gornji",
+    "wof:parent_id":1108759045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52364,
+    44.79352,
+    17.52364,
+    44.79352
+],
+  "geometry": {"coordinates":[17.52364,44.79352],"type":"Point"}
+}

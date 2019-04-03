@@ -1,0 +1,67 @@
+{
+  "id": 1260287363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68245,45.18919,16.68245,45.18919",
+    "geom:latitude":45.18919,
+    "geom:longitude":16.68245,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mala Johova",
+    "gn:country_code":"BA",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281027,
+    "gn:latitude":45.18919,
+    "gn:longitude":16.68245,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mala Johova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281027
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"941c5a76e998b5cb111832dc1d99ca39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1260287363,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260287363,
+    "wof:lastmodified":1536706999,
+    "wof:name":"Mala Johova",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68245,
+    45.18919,
+    16.68245,
+    45.18919
+],
+  "geometry": {"coordinates":[16.68245,45.18919],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259592155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9402,43.93735,18.9402,43.93735",
+    "geom:latitude":43.93735,
+    "geom:longitude":18.9402,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Babic Kula",
+    "gn:country_code":"BA",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267912,
+    "gn:latitude":43.93735,
+    "gn:longitude":18.9402,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Babi\u0107 Kula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267912
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"78b60e9a060aa49324d706f6fe8e4b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1259592155,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259592155,
+    "wof:lastmodified":1536702501,
+    "wof:name":"Babic Kula",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9402,
+    43.93735,
+    18.9402,
+    43.93735
+],
+  "geometry": {"coordinates":[18.9402,43.93735],"type":"Point"}
+}

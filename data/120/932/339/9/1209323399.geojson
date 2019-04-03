@@ -1,0 +1,66 @@
+{
+  "id": 1209323399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43333,43.7,19.43333,43.7",
+    "geom:latitude":43.7,
+    "geom:longitude":19.43333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bjelugovina",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203979,
+    "gn:latitude":43.7,
+    "gn:longitude":19.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bjelugovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bjelugovine",
+        "Bjelugovina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203979
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ebedd8fe5d07e6b300893f757411da8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209323399
+        }
+    ],
+    "wof:id":1209323399,
+    "wof:lastmodified":1537585626,
+    "wof:name":"Bjelugovina",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43333,
+    43.7,
+    19.43333,
+    43.7
+],
+  "geometry": {"coordinates":[19.43333,43.7],"type":"Point"}
+}

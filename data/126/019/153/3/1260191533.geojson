@@ -1,0 +1,67 @@
+{
+  "id": 1260191533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54417,43.9925,19.54417,43.9925",
+    "geom:latitude":43.9925,
+    "geom:longitude":19.54417,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tihici",
+    "gn:country_code":"BA",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303721,
+    "gn:latitude":43.9925,
+    "gn:longitude":19.54417,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Tihi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303721
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ade8c95ffef3d97f5e6a671e99f76e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1260191533,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260191533,
+    "wof:lastmodified":1536835785,
+    "wof:name":"Tihici",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54417,
+    43.9925,
+    19.54417,
+    43.9925
+],
+  "geometry": {"coordinates":[19.54417,43.9925],"type":"Point"}
+}

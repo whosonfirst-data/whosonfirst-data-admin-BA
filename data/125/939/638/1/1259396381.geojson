@@ -1,0 +1,67 @@
+{
+  "id": 1259396381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.03266,44.52267,18.03266,44.52267",
+    "geom:latitude":44.52267,
+    "geom:longitude":18.03266,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Strupina",
+    "gn:country_code":"BA",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210962,
+    "gn:latitude":44.52267,
+    "gn:longitude":18.03266,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Strupina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210962
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b33da9f9470018fbbdd50f74e9eda9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1259396381,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259396381,
+    "wof:lastmodified":1536982945,
+    "wof:name":"Strupina",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.03266,
+    44.52267,
+    18.03266,
+    44.52267
+],
+  "geometry": {"coordinates":[18.03266,44.52267],"type":"Point"}
+}

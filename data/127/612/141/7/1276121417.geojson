@@ -1,0 +1,67 @@
+{
+  "id": 1276121417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00682,43.36495,19.00682,43.36495",
+    "geom:latitude":43.36495,
+    "geom:longitude":19.00682,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Krnja Jela",
+    "gn:country_code":"BA",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299038,
+    "gn:latitude":43.36495,
+    "gn:longitude":19.00682,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Krnja Jela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299038
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"925169d6c31afcd53a62e5f4f5c89f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1276121417,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276121417,
+    "wof:lastmodified":1537059891,
+    "wof:name":"Krnja Jela",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00682,
+    43.36495,
+    19.00682,
+    43.36495
+],
+  "geometry": {"coordinates":[19.00682,43.36495],"type":"Point"}
+}

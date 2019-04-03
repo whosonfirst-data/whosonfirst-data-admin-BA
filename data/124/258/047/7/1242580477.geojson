@@ -1,0 +1,67 @@
+{
+  "id": 1242580477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7431,44.65635,18.7431,44.65635",
+    "geom:latitude":44.65635,
+    "geom:longitude":18.7431,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Antici",
+    "gn:country_code":"BA",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257697,
+    "gn:latitude":44.65635,
+    "gn:longitude":18.7431,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Anti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257697
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a7e9faafa00fa73717a2007373b26f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759043,
+            "locality_id":1242580477,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1242580477,
+    "wof:lastmodified":1537056980,
+    "wof:name":"Antici",
+    "wof:parent_id":1108759043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7431,
+    44.65635,
+    18.7431,
+    44.65635
+],
+  "geometry": {"coordinates":[18.7431,44.65635],"type":"Point"}
+}

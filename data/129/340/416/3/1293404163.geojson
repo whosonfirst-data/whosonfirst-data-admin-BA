@@ -1,0 +1,67 @@
+{
+  "id": 1293404163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02464,45.168,16.02464,45.168",
+    "geom:latitude":45.168,
+    "geom:longitude":16.02464,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornja Gradina",
+    "gn:country_code":"BA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277415,
+    "gn:latitude":45.168,
+    "gn:longitude":16.02464,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornja Gradina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277415
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"84b826aae5807f85628f49508304ac16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1293404163,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293404163,
+    "wof:lastmodified":1536907325,
+    "wof:name":"Gornja Gradina",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02464,
+    45.168,
+    16.02464,
+    45.168
+],
+  "geometry": {"coordinates":[16.02464,45.168],"type":"Point"}
+}

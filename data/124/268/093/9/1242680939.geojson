@@ -1,0 +1,67 @@
+{
+  "id": 1242680939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4841,43.87883,18.4841,43.87883",
+    "geom:latitude":43.87883,
+    "geom:longitude":18.4841,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Aluge",
+    "gn:country_code":"BA",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206022,
+    "gn:latitude":43.87883,
+    "gn:longitude":18.4841,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Aluge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206022
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"086b4073ec57edca5f5ce14e11254a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759245,
+            "locality_id":1242680939,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1242680939,
+    "wof:lastmodified":1536915386,
+    "wof:name":"Aluge",
+    "wof:parent_id":1108759245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4841,
+    43.87883,
+    18.4841,
+    43.87883
+],
+  "geometry": {"coordinates":[18.4841,43.87883],"type":"Point"}
+}

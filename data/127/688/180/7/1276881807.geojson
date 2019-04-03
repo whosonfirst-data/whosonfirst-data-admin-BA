@@ -1,0 +1,67 @@
+{
+  "id": 1276881807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.86598,44.8684,16.86598,44.8684",
+    "geom:latitude":44.8684,
+    "geom:longitude":16.86598,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kabici",
+    "gn:country_code":"BA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3249762,
+    "gn:latitude":44.8684,
+    "gn:longitude":16.86598,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kabi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3249762
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"101cc03a9a7f6546c78761ba1b3b0e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1276881807,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276881807,
+    "wof:lastmodified":1537036867,
+    "wof:name":"Kabici",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86598,
+    44.8684,
+    16.86598,
+    44.8684
+],
+  "geometry": {"coordinates":[16.86598,44.8684],"type":"Point"}
+}

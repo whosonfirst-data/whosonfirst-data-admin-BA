@@ -1,0 +1,61 @@
+{
+  "id": 1209008307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68623,43.39032,17.68623,43.39032",
+    "geom:latitude":43.39032,
+    "geom:longitude":17.68623,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cubele",
+    "gn:country_code":"BA",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287920,
+    "gn:latitude":43.39032,
+    "gn:longitude":17.68623,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0106ubele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287920
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9b99ba4aba4e53571ae91a5d973c2fa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209008307
+        }
+    ],
+    "wof:id":1209008307,
+    "wof:lastmodified":1536300530,
+    "wof:name":"Cubele",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68623,
+    43.39032,
+    17.68623,
+    43.39032
+],
+  "geometry": {"coordinates":[17.68623,43.39032],"type":"Point"}
+}

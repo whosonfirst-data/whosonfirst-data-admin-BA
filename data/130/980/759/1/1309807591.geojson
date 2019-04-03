@@ -1,0 +1,67 @@
+{
+  "id": 1309807591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41242,44.21407,16.41242,44.21407",
+    "geom:latitude":44.21407,
+    "geom:longitude":16.41242,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donji Galici",
+    "gn:country_code":"BA",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281469,
+    "gn:latitude":44.21407,
+    "gn:longitude":16.41242,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Donji Gali\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281469
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8cc8605cab4bfa16075373f5e137ac3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1309807591,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1309807591,
+    "wof:lastmodified":1536929133,
+    "wof:name":"Donji Galici",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41242,
+    44.21407,
+    16.41242,
+    44.21407
+],
+  "geometry": {"coordinates":[16.41242,44.21407],"type":"Point"}
+}

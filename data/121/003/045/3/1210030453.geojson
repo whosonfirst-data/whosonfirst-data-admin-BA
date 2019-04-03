@@ -1,0 +1,71 @@
+{
+  "id": 1210030453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83609,44.47093,18.83609,44.47093",
+    "geom:latitude":44.47093,
+    "geom:longitude":18.83609,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Saraci",
+    "gn:country_code":"BA",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211327,
+    "gn:latitude":44.47093,
+    "gn:longitude":18.83609,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Sara\u010di",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sara\u010di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211327,
+        "wk:page":"Sara%C4%8Di"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"53056354b97f3fdf8bd3c2f1f66d7482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759121,
+            "locality_id":1210030453,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1210030453,
+    "wof:lastmodified":1537585648,
+    "wof:name":"Saraci",
+    "wof:parent_id":1108759121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83609,
+    44.47093,
+    18.83609,
+    44.47093
+],
+  "geometry": {"coordinates":[18.83609,44.47093],"type":"Point"}
+}

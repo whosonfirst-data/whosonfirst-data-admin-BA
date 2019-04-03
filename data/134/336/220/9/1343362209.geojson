@@ -1,0 +1,67 @@
+{
+  "id": 1343362209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23455,43.24319,18.23455,43.24319",
+    "geom:latitude":43.24319,
+    "geom:longitude":18.23455,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ovciji Brod",
+    "gn:country_code":"BA",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3266105,
+    "gn:latitude":43.24319,
+    "gn:longitude":18.23455,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ov\u010diji Brod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266105
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e6ddd18615f2963075710d983bb8b478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1343362209,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343362209,
+    "wof:lastmodified":1536887510,
+    "wof:name":"Ovciji Brod",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23455,
+    43.24319000000001,
+    18.23455,
+    43.24319000000001
+],
+  "geometry": {"coordinates":[18.23455,43.24319000000001],"type":"Point"}
+}

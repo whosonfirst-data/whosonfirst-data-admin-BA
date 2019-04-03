@@ -1,0 +1,68 @@
+{
+  "id": 1226456439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07905,43.76853,18.07905,43.76853",
+    "geom:latitude":43.76853,
+    "geom:longitude":18.07905,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Trzanj",
+    "gn:country_code":"BA",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188690,
+    "gn:latitude":43.76853,
+    "gn:longitude":18.07905,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Trzanj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188690,
+        "wk:page":"Trzanj"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4e31f5e995df766d9518de562ce2c5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1226456439,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1226456439,
+    "wof:lastmodified":1537486717,
+    "wof:name":"Trzanj",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07905,
+    43.76853,
+    18.07905,
+    43.76853
+],
+  "geometry": {"coordinates":[18.07905,43.76853],"type":"Point"}
+}

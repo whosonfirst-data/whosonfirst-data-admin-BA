@@ -1,0 +1,67 @@
+{
+  "id": 1309715101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95685,44.25173,16.95685,44.25173",
+    "geom:latitude":44.25173,
+    "geom:longitude":16.95685,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tegeltije",
+    "gn:country_code":"BA",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261876,
+    "gn:latitude":44.25173,
+    "gn:longitude":16.95685,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tegeltije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261876
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"961fb3a82e4e27038f990530844ac3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1309715101,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309715101,
+    "wof:lastmodified":1537059280,
+    "wof:name":"Tegeltije",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95685,
+    44.25173,
+    16.95685,
+    44.25173
+],
+  "geometry": {"coordinates":[16.95685,44.25173],"type":"Point"}
+}

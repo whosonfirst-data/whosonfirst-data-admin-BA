@@ -1,0 +1,67 @@
+{
+  "id": 1360299211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62233,44.62226,18.62233,44.62226",
+    "geom:latitude":44.62226,
+    "geom:longitude":18.62233,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Avdibasici",
+    "gn:country_code":"BA",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211126,
+    "gn:latitude":44.62226,
+    "gn:longitude":18.62233,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Avdiba\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211126
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"51365b954c4f45734f4db0b1c5cfb06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1360299211,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1360299211,
+    "wof:lastmodified":1536635384,
+    "wof:name":"Avdibasici",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62233,
+    44.62226,
+    18.62233,
+    44.62226
+],
+  "geometry": {"coordinates":[18.62233,44.62226],"type":"Point"}
+}

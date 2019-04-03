@@ -1,0 +1,67 @@
+{
+  "id": 1260197263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78266,44.88243,15.78266,44.88243",
+    "geom:latitude":44.88243,
+    "geom:longitude":15.78266,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Izacic-Grad",
+    "gn:country_code":"BA",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212310,
+    "gn:latitude":44.88243,
+    "gn:longitude":15.78266,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Iza\u010di\u0107-Grad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212310
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"87376df487b5074238629d9a9cae0ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1260197263,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1260197263,
+    "wof:lastmodified":1536827971,
+    "wof:name":"Izacic-Grad",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78266,
+    44.88243,
+    15.78266,
+    44.88243
+],
+  "geometry": {"coordinates":[15.78266,44.88243],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226147057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19328,43.8803,18.19328,43.8803",
+    "geom:latitude":43.8803,
+    "geom:longitude":18.19328,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kobiljaca",
+    "gn:country_code":"BA",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212606,
+    "gn:latitude":43.8803,
+    "gn:longitude":18.19328,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kobilja\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobilja\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212606,
+        "wk:page":"Kobilja%C4%8Da"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"955043569ddefc71682dc0b75795a37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759105,
+            "locality_id":1226147057,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1226147057,
+    "wof:lastmodified":1537585656,
+    "wof:name":"Kobiljaca",
+    "wof:parent_id":1108759105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19328,
+    43.8803,
+    18.19328,
+    43.8803
+],
+  "geometry": {"coordinates":[18.19328,43.8803],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276132559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05405,44.11605,18.05405,44.11605",
+    "geom:latitude":44.11605,
+    "geom:longitude":18.05405,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Semaljka",
+    "gn:country_code":"BA",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3297097,
+    "gn:latitude":44.11605,
+    "gn:longitude":18.05405,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"\u0160emaljka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297097
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c0c45a322254037c233f7564df33269f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1276132559,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1276132559,
+    "wof:lastmodified":1537045685,
+    "wof:name":"Semaljka",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05405,
+    44.11605,
+    18.05405,
+    44.11605
+],
+  "geometry": {"coordinates":[18.05405,44.11605],"type":"Point"}
+}

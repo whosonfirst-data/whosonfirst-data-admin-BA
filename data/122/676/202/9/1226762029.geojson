@@ -1,0 +1,67 @@
+{
+  "id": 1226762029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.82831,44.42486,17.82831,44.42486",
+    "geom:latitude":44.42486,
+    "geom:longitude":17.82831,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kustura",
+    "gn:country_code":"BA",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250028,
+    "gn:latitude":44.42486,
+    "gn:longitude":17.82831,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kustura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250028
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4b0a3ec1b62f533016db1e47f2bedb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1226762029,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1226762029,
+    "wof:lastmodified":1536692204,
+    "wof:name":"Kustura",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.82831000000001,
+    44.42486,
+    17.82831000000001,
+    44.42486
+],
+  "geometry": {"coordinates":[17.82831000000001,44.42486],"type":"Point"}
+}

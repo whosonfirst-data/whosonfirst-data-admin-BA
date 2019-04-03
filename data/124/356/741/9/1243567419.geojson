@@ -1,0 +1,67 @@
+{
+  "id": 1243567419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.82392,44.34161,16.82392,44.34161",
+    "geom:latitude":44.34161,
+    "geom:longitude":16.82392,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Berici",
+    "gn:country_code":"BA",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261777,
+    "gn:latitude":44.34161,
+    "gn:longitude":16.82392,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Beri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261777
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bdea8eaba7f064c52bcb2544157518bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759135,
+            "locality_id":1243567419,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243567419,
+    "wof:lastmodified":1536629463,
+    "wof:name":"Berici",
+    "wof:parent_id":1108759135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.82392,
+    44.34161,
+    16.82392,
+    44.34161
+],
+  "geometry": {"coordinates":[16.82392,44.34161],"type":"Point"}
+}

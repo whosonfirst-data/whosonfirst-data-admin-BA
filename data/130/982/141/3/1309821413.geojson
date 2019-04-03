@@ -1,0 +1,68 @@
+{
+  "id": 1309821413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08167,43.78417,18.08167,43.78417",
+    "geom:latitude":43.78417,
+    "geom:longitude":18.08167,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vrbanja",
+    "gn:country_code":"BA",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187303,
+    "gn:latitude":43.78417,
+    "gn:longitude":18.08167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vrbanja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187303,
+        "wk:page":"Vrbanja_%28Had%C5%BEi%C4%87i%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"41c6ef9083d236edac3b1e0124a3f532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1309821413,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1309821413,
+    "wof:lastmodified":1537486711,
+    "wof:name":"Vrbanja",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08167000000001,
+    43.78417,
+    18.08167000000001,
+    43.78417
+],
+  "geometry": {"coordinates":[18.08167000000001,43.78417],"type":"Point"}
+}

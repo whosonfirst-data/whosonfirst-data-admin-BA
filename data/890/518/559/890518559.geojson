@@ -1,0 +1,101 @@
+{
+  "id": 890518559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32536,43.35454,17.32536,43.35454",
+    "geom:latitude":43.35454,
+    "geom:longitude":17.32536,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":3791,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Drinovci"
+    ],
+    "name:dut_x_preferred":[
+        "Drinovci"
+    ],
+    "name:eng_x_preferred":[
+        "Drinovci"
+    ],
+    "name:fre_x_preferred":[
+        "Drinovci"
+    ],
+    "name:ger_x_preferred":[
+        "Drinovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Drinovci"
+    ],
+    "name:lit_x_preferred":[
+        "Drinovcai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0438\u043d\u043e\u0432\u0446\u044b"
+    ],
+    "name:slv_x_preferred":[
+        "Drinovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0438\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Drinovci"
+    ],
+    "qs:name":"Drinovci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201177,
+        "qs:id":279727,
+        "wd:id":"Q1278437",
+        "wk:page":"Drinovci"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056070,
+    "wof:geomhash":"e492085ae99c5dfb696310ba5e95f0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":890518559,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":890518559,
+    "wof:lastmodified":1527751229,
+    "wof:name":"Drinovci",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:population":3791,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32536,
+    43.35454,
+    17.32536,
+    43.35454
+],
+  "geometry": {"coordinates":[17.32536,43.35454],"type":"Point"}
+}

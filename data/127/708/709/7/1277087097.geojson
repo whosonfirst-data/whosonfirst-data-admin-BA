@@ -1,0 +1,71 @@
+{
+  "id": 1277087097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.40285,44.92819,17.40285,44.92819",
+    "geom:latitude":44.92819,
+    "geom:longitude":17.40285,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Papazani",
+    "gn:country_code":"BA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3193647,
+    "gn:latitude":44.92819,
+    "gn:longitude":17.40285,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Papa\u017eani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Papa\u017eani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193647,
+        "wk:page":"Papa%C5%BEani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2c39aaea9c5f8f1f4fcb38d55879514b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759151,
+            "locality_id":1277087097,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1277087097,
+    "wof:lastmodified":1537585575,
+    "wof:name":"Papazani",
+    "wof:parent_id":1108759151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40285,
+    44.92819,
+    17.40285,
+    44.92819
+],
+  "geometry": {"coordinates":[17.40285,44.92819],"type":"Point"}
+}

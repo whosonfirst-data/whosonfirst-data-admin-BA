@@ -1,0 +1,68 @@
+{
+  "id": 1243085307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35071,43.91645,17.35071,43.91645",
+    "geom:latitude":43.91645,
+    "geom:longitude":17.35071,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donje Vukovsko",
+    "gn:country_code":"BA",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201519,
+    "gn:latitude":43.91645,
+    "gn:longitude":17.35071,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donje Vukovsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201519,
+        "wk:page":"Donje_Vukovsko"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1fa97f80fbe58e7fb6f0aea523c13e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759145,
+            "locality_id":1243085307,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1243085307,
+    "wof:lastmodified":1537486782,
+    "wof:name":"Donje Vukovsko",
+    "wof:parent_id":1108759145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35071,
+    43.91645,
+    17.35071,
+    43.91645
+],
+  "geometry": {"coordinates":[17.35071,43.91645],"type":"Point"}
+}

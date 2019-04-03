@@ -1,0 +1,67 @@
+{
+  "id": 1226056897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54234,44.76479,16.54234,44.76479",
+    "geom:latitude":44.76479,
+    "geom:longitude":16.54234,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bosanski Milanovac",
+    "gn:country_code":"BA",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3249571,
+    "gn:latitude":44.76479,
+    "gn:longitude":16.54234,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bosanski Milanovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3249571
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a79857d330b362a558bd8a4da9eee2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759219,
+            "locality_id":1226056897,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1226056897,
+    "wof:lastmodified":1536709312,
+    "wof:name":"Bosanski Milanovac",
+    "wof:parent_id":1108759219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54234,
+    44.76479000000001,
+    16.54234,
+    44.76479000000001
+],
+  "geometry": {"coordinates":[16.54234,44.76479000000001],"type":"Point"}
+}

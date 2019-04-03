@@ -1,0 +1,71 @@
+{
+  "id": 1326744357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.39417,44.06972,17.39417,44.06972",
+    "geom:latitude":44.06972,
+    "geom:longitude":17.39417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zdralovici",
+    "gn:country_code":"BA",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186661,
+    "gn:latitude":44.06972,
+    "gn:longitude":17.39417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u017ddralovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017ddralovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186661,
+        "wk:page":"%C5%BDdralovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9cc2f6779c44cf7efc67b2aa55fdf9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759029,
+            "locality_id":1326744357,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1326744357,
+    "wof:lastmodified":1537585547,
+    "wof:name":"Zdralovici",
+    "wof:parent_id":1108759029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39417000000001,
+    44.06972,
+    17.39417000000001,
+    44.06972
+],
+  "geometry": {"coordinates":[17.39417000000001,44.06972],"type":"Point"}
+}

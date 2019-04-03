@@ -1,0 +1,71 @@
+{
+  "id": 1259701431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09555,43.7769,18.09555,43.7769",
+    "geom:latitude":43.7769,
+    "geom:longitude":18.09555,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cesce",
+    "gn:country_code":"BA",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212598,
+    "gn:latitude":43.7769,
+    "gn:longitude":18.09555,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u010ce\u0161\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010ce\u0161\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212598,
+        "wk:page":"%C4%8Ce%C5%A1%C4%87e"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b6bb61c6c06d5c4ab434da707685dcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1259701431,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1259701431,
+    "wof:lastmodified":1537585656,
+    "wof:name":"Cesce",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09555,
+    43.7769,
+    18.09555,
+    43.7769
+],
+  "geometry": {"coordinates":[18.09555,43.7769],"type":"Point"}
+}

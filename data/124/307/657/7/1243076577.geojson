@@ -1,0 +1,67 @@
+{
+  "id": 1243076577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19891,44.37418,17.19891,44.37418",
+    "geom:latitude":44.37418,
+    "geom:longitude":17.19891,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Matekale",
+    "gn:country_code":"BA",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3236260,
+    "gn:latitude":44.37418,
+    "gn:longitude":17.19891,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Matekale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3236260
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5c4eec8e095cf9eff09e0e66b3394623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759117,
+            "locality_id":1243076577,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243076577,
+    "wof:lastmodified":1536840576,
+    "wof:name":"Matekale",
+    "wof:parent_id":1108759117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19891,
+    44.37418,
+    17.19891,
+    44.37418
+],
+  "geometry": {"coordinates":[17.19891,44.37418],"type":"Point"}
+}

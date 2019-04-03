@@ -1,0 +1,67 @@
+{
+  "id": 1344270949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67917,44.58846,16.67917,44.58846",
+    "geom:latitude":44.58846,
+    "geom:longitude":16.67917,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zupa",
+    "gn:country_code":"BA",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247978,
+    "gn:latitude":44.58846,
+    "gn:longitude":16.67917,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u017dupa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247978
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c88d6fa18ee74432b1ed7f85f9866b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1344270949,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1344270949,
+    "wof:lastmodified":1537066022,
+    "wof:name":"Zupa",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67917000000001,
+    44.58846,
+    16.67917000000001,
+    44.58846
+],
+  "geometry": {"coordinates":[16.67917000000001,44.58846],"type":"Point"}
+}

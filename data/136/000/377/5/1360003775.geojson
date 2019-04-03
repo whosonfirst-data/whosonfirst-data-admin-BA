@@ -1,0 +1,72 @@
+{
+  "id": 1360003775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6393,44.58431,16.6393,44.58431",
+    "geom:latitude":44.58431,
+    "geom:longitude":16.6393,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Budelj Gornji",
+    "gn:country_code":"BA",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203136,
+    "gn:latitude":44.58431,
+    "gn:longitude":16.6393,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Budelj Gornji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornji Budelj",
+        "Budelj Gornji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203136,
+        "wk:page":"Budelj_Gornji"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"410efb93a8ef1ffb14268ea0d56dc221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1360003775,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1360003775,
+    "wof:lastmodified":1537585621,
+    "wof:name":"Budelj Gornji",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6393,
+    44.58431,
+    16.6393,
+    44.58431
+],
+  "geometry": {"coordinates":[16.6393,44.58431],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292906567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72994,43.37612,18.72994,43.37612",
+    "geom:latitude":43.37612,
+    "geom:longitude":18.72994,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Perovici",
+    "gn:country_code":"BA",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3193485,
+    "gn:latitude":43.37612,
+    "gn:longitude":18.72994,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Perovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Perizovci",
+        "Perovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193485
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ca4808cc7df588de5b59126f94843460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1292906567,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1292906567,
+    "wof:lastmodified":1537585575,
+    "wof:name":"Perovici",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72994,
+    43.37612,
+    18.72994,
+    43.37612
+],
+  "geometry": {"coordinates":[18.72994,43.37612],"type":"Point"}
+}

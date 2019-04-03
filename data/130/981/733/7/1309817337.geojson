@@ -1,0 +1,71 @@
+{
+  "id": 1309817337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99753,44.08401,17.99753,44.08401",
+    "geom:latitude":44.08401,
+    "geom:longitude":17.99753,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zarace",
+    "gn:country_code":"BA",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290519,
+    "gn:latitude":44.08401,
+    "gn:longitude":17.99753,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zara\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zara\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290519,
+        "wk:page":"Zara%C4%8De"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5783098b9a159719546f4051392004e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759031,
+            "locality_id":1309817337,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1309817337,
+    "wof:lastmodified":1537585676,
+    "wof:name":"Zarace",
+    "wof:parent_id":1108759031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99752999999999,
+    44.08401,
+    17.99752999999999,
+    44.08401
+],
+  "geometry": {"coordinates":[17.99752999999999,44.08401],"type":"Point"}
+}

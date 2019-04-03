@@ -1,0 +1,61 @@
+{
+  "id": 1209518419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99032,43.57447,18.99032,43.57447",
+    "geom:latitude":43.57447,
+    "geom:longitude":18.99032,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rudice",
+    "gn:country_code":"BA",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3272390,
+    "gn:latitude":43.57447,
+    "gn:longitude":18.99032,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Rudice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3272390
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"107376e2c2538d2a2a9031658c7c02ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209518419
+        }
+    ],
+    "wof:id":1209518419,
+    "wof:lastmodified":1536284657,
+    "wof:name":"Rudice",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99032,
+    43.57447,
+    18.99032,
+    43.57447
+],
+  "geometry": {"coordinates":[18.99032,43.57447],"type":"Point"}
+}

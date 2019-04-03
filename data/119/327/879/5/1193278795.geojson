@@ -1,0 +1,67 @@
+{
+  "id": 1193278795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.79393,44.69937,17.79393,44.69937",
+    "geom:latitude":44.69937,
+    "geom:longitude":17.79393,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Subotici",
+    "gn:country_code":"BA",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250450,
+    "gn:latitude":44.69937,
+    "gn:longitude":17.79393,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Suboti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250450
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2d0efb99a084fc2b46cc43bc45f618f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1193278795,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193278795,
+    "wof:lastmodified":1536364063,
+    "wof:name":"Subotici",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79393,
+    44.69937,
+    17.79393,
+    44.69937
+],
+  "geometry": {"coordinates":[17.79393,44.69937],"type":"Point"}
+}

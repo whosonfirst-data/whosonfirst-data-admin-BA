@@ -1,0 +1,71 @@
+{
+  "id": 1226352027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48381,44.22996,16.48381,44.22996",
+    "geom:latitude":44.22996,
+    "geom:longitude":16.48381,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Malo Ticevo",
+    "gn:country_code":"BA",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195563,
+    "gn:latitude":44.22996,
+    "gn:longitude":16.48381,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Malo Ti\u010devo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malo Ti\u010devo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195563,
+        "wk:page":"Malo_Ti%C4%8Devo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"345ff23211b6e56e6d93854a8b8148ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1226352027,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1226352027,
+    "wof:lastmodified":1537585583,
+    "wof:name":"Malo Ticevo",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48381,
+    44.22996,
+    16.48381,
+    44.22996
+],
+  "geometry": {"coordinates":[16.48381,44.22996],"type":"Point"}
+}

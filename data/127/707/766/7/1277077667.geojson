@@ -1,0 +1,71 @@
+{
+  "id": 1277077667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15488,44.60674,19.15488,44.60674",
+    "geom:latitude":44.60674,
+    "geom:longitude":19.15488,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bjelosevac",
+    "gn:country_code":"BA",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203986,
+    "gn:latitude":44.60674,
+    "gn:longitude":19.15488,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bjelo\u0161evac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bjelo\u0161evac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203986,
+        "wk:page":"Bjelo%C5%A1evac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e40d834b853ed9ed6a8178946cfb0552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1277077667,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1277077667,
+    "wof:lastmodified":1537585626,
+    "wof:name":"Bjelosevac",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15488,
+    44.60674,
+    19.15488,
+    44.60674
+],
+  "geometry": {"coordinates":[19.15488,44.60674],"type":"Point"}
+}

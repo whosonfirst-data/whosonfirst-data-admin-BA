@@ -1,0 +1,67 @@
+{
+  "id": 1309720775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.59209,44.6571,17.59209,44.6571",
+    "geom:latitude":44.6571,
+    "geom:longitude":17.59209,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Prodici",
+    "gn:country_code":"BA",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254231,
+    "gn:latitude":44.6571,
+    "gn:longitude":17.59209,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Prodi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254231
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f5bb9ce9d6748cc265307bd07d1c6bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1309720775,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309720775,
+    "wof:lastmodified":1537051422,
+    "wof:name":"Prodici",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.59209,
+    44.6571,
+    17.59209,
+    44.6571
+],
+  "geometry": {"coordinates":[17.59209,44.6571],"type":"Point"}
+}

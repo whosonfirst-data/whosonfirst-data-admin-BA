@@ -1,0 +1,67 @@
+{
+  "id": 1343569787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.28402,44.84382,19.28402,44.84382",
+    "geom:latitude":44.84382,
+    "geom:longitude":19.28402,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Celic Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258385,
+    "gn:latitude":44.84382,
+    "gn:longitude":19.28402,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u010celi\u0107 Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258385
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9756dc32856aeefa02a183ee9cbde6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1343569787,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343569787,
+    "wof:lastmodified":1537082765,
+    "wof:name":"Celic Mahala",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.28402,
+    44.84382,
+    19.28402,
+    44.84382
+],
+  "geometry": {"coordinates":[19.28402,44.84382],"type":"Point"}
+}

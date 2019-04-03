@@ -1,0 +1,68 @@
+{
+  "id": 1310217949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09478,45.06277,18.09478,45.06277",
+    "geom:latitude":45.06277,
+    "geom:longitude":18.09478,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vinska",
+    "gn:country_code":"BA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187713,
+    "gn:latitude":45.06277,
+    "gn:longitude":18.09478,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vinska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187713,
+        "wk:page":"Vinska"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0845b017adb82263c9563869756f3488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759009,
+            "locality_id":1310217949,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310217949,
+    "wof:lastmodified":1537486713,
+    "wof:name":"Vinska",
+    "wof:parent_id":1108759009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09478,
+    45.06277,
+    18.09478,
+    45.06277
+],
+  "geometry": {"coordinates":[18.09478,45.06277],"type":"Point"}
+}

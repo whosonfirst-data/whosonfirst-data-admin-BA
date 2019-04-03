@@ -1,0 +1,67 @@
+{
+  "id": 1242877339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.63778,45.06528,16.63778,45.06528",
+    "geom:latitude":45.06528,
+    "geom:longitude":16.63778,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sipke",
+    "gn:country_code":"BA",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282370,
+    "gn:latitude":45.06528,
+    "gn:longitude":16.63778,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"\u0160ipke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282370
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6a12b6d7e9373882c27405188f1c0ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1242877339,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242877339,
+    "wof:lastmodified":1536630311,
+    "wof:name":"Sipke",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.63778,
+    45.06528,
+    16.63778,
+    45.06528
+],
+  "geometry": {"coordinates":[16.63778,45.06528],"type":"Point"}
+}

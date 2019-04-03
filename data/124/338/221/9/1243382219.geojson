@@ -1,0 +1,66 @@
+{
+  "id": 1243382219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00221,45.20699,16.00221,45.20699",
+    "geom:latitude":45.20699,
+    "geom:longitude":16.00221,
+    "gn:asciiname":"Ugrenovici",
+    "gn:country_code":"BA",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8394343,
+    "gn:latitude":45.20699,
+    "gn:longitude":16.00221,
+    "gn:modification_date":"2012-09-26",
+    "gn:name":"Ugrenovici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8394343
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1ef7d02343489b880e0c5451ddb9b901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1243382219,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1243382219,
+    "wof:lastmodified":1536898127,
+    "wof:name":"Ugrenovici",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00221,
+    45.20699000000001,
+    16.00221,
+    45.20699000000001
+],
+  "geometry": {"coordinates":[16.00221,45.20699000000001],"type":"Point"}
+}

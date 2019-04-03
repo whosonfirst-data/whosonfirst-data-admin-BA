@@ -1,0 +1,67 @@
+{
+  "id": 1259386739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36044,43.3211,17.36044,43.3211",
+    "geom:latitude":43.3211,
+    "geom:longitude":17.36044,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tkanice",
+    "gn:country_code":"BA",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283564,
+    "gn:latitude":43.3211,
+    "gn:longitude":17.36044,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tkanice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283564
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4e16291bf6b231274e3e36b88322c53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1259386739,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1259386739,
+    "wof:lastmodified":1536996752,
+    "wof:name":"Tkanice",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36044,
+    43.3211,
+    17.36044,
+    43.3211
+],
+  "geometry": {"coordinates":[17.36044,43.3211],"type":"Point"}
+}

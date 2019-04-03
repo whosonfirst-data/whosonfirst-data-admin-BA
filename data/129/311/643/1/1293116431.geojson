@@ -1,0 +1,67 @@
+{
+  "id": 1293116431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83919,43.78918,16.83919,43.78918",
+    "geom:latitude":43.78918,
+    "geom:longitude":16.83919,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Veliki Prolog",
+    "gn:country_code":"BA",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283861,
+    "gn:latitude":43.78918,
+    "gn:longitude":16.83919,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Veliki Prolog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283861
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"41c82e13fbcdd995e76eb0ecc1c39b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1293116431,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1293116431,
+    "wof:lastmodified":1536824127,
+    "wof:name":"Veliki Prolog",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83919,
+    43.78918,
+    16.83919,
+    43.78918
+],
+  "geometry": {"coordinates":[16.83919,43.78918],"type":"Point"}
+}

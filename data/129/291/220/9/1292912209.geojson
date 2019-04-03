@@ -1,0 +1,71 @@
+{
+  "id": 1292912209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.15494,44.84182,19.15494,44.84182",
+    "geom:latitude":44.84182,
+    "geom:longitude":19.15494,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Grabici",
+    "gn:country_code":"BA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211526,
+    "gn:latitude":44.84182,
+    "gn:longitude":19.15494,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Grabi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grabice",
+        "Grabi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211526
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"77a4b4d9205599145514e25e3dbc1713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1292912209,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1292912209,
+    "wof:lastmodified":1537585651,
+    "wof:name":"Grabici",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.15494,
+    44.84182,
+    19.15494,
+    44.84182
+],
+  "geometry": {"coordinates":[19.15494,44.84182],"type":"Point"}
+}

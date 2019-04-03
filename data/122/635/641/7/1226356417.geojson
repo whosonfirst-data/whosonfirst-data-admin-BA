@@ -1,0 +1,67 @@
+{
+  "id": 1226356417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38028,44.23111,16.38028,44.23111",
+    "geom:latitude":44.23111,
+    "geom:longitude":16.38028,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kralji",
+    "gn:country_code":"BA",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281734,
+    "gn:latitude":44.23111,
+    "gn:longitude":16.38028,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Kralji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281734
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"68423209b09ec022995ae8cd2b1efaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1226356417,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1226356417,
+    "wof:lastmodified":1536774691,
+    "wof:name":"Kralji",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38028,
+    44.23111,
+    16.38028,
+    44.23111
+],
+  "geometry": {"coordinates":[16.38028,44.23111],"type":"Point"}
+}

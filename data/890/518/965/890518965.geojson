@@ -1,0 +1,102 @@
+{
+  "id": 890518965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.206616,44.80507,17.206616,44.80507",
+    "geom:latitude":44.80507,
+    "geom:longitude":17.206616,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Zalu\u017eani"
+    ],
+    "name:dut_x_preferred":[
+        "Zalu\u017eani"
+    ],
+    "name:eng_x_preferred":[
+        "Zalu\u017eani"
+    ],
+    "name:fre_x_preferred":[
+        "Zalu\u017eani"
+    ],
+    "name:hrv_x_preferred":[
+        "Zalu\u017eani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30eb\u30b8\u30e3\u30cb"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u0443\u0436\u0430\u043d\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Zalu\u017eani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u043b\u0443\u0436\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Zalu\u017eani"
+    ],
+    "qs:name":"Zalu\u017eani",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos":218,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":218,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:latitude":"44.8397",
+    "wd:longitude":"17.2244",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":944719,
+        "qs:id":1099568,
+        "wd:id":"Q957389",
+        "wk:page":"Zalu\u017eani"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056086,
+    "wof:geomhash":"29b79f3d95335540fad276f6fcb5e078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":890518965,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518965,
+    "wof:lastmodified":1527751229,
+    "wof:name":"Zalu\u017eani",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.206616,
+    44.80507,
+    17.206616,
+    44.80507
+],
+  "geometry": {"coordinates":[17.206616,44.80507],"type":"Point"}
+}

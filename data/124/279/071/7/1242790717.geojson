@@ -1,0 +1,67 @@
+{
+  "id": 1242790717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06053,44.72779,17.06053,44.72779",
+    "geom:latitude":44.72779,
+    "geom:longitude":17.06053,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vukovici",
+    "gn:country_code":"BA",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250207,
+    "gn:latitude":44.72779,
+    "gn:longitude":17.06053,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vukovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250207
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a7a02f3448f4ad5383d5eed07acf50db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1242790717,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242790717,
+    "wof:lastmodified":1536756705,
+    "wof:name":"Vukovici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06053,
+    44.72779,
+    17.06053,
+    44.72779
+],
+  "geometry": {"coordinates":[17.06053,44.72779],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 890518675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25783,44.71634,18.25783,44.71634",
+    "geom:latitude":44.71634,
+    "geom:longitude":18.25783,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":4341,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Stjepan Polje"
+    ],
+    "name:dut_x_preferred":[
+        "Stjepan Polje"
+    ],
+    "name:eng_x_preferred":[
+        "Stjepan Polje"
+    ],
+    "name:fre_x_preferred":[
+        "Stjepan Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Stjepan Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0458\u0435\u043f\u0430\u043d \u041f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Stjepan-Polje"
+    ],
+    "qs:name":"Stjepan-Polje",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189848,
+        "qs:id":1043905,
+        "wd:id":"Q3120688",
+        "wk:page":"Stjepan Polje"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056075,
+    "wof:geomhash":"ff5ccf48e7d06390375de1569cadc51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":890518675,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890518675,
+    "wof:lastmodified":1527751230,
+    "wof:name":"Stjepan-Polje",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:population":4341,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25783,
+    44.71634,
+    18.25783,
+    44.71634
+],
+  "geometry": {"coordinates":[18.25783,44.71634],"type":"Point"}
+}

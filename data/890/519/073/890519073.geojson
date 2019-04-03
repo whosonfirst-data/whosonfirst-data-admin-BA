@@ -1,0 +1,75 @@
+{
+  "id": 890519073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99887,43.72295,16.99887,43.72295",
+    "geom:latitude":43.72295,
+    "geom:longitude":16.99887,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":5801,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Podhum",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":186,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193008,
+        "gp:id":943400,
+        "qs:id":181739,
+        "wd:id":"Q1197103",
+        "wk:page":"Podhum"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056091,
+    "wof:geomhash":"8ad0ddafeddbbfd32ed96868a36cebb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":890519073,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":890519073,
+    "wof:lastmodified":1527751224,
+    "wof:name":"Podhum",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:population":5801,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99887,
+    43.72295,
+    16.99887,
+    43.72295
+],
+  "geometry": {"coordinates":[16.99887,43.72295],"type":"Point"}
+}

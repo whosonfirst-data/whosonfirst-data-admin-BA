@@ -1,0 +1,67 @@
+{
+  "id": 1276236967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11449,43.94759,19.11449,43.94759",
+    "geom:latitude":43.94759,
+    "geom:longitude":19.11449,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Brezova Ravan",
+    "gn:country_code":"BA",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268521,
+    "gn:latitude":43.94759,
+    "gn:longitude":19.11449,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Brezova Ravan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268521
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7c0fa4360178ff15aa96a5eb82bc0272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1276236967,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276236967,
+    "wof:lastmodified":1536907984,
+    "wof:name":"Brezova Ravan",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11449,
+    43.94759000000001,
+    19.11449,
+    43.94759000000001
+],
+  "geometry": {"coordinates":[19.11449,43.94759000000001],"type":"Point"}
+}

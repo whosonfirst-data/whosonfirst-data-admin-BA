@@ -1,0 +1,61 @@
+{
+  "id": 1209418087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33864,44.85039,17.33864,44.85039",
+    "geom:latitude":44.85039,
+    "geom:longitude":17.33864,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Crnogaca",
+    "gn:country_code":"BA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248321,
+    "gn:latitude":44.85039,
+    "gn:longitude":17.33864,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Crnoga\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248321
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"43a99e6144a529d108aeec0d1b34fda2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209418087
+        }
+    ],
+    "wof:id":1209418087,
+    "wof:lastmodified":1536287620,
+    "wof:name":"Crnogaca",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.338639999999998,
+    44.85039,
+    17.338639999999998,
+    44.85039
+],
+  "geometry": {"coordinates":[17.33864,44.85039],"type":"Point"}
+}

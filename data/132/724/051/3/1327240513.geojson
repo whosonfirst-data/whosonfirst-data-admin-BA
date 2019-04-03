@@ -1,0 +1,67 @@
+{
+  "id": 1327240513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.12611,43.73778,19.12611,43.73778",
+    "geom:latitude":43.73778,
+    "geom:longitude":19.12611,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Karsici",
+    "gn:country_code":"BA",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3270186,
+    "gn:latitude":43.73778,
+    "gn:longitude":19.12611,
+    "gn:modification_date":"1998-01-06",
+    "gn:name":"Karsi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270186
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b710092b496ca95a6120181291c9d8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1327240513,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327240513,
+    "wof:lastmodified":1536957756,
+    "wof:name":"Karsici",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.12611,
+    43.73778,
+    19.12611,
+    43.73778
+],
+  "geometry": {"coordinates":[19.12611,43.73778],"type":"Point"}
+}

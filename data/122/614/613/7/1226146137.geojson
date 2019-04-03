@@ -1,0 +1,67 @@
+{
+  "id": 1226146137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3323,44.537,17.3323,44.537",
+    "geom:latitude":44.537,
+    "geom:longitude":17.3323,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lijesce",
+    "gn:country_code":"BA",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251574,
+    "gn:latitude":44.537,
+    "gn:longitude":17.3323,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Lije\u0161\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251574
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"049830c1c6fbbea088b10dc4519c2f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759233,
+            "locality_id":1226146137,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226146137,
+    "wof:lastmodified":1537074046,
+    "wof:name":"Lijesce",
+    "wof:parent_id":1108759233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3323,
+    44.537,
+    17.3323,
+    44.537
+],
+  "geometry": {"coordinates":[17.3323,44.537],"type":"Point"}
+}

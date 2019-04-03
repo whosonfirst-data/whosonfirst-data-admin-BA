@@ -1,0 +1,67 @@
+{
+  "id": 1310504581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.82486,43.4669,18.82486,43.4669",
+    "geom:latitude":43.4669,
+    "geom:longitude":18.82486,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rudino Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298973,
+    "gn:latitude":43.4669,
+    "gn:longitude":18.82486,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Rudino Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298973
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0b878eadf43bb3a21b00d67f6962bba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1310504581,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310504581,
+    "wof:lastmodified":1536918810,
+    "wof:name":"Rudino Brdo",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82486,
+    43.4669,
+    18.82486,
+    43.4669
+],
+  "geometry": {"coordinates":[18.82486,43.4669],"type":"Point"}
+}

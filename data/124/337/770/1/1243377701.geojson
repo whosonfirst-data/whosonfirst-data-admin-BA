@@ -1,0 +1,68 @@
+{
+  "id": 1243377701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.06612,43.97576,18.06612,43.97576",
+    "geom:latitude":43.97576,
+    "geom:longitude":18.06612,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gomionica",
+    "gn:country_code":"BA",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297655,
+    "gn:latitude":43.97576,
+    "gn:longitude":18.06612,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gomionica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297655,
+        "wk:page":"Gomionica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"774c33153dc4e84484e3efc23c2e4455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759127,
+            "locality_id":1243377701,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1243377701,
+    "wof:lastmodified":1537486863,
+    "wof:name":"Gomionica",
+    "wof:parent_id":1108759127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.06612,
+    43.97576,
+    18.06612,
+    43.97576
+],
+  "geometry": {"coordinates":[18.06612,43.97576],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243071687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49145,44.80659,18.49145,44.80659",
+    "geom:latitude":44.80659,
+    "geom:longitude":18.49145,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vuckovci",
+    "gn:country_code":"BA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187081,
+    "gn:latitude":44.80659,
+    "gn:longitude":18.49145,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vu\u010dkovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vu\u010dkovac",
+        "Vu\u010dkovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187081,
+        "wk:page":"Vu%C4%8Dkovci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a81b7819cd130641d0fa66c82c0c9141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759093,
+            "locality_id":1243071687,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1243071687,
+    "wof:lastmodified":1537585549,
+    "wof:name":"Vuckovci",
+    "wof:parent_id":1108759093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49145,
+    44.80659,
+    18.49145,
+    44.80659
+],
+  "geometry": {"coordinates":[18.49145,44.80659],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343967733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.77457,44.20738,16.77457,44.20738",
+    "geom:latitude":44.20738,
+    "geom:longitude":16.77457,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hotkovci",
+    "gn:country_code":"BA",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199331,
+    "gn:latitude":44.20738,
+    "gn:longitude":16.77457,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Hotkovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potkovci",
+        "Hotkovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199331,
+        "wk:page":"Hotkovci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f7ba5aff508820d27190e4fac90cb71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759081,
+            "locality_id":1343967733,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1343967733,
+    "wof:lastmodified":1537585596,
+    "wof:name":"Hotkovci",
+    "wof:parent_id":1108759081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.77457,
+    44.20738,
+    16.77457,
+    44.20738
+],
+  "geometry": {"coordinates":[16.77457,44.20738],"type":"Point"}
+}

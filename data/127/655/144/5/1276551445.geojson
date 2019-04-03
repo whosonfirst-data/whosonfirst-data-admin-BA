@@ -1,0 +1,67 @@
+{
+  "id": 1276551445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72696,43.54786,17.72696,43.54786",
+    "geom:latitude":43.54786,
+    "geom:longitude":17.72696,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donji Jasenjani",
+    "gn:country_code":"BA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3344233,
+    "gn:latitude":43.54786,
+    "gn:longitude":17.72696,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donji Jasenjani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344233
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4071675cb0c5ec5d4df19281e025f636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1276551445,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1276551445,
+    "wof:lastmodified":1536982995,
+    "wof:name":"Donji Jasenjani",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72696000000001,
+    43.54786,
+    17.72696000000001,
+    43.54786
+],
+  "geometry": {"coordinates":[17.72696000000001,43.54786],"type":"Point"}
+}

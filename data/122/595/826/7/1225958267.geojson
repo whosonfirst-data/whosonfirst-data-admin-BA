@@ -1,0 +1,67 @@
+{
+  "id": 1225958267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.79435,43.75656,17.79435,43.75656",
+    "geom:latitude":43.75656,
+    "geom:longitude":17.79435,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Talijanci",
+    "gn:country_code":"BA",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288507,
+    "gn:latitude":43.75656,
+    "gn:longitude":17.79435,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Talijanci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288507
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7d5c436d944ee5943a27336b52eae3fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1225958267,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1225958267,
+    "wof:lastmodified":1536850070,
+    "wof:name":"Talijanci",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79435,
+    43.75656,
+    17.79435,
+    43.75656
+],
+  "geometry": {"coordinates":[17.79435,43.75656],"type":"Point"}
+}

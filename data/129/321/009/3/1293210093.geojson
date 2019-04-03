@@ -1,0 +1,67 @@
+{
+  "id": 1293210093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81111,44.73543,18.81111,44.73543",
+    "geom:latitude":44.73543,
+    "geom:longitude":18.81111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ratkovici",
+    "gn:country_code":"BA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191878,
+    "gn:latitude":44.73543,
+    "gn:longitude":18.81111,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ratkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191878
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"aa649e6054cbea4873a2086610d840b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759043,
+            "locality_id":1293210093,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1293210093,
+    "wof:lastmodified":1536689977,
+    "wof:name":"Ratkovici",
+    "wof:parent_id":1108759043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81111,
+    44.73543,
+    18.81111,
+    44.73543
+],
+  "geometry": {"coordinates":[18.81111,44.73543],"type":"Point"}
+}

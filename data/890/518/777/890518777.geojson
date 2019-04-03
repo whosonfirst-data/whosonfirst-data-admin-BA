@@ -1,0 +1,90 @@
+{
+  "id": 890518777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54056,43.22302,17.54056,43.22302",
+    "geom:latitude":43.22302,
+    "geom:longitude":17.54056,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":4072,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Radi\u0161i\u0107i"
+    ],
+    "name:dut_x_preferred":[
+        "Radi\u0161i\u0107i"
+    ],
+    "name:eng_x_preferred":[
+        "Radi\u0161i\u0107i"
+    ],
+    "name:fre_x_preferred":[
+        "Radi\u0161i\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Radi\u0161i\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0438\u0448\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Radi\u0161i\u0107i"
+    ],
+    "qs:name":"Radi\u0161i\u0107i",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192123,
+        "gp:id":943635,
+        "qs:id":1043960,
+        "wd:id":"Q3040866",
+        "wk:page":"Radi\u0161i\u0107i"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056079,
+    "wof:geomhash":"1f92c8d4fdab37202af2eb4194b084d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":890518777,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":890518777,
+    "wof:lastmodified":1527751233,
+    "wof:name":"Radi\u0161i\u0107i",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:population":4072,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54056,
+    43.22302,
+    17.54056,
+    43.22302
+],
+  "geometry": {"coordinates":[17.54056,43.22302],"type":"Point"}
+}

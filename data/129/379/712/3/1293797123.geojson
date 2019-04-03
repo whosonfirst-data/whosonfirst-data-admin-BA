@@ -1,0 +1,67 @@
+{
+  "id": 1293797123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06189,44.30633,17.06189,44.30633",
+    "geom:latitude":44.30633,
+    "geom:longitude":17.06189,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sainovci",
+    "gn:country_code":"BA",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261472,
+    "gn:latitude":44.30633,
+    "gn:longitude":17.06189,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160ainovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261472
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3548fc5d57bb488625608966647bc14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1293797123,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293797123,
+    "wof:lastmodified":1536836637,
+    "wof:name":"Sainovci",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06189,
+    44.30633,
+    17.06189,
+    44.30633
+],
+  "geometry": {"coordinates":[17.06189,44.30633],"type":"Point"}
+}

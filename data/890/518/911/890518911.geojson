@@ -1,0 +1,72 @@
+{
+  "id": 890518911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.65861,43.87873,17.65861,43.87873",
+    "geom:latitude":43.87873,
+    "geom:longitude":17.65861,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3764,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Voljevac",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187419,
+        "gp:id":944557,
+        "qs:id":953608
+    },
+    "wof:country":"BA",
+    "wof:created":1469056084,
+    "wof:geomhash":"e701f077d0a089d4b10ee04b333bfe6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":890518911,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":890518911,
+    "wof:lastmodified":1505343911,
+    "wof:name":"Voljevac",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:population":3764,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.65861,
+    43.87873,
+    17.65861,
+    43.87873
+],
+  "geometry": {"coordinates":[17.65861,43.87873],"type":"Point"}
+}

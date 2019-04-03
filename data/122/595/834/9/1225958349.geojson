@@ -1,0 +1,67 @@
+{
+  "id": 1225958349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75822,44.38796,18.75822,44.38796",
+    "geom:latitude":44.38796,
+    "geom:longitude":18.75822,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vrtoge",
+    "gn:country_code":"BA",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276316,
+    "gn:latitude":44.38796,
+    "gn:longitude":18.75822,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vrtoge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276316
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"efb986e9dc757b2959974c24f1fceed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":1225958349,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1225958349,
+    "wof:lastmodified":1536849953,
+    "wof:name":"Vrtoge",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75822,
+    44.38796,
+    18.75822,
+    44.38796
+],
+  "geometry": {"coordinates":[18.75822,44.38796],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310705017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.34152,44.91803,18.34152,44.91803",
+    "geom:latitude":44.91803,
+    "geom:longitude":18.34152,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rijeka",
+    "gn:country_code":"BA",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210866,
+    "gn:latitude":44.91803,
+    "gn:longitude":18.34152,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rijeka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210866
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"da11e510aee4c7dd47ada5de081ab60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759169,
+            "locality_id":1310705017,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310705017,
+    "wof:lastmodified":1536627253,
+    "wof:name":"Rijeka",
+    "wof:parent_id":1108759169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34152000000001,
+    44.91803,
+    18.34152000000001,
+    44.91803
+],
+  "geometry": {"coordinates":[18.34152000000001,44.91803],"type":"Point"}
+}

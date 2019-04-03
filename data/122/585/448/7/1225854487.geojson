@@ -1,0 +1,67 @@
+{
+  "id": 1225854487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58596,45.02669,18.58596,45.02669",
+    "geom:latitude":45.02669,
+    "geom:longitude":18.58596,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Masici",
+    "gn:country_code":"BA",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3241028,
+    "gn:latitude":45.02669,
+    "gn:longitude":18.58596,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ma\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669243,
+        1108759195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241028
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"918da547fba54e3a33bdb1d1b1eeac9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759195,
+            "locality_id":1225854487,
+            "region_id":85669243
+        }
+    ],
+    "wof:id":1225854487,
+    "wof:lastmodified":1537000227,
+    "wof:name":"Masici",
+    "wof:parent_id":1108759195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58596,
+    45.02669,
+    18.58596,
+    45.02669
+],
+  "geometry": {"coordinates":[18.58596,45.02669],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343372925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98907,45.01696,15.98907,45.01696",
+    "geom:latitude":45.01696,
+    "geom:longitude":15.98907,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pivnice",
+    "gn:country_code":"BA",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278125,
+    "gn:latitude":45.01696,
+    "gn:longitude":15.98907,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pivnice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278125
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"618a90485b00a5307a35d3d93987836f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1343372925,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1343372925,
+    "wof:lastmodified":1536871361,
+    "wof:name":"Pivnice",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98907,
+    45.01696,
+    15.98907,
+    45.01696
+],
+  "geometry": {"coordinates":[15.98907,45.01696],"type":"Point"}
+}

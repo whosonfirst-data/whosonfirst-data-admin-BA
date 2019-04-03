@@ -1,0 +1,71 @@
+{
+  "id": 1293798067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22559,43.52915,18.22559,43.52915",
+    "geom:latitude":43.52915,
+    "geom:longitude":18.22559,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jezeprosina",
+    "gn:country_code":"BA",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269925,
+    "gn:latitude":43.52915,
+    "gn:longitude":18.22559,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Je\u017eeprosina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Je\u017eeprosina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269925,
+        "wk:page":"Je%C5%BEeprosina"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9beea651332d5016a8c36850bef97d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1293798067,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1293798067,
+    "wof:lastmodified":1537585669,
+    "wof:name":"Jezeprosina",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22559,
+    43.52915,
+    18.22559,
+    43.52915
+],
+  "geometry": {"coordinates":[18.22559,43.52915],"type":"Point"}
+}

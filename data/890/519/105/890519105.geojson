@@ -1,0 +1,171 @@
+{
+  "id": 890519105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15139,44.8825,16.15139,44.8825",
+    "geom:latitude":44.8825,
+    "geom:longitude":16.15139,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":15193,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430-\u041a\u0440\u0443\u043f\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430 \u041a\u0440\u0443\u043f\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ce2\u65af\u5c3c\u4e9e\u514b\u9b6f\u5e15"
+    ],
+    "name:cze_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:dut_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:eng_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:fre_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10dd\u10e1\u10d0\u10dc\u10e1\u10d9\u10d0-\u10d9\u10e0\u10e3\u10de\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c3\u03ac\u03bd\u03c3\u03ba\u03b1 \u039a\u03c1\u03bf\u03cd\u03c0\u03b1"
+    ],
+    "name:hrv_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:hun_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:ita_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30b5\u30f3\u30b9\u30ab\u30fb\u30af\u30eb\u30d1"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uc0b0\uc2a4\uce74\ud06c\ub8e8\ud30c"
+    ],
+    "name:lit_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430 \u041a\u0440\u0443\u043f\u0430"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0633\u0627\u0646\u0633\u06a9\u0627 \u06a9\u0631\u0648\u067e\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430 \u041a\u0440\u0443\u043f\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:spa_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430 \u041a\u0440\u0443\u043f\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430-\u041a\u0440\u0443\u043f\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Bosanska Krupa"
+    ],
+    "name:unk_x_variant":[
+        "Krupa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0633\u0627\u0646\u0633\u06a9\u0627 \u06a9\u0631\u0648\u067e\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u65af\u5c3c\u4e9e\u514b\u9b6f\u5e15"
+    ],
+    "qs:name":"Bosanska Krupa",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":184,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":257,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203653,
+        "gp:id":940801,
+        "qs:id":208525,
+        "wd:id":"Q841411",
+        "wk:page":"Bosanska Krupa"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056092,
+    "wof:geomhash":"5139111ffa0442d13d0e54eee76e1bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759003,
+            "locality_id":890519105,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890519105,
+    "wof:lastmodified":1527751218,
+    "wof:name":"Bosanska Krupa",
+    "wof:parent_id":1108759003,
+    "wof:placetype":"locality",
+    "wof:population":15193,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15139,
+    44.8825,
+    16.15139,
+    44.8825
+],
+  "geometry": {"coordinates":[16.15139,44.8825],"type":"Point"}
+}

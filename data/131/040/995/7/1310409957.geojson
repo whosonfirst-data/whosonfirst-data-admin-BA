@@ -1,0 +1,67 @@
+{
+  "id": 1310409957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61417,43.18861,17.61417,43.18861",
+    "geom:latitude":43.18861,
+    "geom:longitude":17.61417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Susci",
+    "gn:country_code":"BA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288954,
+    "gn:latitude":43.18861,
+    "gn:longitude":17.61417,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Su\u0161ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288954
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8ccb0adfe38757bf85c710418db39c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1310409957,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1310409957,
+    "wof:lastmodified":1537052574,
+    "wof:name":"Susci",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61417,
+    43.18861,
+    17.61417,
+    43.18861
+],
+  "geometry": {"coordinates":[17.61417,43.18861],"type":"Point"}
+}

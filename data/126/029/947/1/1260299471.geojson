@@ -1,0 +1,67 @@
+{
+  "id": 1260299471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5597,44.16928,18.5597,44.16928",
+    "geom:latitude":44.16928,
+    "geom:longitude":18.5597,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sehovici",
+    "gn:country_code":"BA",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3244372,
+    "gn:latitude":44.16928,
+    "gn:longitude":18.5597,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0160ehovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3244372
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9bb88ce1529f70dc1aa810aa21db3113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759193,
+            "locality_id":1260299471,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1260299471,
+    "wof:lastmodified":1536690534,
+    "wof:name":"Sehovici",
+    "wof:parent_id":1108759193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5597,
+    44.16928,
+    18.5597,
+    44.16928
+],
+  "geometry": {"coordinates":[18.5597,44.16928],"type":"Point"}
+}

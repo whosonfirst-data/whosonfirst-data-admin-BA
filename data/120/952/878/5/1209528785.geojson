@@ -1,0 +1,65 @@
+{
+  "id": 1209528785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71575,44.88089,16.71575,44.88089",
+    "geom:latitude":44.88089,
+    "geom:longitude":16.71575,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nistavci",
+    "gn:country_code":"BA",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194485,
+    "gn:latitude":44.88089,
+    "gn:longitude":16.71575,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ni\u0161tavci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u0161tovci",
+        "Ni\u0161tavci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194485
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4068e5a2bb692c0d48711ce162946e55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209528785
+        }
+    ],
+    "wof:id":1209528785,
+    "wof:lastmodified":1537585578,
+    "wof:name":"Nistavci",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71575,
+    44.88089,
+    16.71575,
+    44.88089
+],
+  "geometry": {"coordinates":[16.71575,44.88089],"type":"Point"}
+}

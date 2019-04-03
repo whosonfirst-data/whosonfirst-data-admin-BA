@@ -1,0 +1,65 @@
+{
+  "id": 1209618239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.12188,44.7985,18.12188,44.7985",
+    "geom:latitude":44.7985,
+    "geom:longitude":18.12188,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Porjecje",
+    "gn:country_code":"BA",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253254,
+    "gn:latitude":44.7985,
+    "gn:longitude":18.12188,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Porje\u010dje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porje\u010dje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253254,
+        "wk:page":"Porje%C4%8Dje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"32a392aa0c5a45d28577fcd65152bc3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209618239
+        }
+    ],
+    "wof:id":1209618239,
+    "wof:lastmodified":1537585663,
+    "wof:name":"Porjecje",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.12188,
+    44.7985,
+    18.12188,
+    44.7985
+],
+  "geometry": {"coordinates":[18.12188,44.7985],"type":"Point"}
+}

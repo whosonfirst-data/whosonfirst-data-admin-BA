@@ -1,0 +1,67 @@
+{
+  "id": 1259801393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72381,43.7236,18.72381,43.7236",
+    "geom:latitude":43.7236,
+    "geom:longitude":18.72381,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vukadini",
+    "gn:country_code":"BA",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268303,
+    "gn:latitude":43.7236,
+    "gn:longitude":18.72381,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vukadini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268303
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f16e0c1eb5288a634bf67e757ed9f181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759199,
+            "locality_id":1259801393,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1259801393,
+    "wof:lastmodified":1536897299,
+    "wof:name":"Vukadini",
+    "wof:parent_id":1108759199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72381,
+    43.7236,
+    18.72381,
+    43.7236
+],
+  "geometry": {"coordinates":[18.72381,43.7236],"type":"Point"}
+}

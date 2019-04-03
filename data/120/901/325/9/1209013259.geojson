@@ -1,0 +1,61 @@
+{
+  "id": 1209013259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61078,43.25974,18.61078,43.25974",
+    "geom:latitude":43.25974,
+    "geom:longitude":18.61078,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cemersko Osoje",
+    "gn:country_code":"BA",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296768,
+    "gn:latitude":43.25974,
+    "gn:longitude":18.61078,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u010cemersko Osoje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296768
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9dc7bc49bb3180bec67f87230601b3ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209013259
+        }
+    ],
+    "wof:id":1209013259,
+    "wof:lastmodified":1536300377,
+    "wof:name":"Cemersko Osoje",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61078,
+    43.25974,
+    18.61078,
+    43.25974
+],
+  "geometry": {"coordinates":[18.61078,43.25974],"type":"Point"}
+}

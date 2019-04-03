@@ -1,0 +1,67 @@
+{
+  "id": 1327337495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71807,44.56881,16.71807,44.56881",
+    "geom:latitude":44.56881,
+    "geom:longitude":16.71807,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krpani",
+    "gn:country_code":"BA",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3245848,
+    "gn:latitude":44.56881,
+    "gn:longitude":16.71807,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Krpani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3245848
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b14a0854143ecdb2aaf95ec4c6ecc9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1327337495,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1327337495,
+    "wof:lastmodified":1536817007,
+    "wof:name":"Krpani",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71807,
+    44.56881,
+    16.71807,
+    44.56881
+],
+  "geometry": {"coordinates":[16.71807,44.56881],"type":"Point"}
+}

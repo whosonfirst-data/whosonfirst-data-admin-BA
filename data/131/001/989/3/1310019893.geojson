@@ -1,0 +1,67 @@
+{
+  "id": 1310019893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.45891,43.44933,17.45891,43.44933",
+    "geom:latitude":43.44933,
+    "geom:longitude":17.45891,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kidacke Njive",
+    "gn:country_code":"BA",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288077,
+    "gn:latitude":43.44933,
+    "gn:longitude":17.45891,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kida\u010dke Njive",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288077
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"580ad68b9ac2b4d68b735cdc2ab875d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759231,
+            "locality_id":1310019893,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1310019893,
+    "wof:lastmodified":1536620398,
+    "wof:name":"Kidacke Njive",
+    "wof:parent_id":1108759231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.45891,
+    43.44933,
+    17.45891,
+    43.44933
+],
+  "geometry": {"coordinates":[17.45891,43.44933],"type":"Point"}
+}

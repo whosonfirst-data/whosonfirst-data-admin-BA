@@ -1,0 +1,67 @@
+{
+  "id": 1293603151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33829,44.66751,18.33829,44.66751",
+    "geom:latitude":44.66751,
+    "geom:longitude":18.33829,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Smajilbasici",
+    "gn:country_code":"BA",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255630,
+    "gn:latitude":44.66751,
+    "gn:longitude":18.33829,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Smajilba\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255630
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4edde2d34befd8d3ee26916c1fd8885f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1293603151,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1293603151,
+    "wof:lastmodified":1536618152,
+    "wof:name":"Smajilbasici",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33829,
+    44.66751,
+    18.33829,
+    44.66751
+],
+  "geometry": {"coordinates":[18.33829,44.66751],"type":"Point"}
+}

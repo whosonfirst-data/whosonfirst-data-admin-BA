@@ -1,0 +1,71 @@
+{
+  "id": 1327435589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51965,44.00949,17.51965,44.00949",
+    "geom:latitude":44.00949,
+    "geom:longitude":17.51965,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zanesovici",
+    "gn:country_code":"BA",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186802,
+    "gn:latitude":44.00949,
+    "gn:longitude":17.51965,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zanesovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zanesovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186802,
+        "wk:page":"Zanesovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b37e9976185344e7ac49cf231de0a5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759029,
+            "locality_id":1327435589,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1327435589,
+    "wof:lastmodified":1537585548,
+    "wof:name":"Zanesovici",
+    "wof:parent_id":1108759029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51965,
+    44.00949,
+    17.51965,
+    44.00949
+],
+  "geometry": {"coordinates":[17.51965,44.00949],"type":"Point"}
+}

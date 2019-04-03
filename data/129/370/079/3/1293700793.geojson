@@ -1,0 +1,68 @@
+{
+  "id": 1293700793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32797,44.56578,18.32797,44.56578",
+    "geom:latitude":44.56578,
+    "geom:longitude":18.32797,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vasiljevci",
+    "gn:country_code":"BA",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3188348,
+    "gn:latitude":44.56578,
+    "gn:longitude":18.32797,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Vasiljevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188348,
+        "wk:page":"Vasiljevci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8a037821ec45b315381c679d148b750b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759161,
+            "locality_id":1293700793,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1293700793,
+    "wof:lastmodified":1537486715,
+    "wof:name":"Vasiljevci",
+    "wof:parent_id":1108759161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32797,
+    44.56578,
+    18.32797,
+    44.56578
+],
+  "geometry": {"coordinates":[18.32797,44.56578],"type":"Point"}
+}

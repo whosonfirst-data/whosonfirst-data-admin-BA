@@ -1,0 +1,67 @@
+{
+  "id": 1225848181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62563,45.11622,16.62563,45.11622",
+    "geom:latitude":45.11622,
+    "geom:longitude":16.62563,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tubica Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280249,
+    "gn:latitude":45.11622,
+    "gn:longitude":16.62563,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tubi\u0107a Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280249
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"90df7df32073f91b79c647ebacc93a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1225848181,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225848181,
+    "wof:lastmodified":1537009430,
+    "wof:name":"Tubica Brdo",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62562999999999,
+    45.11622,
+    16.62562999999999,
+    45.11622
+],
+  "geometry": {"coordinates":[16.62562999999999,45.11622],"type":"Point"}
+}

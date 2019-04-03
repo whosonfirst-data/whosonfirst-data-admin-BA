@@ -1,0 +1,67 @@
+{
+  "id": 1242790797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50622,45.00919,16.50622,45.00919",
+    "geom:latitude":45.00919,
+    "geom:longitude":16.50622,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dragici",
+    "gn:country_code":"BA",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3279643,
+    "gn:latitude":45.00919,
+    "gn:longitude":16.50622,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dragi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3279643
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"39420124f487bf537cccdd200ff2c83e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1242790797,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242790797,
+    "wof:lastmodified":1536756579,
+    "wof:name":"Dragici",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50622000000001,
+    45.00919,
+    16.50622000000001,
+    45.00919
+],
+  "geometry": {"coordinates":[16.50622000000001,45.00919],"type":"Point"}
+}

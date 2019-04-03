@@ -1,0 +1,68 @@
+{
+  "id": 1276670811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09491,42.85293,18.09491,42.85293",
+    "geom:latitude":42.85293,
+    "geom:longitude":18.09491,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Drijenjani",
+    "gn:country_code":"BA",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201186,
+    "gn:latitude":42.85293,
+    "gn:longitude":18.09491,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Drijenjani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201186,
+        "wk:page":"Drijenjani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6e42b004796a90c248cb2d51dc94ae61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759265,
+            "locality_id":1276670811,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276670811,
+    "wof:lastmodified":1537486778,
+    "wof:name":"Drijenjani",
+    "wof:parent_id":1108759265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09491,
+    42.85293,
+    18.09491,
+    42.85293
+],
+  "geometry": {"coordinates":[18.09491,42.85293],"type":"Point"}
+}

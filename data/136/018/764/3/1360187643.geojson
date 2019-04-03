@@ -1,0 +1,67 @@
+{
+  "id": 1360187643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63004,43.27287,18.63004,43.27287",
+    "geom:latitude":43.27287,
+    "geom:longitude":18.63004,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Petkovina",
+    "gn:country_code":"BA",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295943,
+    "gn:latitude":43.27287,
+    "gn:longitude":18.63004,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Petkovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295943
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1950ad318a376940486d08fd33f26d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1360187643,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360187643,
+    "wof:lastmodified":1536797807,
+    "wof:name":"Petkovina",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63004,
+    43.27287000000001,
+    18.63004,
+    43.27287000000001
+],
+  "geometry": {"coordinates":[18.63004,43.27287000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293403991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72667,43.23889,17.72667,43.23889",
+    "geom:latitude":43.23889,
+    "geom:longitude":17.72667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gradnici",
+    "gn:country_code":"BA",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199678,
+    "gn:latitude":43.23889,
+    "gn:longitude":17.72667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gradni\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradni\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199678,
+        "wk:page":"Gradni%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8ea04830b2eae23443a394cc675b5b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759049,
+            "locality_id":1293403991,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1293403991,
+    "wof:lastmodified":1537585598,
+    "wof:name":"Gradnici",
+    "wof:parent_id":1108759049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72667000000001,
+    43.23889000000001,
+    17.72667000000001,
+    43.23889000000001
+],
+  "geometry": {"coordinates":[17.72667000000001,43.23889000000001],"type":"Point"}
+}

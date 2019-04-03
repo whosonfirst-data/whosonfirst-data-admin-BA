@@ -1,0 +1,72 @@
+{
+  "id": 1310319179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51167,44.59808,18.51167,44.59808",
+    "geom:latitude":44.59808,
+    "geom:longitude":18.51167,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Smoluca Donja",
+    "gn:country_code":"BA",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190449,
+    "gn:latitude":44.59808,
+    "gn:longitude":18.51167,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Smolu\u0107a Donja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smolu\u0107a",
+        "Smolu\u0107a Donja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190449,
+        "wk:page":"Smolu%C4%87a_Donja"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a04339bed1eea4761d9224b230a02518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759161,
+            "locality_id":1310319179,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310319179,
+    "wof:lastmodified":1537585561,
+    "wof:name":"Smoluca Donja",
+    "wof:parent_id":1108759161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51167,
+    44.59808,
+    18.51167,
+    44.59808
+],
+  "geometry": {"coordinates":[18.51167,44.59808],"type":"Point"}
+}

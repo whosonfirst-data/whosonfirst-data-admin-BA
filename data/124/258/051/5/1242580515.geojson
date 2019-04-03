@@ -1,0 +1,67 @@
+{
+  "id": 1242580515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.60404,43.92777,18.60404,43.92777",
+    "geom:latitude":43.92777,
+    "geom:longitude":18.60404,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Velika Strana",
+    "gn:country_code":"BA",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275158,
+    "gn:latitude":43.92777,
+    "gn:longitude":18.60404,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Velika Strana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275158
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7de4f0e1493b8e39a2718349d123ed8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759201,
+            "locality_id":1242580515,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242580515,
+    "wof:lastmodified":1537056929,
+    "wof:name":"Velika Strana",
+    "wof:parent_id":1108759201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.60404,
+    43.92777,
+    18.60404,
+    43.92777
+],
+  "geometry": {"coordinates":[18.60404,43.92777],"type":"Point"}
+}

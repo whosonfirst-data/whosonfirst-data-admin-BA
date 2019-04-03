@@ -1,0 +1,67 @@
+{
+  "id": 1209729819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.34795,44.01462,18.34795,44.01462",
+    "geom:latitude":44.01462,
+    "geom:longitude":18.34795,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Danovina",
+    "gn:country_code":"BA",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3242145,
+    "gn:latitude":44.01462,
+    "gn:longitude":18.34795,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Danovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3242145
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7adefde57bbfce7b949caa6499935ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759027,
+            "locality_id":1209729819,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1209729819,
+    "wof:lastmodified":1536379857,
+    "wof:name":"Danovina",
+    "wof:parent_id":1108759027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34795,
+    44.01462,
+    18.34795,
+    44.01462
+],
+  "geometry": {"coordinates":[18.34795,44.01462],"type":"Point"}
+}

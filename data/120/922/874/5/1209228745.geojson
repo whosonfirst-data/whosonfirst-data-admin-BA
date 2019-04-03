@@ -1,0 +1,65 @@
+{
+  "id": 1209228745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20286,44.02483,17.20286,44.02483",
+    "geom:latitude":44.02483,
+    "geom:longitude":17.20286,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mrdebare",
+    "gn:country_code":"BA",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194742,
+    "gn:latitude":44.02483,
+    "gn:longitude":17.20286,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mr\u0111ebare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mr\u0111ebare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194742,
+        "wk:page":"Mr%C4%91ebare"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2a82f80ec2d50887cc94b184ca2daed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209228745
+        }
+    ],
+    "wof:id":1209228745,
+    "wof:lastmodified":1537585579,
+    "wof:name":"Mrdebare",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20286,
+    44.02483,
+    17.20286,
+    44.02483
+],
+  "geometry": {"coordinates":[17.20286,44.02483],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193030293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07262,44.18593,18.07262,44.18593",
+    "geom:latitude":44.18593,
+    "geom:longitude":18.07262,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dracici",
+    "gn:country_code":"BA",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201333,
+    "gn:latitude":44.18593,
+    "gn:longitude":18.07262,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Dra\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dra\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201333,
+        "wk:page":"Dra%C4%8Di%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"227ccd366904d15fe43a0caa2d7bd0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1193030293,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1193030293,
+    "wof:lastmodified":1537585609,
+    "wof:name":"Dracici",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07262,
+    44.18593,
+    18.07262,
+    44.18593
+],
+  "geometry": {"coordinates":[18.07262,44.18593],"type":"Point"}
+}

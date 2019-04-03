@@ -1,0 +1,67 @@
+{
+  "id": 1309817729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.50444,43.76139,17.50444,43.76139",
+    "geom:latitude":43.76139,
+    "geom:longitude":17.50444,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kuraja",
+    "gn:country_code":"BA",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3294301,
+    "gn:latitude":43.76139,
+    "gn:longitude":17.50444,
+    "gn:modification_date":"1998-06-04",
+    "gn:name":"Kuraja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294301
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d36f1ff4611c9cf612e9866cdc9613fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1309817729,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1309817729,
+    "wof:lastmodified":1536914250,
+    "wof:name":"Kuraja",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.50444,
+    43.76139000000001,
+    17.50444,
+    43.76139000000001
+],
+  "geometry": {"coordinates":[17.50444,43.76139000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343564149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17387,45.1238,17.17387,45.1238",
+    "geom:latitude":45.1238,
+    "geom:longitude":17.17387,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donja Vrbaska",
+    "gn:country_code":"BA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285740,
+    "gn:latitude":45.1238,
+    "gn:longitude":17.17387,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donja Vrba\u0161ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285740
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"681160ae51461b00bcaa166ae4eee4ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1343564149,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343564149,
+    "wof:lastmodified":1537090904,
+    "wof:name":"Donja Vrbaska",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17387,
+    45.1238,
+    17.17387,
+    45.1238
+],
+  "geometry": {"coordinates":[17.17387,45.1238],"type":"Point"}
+}

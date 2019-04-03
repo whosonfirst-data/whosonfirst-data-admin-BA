@@ -1,0 +1,68 @@
+{
+  "id": 1243180937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33479,43.83736,19.33479,43.83736",
+    "geom:latitude":43.83736,
+    "geom:longitude":19.33479,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donje Dubovo",
+    "gn:country_code":"BA",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3201572,
+    "gn:latitude":43.83736,
+    "gn:longitude":19.33479,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Donje Dubovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201572,
+        "wk:page":"Donje_Dubovo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"04e81417d31516aafdc96bda800a22f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1243180937,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243180937,
+    "wof:lastmodified":1537486782,
+    "wof:name":"Donje Dubovo",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33479,
+    43.83736,
+    19.33479,
+    43.83736
+],
+  "geometry": {"coordinates":[19.33479,43.83736],"type":"Point"}
+}

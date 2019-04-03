@@ -1,0 +1,71 @@
+{
+  "id": 1242687809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19995,44.26135,16.19995,44.26135",
+    "geom:latitude":44.26135,
+    "geom:longitude":16.19995,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gornji Tiskovac",
+    "gn:country_code":"BA",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199909,
+    "gn:latitude":44.26135,
+    "gn:longitude":16.19995,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornji Ti\u0161kovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u0161kovac",
+        "Gornji Ti\u0161kovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199909
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6bc52c9a40bfa019e375ada277bd6df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1242687809,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1242687809,
+    "wof:lastmodified":1537585599,
+    "wof:name":"Gornji Tiskovac",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19995,
+    44.26135,
+    16.19995,
+    44.26135
+],
+  "geometry": {"coordinates":[16.19995,44.26135],"type":"Point"}
+}

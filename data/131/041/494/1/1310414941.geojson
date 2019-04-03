@@ -1,0 +1,72 @@
+{
+  "id": 1310414941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81125,44.96152,17.81125,44.96152",
+    "geom:latitude":44.96152,
+    "geom:longitude":17.81125,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donji Detlak",
+    "gn:country_code":"BA",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201489,
+    "gn:latitude":44.96152,
+    "gn:longitude":17.81125,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donji Detlak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Detlak Donji",
+        "Donji Detlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201489,
+        "wk:page":"Donji_Detlak"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ef0be6a55f6a1c4d12386e3b2db85931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1310414941,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310414941,
+    "wof:lastmodified":1537585611,
+    "wof:name":"Donji Detlak",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81125,
+    44.96152,
+    17.81125,
+    44.96152
+],
+  "geometry": {"coordinates":[17.81125,44.96152],"type":"Point"}
+}

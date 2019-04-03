@@ -1,0 +1,71 @@
+{
+  "id": 1243457585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53345,44.98984,17.53345,44.98984",
+    "geom:latitude":44.98984,
+    "geom:longitude":17.53345,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cukali",
+    "gn:country_code":"BA",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3202300,
+    "gn:latitude":44.98984,
+    "gn:longitude":17.53345,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0106ukali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cukale",
+        "\u0106ukali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202300
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"21a72c8c39440dca4100be488e83d570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759237,
+            "locality_id":1243457585,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243457585,
+    "wof:lastmodified":1537585616,
+    "wof:name":"Cukali",
+    "wof:parent_id":1108759237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53345,
+    44.98984,
+    17.53345,
+    44.98984
+],
+  "geometry": {"coordinates":[17.53345,44.98984],"type":"Point"}
+}

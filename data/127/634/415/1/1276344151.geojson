@@ -1,0 +1,71 @@
+{
+  "id": 1276344151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70592,43.36199,18.70592,43.36199",
+    "geom:latitude":43.36199,
+    "geom:longitude":18.70592,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mrkalji",
+    "gn:country_code":"BA",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194732,
+    "gn:latitude":43.36199,
+    "gn:longitude":18.70592,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mrkalji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mrkalje",
+        "Mrkalji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194732
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0a276eb9a67b6d9a181e41924b4f524a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1276344151,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276344151,
+    "wof:lastmodified":1537585579,
+    "wof:name":"Mrkalji",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70592000000001,
+    43.36199000000001,
+    18.70592000000001,
+    43.36199000000001
+],
+  "geometry": {"coordinates":[18.70592000000001,43.36199000000001],"type":"Point"}
+}

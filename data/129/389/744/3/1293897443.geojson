@@ -1,0 +1,67 @@
+{
+  "id": 1293897443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42917,43.8175,17.42917,43.8175",
+    "geom:latitude":43.8175,
+    "geom:longitude":17.42917,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ceprljaca",
+    "gn:country_code":"BA",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292432,
+    "gn:latitude":43.8175,
+    "gn:longitude":17.42917,
+    "gn:modification_date":"1998-06-04",
+    "gn:name":"\u010ceprlja\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292432
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"413784052e360d66f86315dec4ad479a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1293897443,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1293897443,
+    "wof:lastmodified":1536693372,
+    "wof:name":"Ceprljaca",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42917000000001,
+    43.8175,
+    17.42917000000001,
+    43.8175
+],
+  "geometry": {"coordinates":[17.42917000000001,43.8175],"type":"Point"}
+}

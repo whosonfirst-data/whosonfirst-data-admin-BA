@@ -1,0 +1,71 @@
+{
+  "id": 1243186079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38651,44.22438,16.38651,44.22438",
+    "geom:latitude":44.22438,
+    "geom:longitude":16.38651,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Radlovici",
+    "gn:country_code":"BA",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281730,
+    "gn:latitude":44.22438,
+    "gn:longitude":16.38651,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Radlovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Radlovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281730,
+        "wk:page":"Radlovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3d2c855077dedd22c7183c822b65c2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1243186079,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1243186079,
+    "wof:lastmodified":1537585674,
+    "wof:name":"Radlovici",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38651,
+    44.22438,
+    16.38651,
+    44.22438
+],
+  "geometry": {"coordinates":[16.38651,44.22438],"type":"Point"}
+}

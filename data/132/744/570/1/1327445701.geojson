@@ -1,0 +1,67 @@
+{
+  "id": 1327445701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31156,44.39046,18.31156,44.39046",
+    "geom:latitude":44.39046,
+    "geom:longitude":18.31156,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Janjila",
+    "gn:country_code":"BA",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3243694,
+    "gn:latitude":44.39046,
+    "gn:longitude":18.31156,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Janjila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3243694
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fe939beb52302f82db0cc508d2103c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1327445701,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1327445701,
+    "wof:lastmodified":1536661523,
+    "wof:name":"Janjila",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31156,
+    44.39046,
+    18.31156,
+    44.39046
+],
+  "geometry": {"coordinates":[18.31156,44.39046],"type":"Point"}
+}

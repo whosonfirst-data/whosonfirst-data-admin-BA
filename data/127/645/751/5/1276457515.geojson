@@ -1,0 +1,67 @@
+{
+  "id": 1276457515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06801,44.65414,16.06801,44.65414",
+    "geom:latitude":44.65414,
+    "geom:longitude":16.06801,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hadzica Glavica",
+    "gn:country_code":"BA",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269944,
+    "gn:latitude":44.65414,
+    "gn:longitude":16.06801,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Had\u017ei\u0107a Glavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269944
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4f3b919a52d1b2bc3de160ea97cbb037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1276457515,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1276457515,
+    "wof:lastmodified":1536609546,
+    "wof:name":"Hadzica Glavica",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06801,
+    44.65414000000001,
+    16.06801,
+    44.65414000000001
+],
+  "geometry": {"coordinates":[16.06801,44.65414000000001],"type":"Point"}
+}

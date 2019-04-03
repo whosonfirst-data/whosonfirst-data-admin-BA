@@ -1,0 +1,67 @@
+{
+  "id": 1243277093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72332,44.602,17.72332,44.602",
+    "geom:latitude":44.602,
+    "geom:longitude":17.72332,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bijeda",
+    "gn:country_code":"BA",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258625,
+    "gn:latitude":44.602,
+    "gn:longitude":17.72332,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bijeda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258625
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c72243d5a7ea163f35832b3b9f8dd65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1243277093,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243277093,
+    "wof:lastmodified":1537047606,
+    "wof:name":"Bijeda",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72332,
+    44.602,
+    17.72332,
+    44.602
+],
+  "geometry": {"coordinates":[17.72332,44.602],"type":"Point"}
+}

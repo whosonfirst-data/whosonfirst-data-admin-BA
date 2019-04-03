@@ -1,0 +1,61 @@
+{
+  "id": 1209529943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39315,44.72446,18.39315,44.72446",
+    "geom:latitude":44.72446,
+    "geom:longitude":18.39315,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hrvati",
+    "gn:country_code":"BA",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256297,
+    "gn:latitude":44.72446,
+    "gn:longitude":18.39315,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Hrvati",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256297
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"731da8a645ae66689c193e97b100ad43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209529943
+        }
+    ],
+    "wof:id":1209529943,
+    "wof:lastmodified":1536284312,
+    "wof:name":"Hrvati",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39315,
+    44.72446,
+    18.39315,
+    44.72446
+],
+  "geometry": {"coordinates":[18.39315,44.72446],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276446325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27949,43.91295,18.27949,43.91295",
+    "geom:latitude":43.91295,
+    "geom:longitude":18.27949,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kracevi",
+    "gn:country_code":"BA",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295994,
+    "gn:latitude":43.91295,
+    "gn:longitude":18.27949,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kra\u010devi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295994
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9517a66c1cccb014705dda9f8ce562cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759109,
+            "locality_id":1276446325,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1276446325,
+    "wof:lastmodified":1536625222,
+    "wof:name":"Kracevi",
+    "wof:parent_id":1108759109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27949,
+    43.91295,
+    18.27949,
+    43.91295
+],
+  "geometry": {"coordinates":[18.27949,43.91295],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243070725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85713,44.907,17.85713,44.907",
+    "geom:latitude":44.907,
+    "geom:longitude":17.85713,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vrtacani",
+    "gn:country_code":"BA",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250636,
+    "gn:latitude":44.907,
+    "gn:longitude":17.85713,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vrta\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250636
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ccfe757d6a40978f6fd245221b95425f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1243070725,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243070725,
+    "wof:lastmodified":1536849036,
+    "wof:name":"Vrtacani",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85712999999999,
+    44.907,
+    17.85712999999999,
+    44.907
+],
+  "geometry": {"coordinates":[17.85712999999999,44.907],"type":"Point"}
+}

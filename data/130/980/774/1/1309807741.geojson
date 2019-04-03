@@ -1,0 +1,67 @@
+{
+  "id": 1309807741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4888,43.77816,17.4888,43.77816",
+    "geom:latitude":43.77816,
+    "geom:longitude":17.4888,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sisici",
+    "gn:country_code":"BA",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292516,
+    "gn:latitude":43.77816,
+    "gn:longitude":17.4888,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160i\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292516
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4079958ed779aa6935fba185bd145830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1309807741,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1309807741,
+    "wof:lastmodified":1536928923,
+    "wof:name":"Sisici",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4888,
+    43.77816,
+    17.4888,
+    43.77816
+],
+  "geometry": {"coordinates":[17.4888,43.77816],"type":"Point"}
+}

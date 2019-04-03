@@ -1,0 +1,67 @@
+{
+  "id": 1243571791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57536,44.23835,17.57536,44.23835",
+    "geom:latitude":44.23835,
+    "geom:longitude":17.57536,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ciganluk",
+    "gn:country_code":"BA",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3293379,
+    "gn:latitude":44.23835,
+    "gn:longitude":17.57536,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ciganluk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293379
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"10e649f9e5fa276238bdc904afc5b8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759263,
+            "locality_id":1243571791,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1243571791,
+    "wof:lastmodified":1536622920,
+    "wof:name":"Ciganluk",
+    "wof:parent_id":1108759263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57536,
+    44.23835,
+    17.57536,
+    44.23835
+],
+  "geometry": {"coordinates":[17.57536,44.23835],"type":"Point"}
+}

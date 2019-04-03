@@ -1,0 +1,71 @@
+{
+  "id": 1277087349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97452,43.85538,18.97452,43.85538",
+    "geom:latitude":43.85538,
+    "geom:longitude":18.97452,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Guzdelji",
+    "gn:country_code":"BA",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199448,
+    "gn:latitude":43.85538,
+    "gn:longitude":18.97452,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gu\u017edelji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u017edelji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199448,
+        "wk:page":"Gu%C5%BEdelji"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4f549d883f146d2c6bd3cc90a8e47354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1277087349,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1277087349,
+    "wof:lastmodified":1537585597,
+    "wof:name":"Guzdelji",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97452,
+    43.85538,
+    18.97452,
+    43.85538
+],
+  "geometry": {"coordinates":[18.97452,43.85538],"type":"Point"}
+}

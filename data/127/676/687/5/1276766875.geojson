@@ -1,0 +1,67 @@
+{
+  "id": 1276766875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8545,43.69662,18.8545,43.69662",
+    "geom:latitude":43.69662,
+    "geom:longitude":18.8545,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Skravnik",
+    "gn:country_code":"BA",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3270776,
+    "gn:latitude":43.69662,
+    "gn:longitude":18.8545,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Skravnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270776
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"24cf1cf5fc718cd500f4ecf6810081cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759083,
+            "locality_id":1276766875,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1276766875,
+    "wof:lastmodified":1536695108,
+    "wof:name":"Skravnik",
+    "wof:parent_id":1108759083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8545,
+    43.69662,
+    18.8545,
+    43.69662
+],
+  "geometry": {"coordinates":[18.8545,43.69662],"type":"Point"}
+}

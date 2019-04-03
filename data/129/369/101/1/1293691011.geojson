@@ -1,0 +1,67 @@
+{
+  "id": 1293691011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94167,43.75194,16.94167,43.75194",
+    "geom:latitude":43.75194,
+    "geom:longitude":16.94167,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Susnjic",
+    "gn:country_code":"BA",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213192,
+    "gn:latitude":43.75194,
+    "gn:longitude":16.94167,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"\u0160u\u0161nji\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213192
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a4fdb944ae52e59a61e861b515d9229e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1293691011,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1293691011,
+    "wof:lastmodified":1536990057,
+    "wof:name":"Susnjic",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94167,
+    43.75194000000001,
+    16.94167,
+    43.75194000000001
+],
+  "geometry": {"coordinates":[16.94167,43.75194000000001],"type":"Point"}
+}

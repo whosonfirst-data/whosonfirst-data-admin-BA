@@ -1,0 +1,68 @@
+{
+  "id": 1327033247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64738,43.72957,18.64738,43.72957",
+    "geom:latitude":43.72957,
+    "geom:longitude":18.64738,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gute",
+    "gn:country_code":"BA",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268260,
+    "gn:latitude":43.72957,
+    "gn:longitude":18.64738,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gute",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268260,
+        "wk:page":"Gute_%28Pale%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"31f1233b3e52078b1f997fdfd0ac6d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759201,
+            "locality_id":1327033247,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327033247,
+    "wof:lastmodified":1537486839,
+    "wof:name":"Gute",
+    "wof:parent_id":1108759201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64738,
+    43.72957,
+    18.64738,
+    43.72957
+],
+  "geometry": {"coordinates":[18.64738,43.72957],"type":"Point"}
+}

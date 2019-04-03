@@ -1,0 +1,67 @@
+{
+  "id": 1242591915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52916,44.12312,18.52916,44.12312",
+    "geom:latitude":44.12312,
+    "geom:longitude":18.52916,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Klincici",
+    "gn:country_code":"BA",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198068,
+    "gn:latitude":44.12312,
+    "gn:longitude":18.52916,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Klin\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198068
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4a734dce622d346fd7ab5e94e22933aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759193,
+            "locality_id":1242591915,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1242591915,
+    "wof:lastmodified":1537041196,
+    "wof:name":"Klincici",
+    "wof:parent_id":1108759193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52916,
+    44.12312,
+    18.52916,
+    44.12312
+],
+  "geometry": {"coordinates":[18.52916,44.12312],"type":"Point"}
+}

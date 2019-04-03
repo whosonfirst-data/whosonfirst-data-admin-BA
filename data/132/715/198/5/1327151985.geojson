@@ -1,0 +1,67 @@
+{
+  "id": 1327151985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.84803,44.0892,17.84803,44.0892",
+    "geom:latitude":44.0892,
+    "geom:longitude":17.84803,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Odmeka",
+    "gn:country_code":"BA",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289348,
+    "gn:latitude":44.0892,
+    "gn:longitude":17.84803,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Odmeka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289348
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"787f9ceec71d657eca37c14e8022bc72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759031,
+            "locality_id":1327151985,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1327151985,
+    "wof:lastmodified":1537082519,
+    "wof:name":"Odmeka",
+    "wof:parent_id":1108759031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.84802999999999,
+    44.0892,
+    17.84802999999999,
+    44.0892
+],
+  "geometry": {"coordinates":[17.84802999999999,44.0892],"type":"Point"}
+}

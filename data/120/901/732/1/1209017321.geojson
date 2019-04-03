@@ -1,0 +1,61 @@
+{
+  "id": 1209017321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07889,44.77054,17.07889,44.77054",
+    "geom:latitude":44.77054,
+    "geom:longitude":17.07889,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Moconje",
+    "gn:country_code":"BA",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247859,
+    "gn:latitude":44.77054,
+    "gn:longitude":17.07889,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Moconje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247859
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8cb6d56c5a30f8fe76a338f95b5871ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209017321
+        }
+    ],
+    "wof:id":1209017321,
+    "wof:lastmodified":1536300255,
+    "wof:name":"Moconje",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.078889999999998,
+    44.77054,
+    17.078889999999998,
+    44.77054
+],
+  "geometry": {"coordinates":[17.07889,44.77054],"type":"Point"}
+}

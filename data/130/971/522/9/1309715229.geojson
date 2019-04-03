@@ -1,0 +1,67 @@
+{
+  "id": 1309715229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90811,44.50778,16.90811,44.50778",
+    "geom:latitude":44.50778,
+    "geom:longitude":16.90811,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Malesevici",
+    "gn:country_code":"BA",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247508,
+    "gn:latitude":44.50778,
+    "gn:longitude":16.90811,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Male\u0161evi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247508
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f5d335293e9e18d5b4a07bde75813b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759135,
+            "locality_id":1309715229,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309715229,
+    "wof:lastmodified":1537059105,
+    "wof:name":"Malesevici",
+    "wof:parent_id":1108759135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90811,
+    44.50778,
+    16.90811,
+    44.50778
+],
+  "geometry": {"coordinates":[16.90811,44.50778],"type":"Point"}
+}

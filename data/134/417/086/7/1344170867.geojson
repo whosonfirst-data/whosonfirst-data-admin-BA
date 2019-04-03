@@ -1,0 +1,71 @@
+{
+  "id": 1344170867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21084,44.485,16.21084,44.485",
+    "geom:latitude":44.485,
+    "geom:longitude":16.21084,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Veliko Ocijevo",
+    "gn:country_code":"BA",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210626,
+    "gn:latitude":44.485,
+    "gn:longitude":16.21084,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Veliko O\u010dijevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliko O\u010dijevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210626,
+        "wk:page":"Veliko_O%C4%8Dijevo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9f29ccde5975a3ea987573125cb8bc16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1344170867,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1344170867,
+    "wof:lastmodified":1537585640,
+    "wof:name":"Veliko Ocijevo",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21084,
+    44.485,
+    16.21084,
+    44.485
+],
+  "geometry": {"coordinates":[16.21084,44.485],"type":"Point"}
+}

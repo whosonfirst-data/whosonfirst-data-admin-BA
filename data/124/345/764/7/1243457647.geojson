@@ -1,0 +1,71 @@
+{
+  "id": 1243457647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98931,44.858,17.98931,44.858",
+    "geom:latitude":44.858,
+    "geom:longitude":17.98931,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stopici",
+    "gn:country_code":"BA",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252503,
+    "gn:latitude":44.858,
+    "gn:longitude":17.98931,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Stopi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stopi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252503,
+        "wk:page":"Stopi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"803486b62f5b823dac5957777889e70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1243457647,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243457647,
+    "wof:lastmodified":1537585663,
+    "wof:name":"Stopici",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98931,
+    44.858,
+    17.98931,
+    44.858
+],
+  "geometry": {"coordinates":[17.98931,44.858],"type":"Point"}
+}

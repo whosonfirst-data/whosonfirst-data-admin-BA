@@ -1,0 +1,67 @@
+{
+  "id": 1309914779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54057,44.62553,17.54057,44.62553",
+    "geom:latitude":44.62553,
+    "geom:longitude":17.54057,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pejici",
+    "gn:country_code":"BA",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259112,
+    "gn:latitude":44.62553,
+    "gn:longitude":17.54057,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Peji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259112
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1fa24e6e12d88464806006d77a454ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1309914779,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309914779,
+    "wof:lastmodified":1536774573,
+    "wof:name":"Pejici",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54057,
+    44.62553,
+    17.54057,
+    44.62553
+],
+  "geometry": {"coordinates":[17.54057,44.62553],"type":"Point"}
+}

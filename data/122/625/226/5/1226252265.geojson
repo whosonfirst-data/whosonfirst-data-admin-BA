@@ -1,0 +1,67 @@
+{
+  "id": 1226252265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23245,44.40759,17.23245,44.40759",
+    "geom:latitude":44.40759,
+    "geom:longitude":17.23245,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zecevo",
+    "gn:country_code":"BA",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3236333,
+    "gn:latitude":44.40759,
+    "gn:longitude":17.23245,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ze\u010devo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3236333
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f93d1fca4bd7a87e3c08ddc50b0a6c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759115,
+            "locality_id":1226252265,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1226252265,
+    "wof:lastmodified":1536924845,
+    "wof:name":"Zecevo",
+    "wof:parent_id":1108759115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23245,
+    44.40759,
+    17.23245,
+    44.40759
+],
+  "geometry": {"coordinates":[17.23245,44.40759],"type":"Point"}
+}

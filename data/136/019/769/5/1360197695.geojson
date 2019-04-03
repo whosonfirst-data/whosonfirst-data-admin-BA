@@ -1,0 +1,67 @@
+{
+  "id": 1360197695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.81404,44.73882,16.81404,44.73882",
+    "geom:latitude":44.73882,
+    "geom:longitude":16.81404,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Baste",
+    "gn:country_code":"BA",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3246259,
+    "gn:latitude":44.73882,
+    "gn:longitude":16.81404,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Baste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3246259
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1a6e2d958daea84cfdbfa1923e223f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759223,
+            "locality_id":1360197695,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360197695,
+    "wof:lastmodified":1536783620,
+    "wof:name":"Baste",
+    "wof:parent_id":1108759223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.81404,
+    44.73882,
+    16.81404,
+    44.73882
+],
+  "geometry": {"coordinates":[16.81404,44.73882],"type":"Point"}
+}

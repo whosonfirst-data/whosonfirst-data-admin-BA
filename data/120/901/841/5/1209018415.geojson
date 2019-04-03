@@ -1,0 +1,66 @@
+{
+  "id": 1209018415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89667,44.78778,15.89667,44.78778",
+    "geom:latitude":44.78778,
+    "geom:longitude":15.89667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sokolac",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190383,
+    "gn:latitude":44.78778,
+    "gn:longitude":15.89667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sokolac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sokola",
+        "Sokolac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190383
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b937c79a06912b1c207db76cb4ae89ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209018415
+        }
+    ],
+    "wof:id":1209018415,
+    "wof:lastmodified":1537585561,
+    "wof:name":"Sokolac",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89667,
+    44.78778,
+    15.89667,
+    44.78778
+],
+  "geometry": {"coordinates":[15.89667,44.78778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326739991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09139,43.50472,18.09139,43.50472",
+    "geom:latitude":43.50472,
+    "geom:longitude":18.09139,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pjevnik",
+    "gn:country_code":"BA",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268725,
+    "gn:latitude":43.50472,
+    "gn:longitude":18.09139,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Pjevnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268725
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c3a2636beab20dba75f87d28fdd81859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1326739991,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1326739991,
+    "wof:lastmodified":1536684422,
+    "wof:name":"Pjevnik",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09139,
+    43.50472,
+    18.09139,
+    43.50472
+],
+  "geometry": {"coordinates":[18.09139,43.50472],"type":"Point"}
+}

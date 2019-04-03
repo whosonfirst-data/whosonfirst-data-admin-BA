@@ -1,0 +1,67 @@
+{
+  "id": 1260288563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26179,43.60964,17.26179,43.60964",
+    "geom:latitude":43.60964,
+    "geom:longitude":17.26179,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Anici",
+    "gn:country_code":"BA",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286150,
+    "gn:latitude":43.60964,
+    "gn:longitude":17.26179,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ani\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286150
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e00446a26a0212923c1738c21aef9a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1260288563,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1260288563,
+    "wof:lastmodified":1536705382,
+    "wof:name":"Anici",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26179,
+    43.60964,
+    17.26179,
+    43.60964
+],
+  "geometry": {"coordinates":[17.26179,43.60964],"type":"Point"}
+}

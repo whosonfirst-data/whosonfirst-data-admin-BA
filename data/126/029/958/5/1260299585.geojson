@@ -1,0 +1,67 @@
+{
+  "id": 1260299585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77472,43.58139,18.77472,43.58139",
+    "geom:latitude":43.58139,
+    "geom:longitude":18.77472,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Milakovac",
+    "gn:country_code":"BA",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273054,
+    "gn:latitude":43.58139,
+    "gn:longitude":18.77472,
+    "gn:modification_date":"1998-06-04",
+    "gn:name":"Milakovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273054
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"80004b3d9877ad46fdfffa428583c4f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759071,
+            "locality_id":1260299585,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1260299585,
+    "wof:lastmodified":1536690383,
+    "wof:name":"Milakovac",
+    "wof:parent_id":1108759071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77472,
+    43.58139,
+    18.77472,
+    43.58139
+],
+  "geometry": {"coordinates":[18.77472,43.58139],"type":"Point"}
+}

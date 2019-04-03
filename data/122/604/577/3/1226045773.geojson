@@ -1,0 +1,71 @@
+{
+  "id": 1226045773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5161,43.94275,18.5161,43.94275",
+    "geom:latitude":43.94275,
+    "geom:longitude":18.5161,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Han Toplice",
+    "gn:country_code":"BA",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206122,
+    "gn:latitude":43.94275,
+    "gn:longitude":18.5161,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Han Toplice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Han Topice",
+        "Han Toplice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206122
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8093f1e79804a33a496a8ed1151fd7c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759245,
+            "locality_id":1226045773,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1226045773,
+    "wof:lastmodified":1537585634,
+    "wof:name":"Han Toplice",
+    "wof:parent_id":1108759245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5161,
+    43.94275,
+    18.5161,
+    43.94275
+],
+  "geometry": {"coordinates":[18.5161,43.94275],"type":"Point"}
+}

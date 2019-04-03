@@ -1,0 +1,65 @@
+{
+  "id": 1209119083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.14297,42.81099,18.14297,42.81099",
+    "geom:latitude":42.81099,
+    "geom:longitude":18.14297,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zakovo",
+    "gn:country_code":"BA",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186851,
+    "gn:latitude":42.81099,
+    "gn:longitude":18.14297,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u017dakovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dakovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186851,
+        "wk:page":"%C5%BDakovo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"39a0c7830ad348724a753156f7ce32c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209119083
+        }
+    ],
+    "wof:id":1209119083,
+    "wof:lastmodified":1537585548,
+    "wof:name":"Zakovo",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14297,
+    42.81099,
+    18.14297,
+    42.81099
+],
+  "geometry": {"coordinates":[18.14297,42.81099],"type":"Point"}
+}

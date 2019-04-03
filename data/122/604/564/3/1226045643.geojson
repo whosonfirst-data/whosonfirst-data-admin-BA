@@ -1,0 +1,67 @@
+{
+  "id": 1226045643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98844,43.8448,18.98844,43.8448",
+    "geom:latitude":43.8448,
+    "geom:longitude":18.98844,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sena Krena",
+    "gn:country_code":"BA",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267592,
+    "gn:latitude":43.8448,
+    "gn:longitude":18.98844,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0160ena Krena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267592
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9593dc0dd8b5726f55a8ceb352acdf05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1226045643,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226045643,
+    "wof:lastmodified":1536725669,
+    "wof:name":"Sena Krena",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98844,
+    43.8448,
+    18.98844,
+    43.8448
+],
+  "geometry": {"coordinates":[18.98844,43.8448],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226051299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01855,44.87308,18.01855,44.87308",
+    "geom:latitude":44.87308,
+    "geom:longitude":18.01855,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Komarica",
+    "gn:country_code":"BA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197852,
+    "gn:latitude":44.87308,
+    "gn:longitude":18.01855,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Komarica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197852
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d97ba8fbebfbfba30d338ce9f625f4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1226051299,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226051299,
+    "wof:lastmodified":1536717399,
+    "wof:name":"Komarica",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01855,
+    44.87308,
+    18.01855,
+    44.87308
+],
+  "geometry": {"coordinates":[18.01855,44.87308],"type":"Point"}
+}

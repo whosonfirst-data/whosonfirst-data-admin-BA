@@ -1,0 +1,72 @@
+{
+  "id": 1327143145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11365,45.06031,18.11365,45.06031",
+    "geom:latitude":45.06031,
+    "geom:longitude":18.11365,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Klakar Gornji",
+    "gn:country_code":"BA",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3198114,
+    "gn:latitude":45.06031,
+    "gn:longitude":18.11365,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Klakar Gornji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornji Klakar",
+        "Klakar Gornji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198114,
+        "wk:page":"Gornji_Klakar"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"eebe9deed6b4f5689141a9bc6dd3bc67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759009,
+            "locality_id":1327143145,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327143145,
+    "wof:lastmodified":1537585592,
+    "wof:name":"Klakar Gornji",
+    "wof:parent_id":1108759009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11365,
+    45.06031,
+    18.11365,
+    45.06031
+],
+  "geometry": {"coordinates":[18.11365,45.06031],"type":"Point"}
+}

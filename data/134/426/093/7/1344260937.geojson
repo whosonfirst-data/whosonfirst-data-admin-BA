@@ -1,0 +1,67 @@
+{
+  "id": 1344260937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.88393,44.5299,16.88393,44.5299",
+    "geom:latitude":44.5299,
+    "geom:longitude":16.88393,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Guslovi",
+    "gn:country_code":"BA",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3245677,
+    "gn:latitude":44.5299,
+    "gn:longitude":16.88393,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Guslovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3245677
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2b01ec60a7099e2069e18f8d259ae421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1344260937,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1344260937,
+    "wof:lastmodified":1537080283,
+    "wof:name":"Guslovi",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.88393,
+    44.5299,
+    16.88393,
+    44.5299
+],
+  "geometry": {"coordinates":[16.88393,44.5299],"type":"Point"}
+}

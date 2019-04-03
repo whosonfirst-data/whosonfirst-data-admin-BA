@@ -1,0 +1,71 @@
+{
+  "id": 1360088227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73397,43.46238,18.73397,43.46238",
+    "geom:latitude":43.46238,
+    "geom:longitude":18.73397,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Trbusce",
+    "gn:country_code":"BA",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3188911,
+    "gn:latitude":43.46238,
+    "gn:longitude":18.73397,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Trbu\u0161\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trbu\u0161\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188911,
+        "wk:page":"Trbu%C5%A1%C4%87e"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"707288758151b18b41294be71514a13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1360088227,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360088227,
+    "wof:lastmodified":1537585557,
+    "wof:name":"Trbusce",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73397000000001,
+    43.46238,
+    18.73397000000001,
+    43.46238
+],
+  "geometry": {"coordinates":[18.73397000000001,43.46238],"type":"Point"}
+}

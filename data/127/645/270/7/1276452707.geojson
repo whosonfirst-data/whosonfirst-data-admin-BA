@@ -1,0 +1,71 @@
+{
+  "id": 1276452707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97437,43.9199,17.97437,43.9199",
+    "geom:latitude":43.9199,
+    "geom:longitude":17.97437,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Otigosce",
+    "gn:country_code":"BA",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193796,
+    "gn:latitude":43.9199,
+    "gn:longitude":17.97437,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Otigo\u0161\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otigo\u0161\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193796,
+        "wk:page":"Otigo%C5%A1%C4%87e"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0a977fe2ad38c3096aa16421b3e818a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1276452707,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1276452707,
+    "wof:lastmodified":1537585576,
+    "wof:name":"Otigosce",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97437,
+    43.9199,
+    17.97437,
+    43.9199
+],
+  "geometry": {"coordinates":[17.97437,43.9199],"type":"Point"}
+}

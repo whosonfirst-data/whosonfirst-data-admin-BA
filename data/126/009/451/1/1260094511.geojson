@@ -1,0 +1,67 @@
+{
+  "id": 1260094511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1081,44.4367,18.1081,44.4367",
+    "geom:latitude":44.4367,
+    "geom:longitude":18.1081,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Smajici",
+    "gn:country_code":"BA",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257032,
+    "gn:latitude":44.4367,
+    "gn:longitude":18.1081,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Smaji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257032
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ba3104f014f234969fd3d1f81c16c4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1260094511,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1260094511,
+    "wof:lastmodified":1536971710,
+    "wof:name":"Smajici",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1081,
+    44.4367,
+    18.1081,
+    44.4367
+],
+  "geometry": {"coordinates":[18.1081,44.4367],"type":"Point"}
+}

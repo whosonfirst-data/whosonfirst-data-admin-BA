@@ -1,0 +1,71 @@
+{
+  "id": 1310615137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4393,44.28508,17.4393,44.28508",
+    "geom:latitude":44.28508,
+    "geom:longitude":17.4393,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bozikovac",
+    "gn:country_code":"BA",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3203602,
+    "gn:latitude":44.28508,
+    "gn:longitude":17.4393,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Bo\u017eikovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bo\u017eikovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203602,
+        "wk:page":"Bo%C5%BEikovac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"969b7c897eea50e38796f02a65db8d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759115,
+            "locality_id":1310615137,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1310615137,
+    "wof:lastmodified":1537585624,
+    "wof:name":"Bozikovac",
+    "wof:parent_id":1108759115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4393,
+    44.28508,
+    17.4393,
+    44.28508
+],
+  "geometry": {"coordinates":[17.4393,44.28508],"type":"Point"}
+}

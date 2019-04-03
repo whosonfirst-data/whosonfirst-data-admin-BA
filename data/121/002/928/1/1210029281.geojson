@@ -1,0 +1,67 @@
+{
+  "id": 1210029281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.65228,44.61443,17.65228,44.61443",
+    "geom:latitude":44.61443,
+    "geom:longitude":17.65228,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lipovcici",
+    "gn:country_code":"BA",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259048,
+    "gn:latitude":44.61443,
+    "gn:longitude":17.65228,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Lipov\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259048
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7006680a663d49db34f86e28f79dd38a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1210029281,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1210029281,
+    "wof:lastmodified":1536389312,
+    "wof:name":"Lipovcici",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.65227999999999,
+    44.61443,
+    17.65227999999999,
+    44.61443
+],
+  "geometry": {"coordinates":[17.65227999999999,44.61443],"type":"Point"}
+}

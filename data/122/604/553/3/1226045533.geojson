@@ -1,0 +1,67 @@
+{
+  "id": 1226045533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94077,44.81802,17.94077,44.81802",
+    "geom:latitude":44.81802,
+    "geom:longitude":17.94077,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kupresaci",
+    "gn:country_code":"BA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252071,
+    "gn:latitude":44.81802,
+    "gn:longitude":17.94077,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kupre\u0161aci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252071
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"532d67fa2ff497c05d2669c37bb63448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1226045533,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226045533,
+    "wof:lastmodified":1536725831,
+    "wof:name":"Kupresaci",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94077,
+    44.81802,
+    17.94077,
+    44.81802
+],
+  "geometry": {"coordinates":[17.94077,44.81802],"type":"Point"}
+}

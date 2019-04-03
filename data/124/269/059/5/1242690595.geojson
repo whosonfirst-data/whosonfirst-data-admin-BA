@@ -1,0 +1,67 @@
+{
+  "id": 1242690595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98515,44.11132,18.98515,44.11132",
+    "geom:latitude":44.11132,
+    "geom:longitude":18.98515,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Karaula",
+    "gn:country_code":"BA",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204884,
+    "gn:latitude":44.11132,
+    "gn:longitude":18.98515,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Karaula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204884
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d6543f04b59a344a644dc4dd26028c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":1242690595,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242690595,
+    "wof:lastmodified":1536901036,
+    "wof:name":"Karaula",
+    "wof:parent_id":1108759103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98515,
+    44.11132,
+    18.98515,
+    44.11132
+],
+  "geometry": {"coordinates":[18.98515,44.11132],"type":"Point"}
+}

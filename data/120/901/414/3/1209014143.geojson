@@ -1,0 +1,61 @@
+{
+  "id": 1209014143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18417,45.00444,16.18417,45.00444",
+    "geom:latitude":45.00444,
+    "geom:longitude":16.18417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bastra",
+    "gn:country_code":"BA",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3279114,
+    "gn:latitude":45.00444,
+    "gn:longitude":16.18417,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Ba\u0161tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3279114
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b5b7044bc74f73bde90a39057ea6045a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209014143
+        }
+    ],
+    "wof:id":1209014143,
+    "wof:lastmodified":1536300349,
+    "wof:name":"Bastra",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18417,
+    45.00444,
+    16.18417,
+    45.00444
+],
+  "geometry": {"coordinates":[16.18417,45.00444],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242888191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.55273,44.2614,17.55273,44.2614",
+    "geom:latitude":44.2614,
+    "geom:longitude":17.55273,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vlajsovici",
+    "gn:country_code":"BA",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187533,
+    "gn:latitude":44.2614,
+    "gn:longitude":17.55273,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vlajsovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vlahovi\u0107i",
+        "Vlajsovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187533
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b498feed7c457780b726dc142038b133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759263,
+            "locality_id":1242888191,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242888191,
+    "wof:lastmodified":1537585551,
+    "wof:name":"Vlajsovici",
+    "wof:parent_id":1108759263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55273,
+    44.2614,
+    17.55273,
+    44.2614
+],
+  "geometry": {"coordinates":[17.55273,44.2614],"type":"Point"}
+}

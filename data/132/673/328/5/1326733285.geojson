@@ -1,0 +1,67 @@
+{
+  "id": 1326733285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43498,44.88779,17.43498,44.88779",
+    "geom:latitude":44.88779,
+    "geom:longitude":17.43498,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Manojlovici",
+    "gn:country_code":"BA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250572,
+    "gn:latitude":44.88779,
+    "gn:longitude":17.43498,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Manojlovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250572
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8a48bd4e70b48dbe8d775418b52e5167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759151,
+            "locality_id":1326733285,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326733285,
+    "wof:lastmodified":1536694402,
+    "wof:name":"Manojlovici",
+    "wof:parent_id":1108759151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43498,
+    44.88779,
+    17.43498,
+    44.88779
+],
+  "geometry": {"coordinates":[17.43498,44.88779],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259396531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68167,44.66861,18.68167,44.66861",
+    "geom:latitude":44.66861,
+    "geom:longitude":18.68167,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kulice",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211141,
+    "gn:latitude":44.66861,
+    "gn:longitude":18.68167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kulice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolica",
+        "Kulice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211141
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7ebc5d4739a931cee13f4f7f09433f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759043,
+            "locality_id":1259396531,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1259396531,
+    "wof:lastmodified":1537585646,
+    "wof:name":"Kulice",
+    "wof:parent_id":1108759043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68167,
+    44.66861,
+    18.68167,
+    44.66861
+],
+  "geometry": {"coordinates":[18.68167,44.66861],"type":"Point"}
+}

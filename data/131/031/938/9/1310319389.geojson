@@ -1,0 +1,67 @@
+{
+  "id": 1310319389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09167,44.9575,16.09167,44.9575",
+    "geom:latitude":44.9575,
+    "geom:longitude":16.09167,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Masinovici",
+    "gn:country_code":"BA",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260950,
+    "gn:latitude":44.9575,
+    "gn:longitude":16.09167,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Ma\u0161inovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260950
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9fb4a1b9ba75dd3527b76ec257024ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759003,
+            "locality_id":1310319389,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1310319389,
+    "wof:lastmodified":1536687869,
+    "wof:name":"Masinovici",
+    "wof:parent_id":1108759003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09167,
+    44.9575,
+    16.09167,
+    44.9575
+],
+  "geometry": {"coordinates":[16.09167,44.9575],"type":"Point"}
+}

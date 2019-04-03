@@ -1,0 +1,67 @@
+{
+  "id": 1292917285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.69083,43.22175,17.69083,43.22175",
+    "geom:latitude":43.22175,
+    "geom:longitude":17.69083,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lakisic Kula",
+    "gn:country_code":"BA",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288426,
+    "gn:latitude":43.22175,
+    "gn:longitude":17.69083,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Laki\u0161i\u0107 Kula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288426
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"21c6025e9d09ca0990027ec7f99fab8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759049,
+            "locality_id":1292917285,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1292917285,
+    "wof:lastmodified":1536612420,
+    "wof:name":"Lakisic Kula",
+    "wof:parent_id":1108759049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.69083,
+    43.22175,
+    17.69083,
+    43.22175
+],
+  "geometry": {"coordinates":[17.69083,43.22175],"type":"Point"}
+}

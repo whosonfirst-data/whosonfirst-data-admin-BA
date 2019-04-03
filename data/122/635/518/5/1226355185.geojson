@@ -1,0 +1,71 @@
+{
+  "id": 1226355185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54325,43.81937,18.54325,43.81937",
+    "geom:latitude":43.81937,
+    "geom:longitude":18.54325,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donji Pribanj",
+    "gn:country_code":"BA",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206018,
+    "gn:latitude":43.81937,
+    "gn:longitude":18.54325,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donji Pribanj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pribanj",
+        "Donji Pribanj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206018
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"41d62c0264805bdafa56209974b8b9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759201,
+            "locality_id":1226355185,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226355185,
+    "wof:lastmodified":1537585633,
+    "wof:name":"Donji Pribanj",
+    "wof:parent_id":1108759201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54325,
+    43.81937,
+    18.54325,
+    43.81937
+],
+  "geometry": {"coordinates":[18.54325,43.81937],"type":"Point"}
+}

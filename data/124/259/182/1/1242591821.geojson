@@ -1,0 +1,71 @@
+{
+  "id": 1242591821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94609,43.91369,17.94609,43.91369",
+    "geom:latitude":43.91369,
+    "geom:longitude":17.94609,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gojevici",
+    "gn:country_code":"BA",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200507,
+    "gn:latitude":43.91369,
+    "gn:longitude":17.94609,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Gojevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gojevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200507,
+        "wk:page":"Gojevi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ebeb34f54dcafce51454512f67a330c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1242591821,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242591821,
+    "wof:lastmodified":1537585605,
+    "wof:name":"Gojevici",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94608999999999,
+    43.91369,
+    17.94608999999999,
+    43.91369
+],
+  "geometry": {"coordinates":[17.94608999999999,43.91369],"type":"Point"}
+}

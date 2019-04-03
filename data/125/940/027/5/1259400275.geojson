@@ -1,0 +1,67 @@
+{
+  "id": 1259400275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95567,44.63721,17.95567,44.63721",
+    "geom:latitude":44.63721,
+    "geom:longitude":17.95567,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jevadzije",
+    "gn:country_code":"BA",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252390,
+    "gn:latitude":44.63721,
+    "gn:longitude":17.95567,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jevad\u017eije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252390
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f4f7ffcd23fe58dc395ffaed6028fdb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759255,
+            "locality_id":1259400275,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259400275,
+    "wof:lastmodified":1536977647,
+    "wof:name":"Jevadzije",
+    "wof:parent_id":1108759255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95567,
+    44.63721,
+    17.95567,
+    44.63721
+],
+  "geometry": {"coordinates":[17.95567,44.63721],"type":"Point"}
+}

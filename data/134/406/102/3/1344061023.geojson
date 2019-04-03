@@ -1,0 +1,67 @@
+{
+  "id": 1344061023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43143,43.30328,17.43143,43.30328",
+    "geom:latitude":43.30328,
+    "geom:longitude":17.43143,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vlake",
+    "gn:country_code":"BA",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288305,
+    "gn:latitude":43.30328,
+    "gn:longitude":17.43143,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vlake",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288305
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1302aba685668ef16b6d051d1fcd7fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1344061023,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1344061023,
+    "wof:lastmodified":1536873731,
+    "wof:name":"Vlake",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43143,
+    43.30328,
+    17.43143,
+    43.30328
+],
+  "geometry": {"coordinates":[17.43143,43.30328],"type":"Point"}
+}

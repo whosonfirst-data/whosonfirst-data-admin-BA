@@ -1,0 +1,67 @@
+{
+  "id": 1225962015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78173,45.17163,15.78173,45.17163",
+    "geom:latitude":45.17163,
+    "geom:longitude":15.78173,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Smrekovac",
+    "gn:country_code":"BA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3279817,
+    "gn:latitude":45.17163,
+    "gn:longitude":15.78173,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Smrekovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3279817
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"88284f88d0b775557b6662ba827be39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1225962015,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1225962015,
+    "wof:lastmodified":1536844748,
+    "wof:name":"Smrekovac",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78173,
+    45.17163,
+    15.78173,
+    45.17163
+],
+  "geometry": {"coordinates":[15.78173,45.17163],"type":"Point"}
+}

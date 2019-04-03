@@ -1,0 +1,68 @@
+{
+  "id": 1327445219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85856,43.4035,17.85856,43.4035",
+    "geom:latitude":43.4035,
+    "geom:longitude":17.85856,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vojno",
+    "gn:country_code":"BA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3265376,
+    "gn:latitude":43.4035,
+    "gn:longitude":17.85856,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vojno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265376,
+        "wk:page":"Vojno"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f1178aeb2b6143c50abc0d6d2052b2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1327445219,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1327445219,
+    "wof:lastmodified":1537486835,
+    "wof:name":"Vojno",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85856,
+    43.4035,
+    17.85856,
+    43.4035
+],
+  "geometry": {"coordinates":[17.85856,43.4035],"type":"Point"}
+}

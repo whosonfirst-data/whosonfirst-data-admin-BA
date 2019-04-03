@@ -1,0 +1,68 @@
+{
+  "id": 1344271331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00111,45.07361,16.00111,45.07361",
+    "geom:latitude":45.07361,
+    "geom:longitude":16.00111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lubarda",
+    "gn:country_code":"BA",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3278679,
+    "gn:latitude":45.07361,
+    "gn:longitude":16.00111,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Lubarda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278679,
+        "wk:page":"Lubarda"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0e6349fcfb14dc2a69e3862d39521901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759033,
+            "locality_id":1344271331,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1344271331,
+    "wof:lastmodified":1537486850,
+    "wof:name":"Lubarda",
+    "wof:parent_id":1108759033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00111,
+    45.07361,
+    16.00111,
+    45.07361
+],
+  "geometry": {"coordinates":[16.00111,45.07361],"type":"Point"}
+}

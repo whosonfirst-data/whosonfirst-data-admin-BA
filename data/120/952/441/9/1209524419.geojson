@@ -1,0 +1,65 @@
+{
+  "id": 1209524419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.39111,44.15018,19.39111,44.15018",
+    "geom:latitude":44.15018,
+    "geom:longitude":19.39111,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Biljaca",
+    "gn:country_code":"BA",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204148,
+    "gn:latitude":44.15018,
+    "gn:longitude":19.39111,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bilja\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilja\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204148,
+        "wk:page":"Bilja%C4%8Da"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9bb1d4d7e72f408a622693e27543ba38",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209524419
+        }
+    ],
+    "wof:id":1209524419,
+    "wof:lastmodified":1537585627,
+    "wof:name":"Biljaca",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.39111,
+    44.15018,
+    19.39111,
+    44.15018
+],
+  "geometry": {"coordinates":[19.39111,44.15018],"type":"Point"}
+}

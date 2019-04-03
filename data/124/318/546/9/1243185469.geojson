@@ -1,0 +1,71 @@
+{
+  "id": 1243185469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16908,44.13246,19.16908,44.13246",
+    "geom:latitude":44.13246,
+    "geom:longitude":19.16908,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vasiljevici",
+    "gn:country_code":"BA",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211704,
+    "gn:latitude":44.13246,
+    "gn:longitude":19.16908,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vasiljevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solosje\u010de",
+        "Vasiljevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211704
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"169306bd49d04c5a95dbb6d91a5a774a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759165,
+            "locality_id":1243185469,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243185469,
+    "wof:lastmodified":1537585653,
+    "wof:name":"Vasiljevici",
+    "wof:parent_id":1108759165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16908,
+    44.13246,
+    19.16908,
+    44.13246
+],
+  "geometry": {"coordinates":[19.16908,44.13246],"type":"Point"}
+}

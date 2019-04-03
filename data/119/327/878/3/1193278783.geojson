@@ -1,0 +1,67 @@
+{
+  "id": 1193278783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17946,44.40373,17.17946,44.40373",
+    "geom:latitude":44.40373,
+    "geom:longitude":17.17946,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kodze",
+    "gn:country_code":"BA",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3236313,
+    "gn:latitude":44.40373,
+    "gn:longitude":17.17946,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kod\u017ee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3236313
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e29d68665b887a2f656e573bcf9a8bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1193278783,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193278783,
+    "wof:lastmodified":1536364072,
+    "wof:name":"Kodze",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17946,
+    44.40373,
+    17.17946,
+    44.40373
+],
+  "geometry": {"coordinates":[17.17946,44.40373],"type":"Point"}
+}

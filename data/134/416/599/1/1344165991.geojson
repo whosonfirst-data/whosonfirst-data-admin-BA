@@ -1,0 +1,67 @@
+{
+  "id": 1344165991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48917,43.87278,18.48917,43.87278",
+    "geom:latitude":43.87278,
+    "geom:longitude":18.48917,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Azapovici",
+    "gn:country_code":"BA",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267009,
+    "gn:latitude":43.87278,
+    "gn:longitude":18.48917,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Azapovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267009
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3d32793cb4f2a4afa0e44ed925cc34d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759247,
+            "locality_id":1344165991,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344165991,
+    "wof:lastmodified":1536723561,
+    "wof:name":"Azapovici",
+    "wof:parent_id":1108759247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48917,
+    43.87278,
+    18.48917,
+    43.87278
+],
+  "geometry": {"coordinates":[18.48917,43.87278],"type":"Point"}
+}

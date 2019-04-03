@@ -1,0 +1,73 @@
+{
+  "id": 1292906787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54081,44.71204,17.54081,44.71204",
+    "geom:latitude":44.71204,
+    "geom:longitude":17.54081,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Snjegotina Velika",
+    "gn:country_code":"BA",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190413,
+    "gn:latitude":44.71204,
+    "gn:longitude":17.54081,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160njegotina Velika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Velika \u0160njegotina",
+        "\u0160njegotina Omerbegova",
+        "\u0160njegotina Velika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190413,
+        "wk:page":"%C5%A0njegotina_Velika"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f78df8928ab85e676e02c4b811cbeacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759045,
+            "locality_id":1292906787,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1292906787,
+    "wof:lastmodified":1537585561,
+    "wof:name":"Snjegotina Velika",
+    "wof:parent_id":1108759045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54081,
+    44.71204,
+    17.54081,
+    44.71204
+],
+  "geometry": {"coordinates":[17.54081,44.71204],"type":"Point"}
+}

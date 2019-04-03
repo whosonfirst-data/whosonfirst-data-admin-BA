@@ -1,0 +1,67 @@
+{
+  "id": 1293603357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.20917,43.54222,18.20917,43.54222",
+    "geom:latitude":43.54222,
+    "geom:longitude":18.20917,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ovcari",
+    "gn:country_code":"BA",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269999,
+    "gn:latitude":43.54222,
+    "gn:longitude":18.20917,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Ov\u010dari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269999
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5fa8a813742a978271fd379faee1842e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1293603357,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1293603357,
+    "wof:lastmodified":1536617829,
+    "wof:name":"Ovcari",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.20917,
+    43.54222,
+    18.20917,
+    43.54222
+],
+  "geometry": {"coordinates":[18.20917,43.54222],"type":"Point"}
+}

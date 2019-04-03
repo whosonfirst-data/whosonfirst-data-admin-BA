@@ -1,0 +1,71 @@
+{
+  "id": 1193020077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10312,44.55929,18.10312,44.55929",
+    "geom:latitude":44.55929,
+    "geom:longitude":18.10312,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bijela Ploca",
+    "gn:country_code":"BA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260212,
+    "gn:latitude":44.55929,
+    "gn:longitude":18.10312,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bijela Plo\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bijela Plo\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260212,
+        "wk:page":"Bijela_Plo%C4%8Da"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c7feae3d05655c96ed0c0ec14efe631d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1193020077,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1193020077,
+    "wof:lastmodified":1537585664,
+    "wof:name":"Bijela Ploca",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10312,
+    44.55929,
+    18.10312,
+    44.55929
+],
+  "geometry": {"coordinates":[18.10312,44.55929],"type":"Point"}
+}

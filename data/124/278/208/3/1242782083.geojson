@@ -1,0 +1,67 @@
+{
+  "id": 1242782083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83314,45.11954,15.83314,45.11954",
+    "geom:latitude":45.11954,
+    "geom:longitude":15.83314,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jankovac",
+    "gn:country_code":"BA",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278782,
+    "gn:latitude":45.11954,
+    "gn:longitude":15.83314,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Jankovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278782
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"70c3f9fd8bcf5d8a65c95c030359331d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1242782083,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1242782083,
+    "wof:lastmodified":1536769590,
+    "wof:name":"Jankovac",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83314,
+    45.11954,
+    15.83314,
+    45.11954
+],
+  "geometry": {"coordinates":[15.83314,45.11954],"type":"Point"}
+}

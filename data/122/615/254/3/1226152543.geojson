@@ -1,0 +1,67 @@
+{
+  "id": 1226152543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67241,43.9342,16.67241,43.9342",
+    "geom:latitude":43.9342,
+    "geom:longitude":16.67241,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Provo",
+    "gn:country_code":"BA",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3192282,
+    "gn:latitude":43.9342,
+    "gn:longitude":16.67241,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Provo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192282
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"07f53f07a352a11247a10d4a7f69f2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1226152543,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1226152543,
+    "wof:lastmodified":1537064925,
+    "wof:name":"Provo",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67241,
+    43.9342,
+    16.67241,
+    43.9342
+],
+  "geometry": {"coordinates":[16.67241,43.9342],"type":"Point"}
+}

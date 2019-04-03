@@ -1,0 +1,67 @@
+{
+  "id": 1327449061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41929,44.73278,18.41929,44.73278",
+    "geom:latitude":44.73278,
+    "geom:longitude":18.41929,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pirage",
+    "gn:country_code":"BA",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255982,
+    "gn:latitude":44.73278,
+    "gn:longitude":18.41929,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pirage",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255982
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a9f6ea109fe0e8c2ff16369ea0da56cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759243,
+            "locality_id":1327449061,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1327449061,
+    "wof:lastmodified":1536656792,
+    "wof:name":"Pirage",
+    "wof:parent_id":1108759243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41929,
+    44.73278,
+    18.41929,
+    44.73278
+],
+  "geometry": {"coordinates":[18.41929,44.73278],"type":"Point"}
+}

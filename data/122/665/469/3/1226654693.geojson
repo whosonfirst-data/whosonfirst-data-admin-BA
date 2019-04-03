@@ -1,0 +1,67 @@
+{
+  "id": 1226654693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0282,43.1236,18.0282,43.1236",
+    "geom:latitude":43.1236,
+    "geom:longitude":18.0282,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Babin Do",
+    "gn:country_code":"BA",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3266734,
+    "gn:latitude":43.1236,
+    "gn:longitude":18.0282,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Babin Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266734
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1b9d88dd286369a1e7af548472205cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759251,
+            "locality_id":1226654693,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226654693,
+    "wof:lastmodified":1536845366,
+    "wof:name":"Babin Do",
+    "wof:parent_id":1108759251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0282,
+    43.1236,
+    18.0282,
+    43.1236
+],
+  "geometry": {"coordinates":[18.0282,43.1236],"type":"Point"}
+}

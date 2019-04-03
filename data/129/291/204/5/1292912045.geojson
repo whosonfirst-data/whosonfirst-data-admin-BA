@@ -1,0 +1,71 @@
+{
+  "id": 1292912045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95175,43.48905,18.95175,43.48905",
+    "geom:latitude":43.48905,
+    "geom:longitude":18.95175,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ravna Njiva",
+    "gn:country_code":"BA",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295552,
+    "gn:latitude":43.48905,
+    "gn:longitude":18.95175,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ravna Njiva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravne Njive",
+        "Ravna Njiva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295552
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"15b2480ef1ab30df69c476ad0aac3c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1292912045,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1292912045,
+    "wof:lastmodified":1537585679,
+    "wof:name":"Ravna Njiva",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95175,
+    43.48905,
+    18.95175,
+    43.48905
+],
+  "geometry": {"coordinates":[18.95175,43.48905],"type":"Point"}
+}

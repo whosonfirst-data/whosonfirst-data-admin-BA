@@ -1,0 +1,67 @@
+{
+  "id": 1276231087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.05039,44.76572,19.05039,44.76572",
+    "geom:latitude":44.76572,
+    "geom:longitude":19.05039,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Njemic Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254370,
+    "gn:latitude":44.76572,
+    "gn:longitude":19.05039,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Njemi\u0107 Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254370
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b07035105e1a7f0d7c6c67023c6c1b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1276231087,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276231087,
+    "wof:lastmodified":1536916341,
+    "wof:name":"Njemic Mahala",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05039,
+    44.76572,
+    19.05039,
+    44.76572
+],
+  "geometry": {"coordinates":[19.05039,44.76572],"type":"Point"}
+}

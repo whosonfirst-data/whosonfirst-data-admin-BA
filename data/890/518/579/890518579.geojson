@@ -1,0 +1,65 @@
+{
+  "id": 890518579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.42503,43.59966,19.42503,43.59966",
+    "geom:latitude":43.59966,
+    "geom:longitude":19.42503,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":469,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mio\u010de (Rudo)",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298614,
+        "qs:id":582390
+    },
+    "wof:country":"BA",
+    "wof:created":1469056070,
+    "wof:geomhash":"cb302dc297e34e861817afc61f9da93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759217,
+            "locality_id":890518579,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518579,
+    "wof:lastmodified":1505343909,
+    "wof:name":"Mio\u010de (Rudo)",
+    "wof:parent_id":1108759217,
+    "wof:placetype":"locality",
+    "wof:population":469,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.42503,
+    43.59966,
+    19.42503,
+    43.59966
+],
+  "geometry": {"coordinates":[19.42503,43.59966],"type":"Point"}
+}

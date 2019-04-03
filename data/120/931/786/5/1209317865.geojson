@@ -1,0 +1,61 @@
+{
+  "id": 1209317865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5357,45.04986,16.5357,45.04986",
+    "geom:latitude":45.04986,
+    "geom:longitude":16.5357,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cukur",
+    "gn:country_code":"BA",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280495,
+    "gn:latitude":45.04986,
+    "gn:longitude":16.5357,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u010cukur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280495
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"07902d08a9649577afbd37315691a158",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209317865
+        }
+    ],
+    "wof:id":1209317865,
+    "wof:lastmodified":1536290801,
+    "wof:name":"Cukur",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5357,
+    45.04986,
+    16.5357,
+    45.04986
+],
+  "geometry": {"coordinates":[16.5357,45.04986],"type":"Point"}
+}

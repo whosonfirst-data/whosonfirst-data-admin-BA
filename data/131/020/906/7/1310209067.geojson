@@ -1,0 +1,68 @@
+{
+  "id": 1310209067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96267,44.90061,15.96267,44.90061",
+    "geom:latitude":44.90061,
+    "geom:longitude":15.96267,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Srbljani",
+    "gn:country_code":"BA",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190170,
+    "gn:latitude":44.90061,
+    "gn:longitude":15.96267,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Srbljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190170,
+        "wk:page":"Srbljani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1056720902ea007f607f1ece1fab1017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1310209067,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1310209067,
+    "wof:lastmodified":1537486723,
+    "wof:name":"Srbljani",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96267,
+    44.90061,
+    15.96267,
+    44.90061
+],
+  "geometry": {"coordinates":[15.96267,44.90061],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209323353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.02722,43.6975,19.02722,43.6975",
+    "geom:latitude":43.6975,
+    "geom:longitude":19.02722,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Groce",
+    "gn:country_code":"BA",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3273634,
+    "gn:latitude":43.6975,
+    "gn:longitude":19.02722,
+    "gn:modification_date":"1998-01-06",
+    "gn:name":"Groce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273634
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8c8e73d8d5edfb55ee2a46dc69d317b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209323353
+        }
+    ],
+    "wof:id":1209323353,
+    "wof:lastmodified":1536290614,
+    "wof:name":"Groce",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.02722,
+    43.6975,
+    19.02722,
+    43.6975
+],
+  "geometry": {"coordinates":[19.02722,43.6975],"type":"Point"}
+}

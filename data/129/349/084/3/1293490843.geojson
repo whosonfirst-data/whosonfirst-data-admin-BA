@@ -1,0 +1,67 @@
+{
+  "id": 1293490843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27762,43.20898,18.27762,43.20898",
+    "geom:latitude":43.20898,
+    "geom:longitude":18.27762,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rupni Do",
+    "gn:country_code":"BA",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3265963,
+    "gn:latitude":43.20898,
+    "gn:longitude":18.27762,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rupni Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265963
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d7f48a939a4d85447bac7a5140384e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1293490843,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293490843,
+    "wof:lastmodified":1536782678,
+    "wof:name":"Rupni Do",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27762,
+    43.20898,
+    18.27762,
+    43.20898
+],
+  "geometry": {"coordinates":[18.27762,43.20898],"type":"Point"}
+}

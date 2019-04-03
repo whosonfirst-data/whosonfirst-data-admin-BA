@@ -1,0 +1,67 @@
+{
+  "id": 1226251523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.02375,44.48637,19.02375,44.48637",
+    "geom:latitude":44.48637,
+    "geom:longitude":19.02375,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Boskovici",
+    "gn:country_code":"BA",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273564,
+    "gn:latitude":44.48637,
+    "gn:longitude":19.02375,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bo\u0161kovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273564
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"445e2cd16bb8aeda1a19de44c7f35eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759303,
+            "locality_id":1226251523,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226251523,
+    "wof:lastmodified":1536925923,
+    "wof:name":"Boskovici",
+    "wof:parent_id":1108759303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.02375,
+    44.48637,
+    19.02375,
+    44.48637
+],
+  "geometry": {"coordinates":[19.02375,44.48637],"type":"Point"}
+}

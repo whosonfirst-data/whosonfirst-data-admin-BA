@@ -1,0 +1,67 @@
+{
+  "id": 1193019079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08797,44.37298,19.08797,44.37298",
+    "geom:latitude":44.37298,
+    "geom:longitude":19.08797,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kula Grad",
+    "gn:country_code":"BA",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196970,
+    "gn:latitude":44.37298,
+    "gn:longitude":19.08797,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kula Grad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196970
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1900202b3972702ded01b06278f1f106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759303,
+            "locality_id":1193019079,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193019079,
+    "wof:lastmodified":1536375228,
+    "wof:name":"Kula Grad",
+    "wof:parent_id":1108759303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08797,
+    44.37298,
+    19.08797,
+    44.37298
+],
+  "geometry": {"coordinates":[19.08797,44.37298],"type":"Point"}
+}

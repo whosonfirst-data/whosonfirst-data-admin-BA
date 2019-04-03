@@ -1,0 +1,71 @@
+{
+  "id": 1310610521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51756,43.83316,17.51756,43.83316",
+    "geom:latitude":43.83316,
+    "geom:longitude":17.51756,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jaklici",
+    "gn:country_code":"BA",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198928,
+    "gn:latitude":43.83316,
+    "gn:longitude":17.51756,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jakli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jakli\u0107",
+        "Jakli\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198928
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"470b363d1c50c060e82a21f59b5c0eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1310610521,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1310610521,
+    "wof:lastmodified":1537585595,
+    "wof:name":"Jaklici",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51756,
+    43.83316,
+    17.51756,
+    43.83316
+],
+  "geometry": {"coordinates":[17.51756,43.83316],"type":"Point"}
+}

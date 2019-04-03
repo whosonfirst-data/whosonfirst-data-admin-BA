@@ -1,0 +1,68 @@
+{
+  "id": 1343776045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68594,43.8556,17.68594,43.8556",
+    "geom:latitude":43.8556,
+    "geom:longitude":17.68594,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Borova Ravan",
+    "gn:country_code":"BA",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295182,
+    "gn:latitude":43.8556,
+    "gn:longitude":17.68594,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Borova Ravan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295182,
+        "wk:page":"Borova_Ravan"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c2e3a0c4ad0499130f032a7a6761ca5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":1343776045,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1343776045,
+    "wof:lastmodified":1537486860,
+    "wof:name":"Borova Ravan",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68594,
+    43.8556,
+    17.68594,
+    43.8556
+],
+  "geometry": {"coordinates":[17.68594,43.8556],"type":"Point"}
+}

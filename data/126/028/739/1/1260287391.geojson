@@ -1,0 +1,67 @@
+{
+  "id": 1260287391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36408,44.73993,17.36408,44.73993",
+    "geom:latitude":44.73993,
+    "geom:longitude":17.36408,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Modici",
+    "gn:country_code":"BA",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247197,
+    "gn:latitude":44.73993,
+    "gn:longitude":17.36408,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Modi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247197
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2836fa28389f5f8b85e7c0aaab35c016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759045,
+            "locality_id":1260287391,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260287391,
+    "wof:lastmodified":1536706962,
+    "wof:name":"Modici",
+    "wof:parent_id":1108759045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36408,
+    44.73993,
+    17.36408,
+    44.73993
+],
+  "geometry": {"coordinates":[17.36408,44.73993],"type":"Point"}
+}

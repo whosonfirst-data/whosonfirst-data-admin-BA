@@ -1,0 +1,67 @@
+{
+  "id": 1293116277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87257,43.68182,17.87257,43.68182",
+    "geom:latitude":43.68182,
+    "geom:longitude":17.87257,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Seljani",
+    "gn:country_code":"BA",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344682,
+    "gn:latitude":43.68182,
+    "gn:longitude":17.87257,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Seljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344682
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e395cb601c0d28f3e18992ff29018fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1293116277,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1293116277,
+    "wof:lastmodified":1536824343,
+    "wof:name":"Seljani",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87257,
+    43.68182,
+    17.87257,
+    43.68182
+],
+  "geometry": {"coordinates":[17.87257,43.68182],"type":"Point"}
+}

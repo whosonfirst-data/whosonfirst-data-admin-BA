@@ -1,0 +1,71 @@
+{
+  "id": 1209828251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4197,45.0306,18.4197,45.0306",
+    "geom:latitude":45.0306,
+    "geom:longitude":18.4197,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zasovica",
+    "gn:country_code":"BA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186753,
+    "gn:latitude":45.0306,
+    "gn:longitude":18.4197,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zasovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zasavica",
+        "Zasovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186753
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"25aa87e2d6bd2b781a2eb000e3164bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759017,
+            "locality_id":1209828251,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209828251,
+    "wof:lastmodified":1537585548,
+    "wof:name":"Zasovica",
+    "wof:parent_id":1108759017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4197,
+    45.0306,
+    18.4197,
+    45.0306
+],
+  "geometry": {"coordinates":[18.4197,45.0306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242974841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.599,45.0072,18.599,45.0072",
+    "geom:latitude":45.0072,
+    "geom:longitude":18.599,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sepici",
+    "gn:country_code":"BA",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3241019,
+    "gn:latitude":45.0072,
+    "gn:longitude":18.599,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0160epi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241019
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d49bb8bd8701614b3cc2f2498d92a4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759197,
+            "locality_id":1242974841,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242974841,
+    "wof:lastmodified":1536987618,
+    "wof:name":"Sepici",
+    "wof:parent_id":1108759197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.599,
+    45.0072,
+    18.599,
+    45.0072
+],
+  "geometry": {"coordinates":[18.599,45.0072],"type":"Point"}
+}

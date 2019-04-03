@@ -1,0 +1,97 @@
+{
+  "id": 890519087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47869,45.15106,16.47869,45.15106",
+    "geom:latitude":45.15106,
+    "geom:longitude":16.47869,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3582,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Dobrljin"
+    ],
+    "name:dut_x_preferred":[
+        "Dobrljin"
+    ],
+    "name:eng_x_preferred":[
+        "Dobrljin"
+    ],
+    "name:fre_x_preferred":[
+        "Dobrljin"
+    ],
+    "name:hrv_x_preferred":[
+        "Dobrljin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0459\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dobrljin"
+    ],
+    "name:unk_x_variant":[
+        "Dobrlin"
+    ],
+    "qs:name":"Dobrljin",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201928,
+        "gp:id":941256,
+        "qs:id":1283445,
+        "wd:id":"Q3033365",
+        "wk:page":"Dobrljin"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056091,
+    "wof:geomhash":"4becc76ff73f66fe9864dc7b39539a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":890519087,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890519087,
+    "wof:lastmodified":1527751223,
+    "wof:name":"Dobrljin",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:population":3582,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47869,
+    45.15106,
+    16.47869,
+    45.15106
+],
+  "geometry": {"coordinates":[16.47869,45.15106],"type":"Point"}
+}

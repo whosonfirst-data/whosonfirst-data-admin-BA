@@ -1,0 +1,71 @@
+{
+  "id": 1259596311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31396,44.6444,18.31396,44.6444",
+    "geom:latitude":44.6444,
+    "geom:longitude":18.31396,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kakmuz",
+    "gn:country_code":"BA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3220545,
+    "gn:latitude":44.6444,
+    "gn:longitude":18.31396,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kakmu\u017e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakmu\u017e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3220545,
+        "wk:page":"Kakmu%C5%BE"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d101daf8313ac8973c09ce7b7e6be7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759091,
+            "locality_id":1259596311,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259596311,
+    "wof:lastmodified":1537585658,
+    "wof:name":"Kakmuz",
+    "wof:parent_id":1108759091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31396,
+    44.6444,
+    18.31396,
+    44.6444
+],
+  "geometry": {"coordinates":[18.31396,44.6444],"type":"Point"}
+}

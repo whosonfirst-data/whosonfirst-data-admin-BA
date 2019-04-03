@@ -1,0 +1,67 @@
+{
+  "id": 1226051301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6693,45.15052,16.6693,45.15052",
+    "geom:latitude":45.15052,
+    "geom:longitude":16.6693,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Graovci",
+    "gn:country_code":"BA",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281086,
+    "gn:latitude":45.15052,
+    "gn:longitude":16.6693,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Graovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281086
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"de06a761c3d72e019748ab468ca1d230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1226051301,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226051301,
+    "wof:lastmodified":1536717396,
+    "wof:name":"Graovci",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6693,
+    45.15052,
+    16.6693,
+    45.15052
+],
+  "geometry": {"coordinates":[16.6693,45.15052],"type":"Point"}
+}

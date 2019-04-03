@@ -1,0 +1,67 @@
+{
+  "id": 1310419941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62425,45.03336,18.62425,45.03336",
+    "geom:latitude":45.03336,
+    "geom:longitude":18.62425,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bukova Greda",
+    "gn:country_code":"BA",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212214,
+    "gn:latitude":45.03336,
+    "gn:longitude":18.62425,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bukova Greda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669243,
+        1108759195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212214
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a63e883d67e0a3eca1f956bdd17a7fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759195,
+            "locality_id":1310419941,
+            "region_id":85669243
+        }
+    ],
+    "wof:id":1310419941,
+    "wof:lastmodified":1537038699,
+    "wof:name":"Bukova Greda",
+    "wof:parent_id":1108759195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62425,
+    45.03336,
+    18.62425,
+    45.03336
+],
+  "geometry": {"coordinates":[18.62425,45.03336],"type":"Point"}
+}

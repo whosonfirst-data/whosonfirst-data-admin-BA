@@ -1,0 +1,67 @@
+{
+  "id": 1277084031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0605,44.63427,18.0605,44.63427",
+    "geom:latitude":44.63427,
+    "geom:longitude":18.0605,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kriste",
+    "gn:country_code":"BA",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254682,
+    "gn:latitude":44.63427,
+    "gn:longitude":18.0605,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kriste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254682
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8f02b20148677d3ec8810006bf07b4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759255,
+            "locality_id":1277084031,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1277084031,
+    "wof:lastmodified":1536766072,
+    "wof:name":"Kriste",
+    "wof:parent_id":1108759255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0605,
+    44.63427,
+    18.0605,
+    44.63427
+],
+  "geometry": {"coordinates":[18.0605,44.63427],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209324347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.76244,44.15666,17.76244,44.15666",
+    "geom:latitude":44.15666,
+    "geom:longitude":17.76244,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Veceriska",
+    "gn:country_code":"BA",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201604,
+    "gn:latitude":44.15666,
+    "gn:longitude":17.76244,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donja Ve\u010deriska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Ve\u010derska",
+        "Donja Ve\u010deriska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201604
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a921646197e2c2e9a4301f49c8f4a6e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209324347
+        }
+    ],
+    "wof:id":1209324347,
+    "wof:lastmodified":1537585612,
+    "wof:name":"Donja Veceriska",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.76243999999999,
+    44.15666,
+    17.76243999999999,
+    44.15666
+],
+  "geometry": {"coordinates":[17.76243999999999,44.15666],"type":"Point"}
+}

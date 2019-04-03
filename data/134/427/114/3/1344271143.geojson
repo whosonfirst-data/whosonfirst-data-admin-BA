@@ -1,0 +1,67 @@
+{
+  "id": 1344271143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.43719,44.89274,18.43719,44.89274",
+    "geom:latitude":44.89274,
+    "geom:longitude":18.43719,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hasukici",
+    "gn:country_code":"BA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254161,
+    "gn:latitude":44.89274,
+    "gn:longitude":18.43719,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Hasuki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254161
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"64d457f6da81d51a909fa77371f49bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759093,
+            "locality_id":1344271143,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1344271143,
+    "wof:lastmodified":1537065745,
+    "wof:name":"Hasukici",
+    "wof:parent_id":1108759093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43719,
+    44.89274,
+    18.43719,
+    44.89274
+],
+  "geometry": {"coordinates":[18.43719,44.89274],"type":"Point"}
+}

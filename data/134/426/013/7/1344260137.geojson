@@ -1,0 +1,67 @@
+{
+  "id": 1344260137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.70657,45.06434,16.70657,45.06434",
+    "geom:latitude":45.06434,
+    "geom:longitude":16.70657,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Studena",
+    "gn:country_code":"BA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282091,
+    "gn:latitude":45.06434,
+    "gn:longitude":16.70657,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Studena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282091
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"da80cae850626a31afd8fa2020f4054e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1344260137,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344260137,
+    "wof:lastmodified":1537081441,
+    "wof:name":"Studena",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.70657000000001,
+    45.06434,
+    16.70657000000001,
+    45.06434
+],
+  "geometry": {"coordinates":[16.70657000000001,45.06434],"type":"Point"}
+}

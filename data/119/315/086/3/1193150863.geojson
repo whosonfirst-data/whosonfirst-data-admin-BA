@@ -1,0 +1,67 @@
+{
+  "id": 1193150863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.646,43.89527,17.646,43.89527",
+    "geom:latitude":43.89527,
+    "geom:longitude":17.646,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mracaj",
+    "gn:country_code":"BA",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194787,
+    "gn:latitude":43.89527,
+    "gn:longitude":17.646,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mra\u010daj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194787
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5e15a30e2f4c4de77f750fe06c3a3920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":1193150863,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1193150863,
+    "wof:lastmodified":1536378374,
+    "wof:name":"Mracaj",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.646,
+    43.89527,
+    17.646,
+    43.89527
+],
+  "geometry": {"coordinates":[17.646,43.89527],"type":"Point"}
+}

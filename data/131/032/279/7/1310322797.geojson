@@ -1,0 +1,67 @@
+{
+  "id": 1310322797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61596,44.54278,18.61596,44.54278",
+    "geom:latitude":44.54278,
+    "geom:longitude":18.61596,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krtolije",
+    "gn:country_code":"BA",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259656,
+    "gn:latitude":44.54278,
+    "gn:longitude":18.61596,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Krtolije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259656
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ca02e106f94715e5572cff7adfd1a2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1310322797,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310322797,
+    "wof:lastmodified":1536682949,
+    "wof:name":"Krtolije",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61596,
+    44.54278,
+    18.61596,
+    44.54278
+],
+  "geometry": {"coordinates":[18.61596,44.54278],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293398907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36821,44.10035,19.36821,44.10035",
+    "geom:latitude":44.10035,
+    "geom:longitude":19.36821,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dimnici",
+    "gn:country_code":"BA",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3211634,
+    "gn:latitude":44.10035,
+    "gn:longitude":19.36821,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dimni\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dimni\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211634,
+        "wk:page":"Dimni%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"02fe64adb503c66ed464fa541f158ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1293398907,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293398907,
+    "wof:lastmodified":1537585652,
+    "wof:name":"Dimnici",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36821,
+    44.10035,
+    19.36821,
+    44.10035
+],
+  "geometry": {"coordinates":[19.36821,44.10035],"type":"Point"}
+}

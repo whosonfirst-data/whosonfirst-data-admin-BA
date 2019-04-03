@@ -1,0 +1,67 @@
+{
+  "id": 1344187877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.74298,44.86716,18.74298,44.86716",
+    "geom:latitude":44.86716,
+    "geom:longitude":18.74298,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Lucici",
+    "gn:country_code":"BA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256046,
+    "gn:latitude":44.86716,
+    "gn:longitude":18.74298,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Lu\u0107i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256046
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"53d60d195b5b6b9ba6499d1ddc5fad26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1344187877,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1344187877,
+    "wof:lastmodified":1536692002,
+    "wof:name":"Lucici",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.74298,
+    44.86716,
+    18.74298,
+    44.86716
+],
+  "geometry": {"coordinates":[18.74298,44.86716],"type":"Point"}
+}

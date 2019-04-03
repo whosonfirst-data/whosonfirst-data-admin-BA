@@ -1,0 +1,67 @@
+{
+  "id": 1344270981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51189,43.45759,17.51189,43.45759",
+    "geom:latitude":43.45759,
+    "geom:longitude":17.51189,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pogana Kruska",
+    "gn:country_code":"BA",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290258,
+    "gn:latitude":43.45759,
+    "gn:longitude":17.51189,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pogana Kru\u0161ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290258
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"052427038b2eff176f1df16f7a074b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759231,
+            "locality_id":1344270981,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1344270981,
+    "wof:lastmodified":1537065978,
+    "wof:name":"Pogana Kruska",
+    "wof:parent_id":1108759231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51189,
+    43.45759,
+    17.51189,
+    43.45759
+],
+  "geometry": {"coordinates":[17.51189,43.45759],"type":"Point"}
+}

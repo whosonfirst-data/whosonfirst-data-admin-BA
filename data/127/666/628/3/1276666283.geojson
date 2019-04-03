@@ -1,0 +1,67 @@
+{
+  "id": 1276666283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6229,43.93121,18.6229,43.93121",
+    "geom:latitude":43.93121,
+    "geom:longitude":18.6229,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jagodnje Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275108,
+    "gn:latitude":43.93121,
+    "gn:longitude":18.6229,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Jagodnje Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275108
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"13d227e684d896f8ee36a5c776476904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759201,
+            "locality_id":1276666283,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276666283,
+    "wof:lastmodified":1536828593,
+    "wof:name":"Jagodnje Brdo",
+    "wof:parent_id":1108759201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6229,
+    43.93121,
+    18.6229,
+    43.93121
+],
+  "geometry": {"coordinates":[18.6229,43.93121],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243071779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83957,43.58042,18.83957,43.58042",
+    "geom:latitude":43.58042,
+    "geom:longitude":18.83957,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Colapije",
+    "gn:country_code":"BA",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3272824,
+    "gn:latitude":43.58042,
+    "gn:longitude":18.83957,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u010colapije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3272824
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"27d9d4eacca63e7fb82effdabbc4f1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1243071779,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243071779,
+    "wof:lastmodified":1536847513,
+    "wof:name":"Colapije",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83957,
+    43.58042,
+    18.83957,
+    43.58042
+],
+  "geometry": {"coordinates":[18.83957,43.58042],"type":"Point"}
+}

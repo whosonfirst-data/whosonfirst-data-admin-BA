@@ -1,0 +1,72 @@
+{
+  "id": 1242586441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79535,43.89601,18.79535,43.89601",
+    "geom:latitude":43.89601,
+    "geom:longitude":18.79535,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bjelosavljevici",
+    "gn:country_code":"BA",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203987,
+    "gn:latitude":43.89601,
+    "gn:longitude":18.79535,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bjelosavljevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bjelosavi\u0107i",
+        "Bjelosavljevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203987,
+        "wk:page":"Bjelosavljevi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c841186dffd2dbdd0ca84ddadb824fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1242586441,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242586441,
+    "wof:lastmodified":1537585626,
+    "wof:name":"Bjelosavljevici",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79535,
+    43.89601,
+    18.79535,
+    43.89601
+],
+  "geometry": {"coordinates":[18.79535,43.89601],"type":"Point"}
+}

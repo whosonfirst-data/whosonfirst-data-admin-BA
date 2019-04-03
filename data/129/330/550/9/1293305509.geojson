@@ -1,0 +1,67 @@
+{
+  "id": 1293305509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58696,43.29682,18.58696,43.29682",
+    "geom:latitude":43.29682,
+    "geom:longitude":18.58696,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zorca",
+    "gn:country_code":"BA",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263799,
+    "gn:latitude":43.29682,
+    "gn:longitude":18.58696,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zorca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263799
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"da21f298fdf6eacf13ead34a41f1c294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1293305509,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293305509,
+    "wof:lastmodified":1537047312,
+    "wof:name":"Zorca",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58696,
+    43.29682,
+    18.58696,
+    43.29682
+],
+  "geometry": {"coordinates":[18.58696,43.29682],"type":"Point"}
+}

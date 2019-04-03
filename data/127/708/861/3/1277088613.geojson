@@ -1,0 +1,67 @@
+{
+  "id": 1277088613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6408,44.57659,18.6408,44.57659",
+    "geom:latitude":44.57659,
+    "geom:longitude":18.6408,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jurici",
+    "gn:country_code":"BA",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259727,
+    "gn:latitude":44.57659,
+    "gn:longitude":18.6408,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Juri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259727
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c6d54f3f2f6bae4f359669c6bd3111cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1277088613,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1277088613,
+    "wof:lastmodified":1536759251,
+    "wof:name":"Jurici",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6408,
+    44.57659,
+    18.6408,
+    44.57659
+],
+  "geometry": {"coordinates":[18.6408,44.57659],"type":"Point"}
+}

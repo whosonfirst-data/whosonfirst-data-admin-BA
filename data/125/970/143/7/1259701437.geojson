@@ -1,0 +1,71 @@
+{
+  "id": 1259701437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19711,44.17261,18.19711,44.17261",
+    "geom:latitude":44.17261,
+    "geom:longitude":18.19711,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bastasici",
+    "gn:country_code":"BA",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211253,
+    "gn:latitude":44.17261,
+    "gn:longitude":18.19711,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Basta\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Basta\u0161i\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211253,
+        "wk:page":"Basta%C5%A1i%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fdfc6959a6d59d9fcdf899c7b5600de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1259701437,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259701437,
+    "wof:lastmodified":1537585647,
+    "wof:name":"Bastasici",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19711,
+    44.17261,
+    18.19711,
+    44.17261
+],
+  "geometry": {"coordinates":[18.19711,44.17261],"type":"Point"}
+}

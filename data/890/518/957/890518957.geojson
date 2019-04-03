@@ -1,0 +1,93 @@
+{
+  "id": 890518957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16049,43.78882,18.16049,43.78882",
+    "geom:latitude":43.78882,
+    "geom:longitude":18.16049,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4787,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Pazari\u0107"
+    ],
+    "name:dut_x_preferred":[
+        "Pazari\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Pazari\u0107"
+    ],
+    "name:fre_x_preferred":[
+        "Pazari\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Pazari\u0107"
+    ],
+    "name:swe_x_preferred":[
+        "Pazari\u0107"
+    ],
+    "qs:name":"Pazari\u0107",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193563,
+        "gp:id":943284,
+        "qs:id":1085472,
+        "wd:id":"Q3130171",
+        "wk:page":"Pazari\u0107"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056086,
+    "wof:geomhash":"b76260c65726e605d4941c22b2d3aab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":890518957,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":890518957,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Pazari\u0107",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:population":4787,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16049,
+    43.78882,
+    18.16049,
+    43.78882
+],
+  "geometry": {"coordinates":[18.16049,43.78882],"type":"Point"}
+}

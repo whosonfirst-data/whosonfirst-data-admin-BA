@@ -1,0 +1,67 @@
+{
+  "id": 1293403101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18347,44.67599,17.18347,44.67599",
+    "geom:latitude":44.67599,
+    "geom:longitude":17.18347,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Grabez Mala",
+    "gn:country_code":"BA",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3246752,
+    "gn:latitude":44.67599,
+    "gn:longitude":17.18347,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Grabe\u017e Mala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3246752
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"85470b5eedc5b4ece528cecc2111b1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1293403101,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293403101,
+    "wof:lastmodified":1536908903,
+    "wof:name":"Grabez Mala",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18347,
+    44.67599000000001,
+    17.18347,
+    44.67599000000001
+],
+  "geometry": {"coordinates":[17.18347,44.67599000000001],"type":"Point"}
+}

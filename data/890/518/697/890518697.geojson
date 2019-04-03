@@ -1,0 +1,84 @@
+{
+  "id": 890518697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87361,45.17417,15.87361,45.17417",
+    "geom:latitude":45.17417,
+    "geom:longitude":15.87361,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":6665,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Podzvizd"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u0437\u0432\u0438\u0437\u0434"
+    ],
+    "name:eng_x_preferred":[
+        "\u200ePodzvizd"
+    ],
+    "name:fre_x_preferred":[
+        "Podzvizd"
+    ],
+    "name:hrv_x_preferred":[
+        "Podzvizd"
+    ],
+    "name:swe_x_preferred":[
+        "Podzvizd"
+    ],
+    "qs:name":"Podzvizd",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192878,
+        "qs:id":1043991,
+        "wd:id":"Q3393154"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056075,
+    "wof:geomhash":"eccf4a59aa55b1037bc82b1d7a47e232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":890518697,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890518697,
+    "wof:lastmodified":1513898844,
+    "wof:name":"Podzvizd",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:population":6665,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87361,
+    45.17417,
+    15.87361,
+    45.17417
+],
+  "geometry": {"coordinates":[15.87361,45.17417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327240603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99435,43.39939,17.99435,43.39939",
+    "geom:latitude":43.39939,
+    "geom:longitude":17.99435,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Miljanovici",
+    "gn:country_code":"BA",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261222,
+    "gn:latitude":43.39939,
+    "gn:longitude":17.99435,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Miljanovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261222
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"17de6399901af5d3b982c309b5dfd9cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759173,
+            "locality_id":1327240603,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327240603,
+    "wof:lastmodified":1536957626,
+    "wof:name":"Miljanovici",
+    "wof:parent_id":1108759173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99435,
+    43.39939,
+    17.99435,
+    43.39939
+],
+  "geometry": {"coordinates":[17.99435,43.39939],"type":"Point"}
+}

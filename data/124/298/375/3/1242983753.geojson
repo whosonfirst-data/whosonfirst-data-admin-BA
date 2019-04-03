@@ -1,0 +1,63 @@
+{
+  "id": 1242983753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50833,43.63028,19.50833,43.63028",
+    "geom:latitude":43.63028,
+    "geom:longitude":19.50833,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pijevina",
+    "gn:country_code":"BA",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303020,
+    "gn:latitude":43.63028,
+    "gn:longitude":19.50833,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Pijevina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303020
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e091bdece3034084afe8920703583a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1242983753,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242983753,
+    "wof:lastmodified":1536975044,
+    "wof:name":"Pijevina",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50833,
+    43.63028,
+    19.50833,
+    43.63028
+],
+  "geometry": {"coordinates":[19.50833,43.63028],"type":"Point"}
+}

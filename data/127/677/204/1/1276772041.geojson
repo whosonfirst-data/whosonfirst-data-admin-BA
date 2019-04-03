@@ -1,0 +1,67 @@
+{
+  "id": 1276772041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.12953,44.09875,19.12953,44.09875",
+    "geom:latitude":44.09875,
+    "geom:longitude":19.12953,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Basca",
+    "gn:country_code":"BA",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3274529,
+    "gn:latitude":44.09875,
+    "gn:longitude":19.12953,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ba\u0161\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3274529
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0aab1c57067cf6e80e00556ef70f5a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759165,
+            "locality_id":1276772041,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276772041,
+    "wof:lastmodified":1536687951,
+    "wof:name":"Basca",
+    "wof:parent_id":1108759165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.12953,
+    44.09875,
+    19.12953,
+    44.09875
+],
+  "geometry": {"coordinates":[19.12953,44.09875],"type":"Point"}
+}

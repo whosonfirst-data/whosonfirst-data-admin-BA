@@ -1,0 +1,72 @@
+{
+  "id": 1242795423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.14457,43.86552,18.14457,43.86552",
+    "geom:latitude":43.86552,
+    "geom:longitude":18.14457,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kulijes",
+    "gn:country_code":"BA",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196966,
+    "gn:latitude":43.86552,
+    "gn:longitude":18.14457,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kulije\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kulje\u0161",
+        "Kulije\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196966,
+        "wk:page":"Kulije%C5%A1"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c2d6f7926966695d44ffa19bb01f9170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759127,
+            "locality_id":1242795423,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242795423,
+    "wof:lastmodified":1537585587,
+    "wof:name":"Kulijes",
+    "wof:parent_id":1108759127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14457,
+    43.86552,
+    18.14457,
+    43.86552
+],
+  "geometry": {"coordinates":[18.14457,43.86552],"type":"Point"}
+}

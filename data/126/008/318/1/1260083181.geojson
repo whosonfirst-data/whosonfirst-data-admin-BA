@@ -1,0 +1,71 @@
+{
+  "id": 1260083181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61909,45.11342,16.61909,45.11342",
+    "geom:latitude":45.11342,
+    "geom:longitude":16.61909,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Strigova",
+    "gn:country_code":"BA",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3189729,
+    "gn:latitude":45.11342,
+    "gn:longitude":16.61909,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Strigova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strigava",
+        "Strigova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189729
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7134d2e0ef85cb76d81c7349e4a04fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1260083181,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260083181,
+    "wof:lastmodified":1537585559,
+    "wof:name":"Strigova",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61909,
+    45.11342,
+    16.61909,
+    45.11342
+],
+  "geometry": {"coordinates":[16.61909,45.11342],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242791501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80964,44.16768,16.80964,44.16768",
+    "geom:latitude":44.16768,
+    "geom:longitude":16.80964,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krasinac",
+    "gn:country_code":"BA",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260132,
+    "gn:latitude":44.16768,
+    "gn:longitude":16.80964,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Krasinac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260132,
+        "wk:page":"Krasinac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5f8e08b437653c5674a0c9886830fed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759081,
+            "locality_id":1242791501,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1242791501,
+    "wof:lastmodified":1537486832,
+    "wof:name":"Krasinac",
+    "wof:parent_id":1108759081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80964,
+    44.16768,
+    16.80964,
+    44.16768
+],
+  "geometry": {"coordinates":[16.80964,44.16768],"type":"Point"}
+}

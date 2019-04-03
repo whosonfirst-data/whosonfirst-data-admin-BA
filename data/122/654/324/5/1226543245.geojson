@@ -1,0 +1,67 @@
+{
+  "id": 1226543245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71656,44.46181,16.71656,44.46181",
+    "geom:latitude":44.46181,
+    "geom:longitude":16.71656,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gajici",
+    "gn:country_code":"BA",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3235884,
+    "gn:latitude":44.46181,
+    "gn:longitude":16.71656,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gaji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3235884
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8c0ec232d62fb3ce4973a6bfe6de987f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759135,
+            "locality_id":1226543245,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226543245,
+    "wof:lastmodified":1537000856,
+    "wof:name":"Gajici",
+    "wof:parent_id":1108759135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71656,
+    44.46181,
+    16.71656,
+    44.46181
+],
+  "geometry": {"coordinates":[16.71656,44.46181],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276446509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44596,43.81502,17.44596,43.81502",
+    "geom:latitude":43.81502,
+    "geom:longitude":17.44596,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Grude",
+    "gn:country_code":"BA",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292446,
+    "gn:latitude":43.81502,
+    "gn:longitude":17.44596,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Grude",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0443\u0434\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292446,
+        "wk:page":"Grude_%28Had%C5%BEi%C4%87i%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"12ff797da8e1dc80951c8764cea864fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1276446509,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1276446509,
+    "wof:lastmodified":1537585677,
+    "wof:name":"Grude",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44596,
+    43.81502,
+    17.44596,
+    43.81502
+],
+  "geometry": {"coordinates":[17.44596,43.81502],"type":"Point"}
+}

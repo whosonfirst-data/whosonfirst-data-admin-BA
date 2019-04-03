@@ -1,0 +1,74 @@
+{
+  "id": 1243207131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79868,44.76447,18.79868,44.76447",
+    "geom:latitude":44.76447,
+    "geom:longitude":18.79868,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Dubravice Gornje",
+    "gn:country_code":"BA",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201052,
+    "gn:latitude":44.76447,
+    "gn:longitude":18.79868,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Dubravice Gornje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Srpske Dubravice",
+        "Dubravice Pravoslavne",
+        "Dubravice",
+        "Dubravice Gornje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201052,
+        "wk:page":"Dubravice_Gornje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d7803d3043f7fb51ffa619b01d6868c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1243207131,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1243207131,
+    "wof:lastmodified":1537585607,
+    "wof:name":"Dubravice Gornje",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79868,
+    44.76447,
+    18.79868,
+    44.76447
+],
+  "geometry": {"coordinates":[18.79868,44.76447],"type":"Point"}
+}

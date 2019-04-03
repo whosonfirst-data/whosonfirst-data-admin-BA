@@ -1,0 +1,71 @@
+{
+  "id": 1243457507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85864,45.20172,16.85864,45.20172",
+    "geom:latitude":45.20172,
+    "geom:longitude":16.85864,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Josik",
+    "gn:country_code":"BA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3285909,
+    "gn:latitude":45.20172,
+    "gn:longitude":16.85864,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Jo\u0161ik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jo\u0161ik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285909,
+        "wk:page":"Jo%C5%A1ik"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"39c0566afc4d0fa71582b05e40f8faac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1243457507,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243457507,
+    "wof:lastmodified":1537585674,
+    "wof:name":"Josik",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85864,
+    45.20172,
+    16.85864,
+    45.20172
+],
+  "geometry": {"coordinates":[16.85864,45.20172],"type":"Point"}
+}

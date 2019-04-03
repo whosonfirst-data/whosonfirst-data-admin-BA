@@ -1,0 +1,67 @@
+{
+  "id": 1226543119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10769,44.24792,17.10769,44.24792",
+    "geom:latitude":44.24792,
+    "geom:longitude":17.10769,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Trivuncici",
+    "gn:country_code":"BA",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238404,
+    "gn:latitude":44.24792,
+    "gn:longitude":17.10769,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Trivun\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238404
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e27bafe6ab531c6e9dc2d1a2cc885634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1226543119,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226543119,
+    "wof:lastmodified":1537001042,
+    "wof:name":"Trivuncici",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10769,
+    44.24792,
+    17.10769,
+    44.24792
+],
+  "geometry": {"coordinates":[17.10769,44.24792],"type":"Point"}
+}

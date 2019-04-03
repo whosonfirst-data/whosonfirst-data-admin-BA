@@ -1,0 +1,67 @@
+{
+  "id": 1243186107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53517,44.28434,16.53517,44.28434",
+    "geom:latitude":44.28434,
+    "geom:longitude":16.53517,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vjestice",
+    "gn:country_code":"BA",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3236856,
+    "gn:latitude":44.28434,
+    "gn:longitude":16.53517,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vje\u0161tice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3236856
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"79d9cf79a3621080d131115668c88bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759067,
+            "locality_id":1243186107,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1243186107,
+    "wof:lastmodified":1536683740,
+    "wof:name":"Vjestice",
+    "wof:parent_id":1108759067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53517,
+    44.28434,
+    16.53517,
+    44.28434
+],
+  "geometry": {"coordinates":[16.53517,44.28434],"type":"Point"}
+}

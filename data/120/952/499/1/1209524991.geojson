@@ -1,0 +1,61 @@
+{
+  "id": 1209524991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43085,43.83049,17.43085,43.83049",
+    "geom:latitude":43.83049,
+    "geom:longitude":17.43085,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nikolici",
+    "gn:country_code":"BA",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292468,
+    "gn:latitude":43.83049,
+    "gn:longitude":17.43085,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Nikoli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292468
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d0c4eb4a392b02f5fe4d2c54649d1b7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209524991
+        }
+    ],
+    "wof:id":1209524991,
+    "wof:lastmodified":1536284459,
+    "wof:name":"Nikolici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43085,
+    43.83049000000001,
+    17.43085,
+    43.83049000000001
+],
+  "geometry": {"coordinates":[17.43085,43.83049000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360197443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95497,45.00802,17.95497,45.00802",
+    "geom:latitude":45.00802,
+    "geom:longitude":17.95497,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sekulici",
+    "gn:country_code":"BA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240023,
+    "gn:latitude":45.00802,
+    "gn:longitude":17.95497,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Sekuli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240023
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f0cdbe428c8ca48e20d049a75c816c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1360197443,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360197443,
+    "wof:lastmodified":1536783983,
+    "wof:name":"Sekulici",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95497,
+    45.00802,
+    17.95497,
+    45.00802
+],
+  "geometry": {"coordinates":[17.95497,45.00802],"type":"Point"}
+}

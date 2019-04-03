@@ -1,0 +1,71 @@
+{
+  "id": 1226660279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05654,43.77025,18.05654,43.77025",
+    "geom:latitude":43.77025,
+    "geom:longitude":18.05654,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Rastelica",
+    "gn:country_code":"BA",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3293385,
+    "gn:latitude":43.77025,
+    "gn:longitude":18.05654,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donja Ra\u0161telica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Ra\u0161telica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293385,
+        "wk:page":"Donja_Ra%C5%A1telica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"552b55bd1278c84f7c393561c6d5d34c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1226660279,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1226660279,
+    "wof:lastmodified":1537585678,
+    "wof:name":"Donja Rastelica",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05654,
+    43.77025,
+    18.05654,
+    43.77025
+],
+  "geometry": {"coordinates":[18.05654,43.77025],"type":"Point"}
+}

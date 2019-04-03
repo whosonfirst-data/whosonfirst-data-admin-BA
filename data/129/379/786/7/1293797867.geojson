@@ -1,0 +1,67 @@
+{
+  "id": 1293797867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.69837,43.09917,17.69837,43.09917",
+    "geom:latitude":43.09917,
+    "geom:longitude":17.69837,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mogorjelo",
+    "gn:country_code":"BA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261346,
+    "gn:latitude":43.09917,
+    "gn:longitude":17.69837,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mogorjelo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261346
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c913d4807a9ba1b7b468d418d88b69b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759037,
+            "locality_id":1293797867,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1293797867,
+    "wof:lastmodified":1536835567,
+    "wof:name":"Mogorjelo",
+    "wof:parent_id":1108759037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.69837,
+    43.09917,
+    17.69837,
+    43.09917
+],
+  "geometry": {"coordinates":[17.69837,43.09917],"type":"Point"}
+}

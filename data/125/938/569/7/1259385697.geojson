@@ -1,0 +1,67 @@
+{
+  "id": 1259385697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42654,43.27587,18.42654,43.27587",
+    "geom:latitude":43.27587,
+    "geom:longitude":18.42654,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vrbovac",
+    "gn:country_code":"BA",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3265159,
+    "gn:latitude":43.27587,
+    "gn:longitude":18.42654,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vrbovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265159
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b5f828d56f9f81f477b7e0becb4b0fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1259385697,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259385697,
+    "wof:lastmodified":1536998286,
+    "wof:name":"Vrbovac",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42654,
+    43.27587,
+    18.42654,
+    43.27587
+],
+  "geometry": {"coordinates":[18.42654,43.27587],"type":"Point"}
+}

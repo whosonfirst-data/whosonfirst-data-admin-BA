@@ -1,0 +1,71 @@
+{
+  "id": 1344160087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17763,44.79377,19.17763,44.79377",
+    "geom:latitude":44.79377,
+    "geom:longitude":19.17763,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Budzak Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211517,
+    "gn:latitude":44.79377,
+    "gn:longitude":19.17763,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bud\u017eak Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bud\u017eak",
+        "Bud\u017eak Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211517
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"875875592af92ea8a494ef7d8ebda027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1344160087,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344160087,
+    "wof:lastmodified":1537585650,
+    "wof:name":"Budzak Mahala",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17763,
+    44.79377,
+    19.17763,
+    44.79377
+],
+  "geometry": {"coordinates":[19.17763,44.79377],"type":"Point"}
+}

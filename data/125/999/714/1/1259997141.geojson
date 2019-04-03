@@ -1,0 +1,67 @@
+{
+  "id": 1259997141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45114,44.92808,18.45114,44.92808",
+    "geom:latitude":44.92808,
+    "geom:longitude":18.45114,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Huskici",
+    "gn:country_code":"BA",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254799,
+    "gn:latitude":44.92808,
+    "gn:longitude":18.45114,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Huski\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254799
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a04917d59fd28f4dea9b66a049468da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759097,
+            "locality_id":1259997141,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259997141,
+    "wof:lastmodified":1536613009,
+    "wof:name":"Huskici",
+    "wof:parent_id":1108759097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45114,
+    44.92808,
+    18.45114,
+    44.92808
+],
+  "geometry": {"coordinates":[18.45114,44.92808],"type":"Point"}
+}

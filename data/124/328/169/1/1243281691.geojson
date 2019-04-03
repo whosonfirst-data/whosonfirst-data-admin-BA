@@ -1,0 +1,67 @@
+{
+  "id": 1243281691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27201,43.57235,17.27201,43.57235",
+    "geom:latitude":43.57235,
+    "geom:longitude":17.27201,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zabrig",
+    "gn:country_code":"BA",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284003,
+    "gn:latitude":43.57235,
+    "gn:longitude":17.27201,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zabrig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284003
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ba9f0c4661814355866c5fb9632143d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1243281691,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1243281691,
+    "wof:lastmodified":1537041293,
+    "wof:name":"Zabrig",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27201,
+    43.57235,
+    17.27201,
+    43.57235
+],
+  "geometry": {"coordinates":[17.27201,43.57235],"type":"Point"}
+}

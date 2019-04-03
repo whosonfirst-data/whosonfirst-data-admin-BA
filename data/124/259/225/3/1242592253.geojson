@@ -1,0 +1,67 @@
+{
+  "id": 1242592253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94111,45.0475,17.94111,45.0475",
+    "geom:latitude":45.0475,
+    "geom:longitude":17.94111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Begovac",
+    "gn:country_code":"BA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212052,
+    "gn:latitude":45.0475,
+    "gn:longitude":17.94111,
+    "gn:modification_date":"1996-03-12",
+    "gn:name":"Begovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212052
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"af7579956a9d09ec1b2642e74da38bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759009,
+            "locality_id":1242592253,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242592253,
+    "wof:lastmodified":1537040739,
+    "wof:name":"Begovac",
+    "wof:parent_id":1108759009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94111000000001,
+    45.0475,
+    17.94111000000001,
+    45.0475
+],
+  "geometry": {"coordinates":[17.94111000000001,45.0475],"type":"Point"}
+}

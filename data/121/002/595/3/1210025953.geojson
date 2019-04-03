@@ -1,0 +1,67 @@
+{
+  "id": 1210025953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.06647,43.98207,18.06647,43.98207",
+    "geom:latitude":43.98207,
+    "geom:longitude":18.06647,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kocatala",
+    "gn:country_code":"BA",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297932,
+    "gn:latitude":43.98207,
+    "gn:longitude":18.06647,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ko\u010datala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297932
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"29a18475b9304891a16ff84c7b0aac12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759127,
+            "locality_id":1210025953,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1210025953,
+    "wof:lastmodified":1536390722,
+    "wof:name":"Kocatala",
+    "wof:parent_id":1108759127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.06647,
+    43.98207,
+    18.06647,
+    43.98207
+],
+  "geometry": {"coordinates":[18.06647,43.98207],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344071209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02763,42.81202,18.02763,42.81202",
+    "geom:latitude":42.81202,
+    "geom:longitude":18.02763,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gorogase",
+    "gn:country_code":"BA",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199886,
+    "gn:latitude":42.81202,
+    "gn:longitude":18.02763,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Goroga\u0161e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goraga\u0161a",
+        "Goroga\u0161e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199886,
+        "wk:page":"Goroga%C5%A1e"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"08ccba2f6b65c26bd886e06a4c1404d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759213,
+            "locality_id":1344071209,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1344071209,
+    "wof:lastmodified":1537585599,
+    "wof:name":"Gorogase",
+    "wof:parent_id":1108759213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02763,
+    42.81202,
+    18.02763,
+    42.81202
+],
+  "geometry": {"coordinates":[18.02763,42.81202],"type":"Point"}
+}

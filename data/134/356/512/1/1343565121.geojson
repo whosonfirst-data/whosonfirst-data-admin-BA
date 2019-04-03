@@ -1,0 +1,71 @@
+{
+  "id": 1343565121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.92268,43.64357,18.92268,43.64357",
+    "geom:latitude":43.64357,
+    "geom:longitude":18.92268,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gocela",
+    "gn:country_code":"BA",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212760,
+    "gn:latitude":43.64357,
+    "gn:longitude":18.92268,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Go\u010dela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Go\u010dela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212760,
+        "wk:page":"Go%C4%8Dela"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"be92b2429553fe0c6f55506593bbb61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759083,
+            "locality_id":1343565121,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1343565121,
+    "wof:lastmodified":1537585656,
+    "wof:name":"Gocela",
+    "wof:parent_id":1108759083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92268,
+    43.64357,
+    18.92268,
+    43.64357
+],
+  "geometry": {"coordinates":[18.92268,43.64357],"type":"Point"}
+}

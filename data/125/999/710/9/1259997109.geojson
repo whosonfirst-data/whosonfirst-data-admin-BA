@@ -1,0 +1,67 @@
+{
+  "id": 1259997109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04306,44.96472,16.04306,44.96472",
+    "geom:latitude":44.96472,
+    "geom:longitude":16.04306,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Memica Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260911,
+    "gn:latitude":44.96472,
+    "gn:longitude":16.04306,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Memi\u0107a Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260911
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2266e60fcc5a88ac170a1a6a32257f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1259997109,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1259997109,
+    "wof:lastmodified":1536613059,
+    "wof:name":"Memica Brdo",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04306,
+    44.96472,
+    16.04306,
+    44.96472
+],
+  "geometry": {"coordinates":[16.04306,44.96472],"type":"Point"}
+}

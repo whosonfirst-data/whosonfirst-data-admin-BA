@@ -1,0 +1,67 @@
+{
+  "id": 1293214749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94111,44.69583,17.94111,44.69583",
+    "geom:latitude":44.69583,
+    "geom:longitude":17.94111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Okici",
+    "gn:country_code":"BA",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252294,
+    "gn:latitude":44.69583,
+    "gn:longitude":17.94111,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Oki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252294
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8bec3f6a04b8f8df69f12e4c49426a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759277,
+            "locality_id":1293214749,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1293214749,
+    "wof:lastmodified":1536683087,
+    "wof:name":"Okici",
+    "wof:parent_id":1108759277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94111000000001,
+    44.69583,
+    17.94111000000001,
+    44.69583
+],
+  "geometry": {"coordinates":[17.94111000000001,44.69583],"type":"Point"}
+}

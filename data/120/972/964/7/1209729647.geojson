@@ -1,0 +1,67 @@
+{
+  "id": 1209729647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93238,45.02706,15.93238,45.02706",
+    "geom:latitude":45.02706,
+    "geom:longitude":15.93238,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Japici",
+    "gn:country_code":"BA",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278057,
+    "gn:latitude":45.02706,
+    "gn:longitude":15.93238,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Japi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278057
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e1c612724c9e66c658bff0a12a0239c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1209729647,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1209729647,
+    "wof:lastmodified":1536380028,
+    "wof:name":"Japici",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93238,
+    45.02706,
+    15.93238,
+    45.02706
+],
+  "geometry": {"coordinates":[15.93238,45.02706],"type":"Point"}
+}

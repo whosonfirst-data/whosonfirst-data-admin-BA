@@ -1,0 +1,67 @@
+{
+  "id": 1293798183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99639,44.64639,17.99639,44.64639",
+    "geom:latitude":44.64639,
+    "geom:longitude":17.99639,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Novo Selo",
+    "gn:country_code":"BA",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252400,
+    "gn:latitude":44.64639,
+    "gn:longitude":17.99639,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Novo Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252400
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7e6944486813d0b46b2bd6110e8046e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759255,
+            "locality_id":1293798183,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1293798183,
+    "wof:lastmodified":1536835118,
+    "wof:name":"Novo Selo",
+    "wof:parent_id":1108759255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99638999999999,
+    44.64639,
+    17.99638999999999,
+    44.64639
+],
+  "geometry": {"coordinates":[17.99638999999999,44.64639],"type":"Point"}
+}

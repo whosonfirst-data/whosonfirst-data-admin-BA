@@ -1,0 +1,67 @@
+{
+  "id": 1276137047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.185,44.40709,18.185,44.40709",
+    "geom:latitude":44.40709,
+    "geom:longitude":18.185,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Velici",
+    "gn:country_code":"BA",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251582,
+    "gn:latitude":44.40709,
+    "gn:longitude":18.185,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Veli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251582
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fbd1b0040259439397c21295109fdda9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1276137047,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1276137047,
+    "wof:lastmodified":1537039955,
+    "wof:name":"Velici",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.185,
+    44.40709,
+    18.185,
+    44.40709
+],
+  "geometry": {"coordinates":[18.185,44.40709],"type":"Point"}
+}

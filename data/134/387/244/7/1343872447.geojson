@@ -1,0 +1,67 @@
+{
+  "id": 1343872447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79411,44.12401,16.79411,44.12401",
+    "geom:latitude":44.12401,
+    "geom:longitude":16.79411,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Medena Selista",
+    "gn:country_code":"BA",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210575,
+    "gn:latitude":44.12401,
+    "gn:longitude":16.79411,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Medena Seli\u0161ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210575
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2e7f19ccaf7bf2f4b87e83a40a6cace7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759081,
+            "locality_id":1343872447,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1343872447,
+    "wof:lastmodified":1536648922,
+    "wof:name":"Medena Selista",
+    "wof:parent_id":1108759081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79411,
+    44.12401,
+    16.79411,
+    44.12401
+],
+  "geometry": {"coordinates":[16.79411,44.12401],"type":"Point"}
+}

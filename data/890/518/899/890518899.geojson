@@ -1,0 +1,97 @@
+{
+  "id": 890518899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71222,43.06722,17.71222,43.06722",
+    "geom:latitude":43.06722,
+    "geom:longitude":17.71222,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vi\u0161i\u0107i"
+    ],
+    "name:dut_x_preferred":[
+        "Vi\u0161i\u0107i"
+    ],
+    "name:eng_x_preferred":[
+        "Vi\u0161i\u0107i"
+    ],
+    "name:fre_x_preferred":[
+        "Vi\u0161i\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Vi\u0161i\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vi\u0161i\u0107i"
+    ],
+    "qs:name":"Vi\u0161i\u0107i",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187670,
+        "gp:id":944496,
+        "qs:id":887882,
+        "wd:id":"Q1269635",
+        "wk:page":"Vi\u0161i\u0107i"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056084,
+    "wof:geomhash":"23f4253062fefad5740f0691066c5ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759037,
+            "locality_id":890518899,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":890518899,
+    "wof:lastmodified":1527758437,
+    "wof:name":"Vi\u0161i\u0107i",
+    "wof:parent_id":1108759037,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71222,
+    43.06722,
+    17.71222,
+    43.06722
+],
+  "geometry": {"coordinates":[17.71222,43.06722],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259396689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39833,43.69778,18.39833,43.69778",
+    "geom:latitude":43.69778,
+    "geom:longitude":18.39833,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ljutca",
+    "gn:country_code":"BA",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268471,
+    "gn:latitude":43.69778,
+    "gn:longitude":18.39833,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Ljutca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268471
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e3774dd407dc75717bc6d8054b7c8490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1259396689,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1259396689,
+    "wof:lastmodified":1536982519,
+    "wof:name":"Ljutca",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39833,
+    43.69778,
+    18.39833,
+    43.69778
+],
+  "geometry": {"coordinates":[18.39833,43.69778],"type":"Point"}
+}

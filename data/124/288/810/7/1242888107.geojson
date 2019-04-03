@@ -1,0 +1,67 @@
+{
+  "id": 1242888107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.39618,43.31996,17.39618,43.31996",
+    "geom:latitude":43.31996,
+    "geom:longitude":17.39618,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jamustina",
+    "gn:country_code":"BA",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283550,
+    "gn:latitude":43.31996,
+    "gn:longitude":17.39618,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jamu\u0161tina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283550
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0bb1390a0dbf0903668693e17bdf6c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1242888107,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1242888107,
+    "wof:lastmodified":1536613974,
+    "wof:name":"Jamustina",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39618,
+    43.31996,
+    17.39618,
+    43.31996
+],
+  "geometry": {"coordinates":[17.39618,43.31996],"type":"Point"}
+}

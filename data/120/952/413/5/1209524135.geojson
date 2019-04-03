@@ -1,0 +1,61 @@
+{
+  "id": 1209524135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94058,44.76386,17.94058,44.76386",
+    "geom:latitude":44.76386,
+    "geom:longitude":17.94058,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lipa",
+    "gn:country_code":"BA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251481,
+    "gn:latitude":44.76386,
+    "gn:longitude":17.94058,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Lipa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251481
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6d37dad20f419c1ff9e776a28a6b4f04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209524135
+        }
+    ],
+    "wof:id":1209524135,
+    "wof:lastmodified":1536284485,
+    "wof:name":"Lipa",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.940579999999994,
+    44.76386,
+    17.940579999999994,
+    44.76386
+],
+  "geometry": {"coordinates":[17.94057999999999,44.76386],"type":"Point"}
+}

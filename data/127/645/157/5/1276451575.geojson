@@ -1,0 +1,67 @@
+{
+  "id": 1276451575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99639,44.52361,16.99639,44.52361",
+    "geom:latitude":44.52361,
+    "geom:longitude":16.99639,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vulin",
+    "gn:country_code":"BA",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251516,
+    "gn:latitude":44.52361,
+    "gn:longitude":16.99639,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Vulin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251516
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0497188f9566423957785db354964829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1276451575,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276451575,
+    "wof:lastmodified":1536617984,
+    "wof:name":"Vulin",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99639,
+    44.52361,
+    16.99639,
+    44.52361
+],
+  "geometry": {"coordinates":[16.99639,44.52361],"type":"Point"}
+}

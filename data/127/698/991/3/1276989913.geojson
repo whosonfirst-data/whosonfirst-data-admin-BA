@@ -1,0 +1,67 @@
+{
+  "id": 1276989913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.86165,44.55335,17.86165,44.55335",
+    "geom:latitude":44.55335,
+    "geom:longitude":17.86165,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Radesici",
+    "gn:country_code":"BA",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3258504,
+    "gn:latitude":44.55335,
+    "gn:longitude":17.86165,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ra\u0111e\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258504
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"139a9162a57a7b642c2f51b18a824f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1276989913,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276989913,
+    "wof:lastmodified":1536893248,
+    "wof:name":"Radesici",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.86165,
+    44.55335,
+    17.86165,
+    44.55335
+],
+  "geometry": {"coordinates":[17.86165,44.55335],"type":"Point"}
+}

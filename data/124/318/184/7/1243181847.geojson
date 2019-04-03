@@ -1,0 +1,71 @@
+{
+  "id": 1243181847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94,44.16027,17.94,44.16027",
+    "geom:latitude":44.16027,
+    "geom:longitude":17.94,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Janjicki Vrh",
+    "gn:country_code":"BA",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198887,
+    "gn:latitude":44.16027,
+    "gn:longitude":17.94,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Janji\u0107ki Vrh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrh",
+        "Janji\u0107ki Vrh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198887
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fa29e195a6278b93ec0452f5f5b58403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1243181847,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1243181847,
+    "wof:lastmodified":1537585595,
+    "wof:name":"Janjicki Vrh",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94,
+    44.16027,
+    17.94,
+    44.16027
+],
+  "geometry": {"coordinates":[17.94,44.16027],"type":"Point"}
+}

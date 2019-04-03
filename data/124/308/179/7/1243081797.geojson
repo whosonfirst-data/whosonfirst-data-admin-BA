@@ -1,0 +1,67 @@
+{
+  "id": 1243081797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15486,44.42833,16.15486,44.42833",
+    "geom:latitude":44.42833,
+    "geom:longitude":16.15486,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Grbici",
+    "gn:country_code":"BA",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277547,
+    "gn:latitude":44.42833,
+    "gn:longitude":16.15486,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Grbi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277547
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c1e7c6aa393b8e173eda1cb4196e4491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1243081797,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1243081797,
+    "wof:lastmodified":1536833063,
+    "wof:name":"Grbici",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15486,
+    44.42833,
+    16.15486,
+    44.42833
+],
+  "geometry": {"coordinates":[16.15486,44.42833],"type":"Point"}
+}

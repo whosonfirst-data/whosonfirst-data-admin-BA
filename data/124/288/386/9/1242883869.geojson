@@ -1,0 +1,67 @@
+{
+  "id": 1242883869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19083,43.81028,17.19083,43.81028",
+    "geom:latitude":43.81028,
+    "geom:longitude":17.19083,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Veliki Galecic",
+    "gn:country_code":"BA",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284229,
+    "gn:latitude":43.81028,
+    "gn:longitude":17.19083,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Veliki Gale\u010di\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284229
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c0668a7c8c0cd2e43b42b742560a0a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1242883869,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1242883869,
+    "wof:lastmodified":1536620351,
+    "wof:name":"Veliki Galecic",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19083,
+    43.81028,
+    17.19083,
+    43.81028
+],
+  "geometry": {"coordinates":[17.19083,43.81028],"type":"Point"}
+}

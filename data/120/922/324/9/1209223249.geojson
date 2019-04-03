@@ -1,0 +1,65 @@
+{
+  "id": 1209223249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47773,43.82396,18.47773,43.82396",
+    "geom:latitude":43.82396,
+    "geom:longitude":18.47773,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dovlici",
+    "gn:country_code":"BA",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201348,
+    "gn:latitude":43.82396,
+    "gn:longitude":18.47773,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Dovli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dovli\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201348,
+        "wk:page":"Dovli%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"18d5eb33a3ca3afe5102a5b2f6636f63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209223249
+        }
+    ],
+    "wof:id":1209223249,
+    "wof:lastmodified":1537585609,
+    "wof:name":"Dovlici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47773,
+    43.82396,
+    18.47773,
+    43.82396
+],
+  "geometry": {"coordinates":[18.47773,43.82396],"type":"Point"}
+}

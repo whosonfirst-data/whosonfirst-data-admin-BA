@@ -1,0 +1,67 @@
+{
+  "id": 1310711413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96551,43.66882,17.96551,43.66882",
+    "geom:latitude":43.66882,
+    "geom:longitude":17.96551,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Covici",
+    "gn:country_code":"BA",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344700,
+    "gn:latitude":43.66882,
+    "gn:longitude":17.96551,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"\u010covi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344700
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b697ee7b267879d8e0823400415c12c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1310711413,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1310711413,
+    "wof:lastmodified":1536617554,
+    "wof:name":"Covici",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96551000000001,
+    43.66882,
+    17.96551000000001,
+    43.66882
+],
+  "geometry": {"coordinates":[17.96551000000001,43.66882],"type":"Point"}
+}

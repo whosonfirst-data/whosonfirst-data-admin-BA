@@ -1,0 +1,61 @@
+{
+  "id": 1209533201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47622,44.16161,18.47622,44.16161",
+    "geom:latitude":44.16161,
+    "geom:longitude":18.47622,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gradac",
+    "gn:country_code":"BA",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205069,
+    "gn:latitude":44.16161,
+    "gn:longitude":18.47622,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gradac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205069
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f9d82253bde31b52d6abf9ad5fc1fc52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209533201
+        }
+    ],
+    "wof:id":1209533201,
+    "wof:lastmodified":1536284219,
+    "wof:name":"Gradac",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47622,
+    44.16161,
+    18.47622,
+    44.16161
+],
+  "geometry": {"coordinates":[18.47622,44.16161],"type":"Point"}
+}

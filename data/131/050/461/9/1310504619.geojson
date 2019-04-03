@@ -1,0 +1,67 @@
+{
+  "id": 1310504619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41433,43.51593,18.41433,43.51593",
+    "geom:latitude":43.51593,
+    "geom:longitude":18.41433,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kuta",
+    "gn:country_code":"BA",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196876,
+    "gn:latitude":43.51593,
+    "gn:longitude":18.41433,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kuta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196876
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4db9a08f60d2ed311ded2e1a4a27fae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759125,
+            "locality_id":1310504619,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310504619,
+    "wof:lastmodified":1536918750,
+    "wof:name":"Kuta",
+    "wof:parent_id":1108759125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41433,
+    43.51593,
+    18.41433,
+    43.51593
+],
+  "geometry": {"coordinates":[18.41433,43.51593],"type":"Point"}
+}

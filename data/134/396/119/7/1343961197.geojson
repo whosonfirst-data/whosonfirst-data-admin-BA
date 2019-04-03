@@ -1,0 +1,71 @@
+{
+  "id": 1343961197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08864,43.20744,18.08864,43.20744",
+    "geom:latitude":43.20744,
+    "geom:longitude":18.08864,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Udreznje",
+    "gn:country_code":"BA",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3188545,
+    "gn:latitude":43.20744,
+    "gn:longitude":18.08864,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Udre\u017enje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Udre\u017enje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188545,
+        "wk:page":"Udre%C5%BEnje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5326e4ac2d7f131afdf49a88351430a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1343961197,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343961197,
+    "wof:lastmodified":1537585555,
+    "wof:name":"Udreznje",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08864,
+    43.20744000000001,
+    18.08864,
+    43.20744000000001
+],
+  "geometry": {"coordinates":[18.08864,43.20744000000001],"type":"Point"}
+}

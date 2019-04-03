@@ -1,0 +1,67 @@
+{
+  "id": 1277078395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66278,44.71614,16.66278,44.71614",
+    "geom:latitude":44.71614,
+    "geom:longitude":16.66278,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Starcevici",
+    "gn:country_code":"BA",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247204,
+    "gn:latitude":44.71614,
+    "gn:longitude":16.66278,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Star\u010devi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247204
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b0330c452192fa7511b88f9a2d116ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759219,
+            "locality_id":1277078395,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1277078395,
+    "wof:lastmodified":1536774496,
+    "wof:name":"Starcevici",
+    "wof:parent_id":1108759219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66278,
+    44.71614,
+    16.66278,
+    44.71614
+],
+  "geometry": {"coordinates":[16.66278,44.71614],"type":"Point"}
+}

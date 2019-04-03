@@ -1,0 +1,61 @@
+{
+  "id": 1209123731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00174,45.19643,16.00174,45.19643",
+    "geom:latitude":45.19643,
+    "geom:longitude":16.00174,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pilipovici",
+    "gn:country_code":"BA",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277299,
+    "gn:latitude":45.19643,
+    "gn:longitude":16.00174,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pilipovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277299
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ebb2cbcf5cc89472e4bb6a1812bf90bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209123731
+        }
+    ],
+    "wof:id":1209123731,
+    "wof:lastmodified":1536297020,
+    "wof:name":"Pilipovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.001739999999998,
+    45.19643,
+    16.001739999999998,
+    45.19643
+],
+  "geometry": {"coordinates":[16.00174,45.19643],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310704959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02136,44.78849,18.02136,44.78849",
+    "geom:latitude":44.78849,
+    "geom:longitude":18.02136,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Opsine",
+    "gn:country_code":"BA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210853,
+    "gn:latitude":44.78849,
+    "gn:longitude":18.02136,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Opsine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obsine",
+        "Opsine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210853,
+        "wk:page":"Opsine"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fd8c93dcb63d0093f4209cf9d54c93b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1310704959,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310704959,
+    "wof:lastmodified":1537585642,
+    "wof:name":"Opsine",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02136,
+    44.78849,
+    18.02136,
+    44.78849
+],
+  "geometry": {"coordinates":[18.02136,44.78849],"type":"Point"}
+}

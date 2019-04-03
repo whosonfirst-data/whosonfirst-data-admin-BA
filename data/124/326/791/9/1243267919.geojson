@@ -1,0 +1,67 @@
+{
+  "id": 1243267919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46707,43.8326,17.46707,43.8326",
+    "geom:latitude":43.8326,
+    "geom:longitude":17.46707,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zahum",
+    "gn:country_code":"BA",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3186872,
+    "gn:latitude":43.8326,
+    "gn:longitude":17.46707,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zahum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186872
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c277982ec39a4013d92a9e63e9e857cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1243267919,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1243267919,
+    "wof:lastmodified":1537060193,
+    "wof:name":"Zahum",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46707,
+    43.8326,
+    17.46707,
+    43.8326
+],
+  "geometry": {"coordinates":[17.46707,43.8326],"type":"Point"}
+}

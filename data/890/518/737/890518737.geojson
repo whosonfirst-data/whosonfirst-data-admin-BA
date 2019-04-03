@@ -1,0 +1,102 @@
+{
+  "id": 890518737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78256,44.87485,15.78256,44.87485",
+    "geom:latitude":44.87485,
+    "geom:longitude":15.78256,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4089,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Iza\u010di\u0107"
+    ],
+    "name:dut_x_preferred":[
+        "Iza\u010di\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Iza\u010di\u0107"
+    ],
+    "name:fre_x_preferred":[
+        "Iza\u010di\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Iza\u010di\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Iza\u010di\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0437\u0430\u0447\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Iza\u010di\u0107"
+    ],
+    "name:unk_x_variant":[
+        "Iza\u010di\u0107 Grad"
+    ],
+    "qs:name":"Iza\u010di\u0107",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199027,
+        "gp:id":942108,
+        "qs:id":883941,
+        "wd:id":"Q3116283",
+        "wk:page":"Iza\u010di\u0107"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056077,
+    "wof:geomhash":"354b96ccdc77fe4cbdb132cdef88bfdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":890518737,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890518737,
+    "wof:lastmodified":1527751229,
+    "wof:name":"Iza\u010di\u0107",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:population":4089,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78256,
+    44.87485,
+    15.78256,
+    44.87485
+],
+  "geometry": {"coordinates":[15.78256,44.87485],"type":"Point"}
+}

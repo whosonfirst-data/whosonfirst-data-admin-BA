@@ -1,0 +1,148 @@
+{
+  "id": 890518683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94103,44.39875,17.94103,44.39875",
+    "geom:latitude":44.39875,
+    "geom:longitude":17.94103,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":5783,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:bos_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:cat_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:cze_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:dan_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:dut_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:eng_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:fin_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:fre_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:ger_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:ind_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:ita_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:nno_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:nob_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:oci_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:pol_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:por_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:rum_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:slo_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:slv_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:spa_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u0459\u0435\u0437\u043d\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:tgl_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:tur_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "name:war_x_preferred":[
+        "\u017deljezno Polje"
+    ],
+    "qs:name":"\u017deljezno Polje",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186588,
+        "gp:id":944767,
+        "qs:id":1043872,
+        "wd:id":"Q1256550"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056075,
+    "wof:geomhash":"4b73114b11260339dbb9b31d48b22d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759299,
+            "locality_id":890518683,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":890518683,
+    "wof:lastmodified":1513898903,
+    "wof:name":"\u017deljezno Polje",
+    "wof:parent_id":1108759299,
+    "wof:placetype":"locality",
+    "wof:population":5783,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94103,
+    44.39875,
+    17.94103,
+    44.39875
+],
+  "geometry": {"coordinates":[17.94103,44.39875],"type":"Point"}
+}

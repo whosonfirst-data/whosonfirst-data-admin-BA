@@ -1,0 +1,67 @@
+{
+  "id": 1360187795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73943,45.14863,16.73943,45.14863",
+    "geom:latitude":45.14863,
+    "geom:longitude":16.73943,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Panjani",
+    "gn:country_code":"BA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280576,
+    "gn:latitude":45.14863,
+    "gn:longitude":16.73943,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Panjani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280576
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5a08cac87bc7a916805829c02f7d6b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1360187795,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360187795,
+    "wof:lastmodified":1536797599,
+    "wof:name":"Panjani",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73943,
+    45.14863,
+    16.73943,
+    45.14863
+],
+  "geometry": {"coordinates":[16.73943,45.14863],"type":"Point"}
+}

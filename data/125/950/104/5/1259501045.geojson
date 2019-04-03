@@ -1,0 +1,67 @@
+{
+  "id": 1259501045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70699,44.11232,18.70699,44.11232",
+    "geom:latitude":44.11232,
+    "geom:longitude":18.70699,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Gurdici",
+    "gn:country_code":"BA",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3244821,
+    "gn:latitude":44.11232,
+    "gn:longitude":18.70699,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornji Gurdi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3244821
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c8a03343636ae8c226f1f7e7c56710c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1259501045,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259501045,
+    "wof:lastmodified":1536832547,
+    "wof:name":"Gornji Gurdici",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70699,
+    44.11232,
+    18.70699,
+    44.11232
+],
+  "geometry": {"coordinates":[18.70699,44.11232],"type":"Point"}
+}

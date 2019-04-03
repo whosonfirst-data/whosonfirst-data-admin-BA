@@ -1,0 +1,67 @@
+{
+  "id": 1293606615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78837,43.63104,18.78837,43.63104",
+    "geom:latitude":43.63104,
+    "geom:longitude":18.78837,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pusine",
+    "gn:country_code":"BA",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271028,
+    "gn:latitude":43.63104,
+    "gn:longitude":18.78837,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pu\u0161ine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271028
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1fa57442108eb6028608b968c61011c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759083,
+            "locality_id":1293606615,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1293606615,
+    "wof:lastmodified":1536612929,
+    "wof:name":"Pusine",
+    "wof:parent_id":1108759083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78837,
+    43.63104000000001,
+    18.78837,
+    43.63104000000001
+],
+  "geometry": {"coordinates":[18.78837,43.63104000000001],"type":"Point"}
+}

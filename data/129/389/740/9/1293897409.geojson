@@ -1,0 +1,67 @@
+{
+  "id": 1293897409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37153,44.35188,16.37153,44.35188",
+    "geom:latitude":44.35188,
+    "geom:longitude":16.37153,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Trninic-Brijeg",
+    "gn:country_code":"BA",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260052,
+    "gn:latitude":44.35188,
+    "gn:longitude":16.37153,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Trnini\u0107-Brijeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260052
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"33393d3e210d46d3a08e9ea0a9840e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759067,
+            "locality_id":1293897409,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1293897409,
+    "wof:lastmodified":1536693419,
+    "wof:name":"Trninic-Brijeg",
+    "wof:parent_id":1108759067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37153,
+    44.35188,
+    16.37153,
+    44.35188
+],
+  "geometry": {"coordinates":[16.37153,44.35188],"type":"Point"}
+}

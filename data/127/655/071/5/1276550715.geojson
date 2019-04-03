@@ -1,0 +1,67 @@
+{
+  "id": 1276550715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96644,44.77051,17.96644,44.77051",
+    "geom:latitude":44.77051,
+    "geom:longitude":17.96644,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pasalici",
+    "gn:country_code":"BA",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251610,
+    "gn:latitude":44.77051,
+    "gn:longitude":17.96644,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pa\u0161ali\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251610
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4e960c01c196470fb42bab4e01d598b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1276550715,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276550715,
+    "wof:lastmodified":1536983921,
+    "wof:name":"Pasalici",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96644,
+    44.77051,
+    17.96644,
+    44.77051
+],
+  "geometry": {"coordinates":[17.96644,44.77051],"type":"Point"}
+}

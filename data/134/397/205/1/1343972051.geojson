@@ -1,0 +1,67 @@
+{
+  "id": 1343972051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30256,43.4157,17.30256,43.4157",
+    "geom:latitude":43.4157,
+    "geom:longitude":17.30256,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Misiri",
+    "gn:country_code":"BA",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213602,
+    "gn:latitude":43.4157,
+    "gn:longitude":17.30256,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Misiri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213602
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b97fe5a552bae101320f3968a3392f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1343972051,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1343972051,
+    "wof:lastmodified":1537002428,
+    "wof:name":"Misiri",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30256,
+    43.4157,
+    17.30256,
+    43.4157
+],
+  "geometry": {"coordinates":[17.30256,43.4157],"type":"Point"}
+}

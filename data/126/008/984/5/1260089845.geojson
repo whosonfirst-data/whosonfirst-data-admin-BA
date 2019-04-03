@@ -1,0 +1,67 @@
+{
+  "id": 1260089845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80601,43.62785,17.80601,43.62785",
+    "geom:latitude":43.62785,
+    "geom:longitude":17.80601,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tretiste",
+    "gn:country_code":"BA",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344453,
+    "gn:latitude":43.62785,
+    "gn:longitude":17.80601,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Treti\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344453
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f63f6cddea7edb51f3f11b73d32e9f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759111,
+            "locality_id":1260089845,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1260089845,
+    "wof:lastmodified":1536978165,
+    "wof:name":"Tretiste",
+    "wof:parent_id":1108759111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80601,
+    43.62785,
+    17.80601,
+    43.62785
+],
+  "geometry": {"coordinates":[17.80601,43.62785],"type":"Point"}
+}

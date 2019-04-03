@@ -1,0 +1,67 @@
+{
+  "id": 1344266549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3313,44.14567,18.3313,44.14567",
+    "geom:latitude":44.14567,
+    "geom:longitude":18.3313,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mlakve",
+    "gn:country_code":"BA",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3242856,
+    "gn:latitude":44.14567,
+    "gn:longitude":18.3313,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mlakve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3242856
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0ce6e77e78cad21d2af468c1eb15e4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759279,
+            "locality_id":1344266549,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1344266549,
+    "wof:lastmodified":1537072152,
+    "wof:name":"Mlakve",
+    "wof:parent_id":1108759279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3313,
+    44.14567,
+    18.3313,
+    44.14567
+],
+  "geometry": {"coordinates":[18.3313,44.14567],"type":"Point"}
+}

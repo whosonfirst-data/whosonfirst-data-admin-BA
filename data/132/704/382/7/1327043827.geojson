@@ -1,0 +1,67 @@
+{
+  "id": 1327043827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00417,43.72833,18.00417,43.72833",
+    "geom:latitude":43.72833,
+    "geom:longitude":18.00417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dragocaj",
+    "gn:country_code":"BA",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3266497,
+    "gn:latitude":43.72833,
+    "gn:longitude":18.00417,
+    "gn:modification_date":"1998-05-28",
+    "gn:name":"Drago\u010daj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266497
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9d29f9b6d2fcf38d708fcc445cafd17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1327043827,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1327043827,
+    "wof:lastmodified":1536743624,
+    "wof:name":"Dragocaj",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00417000000001,
+    43.72833,
+    18.00417000000001,
+    43.72833
+],
+  "geometry": {"coordinates":[18.00417000000001,43.72833],"type":"Point"}
+}

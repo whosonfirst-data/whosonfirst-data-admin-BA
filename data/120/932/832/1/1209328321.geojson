@@ -1,0 +1,61 @@
+{
+  "id": 1209328321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18836,44.75364,16.18836,44.75364",
+    "geom:latitude":44.75364,
+    "geom:longitude":16.18836,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Guskarica",
+    "gn:country_code":"BA",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3262891,
+    "gn:latitude":44.75364,
+    "gn:longitude":16.18836,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Guskarica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3262891
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"021b5ab9b20da7475c5bc029d67df98e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209328321
+        }
+    ],
+    "wof:id":1209328321,
+    "wof:lastmodified":1536290456,
+    "wof:name":"Guskarica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18836,
+    44.75364,
+    16.18836,
+    44.75364
+],
+  "geometry": {"coordinates":[16.18836,44.75364],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293887681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48739,44.68829,18.48739,44.68829",
+    "geom:latitude":44.68829,
+    "geom:longitude":18.48739,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Uroza",
+    "gn:country_code":"BA",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211022,
+    "gn:latitude":44.68829,
+    "gn:longitude":18.48739,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Uro\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uro\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211022,
+        "wk:page":"Uro%C5%BEa"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3f7fa0e25032a521e92ba8b36620cd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759243,
+            "locality_id":1293887681,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1293887681,
+    "wof:lastmodified":1537585644,
+    "wof:name":"Uroza",
+    "wof:parent_id":1108759243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48739,
+    44.68829,
+    18.48739,
+    44.68829
+],
+  "geometry": {"coordinates":[18.48739,44.68829],"type":"Point"}
+}

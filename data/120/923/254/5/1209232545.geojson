@@ -1,0 +1,65 @@
+{
+  "id": 1209232545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35578,43.65647,18.35578,43.65647",
+    "geom:latitude":43.65647,
+    "geom:longitude":18.35578,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dujmovici",
+    "gn:country_code":"BA",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201001,
+    "gn:latitude":43.65647,
+    "gn:longitude":18.35578,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Dujmovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dujmovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201001,
+        "wk:page":"Dujmovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3504c850f014c0fb9a8454bf5e0ff575",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209232545
+        }
+    ],
+    "wof:id":1209232545,
+    "wof:lastmodified":1537585607,
+    "wof:name":"Dujmovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35578,
+    43.65647,
+    18.35578,
+    43.65647
+],
+  "geometry": {"coordinates":[18.35578,43.65647],"type":"Point"}
+}

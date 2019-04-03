@@ -1,0 +1,67 @@
+{
+  "id": 1259592261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04245,43.60335,19.04245,43.60335",
+    "geom:latitude":43.60335,
+    "geom:longitude":19.04245,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dupojevici",
+    "gn:country_code":"BA",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3273885,
+    "gn:latitude":43.60335,
+    "gn:longitude":19.04245,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dupojevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273885
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d2a0b5be07b3282ea55cb1c0abf8196a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759035,
+            "locality_id":1259592261,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259592261,
+    "wof:lastmodified":1536702341,
+    "wof:name":"Dupojevici",
+    "wof:parent_id":1108759035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04245,
+    43.60335,
+    19.04245,
+    43.60335
+],
+  "geometry": {"coordinates":[19.04245,43.60335],"type":"Point"}
+}

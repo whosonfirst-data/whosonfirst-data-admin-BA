@@ -1,0 +1,68 @@
+{
+  "id": 1276456327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24546,44.13373,19.24546,44.13373",
+    "geom:latitude":44.13373,
+    "geom:longitude":19.24546,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Osredak",
+    "gn:country_code":"BA",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3239584,
+    "gn:latitude":44.13373,
+    "gn:longitude":19.24546,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Osredak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3239584,
+        "wk:page":"Osredak_%28Srebrenica%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bca1959647515258d36c0ce7142cb45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1276456327,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276456327,
+    "wof:lastmodified":1537486826,
+    "wof:name":"Osredak",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24546,
+    44.13373,
+    19.24546,
+    44.13373
+],
+  "geometry": {"coordinates":[19.24546,44.13373],"type":"Point"}
+}

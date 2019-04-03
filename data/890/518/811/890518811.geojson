@@ -1,0 +1,84 @@
+{
+  "id": 890518811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.20667,43.82222,18.20667,43.82222",
+    "geom:latitude":43.82222,
+    "geom:longitude":18.20667,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":7173,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30cf\u30b8\u30c1"
+    ],
+    "name:lit_x_preferred":[
+        "Had\u017ei\u010diai"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u045f\u0438\u045b\u0438"
+    ],
+    "qs:name":"Had\u017ei\u0107i",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":186,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199438,
+        "gp:id":942010,
+        "qs:id":1044047,
+        "wd:id":"Q939528",
+        "wk:page":"Had\u017ei\u0107i"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056080,
+    "wof:geomhash":"26a322b9d60d83d938c7eb258b456984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":890518811,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":890518811,
+    "wof:lastmodified":1527751230,
+    "wof:name":"Had\u017ei\u0107i",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:population":7173,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.20667,
+    43.82222,
+    18.20667,
+    43.82222
+],
+  "geometry": {"coordinates":[18.20667,43.82222],"type":"Point"}
+}

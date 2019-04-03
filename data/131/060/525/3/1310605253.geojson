@@ -1,0 +1,68 @@
+{
+  "id": 1310605253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75212,43.62401,18.75212,43.62401",
+    "geom:latitude":43.62401,
+    "geom:longitude":18.75212,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Previla",
+    "gn:country_code":"BA",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3268980,
+    "gn:latitude":43.62401,
+    "gn:longitude":18.75212,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Previla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268980,
+        "wk:page":"Previla"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b6d0d8207c01c2871e4752b11e0bba8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759071,
+            "locality_id":1310605253,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1310605253,
+    "wof:lastmodified":1537486840,
+    "wof:name":"Previla",
+    "wof:parent_id":1108759071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75212,
+    43.62401,
+    18.75212,
+    43.62401
+],
+  "geometry": {"coordinates":[18.75212,43.62401],"type":"Point"}
+}

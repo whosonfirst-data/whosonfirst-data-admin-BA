@@ -1,0 +1,67 @@
+{
+  "id": 1310319427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.12878,42.74471,18.12878,42.74471",
+    "geom:latitude":42.74471,
+    "geom:longitude":18.12878,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nevada",
+    "gn:country_code":"BA",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194512,
+    "gn:latitude":42.74471,
+    "gn:longitude":18.12878,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Nevada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194512
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bc5b2cfe3bac73a97b3f7b1463dedf12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759213,
+            "locality_id":1310319427,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1310319427,
+    "wof:lastmodified":1536687814,
+    "wof:name":"Nevada",
+    "wof:parent_id":1108759213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.12878,
+    42.74471,
+    18.12878,
+    42.74471
+],
+  "geometry": {"coordinates":[18.12878,42.74471],"type":"Point"}
+}

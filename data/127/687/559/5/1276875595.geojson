@@ -1,0 +1,67 @@
+{
+  "id": 1276875595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63889,43.82361,18.63889,43.82361",
+    "geom:latitude":43.82361,
+    "geom:longitude":18.63889,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornji Koledici",
+    "gn:country_code":"BA",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3274738,
+    "gn:latitude":43.82361,
+    "gn:longitude":18.63889,
+    "gn:modification_date":"1998-06-02",
+    "gn:name":"Gornji Koledi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3274738
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0daab319ed5eca8987617917b9d91f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759201,
+            "locality_id":1276875595,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276875595,
+    "wof:lastmodified":1537044996,
+    "wof:name":"Gornji Koledici",
+    "wof:parent_id":1108759201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63889,
+    43.82361,
+    18.63889,
+    43.82361
+],
+  "geometry": {"coordinates":[18.63889,43.82361],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209518565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10528,44.79361,17.10528,44.79361",
+    "geom:latitude":44.79361,
+    "geom:longitude":17.10528,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kosici",
+    "gn:country_code":"BA",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248542,
+    "gn:latitude":44.79361,
+    "gn:longitude":17.10528,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Kosi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248542
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5e5775b486f2b7808a8c49f64fd2f30f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209518565
+        }
+    ],
+    "wof:id":1209518565,
+    "wof:lastmodified":1536284653,
+    "wof:name":"Kosici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10528,
+    44.79361,
+    17.10528,
+    44.79361
+],
+  "geometry": {"coordinates":[17.10528,44.79361],"type":"Point"}
+}

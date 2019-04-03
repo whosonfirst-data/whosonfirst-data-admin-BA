@@ -1,0 +1,74 @@
+{
+  "id": 1326838937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5,43.97722,19.5,43.97722",
+    "geom:latitude":43.97722,
+    "geom:longitude":19.5,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zabokvica",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3186982,
+    "gn:latitude":43.97722,
+    "gn:longitude":19.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u017dabokvica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zabukovica",
+        "Zabukvica",
+        "\u017dabokvica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186982,
+        "wk:page":"%C5%BDabokvica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9393292c51d1f6e16d1298e87c2447b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1326838937,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326838937,
+    "wof:lastmodified":1537585548,
+    "wof:name":"Zabokvica",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5,
+    43.97722,
+    19.5,
+    43.97722
+],
+  "geometry": {"coordinates":[19.5,43.97722],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242795527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31316,43.45176,17.31316,43.45176",
+    "geom:latitude":43.45176,
+    "geom:longitude":17.31316,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tolici",
+    "gn:country_code":"BA",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284013,
+    "gn:latitude":43.45176,
+    "gn:longitude":17.31316,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Toli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284013
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"414f66b4b06631e574bc5dc8fdcb1a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1242795527,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1242795527,
+    "wof:lastmodified":1536749617,
+    "wof:name":"Tolici",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31316,
+    43.45176,
+    17.31316,
+    43.45176
+],
+  "geometry": {"coordinates":[17.31316,43.45176],"type":"Point"}
+}

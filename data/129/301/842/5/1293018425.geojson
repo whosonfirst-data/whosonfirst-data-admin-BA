@@ -1,0 +1,67 @@
+{
+  "id": 1293018425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33294,43.36256,17.33294,43.36256",
+    "geom:latitude":43.36256,
+    "geom:longitude":17.33294,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Biscevici",
+    "gn:country_code":"BA",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283676,
+    "gn:latitude":43.36256,
+    "gn:longitude":17.33294,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bi\u0161\u0107evi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283676
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0aa2b332380b80b878306815e0348266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1293018425,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1293018425,
+    "wof:lastmodified":1536966051,
+    "wof:name":"Biscevici",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33294,
+    43.36256,
+    17.33294,
+    43.36256
+],
+  "geometry": {"coordinates":[17.33294,43.36256],"type":"Point"}
+}

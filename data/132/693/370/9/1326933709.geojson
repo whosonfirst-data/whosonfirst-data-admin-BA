@@ -1,0 +1,67 @@
+{
+  "id": 1326933709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50778,44.04722,19.50778,44.04722",
+    "geom:latitude":44.04722,
+    "geom:longitude":19.50778,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bosnjaci",
+    "gn:country_code":"BA",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277761,
+    "gn:latitude":44.04722,
+    "gn:longitude":19.50778,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Bo\u0161njaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277761
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"78ba5f04ef31f104ce21b984cd2c367f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759021,
+            "locality_id":1326933709,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326933709,
+    "wof:lastmodified":1536902705,
+    "wof:name":"Bosnjaci",
+    "wof:parent_id":1108759021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50778,
+    44.04722,
+    19.50778,
+    44.04722
+],
+  "geometry": {"coordinates":[19.50778,44.04722],"type":"Point"}
+}

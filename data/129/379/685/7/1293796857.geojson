@@ -1,0 +1,67 @@
+{
+  "id": 1293796857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88021,44.83879,17.88021,44.83879",
+    "geom:latitude":44.83879,
+    "geom:longitude":17.88021,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gavrici",
+    "gn:country_code":"BA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252116,
+    "gn:latitude":44.83879,
+    "gn:longitude":17.88021,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gavri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252116
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"548da4d473358f6f5238c21ecf608be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1293796857,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293796857,
+    "wof:lastmodified":1536837041,
+    "wof:name":"Gavrici",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88021,
+    44.83879,
+    17.88021,
+    44.83879
+],
+  "geometry": {"coordinates":[17.88021,44.83879],"type":"Point"}
+}

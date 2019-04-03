@@ -1,0 +1,67 @@
+{
+  "id": 1310123721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.949,44.664,17.949,44.664",
+    "geom:latitude":44.664,
+    "geom:longitude":17.949,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cemani",
+    "gn:country_code":"BA",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252362,
+    "gn:latitude":44.664,
+    "gn:longitude":17.949,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0106emani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252362
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"971c22cec4b03db6a2493f1c64c169b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759255,
+            "locality_id":1310123721,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1310123721,
+    "wof:lastmodified":1536969884,
+    "wof:name":"Cemani",
+    "wof:parent_id":1108759255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.949,
+    44.664,
+    17.949,
+    44.664
+],
+  "geometry": {"coordinates":[17.949,44.664],"type":"Point"}
+}

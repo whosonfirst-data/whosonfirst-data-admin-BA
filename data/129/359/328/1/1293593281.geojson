@@ -1,0 +1,71 @@
+{
+  "id": 1293593281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.86349,43.9586,17.86349,43.9586",
+    "geom:latitude":43.9586,
+    "geom:longitude":17.86349,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tjesilo",
+    "gn:country_code":"BA",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3189068,
+    "gn:latitude":43.9586,
+    "gn:longitude":17.86349,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Tje\u0161ilo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Tje\u0161ilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189068,
+        "wk:page":"Tje%C5%A1ilo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"63481d7858cc97ffb8ba2ed0af519e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1293593281,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1293593281,
+    "wof:lastmodified":1537585557,
+    "wof:name":"Tjesilo",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.86349,
+    43.9586,
+    17.86349,
+    43.9586
+],
+  "geometry": {"coordinates":[17.86349,43.9586],"type":"Point"}
+}

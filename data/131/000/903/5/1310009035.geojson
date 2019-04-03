@@ -1,0 +1,67 @@
+{
+  "id": 1310009035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42415,43.75356,18.42415,43.75356",
+    "geom:latitude":43.75356,
+    "geom:longitude":18.42415,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Galjeva Njiva",
+    "gn:country_code":"BA",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3268638,
+    "gn:latitude":43.75356,
+    "gn:longitude":18.42415,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Galjeva Njiva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268638
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8220260df7faca915c3d508186bf231c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759269,
+            "locality_id":1310009035,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310009035,
+    "wof:lastmodified":1536637027,
+    "wof:name":"Galjeva Njiva",
+    "wof:parent_id":1108759269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42415,
+    43.75356,
+    18.42415,
+    43.75356
+],
+  "geometry": {"coordinates":[18.42415,43.75356],"type":"Point"}
+}

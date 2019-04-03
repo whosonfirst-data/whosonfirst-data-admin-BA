@@ -1,0 +1,67 @@
+{
+  "id": 1309726129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.40948,43.49149,17.40948,43.49149",
+    "geom:latitude":43.49149,
+    "geom:longitude":17.40948,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donji Konjovac",
+    "gn:country_code":"BA",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287978,
+    "gn:latitude":43.49149,
+    "gn:longitude":17.40948,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donji Konjovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287978
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bf953ba80d3c69ecafe22e9bebe7997c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1309726129,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1309726129,
+    "wof:lastmodified":1537044053,
+    "wof:name":"Donji Konjovac",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40948,
+    43.49149,
+    17.40948,
+    43.49149
+],
+  "geometry": {"coordinates":[17.40948,43.49149],"type":"Point"}
+}

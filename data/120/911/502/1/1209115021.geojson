@@ -1,0 +1,61 @@
+{
+  "id": 1209115021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35861,43.50722,18.35861,43.50722",
+    "geom:latitude":43.50722,
+    "geom:longitude":18.35861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Crnici",
+    "gn:country_code":"BA",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269343,
+    "gn:latitude":43.50722,
+    "gn:longitude":18.35861,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Crni\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269343
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1b8ce82a45d25851abe5e7179441b466",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209115021
+        }
+    ],
+    "wof:id":1209115021,
+    "wof:lastmodified":1536297282,
+    "wof:name":"Crnici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35861,
+    43.50722,
+    18.35861,
+    43.50722
+],
+  "geometry": {"coordinates":[18.35861,43.50722],"type":"Point"}
+}

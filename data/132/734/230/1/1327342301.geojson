@@ -1,0 +1,67 @@
+{
+  "id": 1327342301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.09833,43.73333,19.09833,43.73333",
+    "geom:latitude":43.73333,
+    "geom:longitude":19.09833,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dacic",
+    "gn:country_code":"BA",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3270427,
+    "gn:latitude":43.73333,
+    "gn:longitude":19.09833,
+    "gn:modification_date":"1998-01-06",
+    "gn:name":"Da\u010di\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270427
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8ef0ad9c5c32ab767d51bf14649a675a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1327342301,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327342301,
+    "wof:lastmodified":1536810367,
+    "wof:name":"Dacic",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09833,
+    43.73333,
+    19.09833,
+    43.73333
+],
+  "geometry": {"coordinates":[19.09833,43.73333],"type":"Point"}
+}

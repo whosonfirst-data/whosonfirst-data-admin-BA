@@ -1,0 +1,71 @@
+{
+  "id": 1310020003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95567,44.76652,15.95567,44.76652",
+    "geom:latitude":44.76652,
+    "geom:longitude":15.95567,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ripac",
+    "gn:country_code":"BA",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191633,
+    "gn:latitude":44.76652,
+    "gn:longitude":15.95567,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ripa\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ripa\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191633,
+        "wk:page":"Ripa%C4%8D"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1e49813c44239525f66a2a78cd57d17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1310020003,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1310020003,
+    "wof:lastmodified":1537585566,
+    "wof:name":"Ripac",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95567,
+    44.76652,
+    15.95567,
+    44.76652
+],
+  "geometry": {"coordinates":[15.95567,44.76652],"type":"Point"}
+}

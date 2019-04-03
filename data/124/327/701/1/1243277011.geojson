@@ -1,0 +1,67 @@
+{
+  "id": 1243277011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75115,43.40765,18.75115,43.40765",
+    "geom:latitude":43.40765,
+    "geom:longitude":18.75115,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mededa",
+    "gn:country_code":"BA",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298123,
+    "gn:latitude":43.40765,
+    "gn:longitude":18.75115,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Me\u0111e\u0111a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298123
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"91d41871a5c665168b9669b9c64919b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1243277011,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243277011,
+    "wof:lastmodified":1537047718,
+    "wof:name":"Mededa",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75115,
+    43.40765,
+    18.75115,
+    43.40765
+],
+  "geometry": {"coordinates":[18.75115,43.40765],"type":"Point"}
+}

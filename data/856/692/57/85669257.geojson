@@ -1,0 +1,119 @@
+{
+  "id": 85669257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-01-30",
+    "edtf:inception":"uuuu",
+    "geom:area":0.017466,
+    "geom:area_square_m":153201803.614831,
+    "geom:bbox":"18.7480382903,44.7447998247,18.9754086591,44.8922326853",
+    "geom:latitude":44.8178,
+    "geom:longitude":18.844595,
+    "gn:population":87332,
+    "iso:country":"BA",
+    "lbl:latitude":44.818992,
+    "lbl:longitude":18.86182,
+    "mps:latitude":44.818992,
+    "mps:longitude":18.86182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0440\u0443\u0433\u0430 \u0411\u0440\u0447\u043a\u043e"
+    ],
+    "name:bos_x_preferred":[
+        "Br\u010dko Distrikt"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u044a\u0447\u043a\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Districte de Br\u010dko"
+    ],
+    "name:ceb_x_preferred":[
+        "Br\u010dko"
+    ],
+    "name:ces_x_preferred":[
+        "Br\u010dko"
+    ],
+    "name:dan_x_preferred":[
+        "Br\u010dko"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Br\u010dko"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Br\u010dko"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Br\u010dko"
+    ],
+    "name:und_x_colloquial":[
+        "Brcko Distrikt"
+    ],
+    "name:und_x_preferred":[
+        "Br\u010dko Distrikt"
+    ],
+    "qs:a0":"Bosnia and Herzegovina",
+    "qs:a0_lc":"BA",
+    "qs:a1":"Br\u010dko Distrikt",
+    "qs:a1_lc":"BIH-4803",
+    "qs:a1r":"Repuplika Srpska",
+    "qs:adm0":"Bosnia and Herzegovina",
+    "qs:adm0_a3":"BIH",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":962,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294903,
+        "gp:id":29389649,
+        "qs:id":1104089,
+        "wd:id":"Q194483",
+        "wk:page":"Br\u010dko District"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5fc57517869c2c2966ff0e7e5d1dc4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "region_id":85669257
+        }
+    ],
+    "wof:id":85669257,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1529540173,
+    "wof:name":"Br\u010dko Distrikt",
+    "wof:parent_id":85632279,
+    "wof:placetype":"region",
+    "wof:population":87332,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[
+        85632279
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.74803829033488,
+    44.74479982465226,
+    18.9754086590824,
+    44.89223268529025
+],
+  "geometry": {"coordinates":[[[18.84214404171422,44.87623255269023],[18.85872440610649,44.86852854545606],[18.88962691205239,44.86119049124824],[18.97491591423812,44.86275718039963],[18.9754086590824,44.84353494777969],[18.96014396776997,44.83565639742483],[18.93749313549984,44.82827025646719],[18.9222284441874,44.81103592756608],[18.9094257998608,44.78395341072138],[18.88628255819356,44.77164317579201],[18.83654920907878,44.76868871940894],[18.82128451776634,44.76081016905414],[18.80385453146152,44.74479982465226],[18.80384598880141,44.74480025632681],[18.77522578773994,44.74624676547592],[18.77521982523479,44.74626111056187],[18.76809444000645,44.76340333989225],[18.76235835625317,44.80345257517627],[18.74804398484207,44.84494874948524],[18.74803829033488,44.84495170285885],[18.76912796878077,44.89223268529025],[18.77987068088726,44.88608661500535],[18.77987666677478,44.88608319038696],[18.78447586986556,44.87228558291338],[18.78137528444188,44.85228680459244],[18.78137528444188,44.84155263964266],[18.78137528444188,44.84153810659842],[18.80597326495428,44.84153810659842],[18.83517044945671,44.8599865913082],[18.84028641648496,44.8728023468509],[18.84214404171422,44.87623255269023]]],"type":"Polygon"}
+}

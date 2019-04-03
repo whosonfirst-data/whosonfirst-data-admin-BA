@@ -1,0 +1,71 @@
+{
+  "id": 1360003763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5654,43.92633,17.5654,43.92633",
+    "geom:latitude":43.92633,
+    "geom:longitude":17.5654,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Paloc",
+    "gn:country_code":"BA",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3193665,
+    "gn:latitude":43.92633,
+    "gn:longitude":17.5654,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Palo\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palo\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193665,
+        "wk:page":"Palo%C4%8D"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"271630f0f10bdd26737efc30c08a62a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":1360003763,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1360003763,
+    "wof:lastmodified":1537585575,
+    "wof:name":"Paloc",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5654,
+    43.92633,
+    17.5654,
+    43.92633
+],
+  "geometry": {"coordinates":[17.5654,43.92633],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890519009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2812,43.52891,17.2812,43.52891",
+    "geom:latitude":43.52891,
+    "geom:longitude":17.2812,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3908,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Dre\u017enica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283848,
+        "qs:id":95333,
+        "wk:page":"Dre\u017enica"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056087,
+    "wof:geomhash":"3d3bfe952f3ddb55c0dcb2587ce1c768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":890519009,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":890519009,
+    "wof:lastmodified":1527751221,
+    "wof:name":"Dre\u017enica",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:population":3908,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2812,
+    43.52891,
+    17.2812,
+    43.52891
+],
+  "geometry": {"coordinates":[17.2812,43.52891],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326642799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17028,43.09472,18.17028,43.09472",
+    "geom:latitude":43.09472,
+    "geom:longitude":18.17028,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Berkovici",
+    "gn:country_code":"BA",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3204269,
+    "gn:latitude":43.09472,
+    "gn:longitude":18.17028,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Berkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berkovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204269
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"07fec9d0e62cc5dea70c7636edd6639e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759251,
+            "locality_id":1326642799,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326642799,
+    "wof:lastmodified":1537585628,
+    "wof:name":"Berkovici",
+    "wof:parent_id":1108759251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17028,
+    43.09472,
+    18.17028,
+    43.09472
+],
+  "geometry": {"coordinates":[18.17028,43.09472],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 890518829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.25999,44.80753,19.25999,44.80753",
+    "geom:latitude":44.80753,
+    "geom:longitude":19.25999,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":1710,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Dvorovi"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0432\u043e\u0440\u043e\u0432\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Dvorovi"
+    ],
+    "name:eng_x_preferred":[
+        "Dvorovi"
+    ],
+    "name:fre_x_preferred":[
+        "Dvorovi"
+    ],
+    "name:hrv_x_preferred":[
+        "Dvorovi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0432\u043e\u0440\u043e\u0432\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Dvorovi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0432\u043e\u0440\u043e\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dvorovi"
+    ],
+    "qs:name":"Dvorovi",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211537,
+        "gp:id":22528198,
+        "qs:id":1044096,
+        "wd:id":"Q3041862",
+        "wk:page":"Dvorovi"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056081,
+    "wof:geomhash":"a5ba9f72bfc025de59793a7e71d7651e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":890518829,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518829,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Dvorovi",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:population":1710,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.25999,
+    44.80753,
+    19.25999,
+    44.80753
+],
+  "geometry": {"coordinates":[19.25999,44.80753],"type":"Point"}
+}

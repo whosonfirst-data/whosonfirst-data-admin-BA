@@ -1,0 +1,67 @@
+{
+  "id": 1344270079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.76152,44.66275,17.76152,44.66275",
+    "geom:latitude":44.66275,
+    "geom:longitude":17.76152,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Susnjarani",
+    "gn:country_code":"BA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250801,
+    "gn:latitude":44.66275,
+    "gn:longitude":17.76152,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160u\u0161njarani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250801
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"320b263cc1e93d87708e4ac37ca79ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1344270079,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344270079,
+    "wof:lastmodified":1537067254,
+    "wof:name":"Susnjarani",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.76152,
+    44.66275,
+    17.76152,
+    44.66275
+],
+  "geometry": {"coordinates":[17.76152,44.66275],"type":"Point"}
+}

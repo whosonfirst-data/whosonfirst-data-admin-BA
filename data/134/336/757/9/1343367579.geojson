@@ -1,0 +1,71 @@
+{
+  "id": 1343367579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79976,45.0057,16.79976,45.0057",
+    "geom:latitude":45.0057,
+    "geom:longitude":16.79976,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornji Garevci",
+    "gn:country_code":"BA",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200018,
+    "gn:latitude":45.0057,
+    "gn:longitude":16.79976,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornji Garevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garevci Gornji",
+        "Gornji Garevci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200018
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"07d64c06ad7ed7a571142efe8728952e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1343367579,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343367579,
+    "wof:lastmodified":1537585601,
+    "wof:name":"Gornji Garevci",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79976,
+    45.0057,
+    16.79976,
+    45.0057
+],
+  "geometry": {"coordinates":[16.79976,45.0057],"type":"Point"}
+}

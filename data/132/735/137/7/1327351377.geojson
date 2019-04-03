@@ -1,0 +1,68 @@
+{
+  "id": 1327351377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.437,43.93812,17.437,43.93812",
+    "geom:latitude":43.93812,
+    "geom:longitude":17.437,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jazvenik",
+    "gn:country_code":"BA",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198734,
+    "gn:latitude":43.93812,
+    "gn:longitude":17.437,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jazvenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198734,
+        "wk:page":"Jazvenik%2C_Bosnia_and_Herzegovina"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d20852263fcdb98ca7f6c2da9fafe0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759029,
+            "locality_id":1327351377,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1327351377,
+    "wof:lastmodified":1537486763,
+    "wof:name":"Jazvenik",
+    "wof:parent_id":1108759029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.437,
+    43.93812,
+    17.437,
+    43.93812
+],
+  "geometry": {"coordinates":[17.437,43.93812],"type":"Point"}
+}

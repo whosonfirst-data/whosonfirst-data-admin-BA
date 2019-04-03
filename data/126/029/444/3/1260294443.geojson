@@ -1,0 +1,72 @@
+{
+  "id": 1260294443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.55569,43.98889,17.55569,43.98889",
+    "geom:latitude":43.98889,
+    "geom:longitude":17.55569,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornja Ricica",
+    "gn:country_code":"BA",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200192,
+    "gn:latitude":43.98889,
+    "gn:longitude":17.55569,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornja Ri\u010dica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gonja Ri\u010dica",
+        "Gornja Ri\u010dica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200192,
+        "wk:page":"Gornja_Ri%C4%8Dica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8ced1d794f5601cda63228595dea6ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":1260294443,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1260294443,
+    "wof:lastmodified":1537585602,
+    "wof:name":"Gornja Ricica",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55569,
+    43.98889000000001,
+    17.55569,
+    43.98889000000001
+],
+  "geometry": {"coordinates":[17.55569,43.98889000000001],"type":"Point"}
+}

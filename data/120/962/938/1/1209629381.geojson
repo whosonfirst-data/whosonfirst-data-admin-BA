@@ -1,0 +1,61 @@
+{
+  "id": 1209629381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84756,45.21142,15.84756,45.21142",
+    "geom:latitude":45.21142,
+    "geom:longitude":15.84756,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ponikve",
+    "gn:country_code":"BA",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3280740,
+    "gn:latitude":45.21142,
+    "gn:longitude":15.84756,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ponikve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280740
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a5a2bb4ee8a163f57039df9816d1c3ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209629381
+        }
+    ],
+    "wof:id":1209629381,
+    "wof:lastmodified":1536281241,
+    "wof:name":"Ponikve",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84756,
+    45.21142,
+    15.84756,
+    45.21142
+],
+  "geometry": {"coordinates":[15.84756,45.21142],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226157247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66056,44.10886,17.66056,44.10886",
+    "geom:latitude":44.10886,
+    "geom:longitude":17.66056,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bistro",
+    "gn:country_code":"BA",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204034,
+    "gn:latitude":44.10886,
+    "gn:longitude":17.66056,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bistro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bistra",
+        "Bistro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204034
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fde681b0ee075a42ce4d7be40d4b4335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759183,
+            "locality_id":1226157247,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1226157247,
+    "wof:lastmodified":1537585626,
+    "wof:name":"Bistro",
+    "wof:parent_id":1108759183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66056,
+    44.10886,
+    17.66056,
+    44.10886
+],
+  "geometry": {"coordinates":[17.66056,44.10886],"type":"Point"}
+}

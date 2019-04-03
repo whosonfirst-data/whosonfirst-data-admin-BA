@@ -1,0 +1,67 @@
+{
+  "id": 1243273719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.77811,43.62323,17.77811,43.62323",
+    "geom:latitude":43.62323,
+    "geom:longitude":17.77811,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sanica",
+    "gn:country_code":"BA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344456,
+    "gn:latitude":43.62323,
+    "gn:longitude":17.77811,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"\u0160anica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344456
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ffa6081dd5198c58cb2beae59a2d9703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759111,
+            "locality_id":1243273719,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1243273719,
+    "wof:lastmodified":1537052218,
+    "wof:name":"Sanica",
+    "wof:parent_id":1108759111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.77811,
+    43.62323,
+    17.77811,
+    43.62323
+],
+  "geometry": {"coordinates":[17.77811,43.62323],"type":"Point"}
+}

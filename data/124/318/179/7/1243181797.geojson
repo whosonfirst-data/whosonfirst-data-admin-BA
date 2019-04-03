@@ -1,0 +1,68 @@
+{
+  "id": 1243181797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90259,43.62051,18.90259,43.62051",
+    "geom:latitude":43.62051,
+    "geom:longitude":18.90259,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kolovarice",
+    "gn:country_code":"BA",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212762,
+    "gn:latitude":43.62051,
+    "gn:longitude":18.90259,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kolovarice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212762,
+        "wk:page":"Kolovarice"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b7b88b398645966674b3145e29230db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759083,
+            "locality_id":1243181797,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1243181797,
+    "wof:lastmodified":1537486821,
+    "wof:name":"Kolovarice",
+    "wof:parent_id":1108759083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90259,
+    43.62051,
+    18.90259,
+    43.62051
+],
+  "geometry": {"coordinates":[18.90259,43.62051],"type":"Point"}
+}

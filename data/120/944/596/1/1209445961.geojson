@@ -1,0 +1,65 @@
+{
+  "id": 1209445961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.91065,44.79135,18.91065,44.79135",
+    "geom:latitude":44.79135,
+    "geom:longitude":18.91065,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Razljevo",
+    "gn:country_code":"BA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211502,
+    "gn:latitude":44.79135,
+    "gn:longitude":18.91065,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Ra\u017eljevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u017eljevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211502,
+        "wk:page":"Ra%C5%BEljevo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5df9ed2da7eaf6ed40956764722b259f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209445961
+        }
+    ],
+    "wof:id":1209445961,
+    "wof:lastmodified":1537585650,
+    "wof:name":"Razljevo",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.91065,
+    44.79135,
+    18.91065,
+    44.79135
+],
+  "geometry": {"coordinates":[18.91065,44.79135],"type":"Point"}
+}

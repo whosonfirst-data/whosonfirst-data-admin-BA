@@ -1,0 +1,68 @@
+{
+  "id": 1360097915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42488,43.56665,18.42488,43.56665",
+    "geom:latitude":43.56665,
+    "geom:longitude":18.42488,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gvozno",
+    "gn:country_code":"BA",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3266893,
+    "gn:latitude":43.56665,
+    "gn:longitude":18.42488,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gvozno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266893,
+        "wk:page":"Gvozno"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"044229997b12c8f45f4b2a08d6a96e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759125,
+            "locality_id":1360097915,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360097915,
+    "wof:lastmodified":1537486837,
+    "wof:name":"Gvozno",
+    "wof:parent_id":1108759125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42488,
+    43.56665,
+    18.42488,
+    43.56665
+],
+  "geometry": {"coordinates":[18.42488,43.56665],"type":"Point"}
+}

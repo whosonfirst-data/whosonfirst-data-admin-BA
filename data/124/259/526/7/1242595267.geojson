@@ -1,0 +1,71 @@
+{
+  "id": 1242595267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9794,43.98501,17.9794,43.98501",
+    "geom:latitude":43.98501,
+    "geom:longitude":17.9794,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kujusici",
+    "gn:country_code":"BA",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289602,
+    "gn:latitude":43.98501,
+    "gn:longitude":17.9794,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kuju\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuju\u0161i\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289602,
+        "wk:page":"Kuju%C5%A1i%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"052beb03ef779970e9949183652e6673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1242595267,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242595267,
+    "wof:lastmodified":1537585676,
+    "wof:name":"Kujusici",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9794,
+    43.98501,
+    17.9794,
+    43.98501
+],
+  "geometry": {"coordinates":[17.9794,43.98501],"type":"Point"}
+}

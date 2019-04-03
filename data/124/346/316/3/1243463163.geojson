@@ -1,0 +1,67 @@
+{
+  "id": 1243463163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39849,42.8978,18.39849,42.8978",
+    "geom:latitude":42.8978,
+    "geom:longitude":18.39849,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zakotina",
+    "gn:country_code":"BA",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292452,
+    "gn:latitude":42.8978,
+    "gn:longitude":18.39849,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zakotina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292452
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"74e0339d497a20d340cb813a1ea4d7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758997,
+            "locality_id":1243463163,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243463163,
+    "wof:lastmodified":1536781833,
+    "wof:name":"Zakotina",
+    "wof:parent_id":1108758997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39849,
+    42.8978,
+    18.39849,
+    42.8978
+],
+  "geometry": {"coordinates":[18.39849,42.8978],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310409861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15111,44.55461,18.15111,44.55461",
+    "geom:latitude":44.55461,
+    "geom:longitude":18.15111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bradarici",
+    "gn:country_code":"BA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260330,
+    "gn:latitude":44.55461,
+    "gn:longitude":18.15111,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bradari\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260330
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"044949636d043196ae35244bf402baf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1310409861,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1310409861,
+    "wof:lastmodified":1537052706,
+    "wof:name":"Bradarici",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15111,
+    44.55461,
+    18.15111,
+    44.55461
+],
+  "geometry": {"coordinates":[18.15111,44.55461],"type":"Point"}
+}

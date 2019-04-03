@@ -1,0 +1,71 @@
+{
+  "id": 1209719505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.53152,43.68418,18.53152,43.68418",
+    "geom:latitude":43.68418,
+    "geom:longitude":18.53152,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pomenovici",
+    "gn:country_code":"BA",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3270042,
+    "gn:latitude":43.68418,
+    "gn:longitude":18.53152,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pomenovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pomenovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270042,
+        "wk:page":"Pomenovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"70a90ac1b59ce44c363222e19a5e97d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1209719505,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1209719505,
+    "wof:lastmodified":1537585669,
+    "wof:name":"Pomenovici",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.53152,
+    43.68418,
+    18.53152,
+    43.68418
+],
+  "geometry": {"coordinates":[18.53152,43.68418],"type":"Point"}
+}

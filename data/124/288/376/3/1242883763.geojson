@@ -1,0 +1,67 @@
+{
+  "id": 1242883763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13177,43.63577,17.13177,43.63577",
+    "geom:latitude":43.63577,
+    "geom:longitude":17.13177,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Drmici",
+    "gn:country_code":"BA",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285168,
+    "gn:latitude":43.63577,
+    "gn:longitude":17.13177,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Drmi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285168
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3001aabd6597ee46b79e30a2383d6f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1242883763,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1242883763,
+    "wof:lastmodified":1536620508,
+    "wof:name":"Drmici",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13177,
+    43.63577,
+    17.13177,
+    43.63577
+],
+  "geometry": {"coordinates":[17.13177,43.63577],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260293639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28158,43.2044,18.28158,43.2044",
+    "geom:latitude":43.2044,
+    "geom:longitude":18.28158,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kruska",
+    "gn:country_code":"BA",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3265961,
+    "gn:latitude":43.2044,
+    "gn:longitude":18.28158,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kru\u0161ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265961
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f8c0add165cc200187d574b66354763d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1260293639,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260293639,
+    "wof:lastmodified":1536698451,
+    "wof:name":"Kruska",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28158,
+    43.2044,
+    18.28158,
+    43.2044
+],
+  "geometry": {"coordinates":[18.28158,43.2044],"type":"Point"}
+}

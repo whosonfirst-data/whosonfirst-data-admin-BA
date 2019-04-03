@@ -1,0 +1,67 @@
+{
+  "id": 1226146181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.82988,44.22889,18.82988,44.22889",
+    "geom:latitude":44.22889,
+    "geom:longitude":18.82988,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tovice",
+    "gn:country_code":"BA",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3270676,
+    "gn:latitude":44.22889,
+    "gn:longitude":18.82988,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270676
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"53b14dfc2bf598388376d1f8032e338f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759227,
+            "locality_id":1226146181,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226146181,
+    "wof:lastmodified":1537073983,
+    "wof:name":"Tovice",
+    "wof:parent_id":1108759227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82988,
+    44.22889,
+    18.82988,
+    44.22889
+],
+  "geometry": {"coordinates":[18.82988,44.22889],"type":"Point"}
+}

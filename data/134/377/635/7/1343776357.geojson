@@ -1,0 +1,67 @@
+{
+  "id": 1343776357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1743,43.5241,17.1743,43.5241",
+    "geom:latitude":43.5241,
+    "geom:longitude":17.1743,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Glavica",
+    "gn:country_code":"BA",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283384,
+    "gn:latitude":43.5241,
+    "gn:longitude":17.1743,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Glavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283384
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"34b4fc3596d17a04a3b6ff9dd0d7cbaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1343776357,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1343776357,
+    "wof:lastmodified":1536788400,
+    "wof:name":"Glavica",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1743,
+    43.5241,
+    17.1743,
+    43.5241
+],
+  "geometry": {"coordinates":[17.1743,43.5241],"type":"Point"}
+}

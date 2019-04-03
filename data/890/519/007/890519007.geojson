@@ -1,0 +1,86 @@
+{
+  "id": 890519007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91444,45.03139,15.91444,45.03139",
+    "geom:latitude":45.03139,
+    "geom:longitude":15.91444,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3553,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Skokovi"
+    ],
+    "name:dut_x_preferred":[
+        "Skokovi"
+    ],
+    "name:eng_x_preferred":[
+        "Skokovi"
+    ],
+    "name:fre_x_preferred":[
+        "Skokovi"
+    ],
+    "name:hrv_x_preferred":[
+        "Skokovi"
+    ],
+    "name:swe_x_preferred":[
+        "Skokovi"
+    ],
+    "qs:name":"Skokovi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278045,
+        "qs:id":95331,
+        "wd:id":"Q3486347",
+        "wk:page":"Skokovi"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056087,
+    "wof:geomhash":"3eb01a72c32e04e41420ef75d1123597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":890519007,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890519007,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Skokovi",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:population":3553,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91444,
+    45.03139,
+    15.91444,
+    45.03139
+],
+  "geometry": {"coordinates":[15.91444,45.03139],"type":"Point"}
+}

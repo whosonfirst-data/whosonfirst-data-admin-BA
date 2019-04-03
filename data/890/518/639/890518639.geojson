@@ -1,0 +1,162 @@
+{
+  "id": 890518639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36389,44.17944,16.36389,44.17944",
+    "geom:latitude":44.17944,
+    "geom:longitude":16.36389,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":5643,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0578\u057d\u0561\u0576\u057d\u056f\u0578 \u0533\u0580\u0561\u056d\u0578\u057e\u0578"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430-\u0413\u0440\u0430\u0445\u0430\u0432\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e \u0413\u0440\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ce2\u65af\u5c3c\u4e9a\u683c\u62c9\u970d\u6c83"
+    ],
+    "name:cze_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:dut_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:eng_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:fre_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:ger_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:hun_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u057d\u0561\u0576\u057d\u056f\u0578 \u0533\u0580\u0561\u056d\u0578\u057e\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30b5\u30f3\u30b9\u30b3\u30fb\u30b0\u30e9\u30db\u30f4\u30a9"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uc0b0\uc2a4\ucf54\uadf8\ub77c\ud638\ubcf4"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e \u0413\u0440\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:nob_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:pol_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e \u0413\u0440\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e-\u0413\u0440\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:slo_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:spa_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e \u0413\u0440\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e-\u0413\u0440\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e-\u0490\u0440\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Grahovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0633\u0627\u0646\u0633\u06a9\u0648 \u06af\u0631\u0627\u06c1\u0648\u0648"
+    ],
+    "qs:name":"Bosansko Grahovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":307,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203644,
+        "gp:id":940808,
+        "qs:id":147320,
+        "wd:id":"Q894349",
+        "wk:page":"Bosansko Grahovo"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056073,
+    "wof:geomhash":"e62c7d71dda130506ad7a2fe33235860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":890518639,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":890518639,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Bosansko Grahovo",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:population":5643,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36389,
+    44.17944,
+    16.36389,
+    44.17944
+],
+  "geometry": {"coordinates":[16.36389,44.17944],"type":"Point"}
+}

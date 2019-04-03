@@ -1,0 +1,67 @@
+{
+  "id": 1343363169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2394,44.23909,16.2394,44.23909",
+    "geom:latitude":44.23909,
+    "geom:longitude":16.2394,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bursaci",
+    "gn:country_code":"BA",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278766,
+    "gn:latitude":44.23909,
+    "gn:longitude":16.2394,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bursa\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278766
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f36649592b9ffbacfd7745263a3b08ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1343363169,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1343363169,
+    "wof:lastmodified":1536886066,
+    "wof:name":"Bursaci",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2394,
+    44.23909,
+    16.2394,
+    44.23909
+],
+  "geometry": {"coordinates":[16.2394,44.23909],"type":"Point"}
+}

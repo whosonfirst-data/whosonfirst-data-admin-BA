@@ -1,0 +1,67 @@
+{
+  "id": 1259983833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.71758,44.53555,18.71758,44.53555",
+    "geom:latitude":44.53555,
+    "geom:longitude":18.71758,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sepetari",
+    "gn:country_code":"BA",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259126,
+    "gn:latitude":44.53555,
+    "gn:longitude":18.71758,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sepetari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259126
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f7e364f87db4b5f57286d6c9dbd814ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1259983833,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1259983833,
+    "wof:lastmodified":1536633222,
+    "wof:name":"Sepetari",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71758,
+    44.53555,
+    18.71758,
+    44.53555
+],
+  "geometry": {"coordinates":[18.71758,44.53555],"type":"Point"}
+}

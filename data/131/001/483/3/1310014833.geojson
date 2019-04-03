@@ -1,0 +1,66 @@
+{
+  "id": 1310014833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.03187,43.40055,19.03187,43.40055",
+    "geom:latitude":43.40055,
+    "geom:longitude":19.03187,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vitine",
+    "gn:country_code":"BA",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3299098,
+    "gn:latitude":43.40055,
+    "gn:longitude":19.03187,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vitine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632667,
+        85674685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299098,
+        "wk:page":"Vitine"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e7a531f466a561b977528a8190ea3cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632667,
+            "locality_id":1310014833,
+            "region_id":85674685
+        }
+    ],
+    "wof:id":1310014833,
+    "wof:lastmodified":1537486866,
+    "wof:name":"Vitine",
+    "wof:parent_id":85674685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.03187,
+    43.40055,
+    19.03187,
+    43.40055
+],
+  "geometry": {"coordinates":[19.03187,43.40055],"type":"Point"}
+}

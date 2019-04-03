@@ -1,0 +1,71 @@
+{
+  "id": 1343376703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46828,43.66523,18.46828,43.66523",
+    "geom:latitude":43.66523,
+    "geom:longitude":18.46828,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bistrocaj",
+    "gn:country_code":"BA",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3204033,
+    "gn:latitude":43.66523,
+    "gn:longitude":18.46828,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bistro\u010daj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bistro\u010daj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204033,
+        "wk:page":"Bistro%C4%8Daj"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8a114a60d82d5853a1b7b85346ce8fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759269,
+            "locality_id":1343376703,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343376703,
+    "wof:lastmodified":1537585626,
+    "wof:name":"Bistrocaj",
+    "wof:parent_id":1108759269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46828,
+    43.66523,
+    18.46828,
+    43.66523
+],
+  "geometry": {"coordinates":[18.46828,43.66523],"type":"Point"}
+}

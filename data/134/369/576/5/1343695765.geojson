@@ -1,0 +1,67 @@
+{
+  "id": 1343695765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90813,44.81291,18.90813,44.81291",
+    "geom:latitude":44.81291,
+    "geom:longitude":18.90813,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Damjanovici",
+    "gn:country_code":"BA",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255035,
+    "gn:latitude":44.81291,
+    "gn:longitude":18.90813,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Damjanovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255035
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6d60f5d7370309e22dc804fc70abaf38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1343695765,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1343695765,
+    "wof:lastmodified":1536904360,
+    "wof:name":"Damjanovici",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90813,
+    44.81291,
+    18.90813,
+    44.81291
+],
+  "geometry": {"coordinates":[18.90813,44.81291],"type":"Point"}
+}

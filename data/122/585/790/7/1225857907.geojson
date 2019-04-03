@@ -1,0 +1,67 @@
+{
+  "id": 1225857907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94167,45.07111,17.94167,45.07111",
+    "geom:latitude":45.07111,
+    "geom:longitude":17.94167,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Doljani",
+    "gn:country_code":"BA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240123,
+    "gn:latitude":45.07111,
+    "gn:longitude":17.94167,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Doljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240123
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dc9d08d247beb4e048307e2bd3c86c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759009,
+            "locality_id":1225857907,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225857907,
+    "wof:lastmodified":1536995253,
+    "wof:name":"Doljani",
+    "wof:parent_id":1108759009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94167000000001,
+    45.07111,
+    17.94167000000001,
+    45.07111
+],
+  "geometry": {"coordinates":[17.94167000000001,45.07111],"type":"Point"}
+}

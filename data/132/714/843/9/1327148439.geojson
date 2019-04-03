@@ -1,0 +1,67 @@
+{
+  "id": 1327148439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66654,44.4435,18.66654,44.4435",
+    "geom:latitude":44.4435,
+    "geom:longitude":18.66654,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Glavinici",
+    "gn:country_code":"BA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275424,
+    "gn:latitude":44.4435,
+    "gn:longitude":18.66654,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Glavini\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275424
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"41ce678fe267c96105be702413a3a079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":1327148439,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1327148439,
+    "wof:lastmodified":1537087556,
+    "wof:name":"Glavinici",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66654,
+    44.4435,
+    18.66654,
+    44.4435
+],
+  "geometry": {"coordinates":[18.66654,44.4435],"type":"Point"}
+}

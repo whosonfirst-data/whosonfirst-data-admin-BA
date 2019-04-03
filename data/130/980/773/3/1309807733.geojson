@@ -1,0 +1,73 @@
+{
+  "id": 1309807733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01972,43.89889,17.01972,43.89889",
+    "geom:latitude":43.89889,
+    "geom:longitude":17.01972,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dragnjic",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201303,
+    "gn:latitude":43.89889,
+    "gn:longitude":17.01972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dragnji\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dragni\u0107",
+        "Dragnji\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201303,
+        "wk:page":"Dragnji%C4%87"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4631b66429966735f79eff4775271ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759081,
+            "locality_id":1309807733,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1309807733,
+    "wof:lastmodified":1537585608,
+    "wof:name":"Dragnjic",
+    "wof:parent_id":1108759081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01972,
+    43.89889,
+    17.01972,
+    43.89889
+],
+  "geometry": {"coordinates":[17.01972,43.89889],"type":"Point"}
+}

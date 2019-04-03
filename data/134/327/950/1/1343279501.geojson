@@ -1,0 +1,67 @@
+{
+  "id": 1343279501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83456,43.49251,17.83456,43.49251",
+    "geom:latitude":43.49251,
+    "geom:longitude":17.83456,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nazdrajic Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264080,
+    "gn:latitude":43.49251,
+    "gn:longitude":17.83456,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Nazdraji\u0107 Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264080
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0bef01b7c3c8a174af320f8930607920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1343279501,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1343279501,
+    "wof:lastmodified":1537006690,
+    "wof:name":"Nazdrajic Mahala",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83456,
+    43.49251,
+    17.83456,
+    43.49251
+],
+  "geometry": {"coordinates":[17.83456,43.49251],"type":"Point"}
+}

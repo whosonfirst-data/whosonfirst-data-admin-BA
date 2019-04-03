@@ -1,0 +1,61 @@
+{
+  "id": 1209317663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.80696,43.47084,18.80696,43.47084",
+    "geom:latitude":43.47084,
+    "geom:longitude":18.80696,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zacici",
+    "gn:country_code":"BA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298815,
+    "gn:latitude":43.47084,
+    "gn:longitude":18.80696,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Za\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298815
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6999965d31c418fa8470e06906092e4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209317663
+        }
+    ],
+    "wof:id":1209317663,
+    "wof:lastmodified":1536290807,
+    "wof:name":"Zacici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.80696,
+    43.47084,
+    18.80696,
+    43.47084
+],
+  "geometry": {"coordinates":[18.80696,43.47084],"type":"Point"}
+}

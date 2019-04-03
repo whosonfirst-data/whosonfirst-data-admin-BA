@@ -1,0 +1,67 @@
+{
+  "id": 1326743477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.53659,45.02959,18.53659,45.02959",
+    "geom:latitude":45.02959,
+    "geom:longitude":18.53659,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lijeskovac",
+    "gn:country_code":"BA",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3241046,
+    "gn:latitude":45.02959,
+    "gn:longitude":18.53659,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Lijeskovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241046
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a8f150c833864a2a257c4def0d8d3c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759017,
+            "locality_id":1326743477,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326743477,
+    "wof:lastmodified":1536679408,
+    "wof:name":"Lijeskovac",
+    "wof:parent_id":1108759017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.53659,
+    45.02959,
+    18.53659,
+    45.02959
+],
+  "geometry": {"coordinates":[18.53659,45.02959],"type":"Point"}
+}

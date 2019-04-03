@@ -1,0 +1,72 @@
+{
+  "id": 1343766061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07296,42.75416,18.07296,42.75416",
+    "geom:latitude":42.75416,
+    "geom:longitude":18.07296,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Slivnica Bobani",
+    "gn:country_code":"BA",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190564,
+    "gn:latitude":42.75416,
+    "gn:longitude":18.07296,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Slivnica Bobani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slivnica",
+        "Slivnica Bobani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190564,
+        "wk:page":"Slivnica_Bobani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"32ea498a3c6f0ecc379b970add94a969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759213,
+            "locality_id":1343766061,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1343766061,
+    "wof:lastmodified":1537585561,
+    "wof:name":"Slivnica Bobani",
+    "wof:parent_id":1108759213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07296,
+    42.75416,
+    18.07296,
+    42.75416
+],
+  "geometry": {"coordinates":[18.07296,42.75416],"type":"Point"}
+}

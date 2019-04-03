@@ -1,0 +1,71 @@
+{
+  "id": 1327336505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2343,43.46842,18.2343,43.46842",
+    "geom:latitude":43.46842,
+    "geom:longitude":18.2343,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Susjecno",
+    "gn:country_code":"BA",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3264639,
+    "gn:latitude":43.46842,
+    "gn:longitude":18.2343,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Susje\u010dno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Susje\u010dno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264639,
+        "wk:page":"Susje%C4%8Dno"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1c2aa0bf4b4bba93aa3c342e3efa65f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759125,
+            "locality_id":1327336505,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327336505,
+    "wof:lastmodified":1537585666,
+    "wof:name":"Susjecno",
+    "wof:parent_id":1108759125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2343,
+    43.46842,
+    18.2343,
+    43.46842
+],
+  "geometry": {"coordinates":[18.2343,43.46842],"type":"Point"}
+}

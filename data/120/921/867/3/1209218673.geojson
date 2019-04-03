@@ -1,0 +1,61 @@
+{
+  "id": 1209218673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4586,44.18337,17.4586,44.18337",
+    "geom:latitude":44.18337,
+    "geom:longitude":17.4586,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Milutini",
+    "gn:country_code":"BA",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3237850,
+    "gn:latitude":44.18337,
+    "gn:longitude":17.4586,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Milutini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3237850
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"939873b80ed325bdc367f981f1f28881",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209218673
+        }
+    ],
+    "wof:id":1209218673,
+    "wof:lastmodified":1536294040,
+    "wof:name":"Milutini",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4586,
+    44.18337,
+    17.4586,
+    44.18337
+],
+  "geometry": {"coordinates":[17.4586,44.18337],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276887961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98521,44.92741,15.98521,44.92741",
+    "geom:latitude":44.92741,
+    "geom:longitude":15.98521,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Durdzici",
+    "gn:country_code":"BA",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212296,
+    "gn:latitude":44.92741,
+    "gn:longitude":15.98521,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Durd\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duri\u0107i",
+        "Durd\u017ei\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212296
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b7203adfddc1b35436c34cb8153669b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1276887961,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1276887961,
+    "wof:lastmodified":1537585655,
+    "wof:name":"Durdzici",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98521,
+    44.92741,
+    15.98521,
+    44.92741
+],
+  "geometry": {"coordinates":[15.98521,44.92741],"type":"Point"}
+}

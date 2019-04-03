@@ -1,0 +1,67 @@
+{
+  "id": 1310317995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.97806,44.51917,16.97806,44.51917",
+    "geom:latitude":44.51917,
+    "geom:longitude":16.97806,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Strazice",
+    "gn:country_code":"BA",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189748,
+    "gn:latitude":44.51917,
+    "gn:longitude":16.97806,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Stra\u017eice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189748
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bd8ef023063ee387a873a27292c64f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1310317995,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310317995,
+    "wof:lastmodified":1536689938,
+    "wof:name":"Strazice",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.97806,
+    44.51917,
+    16.97806,
+    44.51917
+],
+  "geometry": {"coordinates":[16.97806,44.51917],"type":"Point"}
+}

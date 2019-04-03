@@ -1,0 +1,67 @@
+{
+  "id": 1292906577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55377,45.05233,16.55377,45.05233",
+    "geom:latitude":45.05233,
+    "geom:longitude":16.55377,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dabrnovac",
+    "gn:country_code":"BA",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282688,
+    "gn:latitude":45.05233,
+    "gn:longitude":16.55377,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dabrnovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282688
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"daf0629d07e7e6101ef6d873334dbcf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1292906577,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1292906577,
+    "wof:lastmodified":1536628678,
+    "wof:name":"Dabrnovac",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55377,
+    45.05233,
+    16.55377,
+    45.05233
+],
+  "geometry": {"coordinates":[16.55377,45.05233],"type":"Point"}
+}

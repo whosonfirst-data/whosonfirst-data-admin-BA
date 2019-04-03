@@ -1,0 +1,67 @@
+{
+  "id": 1225859267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41209,44.11259,18.41209,44.11259",
+    "geom:latitude":44.11259,
+    "geom:longitude":18.41209,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Camovine",
+    "gn:country_code":"BA",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3243390,
+    "gn:latitude":44.11259,
+    "gn:longitude":18.41209,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u010camovine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3243390
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bef50888ea7d9042d0f383c87c1089a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759279,
+            "locality_id":1225859267,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1225859267,
+    "wof:lastmodified":1536993257,
+    "wof:name":"Camovine",
+    "wof:parent_id":1108759279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41209,
+    44.11259,
+    18.41209,
+    44.11259
+],
+  "geometry": {"coordinates":[18.41209,44.11259],"type":"Point"}
+}

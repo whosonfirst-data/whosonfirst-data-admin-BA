@@ -1,0 +1,71 @@
+{
+  "id": 1343276117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87208,44.10415,16.87208,44.10415",
+    "geom:latitude":44.10415,
+    "geom:longitude":16.87208,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mladeskovci",
+    "gn:country_code":"BA",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194985,
+    "gn:latitude":44.10415,
+    "gn:longitude":16.87208,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mlade\u0161kovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mlade\u0161kovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194985,
+        "wk:page":"Mlade%C5%A1kovci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"376b0786c068495aacd09a58e8f17174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759081,
+            "locality_id":1343276117,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1343276117,
+    "wof:lastmodified":1537585580,
+    "wof:name":"Mladeskovci",
+    "wof:parent_id":1108759081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87208,
+    44.10415,
+    16.87208,
+    44.10415
+],
+  "geometry": {"coordinates":[16.87208,44.10415],"type":"Point"}
+}

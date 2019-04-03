@@ -1,0 +1,71 @@
+{
+  "id": 1343377085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47957,44.39061,18.47957,44.39061",
+    "geom:latitude":44.39061,
+    "geom:longitude":18.47957,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Denkovci",
+    "gn:country_code":"BA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211235,
+    "gn:latitude":44.39061,
+    "gn:longitude":18.47957,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Denkovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Denkovi\u0107i",
+        "Denkovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108758991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211235
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"487ee5fbd25f875d8620dc7333ee5d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758991,
+            "locality_id":1343377085,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1343377085,
+    "wof:lastmodified":1537585647,
+    "wof:name":"Denkovci",
+    "wof:parent_id":1108758991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47957,
+    44.39061,
+    18.47957,
+    44.39061
+],
+  "geometry": {"coordinates":[18.47957,44.39061],"type":"Point"}
+}

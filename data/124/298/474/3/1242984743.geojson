@@ -1,0 +1,68 @@
+{
+  "id": 1242984743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.84707,43.99464,17.84707,43.99464",
+    "geom:latitude":43.99464,
+    "geom:longitude":17.84707,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Carev Do",
+    "gn:country_code":"BA",
+    "gn:dem":1241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290236,
+    "gn:latitude":43.99464,
+    "gn:longitude":17.84707,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Carev Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290236,
+        "wk:page":"Carev_Do"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2dec8ce29cf74c6e3c3beffb9ed31801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1242984743,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242984743,
+    "wof:lastmodified":1537486856,
+    "wof:name":"Carev Do",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.84707000000001,
+    43.99464,
+    17.84707000000001,
+    43.99464
+],
+  "geometry": {"coordinates":[17.84707000000001,43.99464],"type":"Point"}
+}

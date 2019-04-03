@@ -1,0 +1,67 @@
+{
+  "id": 1276137007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80194,43.29361,17.80194,43.29361",
+    "geom:latitude":43.29361,
+    "geom:longitude":17.80194,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornja Jasenica",
+    "gn:country_code":"BA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263596,
+    "gn:latitude":43.29361,
+    "gn:longitude":17.80194,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Gornja Jasenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263596
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0553f8cd7fae2019a724c42b61d1bb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1276137007,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1276137007,
+    "wof:lastmodified":1537040008,
+    "wof:name":"Gornja Jasenica",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80194,
+    43.29361,
+    17.80194,
+    43.29361
+],
+  "geometry": {"coordinates":[17.80194,43.29361],"type":"Point"}
+}

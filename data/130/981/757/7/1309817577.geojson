@@ -1,0 +1,67 @@
+{
+  "id": 1309817577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.14718,44.50316,18.14718,44.50316",
+    "geom:latitude":44.50316,
+    "geom:longitude":18.14718,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brezje",
+    "gn:country_code":"BA",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261030,
+    "gn:latitude":44.50316,
+    "gn:longitude":18.14718,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Brezje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261030
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c7143598acd6f8b9aa6574780dd8871b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1309817577,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1309817577,
+    "wof:lastmodified":1536914472,
+    "wof:name":"Brezje",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14718,
+    44.50316,
+    18.14718,
+    44.50316
+],
+  "geometry": {"coordinates":[18.14718,44.50316],"type":"Point"}
+}

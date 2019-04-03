@@ -1,0 +1,61 @@
+{
+  "id": 1209018635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3963,44.46028,18.3963,44.46028",
+    "geom:latitude":44.46028,
+    "geom:longitude":18.3963,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Savicici",
+    "gn:country_code":"BA",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258880,
+    "gn:latitude":44.46028,
+    "gn:longitude":18.3963,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Savi\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258880
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1cb791f18ee516a06f40d47a08fd3da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209018635
+        }
+    ],
+    "wof:id":1209018635,
+    "wof:lastmodified":1536300215,
+    "wof:name":"Savicici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3963,
+    44.46028,
+    18.3963,
+    44.46028
+],
+  "geometry": {"coordinates":[18.3963,44.46028],"type":"Point"}
+}

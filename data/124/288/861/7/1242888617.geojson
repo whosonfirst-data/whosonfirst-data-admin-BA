@@ -1,0 +1,72 @@
+{
+  "id": 1242888617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70368,44.28128,18.70368,44.28128",
+    "geom:latitude":44.28128,
+    "geom:longitude":18.70368,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Brlosci",
+    "gn:country_code":"BA",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203267,
+    "gn:latitude":44.28128,
+    "gn:longitude":18.70368,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Brlo\u0161ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brlo\u0161ke",
+        "Brlo\u0161ci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203267,
+        "wk:page":"Brlo%C5%A1ci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ae8f91e31933861ce2b89411b5f3deed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759129,
+            "locality_id":1242888617,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1242888617,
+    "wof:lastmodified":1537585622,
+    "wof:name":"Brlosci",
+    "wof:parent_id":1108759129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70368,
+    44.28128,
+    18.70368,
+    44.28128
+],
+  "geometry": {"coordinates":[18.70368,44.28128],"type":"Point"}
+}

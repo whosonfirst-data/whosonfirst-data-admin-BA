@@ -1,0 +1,67 @@
+{
+  "id": 1226765211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64851,44.72779,16.64851,44.72779",
+    "geom:latitude":44.72779,
+    "geom:longitude":16.64851,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ivanisi",
+    "gn:country_code":"BA",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247192,
+    "gn:latitude":44.72779,
+    "gn:longitude":16.64851,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ivani\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247192
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0715d3de3dd7d4f7dd88e36412588a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759219,
+            "locality_id":1226765211,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1226765211,
+    "wof:lastmodified":1536687576,
+    "wof:name":"Ivanisi",
+    "wof:parent_id":1108759219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64851,
+    44.72779,
+    16.64851,
+    44.72779
+],
+  "geometry": {"coordinates":[16.64851,44.72779],"type":"Point"}
+}

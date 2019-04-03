@@ -1,0 +1,67 @@
+{
+  "id": 1309821281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13268,44.3901,16.13268,44.3901",
+    "geom:latitude":44.3901,
+    "geom:longitude":16.13268,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tomici",
+    "gn:country_code":"BA",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277329,
+    "gn:latitude":44.3901,
+    "gn:longitude":16.13268,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tomi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277329
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d78d75304b20f9194b0f28ce3f3d2435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1309821281,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1309821281,
+    "wof:lastmodified":1536909075,
+    "wof:name":"Tomici",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13268,
+    44.3901,
+    16.13268,
+    44.3901
+],
+  "geometry": {"coordinates":[16.13268,44.3901],"type":"Point"}
+}

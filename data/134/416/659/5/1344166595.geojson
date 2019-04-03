@@ -1,0 +1,67 @@
+{
+  "id": 1344166595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95667,43.8775,17.95667,43.8775",
+    "geom:latitude":43.8775,
+    "geom:longitude":17.95667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vidovici",
+    "gn:country_code":"BA",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289439,
+    "gn:latitude":43.8775,
+    "gn:longitude":17.95667,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Vidovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289439
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b38648070ca9839a3d33b53a46ea08c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1344166595,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1344166595,
+    "wof:lastmodified":1536722694,
+    "wof:name":"Vidovici",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95667000000001,
+    43.8775,
+    17.95667000000001,
+    43.8775
+],
+  "geometry": {"coordinates":[17.95667000000001,43.8775],"type":"Point"}
+}

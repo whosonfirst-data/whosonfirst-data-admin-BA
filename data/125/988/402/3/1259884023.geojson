@@ -1,0 +1,72 @@
+{
+  "id": 1259884023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72472,42.94972,17.72472,42.94972",
+    "geom:latitude":42.94972,
+    "geom:longitude":17.72472,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Glimoc",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206498,
+    "gn:latitude":42.94972,
+    "gn:longitude":17.72472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Glimo\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glima\u010d",
+        "Glimo\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206498
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"887509cfb512bd76815fbce2c53b2b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759177,
+            "locality_id":1259884023,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1259884023,
+    "wof:lastmodified":1537585635,
+    "wof:name":"Glimoc",
+    "wof:parent_id":1108759177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72472,
+    42.94972,
+    17.72472,
+    42.94972
+],
+  "geometry": {"coordinates":[17.72472,42.94972],"type":"Point"}
+}

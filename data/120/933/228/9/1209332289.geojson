@@ -1,0 +1,66 @@
+{
+  "id": 1209332289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47427,44.20135,17.47427,44.20135",
+    "geom:latitude":44.20135,
+    "geom:longitude":17.47427,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gredina",
+    "gn:country_code":"BA",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199589,
+    "gn:latitude":44.20135,
+    "gn:longitude":17.47427,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gredina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gredine",
+        "Gredina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199589,
+        "wk:page":"Gredina"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"65a081e5d791c2801228f9c18ec11eda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209332289
+        }
+    ],
+    "wof:id":1209332289,
+    "wof:lastmodified":1537585597,
+    "wof:name":"Gredina",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47427,
+    44.20135,
+    17.47427,
+    44.20135
+],
+  "geometry": {"coordinates":[17.47427,44.20135],"type":"Point"}
+}

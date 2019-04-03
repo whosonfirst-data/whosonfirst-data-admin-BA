@@ -1,0 +1,68 @@
+{
+  "id": 1293700847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06757,45.06647,16.06757,45.06647",
+    "geom:latitude":45.06647,
+    "geom:longitude":16.06757,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mrazovac",
+    "gn:country_code":"BA",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194755,
+    "gn:latitude":45.06647,
+    "gn:longitude":16.06757,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mrazovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194755,
+        "wk:page":"Mrazovac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f553ee2067f9c1b23f62503f71c5d2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759033,
+            "locality_id":1293700847,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293700847,
+    "wof:lastmodified":1537486745,
+    "wof:name":"Mrazovac",
+    "wof:parent_id":1108759033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06757,
+    45.06647,
+    16.06757,
+    45.06647
+],
+  "geometry": {"coordinates":[16.06757,45.06647],"type":"Point"}
+}

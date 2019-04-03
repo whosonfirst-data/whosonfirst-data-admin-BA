@@ -1,0 +1,67 @@
+{
+  "id": 1292917255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85188,43.41279,17.85188,43.41279",
+    "geom:latitude":43.41279,
+    "geom:longitude":17.85188,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kovacice",
+    "gn:country_code":"BA",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3265379,
+    "gn:latitude":43.41279,
+    "gn:longitude":17.85188,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kova\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265379
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"554a2005f677f2e5fd6a057b3a4ccd53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1292917255,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1292917255,
+    "wof:lastmodified":1536612463,
+    "wof:name":"Kovacice",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85187999999999,
+    43.41279,
+    17.85187999999999,
+    43.41279
+],
+  "geometry": {"coordinates":[17.85187999999999,43.41279],"type":"Point"}
+}

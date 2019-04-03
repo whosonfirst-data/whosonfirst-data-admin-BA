@@ -1,0 +1,72 @@
+{
+  "id": 1243557811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50967,44.01596,19.50967,44.01596",
+    "geom:latitude":44.01596,
+    "geom:longitude":19.50967,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bozici",
+    "gn:country_code":"BA",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211657,
+    "gn:latitude":44.01596,
+    "gn:longitude":19.50967,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bo\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo\u017ei\u0107",
+        "Bo\u017ei\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211657,
+        "wk:page":"Bo%C5%BEi%C4%87i_%28Srebrenica%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"08b2c2d33c4796b180e59f0f09616246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1243557811,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243557811,
+    "wof:lastmodified":1537585653,
+    "wof:name":"Bozici",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.50967,
+    44.01596,
+    19.50967,
+    44.01596
+],
+  "geometry": {"coordinates":[19.50967,44.01596],"type":"Point"}
+}

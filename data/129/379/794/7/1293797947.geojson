@@ -1,0 +1,71 @@
+{
+  "id": 1293797947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53105,44.1155,17.53105,44.1155",
+    "geom:latitude":44.1155,
+    "geom:longitude":17.53105,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Maslici",
+    "gn:country_code":"BA",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3293168,
+    "gn:latitude":44.1155,
+    "gn:longitude":17.53105,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Masli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Masli\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293168,
+        "wk:page":"Masli%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"29e1dca672e1622ab64b89fec719b2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759029,
+            "locality_id":1293797947,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1293797947,
+    "wof:lastmodified":1537585677,
+    "wof:name":"Maslici",
+    "wof:parent_id":1108759029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53105,
+    44.1155,
+    17.53105,
+    44.1155
+],
+  "geometry": {"coordinates":[17.53105,44.1155],"type":"Point"}
+}

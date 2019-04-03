@@ -1,0 +1,68 @@
+{
+  "id": 1243463311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55773,44.44946,16.55773,44.44946",
+    "geom:latitude":44.44946,
+    "geom:longitude":16.55773,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Uvala",
+    "gn:country_code":"BA",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3236097,
+    "gn:latitude":44.44946,
+    "gn:longitude":16.55773,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Uvala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3236097,
+        "wk:page":"Uvala"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"213317d6f032f5c711b83fe184d6f193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759015,
+            "locality_id":1243463311,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243463311,
+    "wof:lastmodified":1537486824,
+    "wof:name":"Uvala",
+    "wof:parent_id":1108759015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55773,
+    44.44946,
+    16.55773,
+    44.44946
+],
+  "geometry": {"coordinates":[16.55773,44.44946],"type":"Point"}
+}

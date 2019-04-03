@@ -1,0 +1,67 @@
+{
+  "id": 1259600747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04911,44.69691,18.04911,44.69691",
+    "geom:latitude":44.69691,
+    "geom:longitude":18.04911,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Karuse",
+    "gn:country_code":"BA",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252895,
+    "gn:latitude":44.69691,
+    "gn:longitude":18.04911,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Karu\u0161e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252895
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1029302fad3ae4499ebddd50c9440e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759057,
+            "locality_id":1259600747,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259600747,
+    "wof:lastmodified":1536690031,
+    "wof:name":"Karuse",
+    "wof:parent_id":1108759057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04911,
+    44.69691,
+    18.04911,
+    44.69691
+],
+  "geometry": {"coordinates":[18.04911,44.69691],"type":"Point"}
+}

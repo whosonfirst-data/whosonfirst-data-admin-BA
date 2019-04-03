@@ -1,0 +1,67 @@
+{
+  "id": 1343362345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53389,44.98694,16.53389,44.98694",
+    "geom:latitude":44.98694,
+    "geom:longitude":16.53389,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zlojutre",
+    "gn:country_code":"BA",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3245574,
+    "gn:latitude":44.98694,
+    "gn:longitude":16.53389,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Zlojutre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3245574
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"338294cd65e2a64aaf9156debcd3f795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1343362345,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343362345,
+    "wof:lastmodified":1536887306,
+    "wof:name":"Zlojutre",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53389,
+    44.98694,
+    16.53389,
+    44.98694
+],
+  "geometry": {"coordinates":[16.53389,44.98694],"type":"Point"}
+}

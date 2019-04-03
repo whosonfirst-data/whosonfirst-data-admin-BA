@@ -1,0 +1,67 @@
+{
+  "id": 1343564437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94065,44.24783,16.94065,44.24783",
+    "geom:latitude":44.24783,
+    "geom:longitude":16.94065,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zdrnje",
+    "gn:country_code":"BA",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261018,
+    "gn:latitude":44.24783,
+    "gn:longitude":16.94065,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u017ddrnje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261018
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fad7503300867c6bda90873124807270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1343564437,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343564437,
+    "wof:lastmodified":1537090491,
+    "wof:name":"Zdrnje",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94065,
+    44.24783,
+    16.94065,
+    44.24783
+],
+  "geometry": {"coordinates":[16.94065,44.24783],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343265163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.45956,43.61339,19.45956,43.61339",
+    "geom:latitude":43.61339,
+    "geom:longitude":19.45956,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Trnavci kod Rudog",
+    "gn:country_code":"BA",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3298680,
+    "gn:latitude":43.61339,
+    "gn:longitude":19.45956,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Trnavci kod Rudog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trnavci",
+        "Trnavci kod Rudog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298680
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e32861d2d632581c906afc0cd4518dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759217,
+            "locality_id":1343265163,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343265163,
+    "wof:lastmodified":1537585680,
+    "wof:name":"Trnavci kod Rudog",
+    "wof:parent_id":1108759217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.45956,
+    43.61339,
+    19.45956,
+    43.61339
+],
+  "geometry": {"coordinates":[19.45956,43.61339],"type":"Point"}
+}

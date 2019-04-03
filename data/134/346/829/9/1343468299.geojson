@@ -1,0 +1,67 @@
+{
+  "id": 1343468299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32083,44.23778,17.32083,44.23778",
+    "geom:latitude":44.23778,
+    "geom:longitude":17.32083,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donje Staro Selo",
+    "gn:country_code":"BA",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238011,
+    "gn:latitude":44.23778,
+    "gn:longitude":17.32083,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Donje Staro Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238011
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"60a5747f8435bdaccd4dfce078f3ee9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759065,
+            "locality_id":1343468299,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1343468299,
+    "wof:lastmodified":1536734858,
+    "wof:name":"Donje Staro Selo",
+    "wof:parent_id":1108759065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32082999999999,
+    44.23778,
+    17.32082999999999,
+    44.23778
+],
+  "geometry": {"coordinates":[17.32082999999999,44.23778],"type":"Point"}
+}

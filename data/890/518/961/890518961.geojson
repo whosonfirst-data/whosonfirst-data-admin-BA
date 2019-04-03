@@ -1,0 +1,70 @@
+{
+  "id": 890518961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.849838,44.973299,15.849838,44.973299",
+    "geom:latitude":44.973299,
+    "geom:longitude":15.849838,
+    "gp:adm0":23424843,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Plitvi\u010dka jezera",
+    "qs:name_adm0":"Hrvatska",
+    "qs:name_adm1":"Li\u010dko-senjska",
+    "qs:photos":407,
+    "qs:photos_1k":82,
+    "qs:photos_9k":27,
+    "qs:photos_9r":14,
+    "qs:photos_all":6072,
+    "qs:photos_sr":6,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "wd:wordcount":493,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55852579,
+        "qs:id":1089469,
+        "wd:id":"Q1277540",
+        "wk:page":"Plitvi\u010dka Jezera"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056086,
+    "wof:geomhash":"8fc35c921b771bc15e573f1943912368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":890518961,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890518961,
+    "wof:lastmodified":1527751234,
+    "wof:name":"Plitvi\u010dka jezera",
+    "wof:parent_id":85669207,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.849838,
+    44.973299,
+    15.849838,
+    44.973299
+],
+  "geometry": {"coordinates":[15.849838,44.973299],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310715545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26589,43.75151,18.26589,43.75151",
+    "geom:latitude":43.75151,
+    "geom:longitude":18.26589,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tabla",
+    "gn:country_code":"BA",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3295381,
+    "gn:latitude":43.75151,
+    "gn:longitude":18.26589,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tabla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295381
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8ee9047c0cfc8569ec77aa90f6985c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1310715545,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1310715545,
+    "wof:lastmodified":1536611308,
+    "wof:name":"Tabla",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26589,
+    43.75151,
+    18.26589,
+    43.75151
+],
+  "geometry": {"coordinates":[18.26589,43.75151],"type":"Point"}
+}

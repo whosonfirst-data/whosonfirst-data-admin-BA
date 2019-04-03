@@ -1,0 +1,67 @@
+{
+  "id": 1293112635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62704,44.62723,16.62704,44.62723",
+    "geom:latitude":44.62723,
+    "geom:longitude":16.62704,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tarbuci",
+    "gn:country_code":"BA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248250,
+    "gn:latitude":44.62723,
+    "gn:longitude":16.62704,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tarbuci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248250
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"95be5824fff2b1e18b5add31a3ff8b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1293112635,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293112635,
+    "wof:lastmodified":1536829449,
+    "wof:name":"Tarbuci",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62704,
+    44.62723,
+    16.62704,
+    44.62723
+],
+  "geometry": {"coordinates":[16.62704,44.62723],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225862491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49263,44.53238,18.49263,44.53238",
+    "geom:latitude":44.53238,
+    "geom:longitude":18.49263,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tabaci",
+    "gn:country_code":"BA",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211037,
+    "gn:latitude":44.53238,
+    "gn:longitude":18.49263,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Tabaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211037,
+        "wk:page":"Tabaci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ea636c1efabf0bd179eed3e7f1892d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759161,
+            "locality_id":1225862491,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1225862491,
+    "wof:lastmodified":1537486812,
+    "wof:name":"Tabaci",
+    "wof:parent_id":1108759161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49263,
+    44.53238,
+    18.49263,
+    44.53238
+],
+  "geometry": {"coordinates":[18.49263,44.53238],"type":"Point"}
+}

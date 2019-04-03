@@ -1,0 +1,67 @@
+{
+  "id": 1259993335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.60936,43.81107,17.60936,43.81107",
+    "geom:latitude":43.81107,
+    "geom:longitude":17.60936,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Borovnica",
+    "gn:country_code":"BA",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203679,
+    "gn:latitude":43.81107,
+    "gn:longitude":17.60936,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Borovnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203679
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6a2f5214473e07a15dd1cca5c6af2f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1259993335,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1259993335,
+    "wof:lastmodified":1536618715,
+    "wof:name":"Borovnica",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.60936000000001,
+    43.81107,
+    17.60936000000001,
+    43.81107
+],
+  "geometry": {"coordinates":[17.60936000000001,43.81107],"type":"Point"}
+}

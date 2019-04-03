@@ -1,0 +1,97 @@
+{
+  "id": 890518821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7578,44.67962,17.7578,44.67962",
+    "geom:latitude":44.67962,
+    "geom:longitude":17.7578,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":3847,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u010ce\u010dava"
+    ],
+    "name:dut_x_preferred":[
+        "\u010ce\u010dava"
+    ],
+    "name:eng_x_preferred":[
+        "\u010ce\u010dava"
+    ],
+    "name:fre_x_preferred":[
+        "\u010ce\u010dava"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010ce\u010dava"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0447\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u010ce\u010dava"
+    ],
+    "qs:name":"\u010ce\u010dava",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"44.702827777",
+    "wd:longitude":"17.729186111",
+    "wd:wordcount":1045,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202817,
+        "gp:id":941046,
+        "qs:id":1044063,
+        "wd:id":"Q524284",
+        "wk:page":"\u010ce\u010dava"
+    },
+    "wof:concordances_alt":{
+        "qs:id":1099440
+    },
+    "wof:country":"BA",
+    "wof:created":1469056080,
+    "wof:geomhash":"13a2d7a08d3c9a519b231c7d5ce14b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":890518821,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518821,
+    "wof:lastmodified":1534379234,
+    "wof:name":"\u010ce\u010dava",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:population":3847,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890518963
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7578,
+    44.67962,
+    17.7578,
+    44.67962
+],
+  "geometry": {"coordinates":[17.7578,44.67962],"type":"Point"}
+}

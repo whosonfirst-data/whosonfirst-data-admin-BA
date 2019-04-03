@@ -1,0 +1,67 @@
+{
+  "id": 1276241133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08321,44.67576,18.08321,44.67576",
+    "geom:latitude":44.67576,
+    "geom:longitude":18.08321,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sevarlije",
+    "gn:country_code":"BA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190957,
+    "gn:latitude":44.67576,
+    "gn:longitude":18.08321,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160evarlije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190957
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"321bebb8951237225a90c39e4b5c2724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1276241133,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276241133,
+    "wof:lastmodified":1536902220,
+    "wof:name":"Sevarlije",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08321,
+    44.67576,
+    18.08321,
+    44.67576
+],
+  "geometry": {"coordinates":[18.08321,44.67576],"type":"Point"}
+}

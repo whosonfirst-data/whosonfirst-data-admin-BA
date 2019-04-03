@@ -1,0 +1,67 @@
+{
+  "id": 1259501291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14148,44.4711,16.14148,44.4711",
+    "geom:latitude":44.4711,
+    "geom:longitude":16.14148,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dilasi",
+    "gn:country_code":"BA",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277579,
+    "gn:latitude":44.4711,
+    "gn:longitude":16.14148,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u00d0ilasi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277579
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6f36c40277a5a7863c857b76dc5f9be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1259501291,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1259501291,
+    "wof:lastmodified":1536832192,
+    "wof:name":"Dilasi",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14148,
+    44.4711,
+    16.14148,
+    44.4711
+],
+  "geometry": {"coordinates":[16.14148,44.4711],"type":"Point"}
+}

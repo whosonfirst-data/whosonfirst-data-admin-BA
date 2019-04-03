@@ -1,0 +1,67 @@
+{
+  "id": 1243463205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23845,44.96272,16.23845,44.96272",
+    "geom:latitude":44.96272,
+    "geom:longitude":16.23845,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rodici",
+    "gn:country_code":"BA",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263389,
+    "gn:latitude":44.96272,
+    "gn:longitude":16.23845,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Rodi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263389
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e78d92c3e84b0c3bf8891c535d132ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1243463205,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243463205,
+    "wof:lastmodified":1536781773,
+    "wof:name":"Rodici",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23845,
+    44.96272,
+    16.23845,
+    44.96272
+],
+  "geometry": {"coordinates":[16.23845,44.96272],"type":"Point"}
+}

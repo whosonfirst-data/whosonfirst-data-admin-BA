@@ -1,0 +1,67 @@
+{
+  "id": 1360102777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68667,43.02417,17.68667,43.02417",
+    "geom:latitude":43.02417,
+    "geom:longitude":17.68667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brstine",
+    "gn:country_code":"BA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288519,
+    "gn:latitude":43.02417,
+    "gn:longitude":17.68667,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Brstine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288519
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c39d9f03c4fb12da5a5a3189e36cd50a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759037,
+            "locality_id":1360102777,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1360102777,
+    "wof:lastmodified":1536920739,
+    "wof:name":"Brstine",
+    "wof:parent_id":1108759037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68667,
+    43.02417,
+    17.68667,
+    43.02417
+],
+  "geometry": {"coordinates":[17.68667,43.02417],"type":"Point"}
+}

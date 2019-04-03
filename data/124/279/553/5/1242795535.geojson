@@ -1,0 +1,67 @@
+{
+  "id": 1242795535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.79718,44.2002,17.79718,44.2002",
+    "geom:latitude":44.2002,
+    "geom:longitude":17.79718,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Muratovici",
+    "gn:country_code":"BA",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288787,
+    "gn:latitude":44.2002,
+    "gn:longitude":17.79718,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Muratovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288787
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"720a4a198533f66a24d62cbe9119f585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759287,
+            "locality_id":1242795535,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242795535,
+    "wof:lastmodified":1536749602,
+    "wof:name":"Muratovici",
+    "wof:parent_id":1108759287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79717999999999,
+    44.2002,
+    17.79717999999999,
+    44.2002
+],
+  "geometry": {"coordinates":[17.79717999999999,44.2002],"type":"Point"}
+}

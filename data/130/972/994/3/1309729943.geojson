@@ -1,0 +1,67 @@
+{
+  "id": 1309729943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29417,43.35222,17.29417,43.35222",
+    "geom:latitude":43.35222,
+    "geom:longitude":17.29417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vucko",
+    "gn:country_code":"BA",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284688,
+    "gn:latitude":43.35222,
+    "gn:longitude":17.29417,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Vu\u010dko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284688
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e93237b9445619670569f540fa64ea11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1309729943,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1309729943,
+    "wof:lastmodified":1537038775,
+    "wof:name":"Vucko",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29417,
+    43.35222,
+    17.29417,
+    43.35222
+],
+  "geometry": {"coordinates":[17.29417,43.35222],"type":"Point"}
+}

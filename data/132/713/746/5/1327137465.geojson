@@ -1,0 +1,71 @@
+{
+  "id": 1327137465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11009,44.86143,18.11009,44.86143",
+    "geom:latitude":44.86143,
+    "geom:longitude":18.11009,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kozuhe",
+    "gn:country_code":"BA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197428,
+    "gn:latitude":44.86143,
+    "gn:longitude":18.11009,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ko\u017euhe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u017euhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197428,
+        "wk:page":"Ko%C5%BEuhe"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"95b60bf31e52abe145a80117247307f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1327137465,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327137465,
+    "wof:lastmodified":1537585589,
+    "wof:name":"Kozuhe",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11009,
+    44.86143,
+    18.11009,
+    44.86143
+],
+  "geometry": {"coordinates":[18.11009,44.86143],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343971137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.59363,44.47641,17.59363,44.47641",
+    "geom:latitude":44.47641,
+    "geom:longitude":17.59363,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kerle",
+    "gn:country_code":"BA",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257342,
+    "gn:latitude":44.47641,
+    "gn:longitude":17.59363,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kerle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257342
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d671a51b28ee30b31b293c26fb20a589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1343971137,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343971137,
+    "wof:lastmodified":1537003768,
+    "wof:name":"Kerle",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.59362999999999,
+    44.47641,
+    17.59362999999999,
+    44.47641
+],
+  "geometry": {"coordinates":[17.59362999999999,44.47641],"type":"Point"}
+}

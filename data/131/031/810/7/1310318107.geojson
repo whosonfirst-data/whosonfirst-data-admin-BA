@@ -1,0 +1,67 @@
+{
+  "id": 1310318107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64995,44.39712,16.64995,44.39712",
+    "geom:latitude":44.39712,
+    "geom:longitude":16.64995,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donja Uvala",
+    "gn:country_code":"BA",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3236346,
+    "gn:latitude":44.39712,
+    "gn:longitude":16.64995,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donja Uvala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3236346
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c7b6333d682c0bf0b1140565dabf1cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759069,
+            "locality_id":1310318107,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310318107,
+    "wof:lastmodified":1536689768,
+    "wof:name":"Donja Uvala",
+    "wof:parent_id":1108759069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64995,
+    44.39712,
+    16.64995,
+    44.39712
+],
+  "geometry": {"coordinates":[16.64995,44.39712],"type":"Point"}
+}

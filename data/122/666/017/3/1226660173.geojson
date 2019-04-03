@@ -1,0 +1,67 @@
+{
+  "id": 1226660173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2959,44.1049,18.2959,44.1049",
+    "geom:latitude":44.1049,
+    "geom:longitude":18.2959,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Samari",
+    "gn:country_code":"BA",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295340,
+    "gn:latitude":44.1049,
+    "gn:longitude":18.2959,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Samari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295340
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ae69fe52b2ac2efc9bb018f46f7d5828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759279,
+            "locality_id":1226660173,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1226660173,
+    "wof:lastmodified":1536837563,
+    "wof:name":"Samari",
+    "wof:parent_id":1108759279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2959,
+    44.1049,
+    18.2959,
+    44.1049
+],
+  "geometry": {"coordinates":[18.2959,44.1049],"type":"Point"}
+}

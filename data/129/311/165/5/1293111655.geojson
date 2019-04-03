@@ -1,0 +1,67 @@
+{
+  "id": 1293111655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19036,43.31038,18.19036,43.31038",
+    "geom:latitude":43.31038,
+    "geom:longitude":18.19036,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mijatovci",
+    "gn:country_code":"BA",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3265833,
+    "gn:latitude":43.31038,
+    "gn:longitude":18.19036,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mijatovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265833
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"91fd6e8c2567b5374669bcbbbec255d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1293111655,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293111655,
+    "wof:lastmodified":1536830860,
+    "wof:name":"Mijatovci",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19036,
+    43.31038,
+    18.19036,
+    43.31038
+],
+  "geometry": {"coordinates":[18.19036,43.31038],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277091803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33972,44.45678,18.33972,44.45678",
+    "geom:latitude":44.45678,
+    "geom:longitude":18.33972,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Borovac",
+    "gn:country_code":"BA",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3211198,
+    "gn:latitude":44.45678,
+    "gn:longitude":18.33972,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Borovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borovci",
+        "Borovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108758991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211198
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f84c2ffffde48533e6c2216076e99e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758991,
+            "locality_id":1277091803,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1277091803,
+    "wof:lastmodified":1537585646,
+    "wof:name":"Borovac",
+    "wof:parent_id":1108758991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33972,
+    44.45678,
+    18.33972,
+    44.45678
+],
+  "geometry": {"coordinates":[18.33972,44.45678],"type":"Point"}
+}

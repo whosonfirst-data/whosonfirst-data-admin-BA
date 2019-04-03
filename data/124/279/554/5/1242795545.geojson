@@ -1,0 +1,68 @@
+{
+  "id": 1242795545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94806,43.97139,17.94806,43.97139",
+    "geom:latitude":43.97139,
+    "geom:longitude":17.94806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jehovina",
+    "gn:country_code":"BA",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289637,
+    "gn:latitude":43.97139,
+    "gn:longitude":17.94806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jehovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289637,
+        "wk:page":"Jehovina"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dc085254ede0a64de327ecfc34102f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1242795545,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242795545,
+    "wof:lastmodified":1537486856,
+    "wof:name":"Jehovina",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94806,
+    43.97139,
+    17.94806,
+    43.97139
+],
+  "geometry": {"coordinates":[17.94806,43.97139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343971807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72316,44.67233,18.72316,44.67233",
+    "geom:latitude":44.67233,
+    "geom:longitude":18.72316,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Nahvioci",
+    "gn:country_code":"BA",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3223178,
+    "gn:latitude":44.67233,
+    "gn:longitude":18.72316,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornji Nahvioci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3223178
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"38a85ff2a0313737557a113a1fdcf0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759043,
+            "locality_id":1343971807,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1343971807,
+    "wof:lastmodified":1537002778,
+    "wof:name":"Gornji Nahvioci",
+    "wof:parent_id":1108759043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72316,
+    44.67233,
+    18.72316,
+    44.67233
+],
+  "geometry": {"coordinates":[18.72316,44.67233],"type":"Point"}
+}

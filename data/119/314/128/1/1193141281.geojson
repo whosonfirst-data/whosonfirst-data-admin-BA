@@ -1,0 +1,67 @@
+{
+  "id": 1193141281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72326,44.58544,18.72326,44.58544",
+    "geom:latitude":44.58544,
+    "geom:longitude":18.72326,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kosci",
+    "gn:country_code":"BA",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3260417,
+    "gn:latitude":44.58544,
+    "gn:longitude":18.72326,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kosci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260417
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1a5a5ff91649220f08637c0ad642a978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1193141281,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1193141281,
+    "wof:lastmodified":1536365772,
+    "wof:name":"Kosci",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72326,
+    44.58544000000001,
+    18.72326,
+    44.58544000000001
+],
+  "geometry": {"coordinates":[18.72326,44.58544000000001],"type":"Point"}
+}

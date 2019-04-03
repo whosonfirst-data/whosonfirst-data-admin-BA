@@ -1,0 +1,74 @@
+{
+  "id": 1259385895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66069,44.86027,16.66069,44.86027",
+    "geom:latitude":44.86027,
+    "geom:longitude":16.66069,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ostra Luka",
+    "gn:country_code":"BA",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3193856,
+    "gn:latitude":44.86027,
+    "gn:longitude":16.66069,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"O\u0161tra Luka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041e\u0448\u0442\u0440\u0430 \u041b\u0443\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "O\u0161tra Luka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193856,
+        "wk:page":"O%C5%A1tra_Luka"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cd6a93517f4b5bf68dba2b71303a034f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759223,
+            "locality_id":1259385895,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259385895,
+    "wof:lastmodified":1537585576,
+    "wof:name":"Ostra Luka",
+    "wof:parent_id":1108759223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66069,
+    44.86027,
+    16.66069,
+    44.86027
+],
+  "geometry": {"coordinates":[16.66069,44.86027],"type":"Point"}
+}

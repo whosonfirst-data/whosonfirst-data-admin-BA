@@ -1,0 +1,61 @@
+{
+  "id": 1209118993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.02111,44.75917,17.02111,44.75917",
+    "geom:latitude":44.75917,
+    "geom:longitude":17.02111,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Skrbici",
+    "gn:country_code":"BA",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247813,
+    "gn:latitude":44.75917,
+    "gn:longitude":17.02111,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"\u0160krbi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247813
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"426b01adedd93e5d1bbe8b9bc7b3a182",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209118993
+        }
+    ],
+    "wof:id":1209118993,
+    "wof:lastmodified":1536297163,
+    "wof:name":"Skrbici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02111,
+    44.75917000000001,
+    17.02111,
+    44.75917000000001
+],
+  "geometry": {"coordinates":[17.02111,44.75917000000001],"type":"Point"}
+}

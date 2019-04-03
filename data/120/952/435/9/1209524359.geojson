@@ -1,0 +1,65 @@
+{
+  "id": 1209524359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70873,43.97434,18.70873,43.97434",
+    "geom:latitude":43.97434,
+    "geom:longitude":18.70873,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sahbegovici",
+    "gn:country_code":"BA",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191357,
+    "gn:latitude":43.97434,
+    "gn:longitude":18.70873,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0160ahbegovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ahbegovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191357,
+        "wk:page":"%C5%A0ahbegovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"885ae69b3eb4597067a27218f870354b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209524359
+        }
+    ],
+    "wof:id":1209524359,
+    "wof:lastmodified":1537585565,
+    "wof:name":"Sahbegovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70873,
+    43.97434000000001,
+    18.70873,
+    43.97434000000001
+],
+  "geometry": {"coordinates":[18.70873,43.97434000000001],"type":"Point"}
+}

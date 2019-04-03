@@ -1,0 +1,67 @@
+{
+  "id": 1276136933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63095,45.00558,18.63095,45.00558",
+    "geom:latitude":45.00558,
+    "geom:longitude":18.63095,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bok",
+    "gn:country_code":"BA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203781,
+    "gn:latitude":45.00558,
+    "gn:longitude":18.63095,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669243,
+        1108759195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203781
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"12efc0563a2f53fa3188478b685f1c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759195,
+            "locality_id":1276136933,
+            "region_id":85669243
+        }
+    ],
+    "wof:id":1276136933,
+    "wof:lastmodified":1537040103,
+    "wof:name":"Bok",
+    "wof:parent_id":1108759195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63095,
+    45.00558,
+    18.63095,
+    45.00558
+],
+  "geometry": {"coordinates":[18.63095,45.00558],"type":"Point"}
+}

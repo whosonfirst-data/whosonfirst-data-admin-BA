@@ -1,0 +1,72 @@
+{
+  "id": 1242691843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26526,42.62344,18.26526,42.62344",
+    "geom:latitude":42.62344,
+    "geom:longitude":18.26526,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornja Glavska",
+    "gn:country_code":"BA",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205492,
+    "gn:latitude":42.62344,
+    "gn:longitude":18.26526,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornja Glavska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glavska",
+        "Gornja Glavska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205492,
+        "wk:page":"Glavska"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a15b9a3842cdf7277ec8cda077168930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759213,
+            "locality_id":1242691843,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1242691843,
+    "wof:lastmodified":1537585632,
+    "wof:name":"Gornja Glavska",
+    "wof:parent_id":1108759213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26526,
+    42.62344,
+    18.26526,
+    42.62344
+],
+  "geometry": {"coordinates":[18.26526,42.62344],"type":"Point"}
+}

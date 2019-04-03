@@ -1,0 +1,67 @@
+{
+  "id": 1260093219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38339,44.99251,18.38339,44.99251",
+    "geom:latitude":44.99251,
+    "geom:longitude":18.38339,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Milosevac",
+    "gn:country_code":"BA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3195085,
+    "gn:latitude":44.99251,
+    "gn:longitude":18.38339,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Milo\u0161evac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195085
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f192a54fc8aafa832fcea2a7288946fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759169,
+            "locality_id":1260093219,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260093219,
+    "wof:lastmodified":1536973527,
+    "wof:name":"Milosevac",
+    "wof:parent_id":1108759169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38339,
+    44.99251,
+    18.38339,
+    44.99251
+],
+  "geometry": {"coordinates":[18.38339,44.99251],"type":"Point"}
+}

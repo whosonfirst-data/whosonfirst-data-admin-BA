@@ -1,0 +1,61 @@
+{
+  "id": 1209619207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99346,44.31573,17.99346,44.31573",
+    "geom:latitude":44.31573,
+    "geom:longitude":17.99346,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sagovici",
+    "gn:country_code":"BA",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210422,
+    "gn:latitude":44.31573,
+    "gn:longitude":17.99346,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160agovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210422
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ef93b90c899eb1a63256a1e715780df2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209619207
+        }
+    ],
+    "wof:id":1209619207,
+    "wof:lastmodified":1536281579,
+    "wof:name":"Sagovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99346,
+    44.31573,
+    17.99346,
+    44.31573
+],
+  "geometry": {"coordinates":[17.99346,44.31573],"type":"Point"}
+}

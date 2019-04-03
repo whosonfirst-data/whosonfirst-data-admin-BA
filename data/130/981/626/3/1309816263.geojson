@@ -1,0 +1,71 @@
+{
+  "id": 1309816263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27713,44.98012,18.27713,44.98012",
+    "geom:latitude":44.98012,
+    "geom:longitude":18.27713,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jakes",
+    "gn:country_code":"BA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198932,
+    "gn:latitude":44.98012,
+    "gn:longitude":18.27713,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Jake\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jake\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198932,
+        "wk:page":"Jake%C5%A1"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"110705282588520c9978a9292d70881b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759169,
+            "locality_id":1309816263,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309816263,
+    "wof:lastmodified":1537585595,
+    "wof:name":"Jakes",
+    "wof:parent_id":1108759169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27713,
+    44.98012,
+    18.27713,
+    44.98012
+],
+  "geometry": {"coordinates":[18.27713,44.98012],"type":"Point"}
+}

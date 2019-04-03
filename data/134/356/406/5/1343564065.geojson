@@ -1,0 +1,67 @@
+{
+  "id": 1343564065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58366,44.84186,17.58366,44.84186",
+    "geom:latitude":44.84186,
+    "geom:longitude":17.58366,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vorotnjaci",
+    "gn:country_code":"BA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254000,
+    "gn:latitude":44.84186,
+    "gn:longitude":17.58366,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vorotnjaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254000
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5430d8db6e13650721e5c8d80e46da3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1343564065,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343564065,
+    "wof:lastmodified":1537091024,
+    "wof:name":"Vorotnjaci",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58366,
+    44.84186,
+    17.58366,
+    44.84186
+],
+  "geometry": {"coordinates":[17.58366,44.84186],"type":"Point"}
+}

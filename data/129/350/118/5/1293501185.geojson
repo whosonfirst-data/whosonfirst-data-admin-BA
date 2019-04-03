@@ -1,0 +1,67 @@
+{
+  "id": 1293501185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51071,43.95088,17.51071,43.95088",
+    "geom:latitude":43.95088,
+    "geom:longitude":17.51071,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Laze",
+    "gn:country_code":"BA",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3293445,
+    "gn:latitude":43.95088,
+    "gn:longitude":17.51071,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Laze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293445
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dd72c920bd620f978548b447cdd8f113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":1293501185,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1293501185,
+    "wof:lastmodified":1536767664,
+    "wof:name":"Laze",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51071,
+    43.95088,
+    17.51071,
+    43.95088
+],
+  "geometry": {"coordinates":[17.51071,43.95088],"type":"Point"}
+}

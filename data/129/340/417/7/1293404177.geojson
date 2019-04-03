@@ -1,0 +1,67 @@
+{
+  "id": 1293404177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.30331,44.24792,16.30331,44.24792",
+    "geom:latitude":44.24792,
+    "geom:longitude":16.30331,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bobici",
+    "gn:country_code":"BA",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281803,
+    "gn:latitude":44.24792,
+    "gn:longitude":16.30331,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bobi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281803
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"685af8dd2c4d63463b735578efa519b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1293404177,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1293404177,
+    "wof:lastmodified":1536907302,
+    "wof:name":"Bobici",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30331,
+    44.24792,
+    16.30331,
+    44.24792
+],
+  "geometry": {"coordinates":[16.30331,44.24792],"type":"Point"}
+}

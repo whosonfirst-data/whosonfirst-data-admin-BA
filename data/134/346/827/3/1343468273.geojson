@@ -1,0 +1,71 @@
+{
+  "id": 1343468273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91019,43.01629,17.91019,43.01629",
+    "geom:latitude":43.01629,
+    "geom:longitude":17.91019,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Matica Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213100,
+    "gn:latitude":43.01629,
+    "gn:longitude":17.91019,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mati\u0107a Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meti\u0107a",
+        "Mati\u0107a Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213100
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d6aa31c99a28ab09eb14ba5b6b1a0ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759249,
+            "locality_id":1343468273,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1343468273,
+    "wof:lastmodified":1537585657,
+    "wof:name":"Matica Mahala",
+    "wof:parent_id":1108759249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91019,
+    43.01629000000001,
+    17.91019,
+    43.01629000000001
+],
+  "geometry": {"coordinates":[17.91019,43.01629000000001],"type":"Point"}
+}

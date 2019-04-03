@@ -1,0 +1,67 @@
+{
+  "id": 1293108359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13956,44.4296,18.13956,44.4296",
+    "geom:latitude":44.4296,
+    "geom:longitude":18.13956,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Potklece",
+    "gn:country_code":"BA",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257229,
+    "gn:latitude":44.4296,
+    "gn:longitude":18.13956,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Potkle\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257229
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c3012c3542aba94ba340f923fa393922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1293108359,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1293108359,
+    "wof:lastmodified":1536835526,
+    "wof:name":"Potklece",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13956,
+    44.4296,
+    18.13956,
+    44.4296
+],
+  "geometry": {"coordinates":[18.13956,44.4296],"type":"Point"}
+}

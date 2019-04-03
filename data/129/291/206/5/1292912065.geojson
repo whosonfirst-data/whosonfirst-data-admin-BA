@@ -1,0 +1,67 @@
+{
+  "id": 1292912065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13722,44.54667,17.13722,44.54667",
+    "geom:latitude":44.54667,
+    "geom:longitude":17.13722,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dol",
+    "gn:country_code":"BA",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250252,
+    "gn:latitude":44.54667,
+    "gn:longitude":17.13722,
+    "gn:modification_date":"2005-11-09",
+    "gn:name":"Dol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250252
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3c766e0031b1ea59ee2b98efccf2cf68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1292912065,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1292912065,
+    "wof:lastmodified":1536620352,
+    "wof:name":"Dol",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13722000000001,
+    44.54667,
+    17.13722000000001,
+    44.54667
+],
+  "geometry": {"coordinates":[17.13722000000001,44.54667],"type":"Point"}
+}

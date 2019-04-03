@@ -1,0 +1,72 @@
+{
+  "id": 1259492271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9767,44.76674,18.9767,44.76674",
+    "geom:latitude":44.76674,
+    "geom:longitude":18.9767,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bukovica Gornja",
+    "gn:country_code":"BA",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203043,
+    "gn:latitude":44.76674,
+    "gn:longitude":18.9767,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bukovica Gornja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Bukovica",
+        "Bukovica Gornja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203043,
+        "wk:page":"Bukovica_Gornja"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"94c6b961f7807f7285f063610d707428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759273,
+            "locality_id":1259492271,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259492271,
+    "wof:lastmodified":1537585620,
+    "wof:name":"Bukovica Gornja",
+    "wof:parent_id":1108759273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9767,
+    44.76674000000001,
+    18.9767,
+    44.76674000000001
+],
+  "geometry": {"coordinates":[18.9767,44.76674000000001],"type":"Point"}
+}

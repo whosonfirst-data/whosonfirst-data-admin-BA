@@ -1,0 +1,67 @@
+{
+  "id": 1326734471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05472,43.93278,18.05472,43.93278",
+    "geom:latitude":43.93278,
+    "geom:longitude":18.05472,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornja Borina",
+    "gn:country_code":"BA",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297555,
+    "gn:latitude":43.93278,
+    "gn:longitude":18.05472,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Gornja Borina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297555
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b424fa15ac3895eb4fb944c319512e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759127,
+            "locality_id":1326734471,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1326734471,
+    "wof:lastmodified":1536692660,
+    "wof:name":"Gornja Borina",
+    "wof:parent_id":1108759127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05472,
+    43.93278,
+    18.05472,
+    43.93278
+],
+  "geometry": {"coordinates":[18.05472,43.93278],"type":"Point"}
+}

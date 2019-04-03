@@ -1,0 +1,67 @@
+{
+  "id": 1276241487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00307,44.30772,17.00307,44.30772",
+    "geom:latitude":44.30772,
+    "geom:longitude":17.00307,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gvozdenci",
+    "gn:country_code":"BA",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260712,
+    "gn:latitude":44.30772,
+    "gn:longitude":17.00307,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gvozdenci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260712
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"111a318975103e38e9987effa36ee776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1276241487,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276241487,
+    "wof:lastmodified":1536901733,
+    "wof:name":"Gvozdenci",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00307,
+    44.30772,
+    17.00307,
+    44.30772
+],
+  "geometry": {"coordinates":[17.00307,44.30772],"type":"Point"}
+}

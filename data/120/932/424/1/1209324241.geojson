@@ -1,0 +1,61 @@
+{
+  "id": 1209324241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77927,43.63669,18.77927,43.63669",
+    "geom:latitude":43.63669,
+    "geom:longitude":18.77927,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nenkovici",
+    "gn:country_code":"BA",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271001,
+    "gn:latitude":43.63669,
+    "gn:longitude":18.77927,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nenkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271001
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"35d41638c300fec8b67cc167ee0e27ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209324241
+        }
+    ],
+    "wof:id":1209324241,
+    "wof:lastmodified":1536290585,
+    "wof:name":"Nenkovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77927,
+    43.63669,
+    18.77927,
+    43.63669
+],
+  "geometry": {"coordinates":[18.77927,43.63669],"type":"Point"}
+}

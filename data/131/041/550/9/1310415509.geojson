@@ -1,0 +1,71 @@
+{
+  "id": 1310415509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23609,43.63739,17.23609,43.63739",
+    "geom:latitude":43.63739,
+    "geom:longitude":17.23609,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donji Brisnik",
+    "gn:country_code":"BA",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201502,
+    "gn:latitude":43.63739,
+    "gn:longitude":17.23609,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donji Bri\u0161nik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donji Bri\u0161nik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201502,
+        "wk:page":"Donji_Bri%C5%A1nik"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f75aca550fa96545ab88f5fa840c6d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1310415509,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1310415509,
+    "wof:lastmodified":1537585611,
+    "wof:name":"Donji Brisnik",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23609,
+    43.63739,
+    17.23609,
+    43.63739
+],
+  "geometry": {"coordinates":[17.23609,43.63739],"type":"Point"}
+}

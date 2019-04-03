@@ -1,0 +1,69 @@
+{
+  "id": 890518827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.82278,44.48677,17.82278,44.48677",
+    "geom:latitude":44.48677,
+    "geom:longitude":17.82278,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":5676,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Blatnica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203950,
+        "gp:id":940726,
+        "qs:id":1044076,
+        "wd:id":"Q1197068",
+        "wk:page":"Blatnica"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056080,
+    "wof:geomhash":"5ba08acd82636c74f6f26e0110c282d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":890518827,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518827,
+    "wof:lastmodified":1527751230,
+    "wof:name":"Blatnica",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:population":5676,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.82278,
+    44.48677,
+    17.82278,
+    44.48677
+],
+  "geometry": {"coordinates":[17.82278,44.48677],"type":"Point"}
+}

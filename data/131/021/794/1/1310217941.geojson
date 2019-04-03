@@ -1,0 +1,72 @@
+{
+  "id": 1310217941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12588,44.68499,17.12588,44.68499",
+    "geom:latitude":44.68499,
+    "geom:longitude":17.12588,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rekavice",
+    "gn:country_code":"BA",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3191746,
+    "gn:latitude":44.68499,
+    "gn:longitude":17.12588,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Rekavice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rekavica",
+        "Rekavice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191746,
+        "wk:page":"Rekavice"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6e63d898234f2de8a6918e835fa1c21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1310217941,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310217941,
+    "wof:lastmodified":1537585567,
+    "wof:name":"Rekavice",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12588,
+    44.68499,
+    17.12588,
+    44.68499
+],
+  "geometry": {"coordinates":[17.12588,44.68499],"type":"Point"}
+}

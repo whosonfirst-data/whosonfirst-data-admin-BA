@@ -1,0 +1,67 @@
+{
+  "id": 1226445683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.97657,44.85862,16.97657,44.85862",
+    "geom:latitude":44.85862,
+    "geom:longitude":16.97657,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Seve",
+    "gn:country_code":"BA",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248556,
+    "gn:latitude":44.85862,
+    "gn:longitude":16.97657,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160eve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248556
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"27b2de0f2201bbabb79d3b3d40899b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1226445683,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226445683,
+    "wof:lastmodified":1536644954,
+    "wof:name":"Seve",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.97657,
+    44.85862,
+    16.97657,
+    44.85862
+],
+  "geometry": {"coordinates":[16.97657,44.85862],"type":"Point"}
+}

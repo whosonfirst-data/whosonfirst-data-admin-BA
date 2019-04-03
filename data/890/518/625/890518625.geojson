@@ -1,0 +1,150 @@
+{
+  "id": 890518625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61667,44.42921,18.61667,44.42921",
+    "geom:latitude":44.42921,
+    "geom:longitude":18.61667,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":4661,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:bos_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:cat_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:cze_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:dan_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:dut_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:eng_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:fin_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:fre_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:ger_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:ind_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:ita_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:nno_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:nob_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:oci_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:pol_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:por_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:rum_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:slo_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:slv_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:spa_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0438\u0432\u0438\u043d\u0438\u0446\u0435 \u0413\u043e\u0440\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:tgl_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:tur_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "name:unk_x_variant":[
+        "\u017divinice Gornje"
+    ],
+    "name:war_x_preferred":[
+        "\u017divinice Gornje"
+    ],
+    "qs:name":"Gornje \u017divinice",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200059,
+        "qs:id":147262,
+        "wd:id":"Q3122505"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056072,
+    "wof:geomhash":"5bfe724784355ad2e43c3af69ae9fc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":890518625,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890518625,
+    "wof:lastmodified":1513898818,
+    "wof:name":"Gornje \u017divinice",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:population":4661,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61667,
+    44.42921,
+    18.61667,
+    44.42921
+],
+  "geometry": {"coordinates":[18.61667,44.42921],"type":"Point"}
+}

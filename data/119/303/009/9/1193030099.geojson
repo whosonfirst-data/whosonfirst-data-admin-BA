@@ -1,0 +1,67 @@
+{
+  "id": 1193030099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00203,44.66307,18.00203,44.66307",
+    "geom:latitude":44.66307,
+    "geom:longitude":18.00203,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gase",
+    "gn:country_code":"BA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254775,
+    "gn:latitude":44.66307,
+    "gn:longitude":18.00203,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ga\u0161e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254775
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a05f9e5688dffd3a80c7762e7386ffe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759277,
+            "locality_id":1193030099,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1193030099,
+    "wof:lastmodified":1536364860,
+    "wof:name":"Gase",
+    "wof:parent_id":1108759277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00202999999999,
+    44.66307000000001,
+    18.00202999999999,
+    44.66307000000001
+],
+  "geometry": {"coordinates":[18.00202999999999,44.66307000000001],"type":"Point"}
+}

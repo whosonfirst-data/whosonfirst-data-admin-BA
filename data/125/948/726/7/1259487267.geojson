@@ -1,0 +1,67 @@
+{
+  "id": 1259487267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2106,43.50655,17.2106,43.50655",
+    "geom:latitude":43.50655,
+    "geom:longitude":17.2106,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kadim",
+    "gn:country_code":"BA",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283347,
+    "gn:latitude":43.50655,
+    "gn:longitude":17.2106,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kadim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283347
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"56f673ad6f5802981fcbbaa33bcc756d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1259487267,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1259487267,
+    "wof:lastmodified":1536852226,
+    "wof:name":"Kadim",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2106,
+    43.50655,
+    17.2106,
+    43.50655
+],
+  "geometry": {"coordinates":[17.2106,43.50655],"type":"Point"}
+}

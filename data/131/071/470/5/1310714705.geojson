@@ -1,0 +1,71 @@
+{
+  "id": 1310714705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33755,42.6777,18.33755,42.6777",
+    "geom:latitude":42.6777,
+    "geom:longitude":18.33755,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donje Cicevo",
+    "gn:country_code":"BA",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201577,
+    "gn:latitude":42.6777,
+    "gn:longitude":18.33755,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donje \u010ci\u010devo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donje \u010ci\u010devo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201577,
+        "wk:page":"Donje_%C4%8Ci%C4%8Devo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fe48d6393eb558059cade4a219170e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759265,
+            "locality_id":1310714705,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310714705,
+    "wof:lastmodified":1537585612,
+    "wof:name":"Donje Cicevo",
+    "wof:parent_id":1108759265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33755,
+    42.6777,
+    18.33755,
+    42.6777
+],
+  "geometry": {"coordinates":[18.33755,42.6777],"type":"Point"}
+}

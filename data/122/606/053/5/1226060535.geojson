@@ -1,0 +1,67 @@
+{
+  "id": 1226060535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.64558,44.13279,17.64558,44.13279",
+    "geom:latitude":44.13279,
+    "geom:longitude":17.64558,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Basalici",
+    "gn:country_code":"BA",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292819,
+    "gn:latitude":44.13279,
+    "gn:longitude":17.64558,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Basali\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292819
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"41da67f8aaa1a68e94bc3cb2866ef301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759183,
+            "locality_id":1226060535,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1226060535,
+    "wof:lastmodified":1536704124,
+    "wof:name":"Basalici",
+    "wof:parent_id":1108759183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.64558,
+    44.13279,
+    17.64558,
+    44.13279
+],
+  "geometry": {"coordinates":[17.64558,44.13279],"type":"Point"}
+}

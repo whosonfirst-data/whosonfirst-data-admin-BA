@@ -1,0 +1,67 @@
+{
+  "id": 1260093885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69962,44.57587,18.69962,44.57587",
+    "geom:latitude":44.57587,
+    "geom:longitude":18.69962,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Drenovik",
+    "gn:country_code":"BA",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260189,
+    "gn:latitude":44.57587,
+    "gn:longitude":18.69962,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Drenovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260189
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6a4327a7c1321a21de51db068c505e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1260093885,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1260093885,
+    "wof:lastmodified":1536972593,
+    "wof:name":"Drenovik",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69962,
+    44.57587,
+    18.69962,
+    44.57587
+],
+  "geometry": {"coordinates":[18.69962,44.57587],"type":"Point"}
+}

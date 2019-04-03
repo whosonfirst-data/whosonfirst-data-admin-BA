@@ -1,0 +1,72 @@
+{
+  "id": 1293116303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84125,45.04067,15.84125,45.04067",
+    "geom:latitude":45.04067,
+    "geom:longitude":15.84125,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Liskovac",
+    "gn:country_code":"BA",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210372,
+    "gn:latitude":45.04067,
+    "gn:longitude":15.84125,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Liskovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bosanski Leskovac",
+        "Leskovac",
+        "Liskovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210372
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8f4c5b006bd82038b812e72832a96304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1293116303,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293116303,
+    "wof:lastmodified":1537585638,
+    "wof:name":"Liskovac",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84125,
+    45.04067,
+    15.84125,
+    45.04067
+],
+  "geometry": {"coordinates":[15.84125,45.04067],"type":"Point"}
+}

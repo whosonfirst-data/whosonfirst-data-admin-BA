@@ -1,0 +1,63 @@
+{
+  "id": 1276666491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26871,45.00643,18.26871,45.00643",
+    "geom:latitude":45.00643,
+    "geom:longitude":18.26871,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gaj",
+    "gn:country_code":"BA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3294676,
+    "gn:latitude":45.00643,
+    "gn:longitude":18.26871,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294676
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b94db043258955d7e2d9387bd965f11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1276666491,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276666491,
+    "wof:lastmodified":1536828317,
+    "wof:name":"Gaj",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26871,
+    45.00643,
+    18.26871,
+    45.00643
+],
+  "geometry": {"coordinates":[18.26871,45.00643],"type":"Point"}
+}

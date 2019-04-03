@@ -1,0 +1,72 @@
+{
+  "id": 1327044149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40054,44.90009,18.40054,44.90009",
+    "geom:latitude":44.90009,
+    "geom:longitude":18.40054,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornja Bjeljevina",
+    "gn:country_code":"BA",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210877,
+    "gn:latitude":44.90009,
+    "gn:longitude":18.40054,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornja Bjeljevina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bjeljevina",
+        "Gornji Bjeljevina",
+        "Gornja Bjeljevina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210877
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8cdb7619e7a80b18ca373d95e9df16a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759093,
+            "locality_id":1327044149,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1327044149,
+    "wof:lastmodified":1537585642,
+    "wof:name":"Gornja Bjeljevina",
+    "wof:parent_id":1108759093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40054,
+    44.90009000000001,
+    18.40054,
+    44.90009000000001
+],
+  "geometry": {"coordinates":[18.40054,44.90009000000001],"type":"Point"}
+}

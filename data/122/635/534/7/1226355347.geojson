@@ -1,0 +1,67 @@
+{
+  "id": 1226355347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41848,44.63442,17.41848,44.63442",
+    "geom:latitude":44.63442,
+    "geom:longitude":17.41848,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bilice",
+    "gn:country_code":"BA",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204157,
+    "gn:latitude":44.63442,
+    "gn:longitude":17.41848,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bilice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204157
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c3032c1097d1edbef801e4a6b375ae45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1226355347,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226355347,
+    "wof:lastmodified":1536776181,
+    "wof:name":"Bilice",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41848,
+    44.63442,
+    17.41848,
+    44.63442
+],
+  "geometry": {"coordinates":[17.41848,44.63442],"type":"Point"}
+}

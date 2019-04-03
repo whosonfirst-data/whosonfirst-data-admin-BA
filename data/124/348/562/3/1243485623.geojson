@@ -1,0 +1,67 @@
+{
+  "id": 1243485623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58189,44.75911,18.58189,44.75911",
+    "geom:latitude":44.75911,
+    "geom:longitude":18.58189,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Sukani",
+    "gn:country_code":"BA",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252589,
+    "gn:latitude":44.75911,
+    "gn:longitude":18.58189,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Sukani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252589
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c0cecc83fb04d8efc89ee859f7202dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1243485623,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1243485623,
+    "wof:lastmodified":1536748939,
+    "wof:name":"Sukani",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58189,
+    44.75911,
+    18.58189,
+    44.75911
+],
+  "geometry": {"coordinates":[18.58189,44.75911],"type":"Point"}
+}

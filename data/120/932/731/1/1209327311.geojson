@@ -1,0 +1,61 @@
+{
+  "id": 1209327311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05847,44.86602,18.05847,44.86602",
+    "geom:latitude":44.86602,
+    "geom:longitude":18.05847,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kacinik",
+    "gn:country_code":"BA",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255846,
+    "gn:latitude":44.86602,
+    "gn:longitude":18.05847,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ka\u010dinik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255846
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"df31be5b01d46f1a9b8608a8996bf76a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209327311
+        }
+    ],
+    "wof:id":1209327311,
+    "wof:lastmodified":1536290490,
+    "wof:name":"Kacinik",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05847,
+    44.86602,
+    18.05847,
+    44.86602
+],
+  "geometry": {"coordinates":[18.05847,44.86602],"type":"Point"}
+}

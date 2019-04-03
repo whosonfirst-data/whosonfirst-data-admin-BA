@@ -1,0 +1,67 @@
+{
+  "id": 1310219391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.58414,44.05685,16.58414,44.05685",
+    "geom:latitude":44.05685,
+    "geom:longitude":16.58414,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Barosi",
+    "gn:country_code":"BA",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3239666,
+    "gn:latitude":44.05685,
+    "gn:longitude":16.58414,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Baro\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3239666
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5b4c7d81116d9d328faa1eb51bb62116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1310219391,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1310219391,
+    "wof:lastmodified":1536831148,
+    "wof:name":"Barosi",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58414,
+    44.05685,
+    16.58414,
+    44.05685
+],
+  "geometry": {"coordinates":[16.58414,44.05685],"type":"Point"}
+}

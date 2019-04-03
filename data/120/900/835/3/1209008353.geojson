@@ -1,0 +1,65 @@
+{
+  "id": 1209008353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.84411,43.67152,18.84411,43.67152",
+    "geom:latitude":43.67152,
+    "geom:longitude":18.84411,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Spahovici",
+    "gn:country_code":"BA",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3270696,
+    "gn:latitude":43.67152,
+    "gn:longitude":18.84411,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Spahovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spahovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270696,
+        "wk:page":"Spahovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3e063327b4ba4097233d2037950208d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209008353
+        }
+    ],
+    "wof:id":1209008353,
+    "wof:lastmodified":1537585670,
+    "wof:name":"Spahovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.84411,
+    43.67152,
+    18.84411,
+    43.67152
+],
+  "geometry": {"coordinates":[18.84411,43.67152],"type":"Point"}
+}

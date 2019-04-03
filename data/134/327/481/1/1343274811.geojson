@@ -1,0 +1,67 @@
+{
+  "id": 1343274811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4622,44.58899,17.4622,44.58899",
+    "geom:latitude":44.58899,
+    "geom:longitude":17.4622,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dabovci",
+    "gn:country_code":"BA",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3253173,
+    "gn:latitude":44.58899,
+    "gn:longitude":17.4622,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Dabovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253173
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8d54c23629c0136df79948b36426df3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1343274811,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343274811,
+    "wof:lastmodified":1537013423,
+    "wof:name":"Dabovci",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4622,
+    44.58899,
+    17.4622,
+    44.58899
+],
+  "geometry": {"coordinates":[17.4622,44.58899],"type":"Point"}
+}

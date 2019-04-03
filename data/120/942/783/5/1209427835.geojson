@@ -1,0 +1,65 @@
+{
+  "id": 1209427835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2079,45.07616,17.2079,45.07616",
+    "geom:latitude":45.07616,
+    "geom:longitude":17.2079,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kolona",
+    "gn:country_code":"BA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211969,
+    "gn:latitude":45.07616,
+    "gn:longitude":17.2079,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kolona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolonija Dubrava",
+        "Kolona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211969
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a03b6d3f83c042970973fbbdbaa4a5b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209427835
+        }
+    ],
+    "wof:id":1209427835,
+    "wof:lastmodified":1537585654,
+    "wof:name":"Kolona",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2079,
+    45.07616,
+    17.2079,
+    45.07616
+],
+  "geometry": {"coordinates":[17.2079,45.07616],"type":"Point"}
+}

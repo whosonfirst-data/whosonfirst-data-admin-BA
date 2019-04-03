@@ -1,0 +1,61 @@
+{
+  "id": 1209524345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07485,45.09506,18.07485,45.09506",
+    "geom:latitude":45.09506,
+    "geom:longitude":18.07485,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donje Lijesce",
+    "gn:country_code":"BA",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3295762,
+    "gn:latitude":45.09506,
+    "gn:longitude":18.07485,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donje Lije\u0161\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295762
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9a42ef78fa9af57c8e5630721faa062b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209524345
+        }
+    ],
+    "wof:id":1209524345,
+    "wof:lastmodified":1536284478,
+    "wof:name":"Donje Lijesce",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07485,
+    45.09506,
+    18.07485,
+    45.09506
+],
+  "geometry": {"coordinates":[18.07485,45.09506],"type":"Point"}
+}

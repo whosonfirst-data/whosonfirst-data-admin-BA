@@ -1,0 +1,71 @@
+{
+  "id": 1226145975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76256,43.36514,18.76256,43.36514",
+    "geom:latitude":43.36514,
+    "geom:longitude":18.76256,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Igoce",
+    "gn:country_code":"BA",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3298151,
+    "gn:latitude":43.36514,
+    "gn:longitude":18.76256,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Igo\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Igo\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298151,
+        "wk:page":"Igo%C4%8De"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"496a388f4f1b6cfd9e35fc74d59bb0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1226145975,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226145975,
+    "wof:lastmodified":1537585680,
+    "wof:name":"Igoce",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76256,
+    43.36514,
+    18.76256,
+    43.36514
+],
+  "geometry": {"coordinates":[18.76256,43.36514],"type":"Point"}
+}

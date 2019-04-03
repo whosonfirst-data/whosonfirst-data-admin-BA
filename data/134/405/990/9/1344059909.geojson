@@ -1,0 +1,67 @@
+{
+  "id": 1344059909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10227,44.82404,18.10227,44.82404",
+    "geom:latitude":44.82404,
+    "geom:longitude":18.10227,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Papricani",
+    "gn:country_code":"BA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210838,
+    "gn:latitude":44.82404,
+    "gn:longitude":18.10227,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Papri\u0107ani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210838
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"16bbf4d5d5fa9b9007121bb9878a606e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1344059909,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344059909,
+    "wof:lastmodified":1536875404,
+    "wof:name":"Papricani",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10227,
+    44.82404,
+    18.10227,
+    44.82404
+],
+  "geometry": {"coordinates":[18.10227,44.82404],"type":"Point"}
+}

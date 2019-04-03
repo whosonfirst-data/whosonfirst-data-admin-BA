@@ -1,0 +1,67 @@
+{
+  "id": 1293787193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25855,45.02969,17.25855,45.02969",
+    "geom:latitude":45.02969,
+    "geom:longitude":17.25855,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zabari",
+    "gn:country_code":"BA",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285017,
+    "gn:latitude":45.02969,
+    "gn:longitude":17.25855,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u017dabari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285017
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7a526bc96739b959fd55089067da4c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1293787193,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293787193,
+    "wof:lastmodified":1536850929,
+    "wof:name":"Zabari",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25855,
+    45.02969,
+    17.25855,
+    45.02969
+],
+  "geometry": {"coordinates":[17.25855,45.02969],"type":"Point"}
+}

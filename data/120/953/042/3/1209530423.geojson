@@ -1,0 +1,61 @@
+{
+  "id": 1209530423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4581,44.25815,18.4581,44.25815",
+    "geom:latitude":44.25815,
+    "geom:longitude":18.4581,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Selista",
+    "gn:country_code":"BA",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3242581,
+    "gn:latitude":44.25815,
+    "gn:longitude":18.4581,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Seli\u0161ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3242581
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b7b9b44c59e6e6a15567b63130565936",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209530423
+        }
+    ],
+    "wof:id":1209530423,
+    "wof:lastmodified":1536284298,
+    "wof:name":"Selista",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4581,
+    44.25815,
+    18.4581,
+    44.25815
+],
+  "geometry": {"coordinates":[18.4581,44.25815],"type":"Point"}
+}

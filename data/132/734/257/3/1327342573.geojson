@@ -1,0 +1,67 @@
+{
+  "id": 1327342573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10269,44.40113,17.10269,44.40113",
+    "geom:latitude":44.40113,
+    "geom:longitude":17.10269,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Previle",
+    "gn:country_code":"BA",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3236296,
+    "gn:latitude":44.40113,
+    "gn:longitude":17.10269,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Previle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3236296
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f08228934e1e96b96846e7b1af6ec66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1327342573,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327342573,
+    "wof:lastmodified":1536809984,
+    "wof:name":"Previle",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10269,
+    44.40113,
+    17.10269,
+    44.40113
+],
+  "geometry": {"coordinates":[17.10269,44.40113],"type":"Point"}
+}

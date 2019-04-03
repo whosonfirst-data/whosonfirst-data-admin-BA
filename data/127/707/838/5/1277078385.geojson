@@ -1,0 +1,67 @@
+{
+  "id": 1277078385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33535,44.75082,18.33535,44.75082",
+    "geom:latitude":44.75082,
+    "geom:longitude":18.33535,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Busiste",
+    "gn:country_code":"BA",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252519,
+    "gn:latitude":44.75082,
+    "gn:longitude":18.33535,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bu\u0161i\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252519
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a97eb4011c97035d9ee076575b52bb53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1277078385,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1277078385,
+    "wof:lastmodified":1536774508,
+    "wof:name":"Busiste",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33535,
+    44.75082,
+    18.33535,
+    44.75082
+],
+  "geometry": {"coordinates":[18.33535,44.75082],"type":"Point"}
+}

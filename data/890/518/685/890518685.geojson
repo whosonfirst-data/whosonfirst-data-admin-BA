@@ -1,0 +1,82 @@
+{
+  "id": 890518685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01728,45.14593,16.01728,45.14593",
+    "geom:latitude":45.14593,
+    "geom:longitude":16.01728,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":4922,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Zbori\u0161te"
+    ],
+    "name:eng_x_preferred":[
+        "Zbori\u0161te"
+    ],
+    "name:fre_x_preferred":[
+        "Zbori\u0161te"
+    ],
+    "name:hrv_x_preferred":[
+        "Zbori\u0161te"
+    ],
+    "qs:name":"Zbori\u0161te",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"45.0433",
+    "wd:longitude":"17.9939",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186679,
+        "qs:id":1043874,
+        "wd:id":"Q3513360",
+        "wk:page":"Zbori\u0161te"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056075,
+    "wof:geomhash":"efaf36554083800b3bbc82d61297aeb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":890518685,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890518685,
+    "wof:lastmodified":1527751236,
+    "wof:name":"Zbori\u0161te",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:population":4922,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01728,
+    45.14593,
+    16.01728,
+    45.14593
+],
+  "geometry": {"coordinates":[16.01728,45.14593],"type":"Point"}
+}

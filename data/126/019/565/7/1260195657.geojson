@@ -1,0 +1,67 @@
+{
+  "id": 1260195657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66821,45.02488,16.66821,45.02488",
+    "geom:latitude":45.02488,
+    "geom:longitude":16.66821,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kapela",
+    "gn:country_code":"BA",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282010,
+    "gn:latitude":45.02488,
+    "gn:longitude":16.66821,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kapela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282010
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"00834e57f8c4ee445b611e61d0bff8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1260195657,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260195657,
+    "wof:lastmodified":1536830176,
+    "wof:name":"Kapela",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66821,
+    45.02488,
+    16.66821,
+    45.02488
+],
+  "geometry": {"coordinates":[16.66821,45.02488],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327337549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33191,44.27311,16.33191,44.27311",
+    "geom:latitude":44.27311,
+    "geom:longitude":16.33191,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sabljici",
+    "gn:country_code":"BA",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260431,
+    "gn:latitude":44.27311,
+    "gn:longitude":16.33191,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sablji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260431
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f8024dea0c3df71d64ca8a4707b6b7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1327337549,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1327337549,
+    "wof:lastmodified":1536816929,
+    "wof:name":"Sabljici",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33191,
+    44.27311,
+    16.33191,
+    44.27311
+],
+  "geometry": {"coordinates":[16.33191,44.27311],"type":"Point"}
+}

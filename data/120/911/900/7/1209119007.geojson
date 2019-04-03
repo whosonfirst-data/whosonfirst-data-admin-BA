@@ -1,0 +1,61 @@
+{
+  "id": 1209119007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.12271,44.6066,19.12271,44.6066",
+    "geom:latitude":44.6066,
+    "geom:longitude":19.12271,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Delagici",
+    "gn:country_code":"BA",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254379,
+    "gn:latitude":44.6066,
+    "gn:longitude":19.12271,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Delagi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254379
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4c2d9eb71a04906ba383bca25bbf8d68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209119007
+        }
+    ],
+    "wof:id":1209119007,
+    "wof:lastmodified":1536297163,
+    "wof:name":"Delagici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.12271,
+    44.6066,
+    19.12271,
+    44.6066
+],
+  "geometry": {"coordinates":[19.12271,44.6066],"type":"Point"}
+}

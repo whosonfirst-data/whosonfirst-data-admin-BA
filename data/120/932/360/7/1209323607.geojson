@@ -1,0 +1,61 @@
+{
+  "id": 1209323607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6624,43.81966,18.6624,43.81966",
+    "geom:latitude":43.81966,
+    "geom:longitude":18.6624,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Balina Njiva",
+    "gn:country_code":"BA",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3274733,
+    "gn:latitude":43.81966,
+    "gn:longitude":18.6624,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Balina Njiva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3274733
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8f06bf640c7462cff2e4dcccec3d8b2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209323607
+        }
+    ],
+    "wof:id":1209323607,
+    "wof:lastmodified":1536290606,
+    "wof:name":"Balina Njiva",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6624,
+    43.81966,
+    18.6624,
+    43.81966
+],
+  "geometry": {"coordinates":[18.6624,43.81966],"type":"Point"}
+}

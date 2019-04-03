@@ -1,0 +1,67 @@
+{
+  "id": 1243185167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56467,45.00659,16.56467,45.00659",
+    "geom:latitude":45.00659,
+    "geom:longitude":16.56467,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dukanovici",
+    "gn:country_code":"BA",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281517,
+    "gn:latitude":45.00659,
+    "gn:longitude":16.56467,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u00d0ukanovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281517
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4067c64935cd4c3c2c118d083045a419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1243185167,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243185167,
+    "wof:lastmodified":1536685146,
+    "wof:name":"Dukanovici",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56467,
+    45.00659,
+    16.56467,
+    45.00659
+],
+  "geometry": {"coordinates":[16.56467,45.00659],"type":"Point"}
+}

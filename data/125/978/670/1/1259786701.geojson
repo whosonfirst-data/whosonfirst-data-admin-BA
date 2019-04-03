@@ -1,0 +1,67 @@
+{
+  "id": 1259786701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21548,43.67974,19.21548,43.67974",
+    "geom:latitude":43.67974,
+    "geom:longitude":19.21548,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Strgacina",
+    "gn:country_code":"BA",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3189732,
+    "gn:latitude":43.67974,
+    "gn:longitude":19.21548,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Strga\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189732
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3780b136449ead17644182ba7a990b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759217,
+            "locality_id":1259786701,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259786701,
+    "wof:lastmodified":1536919099,
+    "wof:name":"Strgacina",
+    "wof:parent_id":1108759217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21548,
+    43.67974,
+    19.21548,
+    43.67974
+],
+  "geometry": {"coordinates":[19.21548,43.67974],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226750969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10336,43.89907,19.10336,43.89907",
+    "geom:latitude":43.89907,
+    "geom:longitude":19.10336,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vranjak",
+    "gn:country_code":"BA",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268378,
+    "gn:latitude":43.89907,
+    "gn:longitude":19.10336,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vranjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268378
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d4d15f4d0d9de4d854d97942b94dfe83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1226750969,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226750969,
+    "wof:lastmodified":1536708270,
+    "wof:name":"Vranjak",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10336,
+    43.89907,
+    19.10336,
+    43.89907
+],
+  "geometry": {"coordinates":[19.10336,43.89907],"type":"Point"}
+}

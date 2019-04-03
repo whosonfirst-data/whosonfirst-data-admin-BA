@@ -1,0 +1,67 @@
+{
+  "id": 1276781457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.55067,43.69966,17.55067,43.69966",
+    "geom:latitude":43.69966,
+    "geom:longitude":17.55067,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornje Dragajice",
+    "gn:country_code":"BA",
+    "gn:dem":1467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292404,
+    "gn:latitude":43.69966,
+    "gn:longitude":17.55067,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornje Dragajice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292404
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4ba60daed0bd815897f6ae266c387f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759111,
+            "locality_id":1276781457,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1276781457,
+    "wof:lastmodified":1536675456,
+    "wof:name":"Gornje Dragajice",
+    "wof:parent_id":1108759111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55067,
+    43.69966,
+    17.55067,
+    43.69966
+],
+  "geometry": {"coordinates":[17.55067,43.69966],"type":"Point"}
+}

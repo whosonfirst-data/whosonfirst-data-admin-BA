@@ -1,0 +1,71 @@
+{
+  "id": 1193150681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87591,43.77182,17.87591,43.77182",
+    "geom:latitude":43.77182,
+    "geom:longitude":17.87591,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Raotici",
+    "gn:country_code":"BA",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288998,
+    "gn:latitude":43.77182,
+    "gn:longitude":17.87591,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Raoti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raoti\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288998,
+        "wk:page":"Raoti%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4bd53a88d06c64903b84edef1978be4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1193150681,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1193150681,
+    "wof:lastmodified":1537585675,
+    "wof:name":"Raotici",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87591,
+    43.77182,
+    17.87591,
+    43.77182
+],
+  "geometry": {"coordinates":[17.87591,43.77182],"type":"Point"}
+}

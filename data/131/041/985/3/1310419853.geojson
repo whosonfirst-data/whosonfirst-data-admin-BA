@@ -1,0 +1,67 @@
+{
+  "id": 1310419853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72194,43.02944,17.72194,43.02944",
+    "geom:latitude":43.02944,
+    "geom:longitude":17.72194,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Glusca",
+    "gn:country_code":"BA",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261387,
+    "gn:latitude":43.02944,
+    "gn:longitude":17.72194,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Glu\u0161ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261387
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ab9cd90e38796ed4032a4d9c2ff7d92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759037,
+            "locality_id":1310419853,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1310419853,
+    "wof:lastmodified":1537038822,
+    "wof:name":"Glusca",
+    "wof:parent_id":1108759037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72194,
+    43.02944,
+    17.72194,
+    43.02944
+],
+  "geometry": {"coordinates":[17.72194,43.02944],"type":"Point"}
+}

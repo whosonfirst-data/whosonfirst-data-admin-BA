@@ -1,0 +1,67 @@
+{
+  "id": 1293689967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.37694,43.80389,19.37694,43.80389",
+    "geom:latitude":43.80389,
+    "geom:longitude":19.37694,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sijakovici",
+    "gn:country_code":"BA",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299377,
+    "gn:latitude":43.80389,
+    "gn:longitude":19.37694,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"\u0160ijakovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299377
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8e7eba74607d1ee2af413dc498e5cba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1293689967,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293689967,
+    "wof:lastmodified":1536991591,
+    "wof:name":"Sijakovici",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.37694,
+    43.80389,
+    19.37694,
+    43.80389
+],
+  "geometry": {"coordinates":[19.37694,43.80389],"type":"Point"}
+}

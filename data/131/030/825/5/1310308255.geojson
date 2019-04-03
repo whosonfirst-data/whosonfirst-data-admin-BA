@@ -1,0 +1,67 @@
+{
+  "id": 1310308255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96861,44.62279,18.96861,44.62279",
+    "geom:latitude":44.62279,
+    "geom:longitude":18.96861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mumbasici",
+    "gn:country_code":"BA",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254300,
+    "gn:latitude":44.62279,
+    "gn:longitude":18.96861,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mumba\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254300
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0db2bc94deddeb352164801a24559bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759273,
+            "locality_id":1310308255,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310308255,
+    "wof:lastmodified":1536704189,
+    "wof:name":"Mumbasici",
+    "wof:parent_id":1108759273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96861,
+    44.62279,
+    18.96861,
+    44.62279
+],
+  "geometry": {"coordinates":[18.96861,44.62279],"type":"Point"}
+}

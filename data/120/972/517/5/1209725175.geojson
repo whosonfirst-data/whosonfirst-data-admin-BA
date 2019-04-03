@@ -1,0 +1,67 @@
+{
+  "id": 1209725175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99242,44.48296,18.99242,44.48296",
+    "geom:latitude":44.48296,
+    "geom:longitude":18.99242,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kobilici",
+    "gn:country_code":"BA",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273708,
+    "gn:latitude":44.48296,
+    "gn:longitude":18.99242,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kobili\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273708
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e12da61576ef6a6d1e6e044ee2cce284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759303,
+            "locality_id":1209725175,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209725175,
+    "wof:lastmodified":1536384448,
+    "wof:name":"Kobilici",
+    "wof:parent_id":1108759303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99242000000001,
+    44.48296,
+    18.99242000000001,
+    44.48296
+],
+  "geometry": {"coordinates":[18.99242000000001,44.48296],"type":"Point"}
+}

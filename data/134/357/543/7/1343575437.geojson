@@ -1,0 +1,68 @@
+{
+  "id": 1343575437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39154,44.05589,18.39154,44.05589",
+    "geom:latitude":44.05589,
+    "geom:longitude":18.39154,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zakutnica",
+    "gn:country_code":"BA",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186847,
+    "gn:latitude":44.05589,
+    "gn:longitude":18.39154,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zakutnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186847,
+        "wk:page":"Zakutnica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"aeb612600245f380d5d16a615f29b6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759109,
+            "locality_id":1343575437,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1343575437,
+    "wof:lastmodified":1537486707,
+    "wof:name":"Zakutnica",
+    "wof:parent_id":1108759109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39154,
+    44.05589000000001,
+    18.39154,
+    44.05589000000001
+],
+  "geometry": {"coordinates":[18.39154,44.05589000000001],"type":"Point"}
+}

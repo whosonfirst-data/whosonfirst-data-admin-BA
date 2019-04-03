@@ -1,0 +1,67 @@
+{
+  "id": 1193020017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82944,45.08222,15.82944,45.08222",
+    "geom:latitude":45.08222,
+    "geom:longitude":15.82944,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ponorcic",
+    "gn:country_code":"BA",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210371,
+    "gn:latitude":45.08222,
+    "gn:longitude":15.82944,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Ponor\u010dic",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210371
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d9783cd6af632fcceeb89015941e4e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1193020017,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1193020017,
+    "wof:lastmodified":1536374247,
+    "wof:name":"Ponorcic",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82944,
+    45.08222,
+    15.82944,
+    45.08222
+],
+  "geometry": {"coordinates":[15.82944,45.08222],"type":"Point"}
+}

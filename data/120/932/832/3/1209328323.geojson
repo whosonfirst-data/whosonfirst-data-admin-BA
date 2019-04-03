@@ -1,0 +1,61 @@
+{
+  "id": 1209328323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.50111,43.37528,17.50111,43.37528",
+    "geom:latitude":43.37528,
+    "geom:longitude":17.50111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Colaci",
+    "gn:country_code":"BA",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288174,
+    "gn:latitude":43.37528,
+    "gn:longitude":17.50111,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"\u010colaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288174
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e09672058f9c1923cd6324a094b0e506",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209328323
+        }
+    ],
+    "wof:id":1209328323,
+    "wof:lastmodified":1536290456,
+    "wof:name":"Colaci",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.50111,
+    43.37528,
+    17.50111,
+    43.37528
+],
+  "geometry": {"coordinates":[17.50111,43.37528],"type":"Point"}
+}

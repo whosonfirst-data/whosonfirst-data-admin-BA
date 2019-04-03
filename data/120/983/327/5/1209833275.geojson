@@ -1,0 +1,68 @@
+{
+  "id": 1209833275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52888,44.01656,17.52888,44.01656",
+    "geom:latitude":44.01656,
+    "geom:longitude":17.52888,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pavice",
+    "gn:country_code":"BA",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193582,
+    "gn:latitude":44.01656,
+    "gn:longitude":17.52888,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pavice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193582,
+        "wk:page":"Pavice"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"65a79f617eaea486097171ba18b76d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759029,
+            "locality_id":1209833275,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1209833275,
+    "wof:lastmodified":1537486740,
+    "wof:name":"Pavice",
+    "wof:parent_id":1108759029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52887999999999,
+    44.01656,
+    17.52887999999999,
+    44.01656
+],
+  "geometry": {"coordinates":[17.52887999999999,44.01656],"type":"Point"}
+}

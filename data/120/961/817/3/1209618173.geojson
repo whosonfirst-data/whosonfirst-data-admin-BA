@@ -1,0 +1,61 @@
+{
+  "id": 1209618173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71278,45.0347,16.71278,45.0347",
+    "geom:latitude":45.0347,
+    "geom:longitude":16.71278,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Romici",
+    "gn:country_code":"BA",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282138,
+    "gn:latitude":45.0347,
+    "gn:longitude":16.71278,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Romi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282138
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"45aa19b5ae67ecf7c5f80d99cb504c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209618173
+        }
+    ],
+    "wof:id":1209618173,
+    "wof:lastmodified":1536281614,
+    "wof:name":"Romici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71278,
+    45.0347,
+    16.71278,
+    45.0347
+],
+  "geometry": {"coordinates":[16.71278,45.0347],"type":"Point"}
+}

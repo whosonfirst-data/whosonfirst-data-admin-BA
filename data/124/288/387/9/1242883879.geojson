@@ -1,0 +1,71 @@
+{
+  "id": 1242883879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06357,44.66152,16.06357,44.66152",
+    "geom:latitude":44.66152,
+    "geom:longitude":16.06357,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cukovi",
+    "gn:country_code":"BA",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202293,
+    "gn:latitude":44.66152,
+    "gn:longitude":16.06357,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u0106ukovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0106ukovi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202293,
+        "wk:page":"%C4%86ukovi"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dacd0ecc286c72fe4d21800332e10af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1242883879,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1242883879,
+    "wof:lastmodified":1537585616,
+    "wof:name":"Cukovi",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06357,
+    44.66152,
+    16.06357,
+    44.66152
+],
+  "geometry": {"coordinates":[16.06357,44.66152],"type":"Point"}
+}

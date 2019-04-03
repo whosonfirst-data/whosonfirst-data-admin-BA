@@ -1,0 +1,67 @@
+{
+  "id": 1360197421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24889,44.68933,19.24889,44.68933",
+    "geom:latitude":44.68933,
+    "geom:longitude":19.24889,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Glavicor",
+    "gn:country_code":"BA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211547,
+    "gn:latitude":44.68933,
+    "gn:longitude":19.24889,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Glavi\u010dor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211547
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"33c902e3f1651556212badac6fdbb753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1360197421,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360197421,
+    "wof:lastmodified":1536784015,
+    "wof:name":"Glavicor",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24889,
+    44.68933,
+    19.24889,
+    44.68933
+],
+  "geometry": {"coordinates":[19.24889,44.68933],"type":"Point"}
+}

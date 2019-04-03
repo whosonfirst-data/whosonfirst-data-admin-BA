@@ -1,0 +1,67 @@
+{
+  "id": 1343970843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35278,42.95917,18.35278,42.95917",
+    "geom:latitude":42.95917,
+    "geom:longitude":18.35278,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lukovica",
+    "gn:country_code":"BA",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291669,
+    "gn:latitude":42.95917,
+    "gn:longitude":18.35278,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Lukovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291669
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b4d633804bbf855ea84ae8458447b546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758997,
+            "locality_id":1343970843,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343970843,
+    "wof:lastmodified":1537004196,
+    "wof:name":"Lukovica",
+    "wof:parent_id":1108758997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35278,
+    42.95917,
+    18.35278,
+    42.95917
+],
+  "geometry": {"coordinates":[18.35278,42.95917],"type":"Point"}
+}

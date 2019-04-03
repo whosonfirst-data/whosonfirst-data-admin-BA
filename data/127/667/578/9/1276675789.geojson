@@ -1,0 +1,67 @@
+{
+  "id": 1276675789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10216,43.90068,18.10216,43.90068",
+    "geom:latitude":43.90068,
+    "geom:longitude":18.10216,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bukva",
+    "gn:country_code":"BA",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203014,
+    "gn:latitude":43.90068,
+    "gn:longitude":18.10216,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bukva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203014
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9e8e11e22ef26809a8da54bf13373be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759143,
+            "locality_id":1276675789,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1276675789,
+    "wof:lastmodified":1536816070,
+    "wof:name":"Bukva",
+    "wof:parent_id":1108759143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10216,
+    43.90068,
+    18.10216,
+    43.90068
+],
+  "geometry": {"coordinates":[18.10216,43.90068],"type":"Point"}
+}

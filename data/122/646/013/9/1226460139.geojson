@@ -1,0 +1,72 @@
+{
+  "id": 1226460139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.92361,44.03104,17.92361,44.03104",
+    "geom:latitude":44.03104,
+    "geom:longitude":17.92361,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Podstijena",
+    "gn:country_code":"BA",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192912,
+    "gn:latitude":44.03104,
+    "gn:longitude":17.92361,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Podstijena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bio\u010di\u0107i",
+        "Podstijena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192912,
+        "wk:page":"Podstijena"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f596a3ed2b3ed037ebf576684aa51a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1226460139,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1226460139,
+    "wof:lastmodified":1537585572,
+    "wof:name":"Podstijena",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.92361,
+    44.03104,
+    17.92361,
+    44.03104
+],
+  "geometry": {"coordinates":[17.92361,44.03104],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259386675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61573,44.45105,18.61573,44.45105",
+    "geom:latitude":44.45105,
+    "geom:longitude":18.61573,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donje Zivinice",
+    "gn:country_code":"BA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201514,
+    "gn:latitude":44.45105,
+    "gn:longitude":18.61573,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donje \u017divinice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017divince Donje",
+        "Katoli\u010dke \u017divinice",
+        "Donje \u017divinice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201514
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6c82fe59fbc6d83b00b9cd883e99a265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":1259386675,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1259386675,
+    "wof:lastmodified":1537585611,
+    "wof:name":"Donje Zivinice",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61573,
+    44.45105,
+    18.61573,
+    44.45105
+],
+  "geometry": {"coordinates":[18.61573,44.45105],"type":"Point"}
+}

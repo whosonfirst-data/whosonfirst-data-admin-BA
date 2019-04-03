@@ -1,0 +1,81 @@
+{
+  "id": 890518849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.02028,44.66361,19.02028,44.66361",
+    "geom:latitude":44.66361,
+    "geom:longitude":19.02028,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3452,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Uglevikas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0433\u0459\u0435\u0432\u0438\u043a"
+    ],
+    "qs:name":"Ugljevik",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":2425,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188532,
+        "gp:id":944357,
+        "qs:id":147095,
+        "wd:id":"Q1027516",
+        "wk:page":"Ugljevik"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056082,
+    "wof:geomhash":"cc8cc0913117930d2bca7b2ddaf3f160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759273,
+            "locality_id":890518849,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518849,
+    "wof:lastmodified":1527751236,
+    "wof:name":"Ugljevik",
+    "wof:parent_id":1108759273,
+    "wof:placetype":"locality",
+    "wof:population":3452,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.02028,
+    44.66361,
+    19.02028,
+    44.66361
+],
+  "geometry": {"coordinates":[19.02028,44.66361],"type":"Point"}
+}

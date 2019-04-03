@@ -1,0 +1,67 @@
+{
+  "id": 1209917381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64121,43.99322,18.64121,43.99322",
+    "geom:latitude":43.99322,
+    "geom:longitude":18.64121,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pustahija",
+    "gn:country_code":"BA",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275780,
+    "gn:latitude":43.99322,
+    "gn:longitude":18.64121,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pustahija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275780
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"255f12b903ea1bc6aa2e94ec5ebfbd1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1209917381,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209917381,
+    "wof:lastmodified":1536372245,
+    "wof:name":"Pustahija",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64121,
+    43.99322,
+    18.64121,
+    43.99322
+],
+  "geometry": {"coordinates":[18.64121,43.99322],"type":"Point"}
+}

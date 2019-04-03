@@ -1,0 +1,71 @@
+{
+  "id": 1259501277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09549,43.79491,18.09549,43.79491",
+    "geom:latitude":43.79491,
+    "geom:longitude":18.09549,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tarcin",
+    "gn:country_code":"BA",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189201,
+    "gn:latitude":43.79491,
+    "gn:longitude":18.09549,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tar\u010din",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tar\u010din"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189201,
+        "wk:page":"Tar%C4%8Din"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"232bec34f51d3e8e34ba0fe683701de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1259501277,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1259501277,
+    "wof:lastmodified":1537585558,
+    "wof:name":"Tarcin",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09549,
+    43.79491,
+    18.09549,
+    43.79491
+],
+  "geometry": {"coordinates":[18.09549,43.79491],"type":"Point"}
+}

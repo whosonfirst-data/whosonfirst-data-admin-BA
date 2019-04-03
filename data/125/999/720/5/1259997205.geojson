@@ -1,0 +1,67 @@
+{
+  "id": 1259997205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56661,44.50201,18.56661,44.50201",
+    "geom:latitude":44.50201,
+    "geom:longitude":18.56661,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Poljana",
+    "gn:country_code":"BA",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263307,
+    "gn:latitude":44.50201,
+    "gn:longitude":18.56661,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donja Poljana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263307
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"afc34fbc25c6b9c800eab70a17446ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1259997205,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1259997205,
+    "wof:lastmodified":1536612909,
+    "wof:name":"Donja Poljana",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56661,
+    44.50201,
+    18.56661,
+    44.50201
+],
+  "geometry": {"coordinates":[18.56661,44.50201],"type":"Point"}
+}

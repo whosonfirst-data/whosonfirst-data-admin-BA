@@ -1,0 +1,67 @@
+{
+  "id": 1309716269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35417,43.72472,18.35417,43.72472",
+    "geom:latitude":43.72472,
+    "geom:longitude":18.35417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bunovci",
+    "gn:country_code":"BA",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267979,
+    "gn:latitude":43.72472,
+    "gn:longitude":18.35417,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Bunovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267979
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4100cf6b35f2a5f64ceedccfd91b4ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1309716269,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1309716269,
+    "wof:lastmodified":1537057622,
+    "wof:name":"Bunovci",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35417,
+    43.72472,
+    18.35417,
+    43.72472
+],
+  "geometry": {"coordinates":[18.35417,43.72472],"type":"Point"}
+}

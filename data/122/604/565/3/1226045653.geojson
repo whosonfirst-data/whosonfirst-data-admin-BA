@@ -1,0 +1,67 @@
+{
+  "id": 1226045653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83726,44.73991,17.83726,44.73991",
+    "geom:latitude":44.73991,
+    "geom:longitude":17.83726,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornji Zelenkovici",
+    "gn:country_code":"BA",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251235,
+    "gn:latitude":44.73991,
+    "gn:longitude":17.83726,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornji \u017delenkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251235
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6ae1f2f85605e7df489bd6c33f22d654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1226045653,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226045653,
+    "wof:lastmodified":1536725653,
+    "wof:name":"Gornji Zelenkovici",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83726,
+    44.73991,
+    17.83726,
+    44.73991
+],
+  "geometry": {"coordinates":[17.83726,44.73991],"type":"Point"}
+}

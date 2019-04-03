@@ -1,0 +1,67 @@
+{
+  "id": 1309715355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.58335,45.06745,16.58335,45.06745",
+    "geom:latitude":45.06745,
+    "geom:longitude":16.58335,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zgonjani",
+    "gn:country_code":"BA",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282600,
+    "gn:latitude":45.06745,
+    "gn:longitude":16.58335,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zgonjani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282600
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a0ff34cc58f8bdb087ba91d817149a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1309715355,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309715355,
+    "wof:lastmodified":1537058925,
+    "wof:name":"Zgonjani",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58335,
+    45.06745,
+    16.58335,
+    45.06745
+],
+  "geometry": {"coordinates":[16.58335,45.06745],"type":"Point"}
+}

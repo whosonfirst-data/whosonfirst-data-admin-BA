@@ -1,0 +1,67 @@
+{
+  "id": 1343674595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3577,44.58701,17.3577,44.58701",
+    "geom:latitude":44.58701,
+    "geom:longitude":17.3577,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sokoline",
+    "gn:country_code":"BA",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190376,
+    "gn:latitude":44.58701,
+    "gn:longitude":17.3577,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Sokoline",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190376
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"69e5115bf2866d04c91deb14346a38eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1343674595,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343674595,
+    "wof:lastmodified":1536935364,
+    "wof:name":"Sokoline",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3577,
+    44.58701,
+    17.3577,
+    44.58701
+],
+  "geometry": {"coordinates":[17.3577,44.58701],"type":"Point"}
+}

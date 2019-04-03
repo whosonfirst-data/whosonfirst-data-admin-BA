@@ -1,0 +1,72 @@
+{
+  "id": 1326533933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80943,43.12104,17.80943,43.12104",
+    "geom:latitude":43.12104,
+    "geom:longitude":17.80943,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oplicici",
+    "gn:country_code":"BA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194087,
+    "gn:latitude":43.12104,
+    "gn:longitude":17.80943,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Opli\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Opli\u010di\u0107",
+        "Opli\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194087,
+        "wk:page":"Opli%C4%8Di%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"af6bfb600754b1723ba7867ae3ba7b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759037,
+            "locality_id":1326533933,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1326533933,
+    "wof:lastmodified":1537585577,
+    "wof:name":"Oplicici",
+    "wof:parent_id":1108759037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80943,
+    43.12104,
+    17.80943,
+    43.12104
+],
+  "geometry": {"coordinates":[17.80943,43.12104],"type":"Point"}
+}

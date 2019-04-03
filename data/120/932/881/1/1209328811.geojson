@@ -1,0 +1,62 @@
+{
+  "id": 1209328811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38862,44.55619,18.38862,44.55619",
+    "geom:latitude":44.55619,
+    "geom:longitude":18.38862,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Komari",
+    "gn:country_code":"BA",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3211035,
+    "gn:latitude":44.55619,
+    "gn:longitude":18.38862,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Komari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211035,
+        "wk:page":"Komari_%28Lukavac%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1f4a6befa7ba4df990ae71e11f39fe7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209328811
+        }
+    ],
+    "wof:id":1209328811,
+    "wof:lastmodified":1537486812,
+    "wof:name":"Komari",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38862,
+    44.55619,
+    18.38862,
+    44.55619
+],
+  "geometry": {"coordinates":[18.38862,44.55619],"type":"Point"}
+}

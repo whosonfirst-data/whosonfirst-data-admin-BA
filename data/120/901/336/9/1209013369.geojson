@@ -1,0 +1,61 @@
+{
+  "id": 1209013369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96849,43.34371,18.96849,43.34371",
+    "geom:latitude":43.34371,
+    "geom:longitude":18.96849,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Unista",
+    "gn:country_code":"BA",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295872,
+    "gn:latitude":43.34371,
+    "gn:longitude":18.96849,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Uni\u0161ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295872
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"21c4ef1cfb80da1644a8ff177bebff68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209013369
+        }
+    ],
+    "wof:id":1209013369,
+    "wof:lastmodified":1536300374,
+    "wof:name":"Unista",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96849,
+    43.34371,
+    18.96849,
+    43.34371
+],
+  "geometry": {"coordinates":[18.96849,43.34371],"type":"Point"}
+}

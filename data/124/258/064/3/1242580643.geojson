@@ -1,0 +1,67 @@
+{
+  "id": 1242580643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56861,44.97,16.56861,44.97",
+    "geom:latitude":44.97,
+    "geom:longitude":16.56861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Brisevci",
+    "gn:country_code":"BA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3245649,
+    "gn:latitude":44.97,
+    "gn:longitude":16.56861,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Bri\u0161evci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3245649
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8ae0ce7f582c55d6d60b3833c17eadac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1242580643,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242580643,
+    "wof:lastmodified":1537056754,
+    "wof:name":"Brisevci",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56861,
+    44.97,
+    16.56861,
+    44.97
+],
+  "geometry": {"coordinates":[16.56861,44.97],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293003793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56066,44.79215,17.56066,44.79215",
+    "geom:latitude":44.79215,
+    "geom:longitude":17.56066,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Reljevac",
+    "gn:country_code":"BA",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254351,
+    "gn:latitude":44.79215,
+    "gn:longitude":17.56066,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Reljevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254351
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6013712c9315cf542441cda03260b23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759045,
+            "locality_id":1293003793,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293003793,
+    "wof:lastmodified":1536986496,
+    "wof:name":"Reljevac",
+    "wof:parent_id":1108759045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56066,
+    44.79215,
+    17.56066,
+    44.79215
+],
+  "geometry": {"coordinates":[17.56066,44.79215],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292917627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35239,43.37666,17.35239,43.37666",
+    "geom:latitude":43.37666,
+    "geom:longitude":17.35239,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Blazevici",
+    "gn:country_code":"BA",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283773,
+    "gn:latitude":43.37666,
+    "gn:longitude":17.35239,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Bla\u017eevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bla\u017eevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283773,
+        "wk:page":"Bla%C5%BEevi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"062e8915e2068fcdef14d53d4541256d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1292917627,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1292917627,
+    "wof:lastmodified":1537585674,
+    "wof:name":"Blazevici",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35239,
+    43.37666,
+    17.35239,
+    43.37666
+],
+  "geometry": {"coordinates":[17.35239,43.37666],"type":"Point"}
+}

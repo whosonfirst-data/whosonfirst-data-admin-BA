@@ -1,0 +1,67 @@
+{
+  "id": 1276456251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97688,44.87063,17.97688,44.87063",
+    "geom:latitude":44.87063,
+    "geom:longitude":17.97688,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rasici",
+    "gn:country_code":"BA",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252857,
+    "gn:latitude":44.87063,
+    "gn:longitude":17.97688,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ra\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252857
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dc97430680e271b873ee4fc370423b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1276456251,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276456251,
+    "wof:lastmodified":1536611404,
+    "wof:name":"Rasici",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97687999999999,
+    44.87063,
+    17.97687999999999,
+    44.87063
+],
+  "geometry": {"coordinates":[17.97687999999999,44.87063],"type":"Point"}
+}

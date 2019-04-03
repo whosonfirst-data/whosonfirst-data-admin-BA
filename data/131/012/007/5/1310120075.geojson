@@ -1,0 +1,67 @@
+{
+  "id": 1310120075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29444,44.40977,18.29444,44.40977",
+    "geom:latitude":44.40977,
+    "geom:longitude":18.29444,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Stog",
+    "gn:country_code":"BA",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211205,
+    "gn:latitude":44.40977,
+    "gn:longitude":18.29444,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Stog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211205
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"915353348de4ae54ac7be7dee4c7a7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1310120075,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1310120075,
+    "wof:lastmodified":1536974885,
+    "wof:name":"Stog",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29444,
+    44.40977,
+    18.29444,
+    44.40977
+],
+  "geometry": {"coordinates":[18.29444,44.40977],"type":"Point"}
+}

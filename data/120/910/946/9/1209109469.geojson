@@ -1,0 +1,66 @@
+{
+  "id": 1209109469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10415,43.83229,19.10415,43.83229",
+    "geom:latitude":43.83229,
+    "geom:longitude":19.10415,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beci",
+    "gn:country_code":"BA",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204359,
+    "gn:latitude":43.83229,
+    "gn:longitude":19.10415,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Be\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Behe\u0107i",
+        "Be\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204359,
+        "wk:page":"Be%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"377fe103be320b948392bdb4a18ab5a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209109469
+        }
+    ],
+    "wof:id":1209109469,
+    "wof:lastmodified":1537585628,
+    "wof:name":"Beci",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10415,
+    43.83229,
+    19.10415,
+    43.83229
+],
+  "geometry": {"coordinates":[19.10415,43.83229],"type":"Point"}
+}

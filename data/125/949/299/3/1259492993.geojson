@@ -1,0 +1,67 @@
+{
+  "id": 1259492993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21991,44.47351,18.21991,44.47351",
+    "geom:latitude":44.47351,
+    "geom:longitude":18.21991,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mali Junuzovici",
+    "gn:country_code":"BA",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257832,
+    "gn:latitude":44.47351,
+    "gn:longitude":18.21991,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mali Junuzovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257832
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0d1143583c07ce4cd52a1c284c4f09e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1259492993,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259492993,
+    "wof:lastmodified":1536843963,
+    "wof:name":"Mali Junuzovici",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21991,
+    44.47351,
+    18.21991,
+    44.47351
+],
+  "geometry": {"coordinates":[18.21991,44.47351],"type":"Point"}
+}

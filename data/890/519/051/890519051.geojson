@@ -1,0 +1,95 @@
+{
+  "id": 890519051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78523,44.50133,18.78523,44.50133",
+    "geom:latitude":44.50133,
+    "geom:longitude":18.78523,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":6587,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bos_x_preferred":[
+        "Toj\u0161i\u0107i"
+    ],
+    "name:dut_x_preferred":[
+        "Toj\u0161i\u0107i"
+    ],
+    "name:eng_x_preferred":[
+        "Toj\u0161i\u0107i"
+    ],
+    "name:fre_x_preferred":[
+        "Toj\u0161i\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Toj\u0161i\u0107i"
+    ],
+    "name:swe_x_preferred":[
+        "Toj\u0161i\u0107i"
+    ],
+    "qs:name":"Toj\u0161i\u0107i",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189046,
+        "gp:id":944239,
+        "qs:id":1283583,
+        "wd:id":"Q3122331",
+        "wk:page":"Toj\u0161i\u0107i"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056090,
+    "wof:geomhash":"1bf282407ae8584b428f490c637df9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759121,
+            "locality_id":890519051,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890519051,
+    "wof:lastmodified":1534379234,
+    "wof:name":"Toj\u0161i\u0107i",
+    "wof:parent_id":1108759121,
+    "wof:placetype":"locality",
+    "wof:population":6587,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[
+        890519129
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78523,
+    44.50133,
+    18.78523,
+    44.50133
+],
+  "geometry": {"coordinates":[18.78523,44.50133],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327445517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57667,43.94444,17.57667,43.94444",
+    "geom:latitude":43.94444,
+    "geom:longitude":17.57667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Batusa",
+    "gn:country_code":"BA",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204396,
+    "gn:latitude":43.94444,
+    "gn:longitude":17.57667,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Batu\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batu\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204396,
+        "wk:page":"Batu%C5%A1a"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"65eaa28e6555e9d629dbc105de1bb7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":1327445517,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1327445517,
+    "wof:lastmodified":1537585628,
+    "wof:name":"Batusa",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57667,
+    43.94444,
+    17.57667,
+    43.94444
+],
+  "geometry": {"coordinates":[17.57667,43.94444],"type":"Point"}
+}

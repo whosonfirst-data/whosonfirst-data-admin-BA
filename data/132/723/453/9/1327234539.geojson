@@ -1,0 +1,70 @@
+{
+  "id": 1327234539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49275,44.40923,17.49275,44.40923",
+    "geom:latitude":44.40923,
+    "geom:longitude":17.49275,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Razici",
+    "gn:country_code":"BA",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3234882,
+    "gn:latitude":44.40923,
+    "gn:longitude":17.49275,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ra\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u017ei\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3234882
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"221a6a8ce7cbc7916bff9c99beb1d0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759233,
+            "locality_id":1327234539,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327234539,
+    "wof:lastmodified":1537585659,
+    "wof:name":"Razici",
+    "wof:parent_id":1108759233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49275,
+    44.40923,
+    17.49275,
+    44.40923
+],
+  "geometry": {"coordinates":[17.49275,44.40923],"type":"Point"}
+}

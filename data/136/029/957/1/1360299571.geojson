@@ -1,0 +1,71 @@
+{
+  "id": 1360299571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48356,44.43373,18.48356,44.43373",
+    "geom:latitude":44.43373,
+    "geom:longitude":18.48356,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tulovici",
+    "gn:country_code":"BA",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188652,
+    "gn:latitude":44.43373,
+    "gn:longitude":18.48356,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tulovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tulovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108758991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188652,
+        "wk:page":"Tulovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5c938f06faf3a8e175b77650fa6fc3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758991,
+            "locality_id":1360299571,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1360299571,
+    "wof:lastmodified":1537585556,
+    "wof:name":"Tulovici",
+    "wof:parent_id":1108758991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48356,
+    44.43373,
+    18.48356,
+    44.43373
+],
+  "geometry": {"coordinates":[18.48356,44.43373],"type":"Point"}
+}

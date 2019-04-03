@@ -1,0 +1,67 @@
+{
+  "id": 1260089203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11711,43.67751,19.11711,43.67751",
+    "geom:latitude":43.67751,
+    "geom:longitude":19.11711,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vina",
+    "gn:country_code":"BA",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3270646,
+    "gn:latitude":43.67751,
+    "gn:longitude":19.11711,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270646
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"98f22cab54811ee0543619a7a767db72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759085,
+            "locality_id":1260089203,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260089203,
+    "wof:lastmodified":1536979053,
+    "wof:name":"Vina",
+    "wof:parent_id":1108759085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11711,
+    43.67751,
+    19.11711,
+    43.67751
+],
+  "geometry": {"coordinates":[19.11711,43.67751],"type":"Point"}
+}

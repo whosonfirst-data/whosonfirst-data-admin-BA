@@ -1,0 +1,67 @@
+{
+  "id": 1310119943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53167,43.40639,17.53167,43.40639",
+    "geom:latitude":43.40639,
+    "geom:longitude":17.53167,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sakote",
+    "gn:country_code":"BA",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290487,
+    "gn:latitude":43.40639,
+    "gn:longitude":17.53167,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"\u0160akote",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290487
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6512344b813cf5b725cfd6f95b94b3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759231,
+            "locality_id":1310119943,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1310119943,
+    "wof:lastmodified":1536975070,
+    "wof:name":"Sakote",
+    "wof:parent_id":1108759231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53167,
+    43.40639,
+    17.53167,
+    43.40639
+],
+  "geometry": {"coordinates":[17.53167,43.40639],"type":"Point"}
+}

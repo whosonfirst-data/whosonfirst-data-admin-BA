@@ -1,0 +1,68 @@
+{
+  "id": 1344171115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16904,43.84107,18.16904,43.84107",
+    "geom:latitude":43.84107,
+    "geom:longitude":18.16904,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Drozgometva",
+    "gn:country_code":"BA",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201153,
+    "gn:latitude":43.84107,
+    "gn:longitude":18.16904,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Drozgometva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201153,
+        "wk:page":"Drozgometva"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7b9698046e72489093de8ace162998db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1344171115,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1344171115,
+    "wof:lastmodified":1537486778,
+    "wof:name":"Drozgometva",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16904,
+    43.84107,
+    18.16904,
+    43.84107
+],
+  "geometry": {"coordinates":[18.16904,43.84107],"type":"Point"}
+}

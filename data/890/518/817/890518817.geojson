@@ -1,0 +1,68 @@
+{
+  "id": 890518817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11882,44.44131,18.11882,44.44131",
+    "geom:latitude":44.44131,
+    "geom:longitude":18.11882,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3868,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Dubravica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201057,
+        "qs:id":1044052,
+        "wd:id":"Q1263213",
+        "wk:page":"Dubravica"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056080,
+    "wof:geomhash":"e8592bde4376a9813c582a097fd15845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":890518817,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":890518817,
+    "wof:lastmodified":1527751230,
+    "wof:name":"Dubravica",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:population":3868,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11882,
+    44.44131,
+    18.11882,
+    44.44131
+],
+  "geometry": {"coordinates":[18.11882,44.44131],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210030653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88722,45.01972,15.88722,45.01972",
+    "geom:latitude":45.01972,
+    "geom:longitude":15.88722,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tahirovica Selo",
+    "gn:country_code":"BA",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301715,
+    "gn:latitude":45.01972,
+    "gn:longitude":15.88722,
+    "gn:modification_date":"1998-01-08",
+    "gn:name":"Tahirovi\u0107a Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301715
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2f839b402afe43a622074274b481db48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1210030653,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1210030653,
+    "wof:lastmodified":1536388719,
+    "wof:name":"Tahirovica Selo",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88722,
+    45.01972,
+    15.88722,
+    45.01972
+],
+  "geometry": {"coordinates":[15.88722,45.01972],"type":"Point"}
+}

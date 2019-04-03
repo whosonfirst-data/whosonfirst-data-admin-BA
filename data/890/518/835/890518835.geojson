@@ -1,0 +1,98 @@
+{
+  "id": 890518835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69389,44.78167,18.69389,44.78167",
+    "geom:latitude":44.78167,
+    "geom:longitude":18.69389,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Gornji Rahi\u0107"
+    ],
+    "name:dut_x_preferred":[
+        "Gornji Rahi\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Gornji Rahi\u0107"
+    ],
+    "name:fre_x_preferred":[
+        "Gornji Rahi\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Rahi\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0420\u0430\u0445\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Gornji Rahi\u0107"
+    ],
+    "qs:name":"Gornji Rahi\u0107",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Br\u010dko Distrikt",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:latitude":"44.78333333",
+    "wd:longitude":"18.7",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199940,
+        "gp:id":941878,
+        "qs:id":1085369,
+        "wd:id":"Q3111303",
+        "wk:page":"Gornji Rahi\u0107"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056081,
+    "wof:geomhash":"1ddabc781f5f86c2225ffec5daf4d20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":890518835,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":890518835,
+    "wof:lastmodified":1527751232,
+    "wof:name":"Gornji Rahi\u0107",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69389,
+    44.78167,
+    18.69389,
+    44.78167
+],
+  "geometry": {"coordinates":[18.69389,44.78167],"type":"Point"}
+}

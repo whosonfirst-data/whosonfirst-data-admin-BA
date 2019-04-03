@@ -1,0 +1,72 @@
+{
+  "id": 1343292707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69656,44.90151,18.69656,44.90151",
+    "geom:latitude":44.90151,
+    "geom:longitude":18.69656,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Vuksic Donji",
+    "gn:country_code":"BA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3187030,
+    "gn:latitude":44.90151,
+    "gn:longitude":18.69656,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Vuk\u0161i\u0107 Donji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donji Vuk\u0161i\u0107",
+        "Vuk\u0161i\u0107 Donji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187030,
+        "wk:page":"Vuk%C5%A1i%C4%87_Donji"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"648cb12ae1eedfa4652d82817d2a04e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1343292707,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1343292707,
+    "wof:lastmodified":1537585549,
+    "wof:name":"Vuksic Donji",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69656,
+    44.90151,
+    18.69656,
+    44.90151
+],
+  "geometry": {"coordinates":[18.69656,44.90151],"type":"Point"}
+}

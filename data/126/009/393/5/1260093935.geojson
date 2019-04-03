@@ -1,0 +1,67 @@
+{
+  "id": 1260093935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75319,44.5408,18.75319,44.5408",
+    "geom:latitude":44.5408,
+    "geom:longitude":18.75319,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Andrijici",
+    "gn:country_code":"BA",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255819,
+    "gn:latitude":44.5408,
+    "gn:longitude":18.75319,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Andriji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255819
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"24f61dd53b5a91dcf2307117a8c06edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1260093935,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1260093935,
+    "wof:lastmodified":1536972521,
+    "wof:name":"Andrijici",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75319,
+    44.5408,
+    18.75319,
+    44.5408
+],
+  "geometry": {"coordinates":[18.75319,44.5408],"type":"Point"}
+}

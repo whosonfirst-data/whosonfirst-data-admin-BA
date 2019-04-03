@@ -1,0 +1,70 @@
+{
+  "id": 1259988599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4413,43.23166,18.4413,43.23166",
+    "geom:latitude":43.23166,
+    "geom:longitude":18.4413,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Osijek",
+    "gn:country_code":"BA",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292310,
+    "gn:latitude":43.23166,
+    "gn:longitude":18.4413,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Osijek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Osijek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292310
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"260fb747332ac778bbbf99a84de541e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1259988599,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259988599,
+    "wof:lastmodified":1537486857,
+    "wof:name":"Osijek",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4413,
+    43.23166,
+    18.4413,
+    43.23166
+],
+  "geometry": {"coordinates":[18.4413,43.23166],"type":"Point"}
+}

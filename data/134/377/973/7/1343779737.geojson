@@ -1,0 +1,67 @@
+{
+  "id": 1343779737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04651,44.48404,18.04651,44.48404",
+    "geom:latitude":44.48404,
+    "geom:longitude":18.04651,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Matina",
+    "gn:country_code":"BA",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256958,
+    "gn:latitude":44.48404,
+    "gn:longitude":18.04651,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donja Matina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256958
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"646c1c055fa14b11b2b0406f97d8607c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1343779737,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1343779737,
+    "wof:lastmodified":1536783643,
+    "wof:name":"Donja Matina",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04651,
+    44.48404,
+    18.04651,
+    44.48404
+],
+  "geometry": {"coordinates":[18.04651,44.48404],"type":"Point"}
+}

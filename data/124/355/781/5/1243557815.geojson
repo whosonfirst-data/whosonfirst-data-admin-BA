@@ -1,0 +1,68 @@
+{
+  "id": 1243557815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.03278,43.61894,19.03278,43.61894",
+    "geom:latitude":43.61894,
+    "geom:longitude":19.03278,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Glozin",
+    "gn:country_code":"BA",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3273104,
+    "gn:latitude":43.61894,
+    "gn:longitude":19.03278,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Glozin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273104,
+        "wk:page":"Glo%C5%BEin"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"101eb4cce1e86d7c5631c4b0b010caee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759085,
+            "locality_id":1243557815,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243557815,
+    "wof:lastmodified":1537486847,
+    "wof:name":"Glozin",
+    "wof:parent_id":1108759085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.03278,
+    43.61894,
+    19.03278,
+    43.61894
+],
+  "geometry": {"coordinates":[19.03278,43.61894],"type":"Point"}
+}

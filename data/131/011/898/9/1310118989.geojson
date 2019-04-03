@@ -1,0 +1,71 @@
+{
+  "id": 1310118989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.80767,44.11386,18.80767,44.11386",
+    "geom:latitude":44.11386,
+    "geom:longitude":18.80767,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nevacka",
+    "gn:country_code":"BA",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194513,
+    "gn:latitude":44.11386,
+    "gn:longitude":18.80767,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Neva\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neva\u010dka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194513,
+        "wk:page":"Neva%C4%8Dka"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b0506af3d3b3f205b7b9a31d2192530c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":1310118989,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310118989,
+    "wof:lastmodified":1537585578,
+    "wof:name":"Nevacka",
+    "wof:parent_id":1108759103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.80767,
+    44.11386,
+    18.80767,
+    44.11386
+],
+  "geometry": {"coordinates":[18.80767,44.11386],"type":"Point"}
+}

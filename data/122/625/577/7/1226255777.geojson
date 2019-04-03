@@ -1,0 +1,67 @@
+{
+  "id": 1226255777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30306,44.52139,17.30306,44.52139",
+    "geom:latitude":44.52139,
+    "geom:longitude":17.30306,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Otlovici",
+    "gn:country_code":"BA",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251249,
+    "gn:latitude":44.52139,
+    "gn:longitude":17.30306,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Otlovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251249
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cdd98994622cf6bb6e39cf43f4226212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759233,
+            "locality_id":1226255777,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226255777,
+    "wof:lastmodified":1536919721,
+    "wof:name":"Otlovici",
+    "wof:parent_id":1108759233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30306,
+    44.52139,
+    17.30306,
+    44.52139
+],
+  "geometry": {"coordinates":[17.30306,44.52139],"type":"Point"}
+}

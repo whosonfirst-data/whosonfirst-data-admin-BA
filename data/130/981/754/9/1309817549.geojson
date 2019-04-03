@@ -1,0 +1,67 @@
+{
+  "id": 1309817549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.55994,44.06686,18.55994,44.06686",
+    "geom:latitude":44.06686,
+    "geom:longitude":18.55994,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Numanovici",
+    "gn:country_code":"BA",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3244537,
+    "gn:latitude":44.06686,
+    "gn:longitude":18.55994,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Numanovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3244537
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"34cd1e2d2cbea012b91e65e2fc2a12d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759109,
+            "locality_id":1309817549,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1309817549,
+    "wof:lastmodified":1536914518,
+    "wof:name":"Numanovici",
+    "wof:parent_id":1108759109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.55994,
+    44.06686,
+    18.55994,
+    44.06686
+],
+  "geometry": {"coordinates":[18.55994,44.06686],"type":"Point"}
+}

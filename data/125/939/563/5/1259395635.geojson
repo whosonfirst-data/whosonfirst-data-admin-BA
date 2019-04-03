@@ -1,0 +1,67 @@
+{
+  "id": 1259395635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08019,44.67033,17.08019,44.67033",
+    "geom:latitude":44.67033,
+    "geom:longitude":17.08019,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornja Kola",
+    "gn:country_code":"BA",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3250358,
+    "gn:latitude":44.67033,
+    "gn:longitude":17.08019,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornja Kola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250358
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f91843a68c2284fb52d77f82874fb267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1259395635,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259395635,
+    "wof:lastmodified":1536983963,
+    "wof:name":"Gornja Kola",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08019,
+    44.67033,
+    17.08019,
+    44.67033
+],
+  "geometry": {"coordinates":[17.08019,44.67033],"type":"Point"}
+}

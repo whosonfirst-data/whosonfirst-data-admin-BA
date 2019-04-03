@@ -1,0 +1,84 @@
+{
+  "id": 890518551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85665,44.20466,17.85665,44.20466",
+    "geom:latitude":44.20466,
+    "geom:longitude":17.85665,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3928,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Lokvine"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u043a\u0432\u0438\u043d\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Lokvine"
+    ],
+    "name:fre_x_preferred":[
+        "Lokvine"
+    ],
+    "name:swe_x_preferred":[
+        "Lokvine"
+    ],
+    "name:unk_x_variant":[
+        "Lokrine"
+    ],
+    "qs:name":"Lokvine",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196243,
+        "qs:id":147182,
+        "wd:id":"Q3258745"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056069,
+    "wof:geomhash":"553db82ecc8f1b0fa9ef92bb4d7dab74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":890518551,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":890518551,
+    "wof:lastmodified":1513898837,
+    "wof:name":"Lokvine",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:population":3928,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85665,
+    44.20466,
+    17.85665,
+    44.20466
+],
+  "geometry": {"coordinates":[17.85665,44.20466],"type":"Point"}
+}

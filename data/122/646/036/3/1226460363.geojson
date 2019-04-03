@@ -1,0 +1,68 @@
+{
+  "id": 1226460363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08733,43.59162,17.08733,43.59162",
+    "geom:latitude":43.59162,
+    "geom:longitude":17.08733,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zaljut",
+    "gn:country_code":"BA",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3286400,
+    "gn:latitude":43.59162,
+    "gn:longitude":17.08733,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Zaljut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286400,
+        "wk:page":"Zaljut"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ecd8fac2774d8e3de4e7317219d35426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1226460363,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1226460363,
+    "wof:lastmodified":1537486854,
+    "wof:name":"Zaljut",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08733,
+    43.59162,
+    17.08733,
+    43.59162
+],
+  "geometry": {"coordinates":[17.08733,43.59162],"type":"Point"}
+}

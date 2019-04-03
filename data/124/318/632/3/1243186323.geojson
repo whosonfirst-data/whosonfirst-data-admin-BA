@@ -1,0 +1,71 @@
+{
+  "id": 1243186323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17976,43.82693,18.17976,43.82693",
+    "geom:latitude":43.82693,
+    "geom:longitude":18.17976,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Grivici",
+    "gn:country_code":"BA",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3199562,
+    "gn:latitude":43.82693,
+    "gn:longitude":18.17976,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Grivi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Grivi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199562,
+        "wk:page":"Grivi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"26cf26b9596270960fc248e56cd1a112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1243186323,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1243186323,
+    "wof:lastmodified":1537585597,
+    "wof:name":"Grivici",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17976,
+    43.82693,
+    18.17976,
+    43.82693
+],
+  "geometry": {"coordinates":[18.17976,43.82693],"type":"Point"}
+}

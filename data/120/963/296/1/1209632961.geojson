@@ -1,0 +1,61 @@
+{
+  "id": 1209632961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22292,43.91925,18.22292,43.91925",
+    "geom:latitude":43.91925,
+    "geom:longitude":18.22292,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Orahovac",
+    "gn:country_code":"BA",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295968,
+    "gn:latitude":43.91925,
+    "gn:longitude":18.22292,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Orahovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295968
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3a95b682352568ab97d055b9827584db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209632961
+        }
+    ],
+    "wof:id":1209632961,
+    "wof:lastmodified":1536281132,
+    "wof:name":"Orahovac",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22292,
+    43.91925,
+    18.22292,
+    43.91925
+],
+  "geometry": {"coordinates":[18.22292,43.91925],"type":"Point"}
+}

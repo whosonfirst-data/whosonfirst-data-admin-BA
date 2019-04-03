@@ -1,0 +1,67 @@
+{
+  "id": 1259797393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.45611,43.80583,17.45611,43.80583",
+    "geom:latitude":43.80583,
+    "geom:longitude":17.45611,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bektas",
+    "gn:country_code":"BA",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292501,
+    "gn:latitude":43.80583,
+    "gn:longitude":17.45611,
+    "gn:modification_date":"1998-06-04",
+    "gn:name":"Bekta\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292501
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dc6b718fce891275b111caaa56e8048e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1259797393,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1259797393,
+    "wof:lastmodified":1536903219,
+    "wof:name":"Bektas",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.45611,
+    43.80583,
+    17.45611,
+    43.80583
+],
+  "geometry": {"coordinates":[17.45611,43.80583],"type":"Point"}
+}

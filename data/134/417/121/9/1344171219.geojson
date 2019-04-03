@@ -1,0 +1,71 @@
+{
+  "id": 1344171219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07957,43.93419,18.07957,43.93419",
+    "geom:latitude":43.93419,
+    "geom:longitude":18.07957,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cizma",
+    "gn:country_code":"BA",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212577,
+    "gn:latitude":43.93419,
+    "gn:longitude":18.07957,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u010cizma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cizma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212577,
+        "wk:page":"%C4%8Cizma"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c3b4d1b60b686646f4c921dd9f99cd7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759127,
+            "locality_id":1344171219,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1344171219,
+    "wof:lastmodified":1537585656,
+    "wof:name":"Cizma",
+    "wof:parent_id":1108759127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07957,
+    43.93419,
+    18.07957,
+    43.93419
+],
+  "geometry": {"coordinates":[18.07957,43.93419],"type":"Point"}
+}

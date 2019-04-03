@@ -1,0 +1,67 @@
+{
+  "id": 1209918127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36744,43.37142,17.36744,43.37142",
+    "geom:latitude":43.37142,
+    "geom:longitude":17.36744,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Culuci",
+    "gn:country_code":"BA",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283747,
+    "gn:latitude":43.37142,
+    "gn:longitude":17.36744,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u010culuci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283747
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"83daa360111e8b403f21ecfcc2629362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1209918127,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1209918127,
+    "wof:lastmodified":1536371474,
+    "wof:name":"Culuci",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36744,
+    43.37142,
+    17.36744,
+    43.37142
+],
+  "geometry": {"coordinates":[17.36744,43.37142],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259514211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7785,44.8693,18.7785,44.8693",
+    "geom:latitude":44.8693,
+    "geom:longitude":18.7785,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Suljagica Sokak",
+    "gn:country_code":"BA",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256022,
+    "gn:latitude":44.8693,
+    "gn:longitude":18.7785,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Suljagi\u0107a Sokak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256022
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"79e2d04afd8fc98e36c7493dd45f088f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1259514211,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1259514211,
+    "wof:lastmodified":1536814066,
+    "wof:name":"Suljagica Sokak",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7785,
+    44.8693,
+    18.7785,
+    44.8693
+],
+  "geometry": {"coordinates":[18.7785,44.8693],"type":"Point"}
+}

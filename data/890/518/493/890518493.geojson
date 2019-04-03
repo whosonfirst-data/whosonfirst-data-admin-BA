@@ -1,0 +1,66 @@
+{
+  "id": 890518493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06276,44.5398,17.06276,44.5398",
+    "geom:latitude":44.5398,
+    "geom:longitude":17.06276,
+    "gn:country":"BA",
+    "gn:fcode":"MT",
+    "gn:pop":1064,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Puti\u0161evac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251418,
+        "qs:id":582297
+    },
+    "wof:country":"BA",
+    "wof:created":1469056067,
+    "wof:geomhash":"9696fbe6195498fffae12c8be08bd9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":890518493,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518493,
+    "wof:lastmodified":1505343909,
+    "wof:name":"Puti\u0161evac",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:population":1064,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06276,
+    44.5398,
+    17.06276,
+    44.5398
+],
+  "geometry": {"coordinates":[17.06276,44.5398],"type":"Point"}
+}

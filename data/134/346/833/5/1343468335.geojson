@@ -1,0 +1,67 @@
+{
+  "id": 1343468335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67861,43.18917,17.67861,43.18917",
+    "geom:latitude":43.18917,
+    "geom:longitude":17.67861,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sivric Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288444,
+    "gn:latitude":43.18917,
+    "gn:longitude":17.67861,
+    "gn:modification_date":"2012-02-12",
+    "gn:name":"Sivri\u0107 Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288444
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"86d322674016ad1848f2e026f44fc2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759049,
+            "locality_id":1343468335,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1343468335,
+    "wof:lastmodified":1536734811,
+    "wof:name":"Sivric Mahala",
+    "wof:parent_id":1108759049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67861,
+    43.18917,
+    17.67861,
+    43.18917
+],
+  "geometry": {"coordinates":[17.67861,43.18917],"type":"Point"}
+}

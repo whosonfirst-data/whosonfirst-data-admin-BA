@@ -1,0 +1,67 @@
+{
+  "id": 1327347537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19338,44.50191,16.19338,44.50191",
+    "geom:latitude":44.50191,
+    "geom:longitude":16.19338,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Glamac",
+    "gn:country_code":"BA",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3270477,
+    "gn:latitude":44.50191,
+    "gn:longitude":16.19338,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Glama\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270477
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"52391bcc27bee87ea11fe475f70edd93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1327347537,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1327347537,
+    "wof:lastmodified":1536803231,
+    "wof:name":"Glamac",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19338,
+    44.50191,
+    16.19338,
+    44.50191
+],
+  "geometry": {"coordinates":[16.19338,44.50191],"type":"Point"}
+}

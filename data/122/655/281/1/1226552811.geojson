@@ -1,0 +1,67 @@
+{
+  "id": 1226552811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93057,44.70569,16.93057,44.70569",
+    "geom:latitude":44.70569,
+    "geom:longitude":16.93057,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Surlani",
+    "gn:country_code":"BA",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250063,
+    "gn:latitude":44.70569,
+    "gn:longitude":16.93057,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160urlani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250063
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"775f13b370447f1389858aa15b05d740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1226552811,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226552811,
+    "wof:lastmodified":1536987000,
+    "wof:name":"Surlani",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93057,
+    44.70569,
+    16.93057,
+    44.70569
+],
+  "geometry": {"coordinates":[16.93057,44.70569],"type":"Point"}
+}

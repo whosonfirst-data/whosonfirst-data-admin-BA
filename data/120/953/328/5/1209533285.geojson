@@ -1,0 +1,65 @@
+{
+  "id": 1209533285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52298,44.209,17.52298,44.209",
+    "geom:latitude":44.209,
+    "geom:longitude":17.52298,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornja Trebeusa",
+    "gn:country_code":"BA",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200171,
+    "gn:latitude":44.209,
+    "gn:longitude":17.52298,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornja Trebeu\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trebeu\u0161a",
+        "Gornja Trebeu\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200171
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"07b4b08362065584fbc89f54bd5f0638",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209533285
+        }
+    ],
+    "wof:id":1209533285,
+    "wof:lastmodified":1537585602,
+    "wof:name":"Gornja Trebeusa",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52298,
+    44.209,
+    17.52298,
+    44.209
+],
+  "geometry": {"coordinates":[17.52298,44.209],"type":"Point"}
+}

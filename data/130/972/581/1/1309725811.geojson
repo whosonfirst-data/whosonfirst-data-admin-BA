@@ -1,0 +1,67 @@
+{
+  "id": 1309725811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10862,44.15481,18.10862,44.15481",
+    "geom:latitude":44.15481,
+    "geom:longitude":18.10862,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zugolj",
+    "gn:country_code":"BA",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296620,
+    "gn:latitude":44.15481,
+    "gn:longitude":18.10862,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"\u017dugolj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296620
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"edbea1ae2ef6cf1cee62d9a2345a1a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1309725811,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1309725811,
+    "wof:lastmodified":1537044483,
+    "wof:name":"Zugolj",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10862,
+    44.15481,
+    18.10862,
+    44.15481
+],
+  "geometry": {"coordinates":[18.10862,44.15481],"type":"Point"}
+}

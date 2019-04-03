@@ -1,0 +1,67 @@
+{
+  "id": 1259883869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00807,45.18801,16.00807,45.18801",
+    "geom:latitude":45.18801,
+    "geom:longitude":16.00807,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jabucar",
+    "gn:country_code":"BA",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277354,
+    "gn:latitude":45.18801,
+    "gn:longitude":16.00807,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Jabu\u010dar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277354
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d30bb9ae73974bd0175845b7ef40ac47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1259883869,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1259883869,
+    "wof:lastmodified":1536779068,
+    "wof:name":"Jabucar",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00807,
+    45.18801,
+    16.00807,
+    45.18801
+],
+  "geometry": {"coordinates":[16.00807,45.18801],"type":"Point"}
+}

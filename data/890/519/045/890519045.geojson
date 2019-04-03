@@ -1,0 +1,65 @@
+{
+  "id": 890519045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69322,44.56226,18.69322,44.56226",
+    "geom:latitude":44.56226,
+    "geom:longitude":18.69322,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":4780,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Solina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190357,
+        "qs:id":147119
+    },
+    "wof:country":"BA",
+    "wof:created":1469056090,
+    "wof:geomhash":"dd73348bcdd17b96e14e012cf2cbd1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":890519045,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890519045,
+    "wof:lastmodified":1505343912,
+    "wof:name":"Solina",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:population":4780,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69322,
+    44.56226,
+    18.69322,
+    44.56226
+],
+  "geometry": {"coordinates":[18.69322,44.56226],"type":"Point"}
+}

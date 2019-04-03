@@ -1,0 +1,67 @@
+{
+  "id": 1360187783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80983,44.8486,17.80983,44.8486",
+    "geom:latitude":44.8486,
+    "geom:longitude":17.80983,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Durendici",
+    "gn:country_code":"BA",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253129,
+    "gn:latitude":44.8486,
+    "gn:longitude":17.80983,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u00d0urendi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253129
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7002f65e8147880b5ea5a60e031d1294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1360187783,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360187783,
+    "wof:lastmodified":1536797614,
+    "wof:name":"Durendici",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80982999999999,
+    44.8486,
+    17.80982999999999,
+    44.8486
+],
+  "geometry": {"coordinates":[17.80982999999999,44.8486],"type":"Point"}
+}

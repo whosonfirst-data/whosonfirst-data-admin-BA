@@ -1,0 +1,131 @@
+{
+  "id": 890518925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95258,44.08161,18.95258,44.08161",
+    "geom:latitude":44.08161,
+    "geom:longitude":18.95258,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4206,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u09a8 \u09aa\u09c7\u099c\u09be\u09b8\u09be\u0995"
+    ],
+    "name:bos_x_preferred":[
+        "Han-Pijesak"
+    ],
+    "name:chi_x_preferred":[
+        "\u6c49\u76ae\u8036\u8428\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Han Pijesak"
+    ],
+    "name:eng_x_preferred":[
+        "Han Pijesak"
+    ],
+    "name:fre_x_preferred":[
+        "Han Pijesak"
+    ],
+    "name:ger_x_preferred":[
+        "Han Pijesak"
+    ],
+    "name:hrv_x_preferred":[
+        "Han Pijesak"
+    ],
+    "name:ita_x_preferred":[
+        "Han Pijesak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30f3\u30fb\u30d4\u30a4\u30a7\u30b5\u30af"
+    ],
+    "name:pol_x_preferred":[
+        "Han Pijesak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d-\u041f\u0435\u0441\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Han Pijesak"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043d \u041f\u0438\u0458\u0435\u0441\u0430\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Han Pijesak"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0627\u0646 \u067e\u06cc\u0626\u0633\u0627\u06a9"
+    ],
+    "qs:name":"Han-Pijesak",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669271,
+        1108759103,
+        85632267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199417,
+        "gp:id":942024,
+        "qs:id":968094,
+        "wd:id":"Q1574159",
+        "wk:page":"Han Pijesak"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056085,
+    "wof:geomhash":"d57c7425291b1e4bb99596fc29b66fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":890518925,
+            "region_id":85669271
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":890518925,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518925,
+    "wof:lastmodified":1527751233,
+    "wof:name":"Han-Pijesak",
+    "wof:parent_id":1108759103,
+    "wof:placetype":"locality",
+    "wof:population":4206,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95258,
+    44.08161,
+    18.95258,
+    44.08161
+],
+  "geometry": {"coordinates":[18.95258,44.08161],"type":"Point"}
+}

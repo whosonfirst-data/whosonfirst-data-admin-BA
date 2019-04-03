@@ -1,0 +1,67 @@
+{
+  "id": 1226156973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62718,44.52427,18.62718,44.52427",
+    "geom:latitude":44.52427,
+    "geom:longitude":18.62718,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vilusici",
+    "gn:country_code":"BA",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258977,
+    "gn:latitude":44.52427,
+    "gn:longitude":18.62718,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vilu\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258977
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2810b61b32720a364b34fc73cd71381c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1226156973,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1226156973,
+    "wof:lastmodified":1537058878,
+    "wof:name":"Vilusici",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62718,
+    44.52427,
+    18.62718,
+    44.52427
+],
+  "geometry": {"coordinates":[18.62718,44.52427],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293696427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56528,43.20167,17.56528,43.20167",
+    "geom:latitude":43.20167,
+    "geom:longitude":17.56528,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mostarska Vrata",
+    "gn:country_code":"BA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288867,
+    "gn:latitude":43.20167,
+    "gn:longitude":17.56528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mostarska Vrata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288867,
+        "wk:page":"Mostarska_Vrata"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"25618f153d22b1c888bd74ff465fa4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1293696427,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1293696427,
+    "wof:lastmodified":1537486854,
+    "wof:name":"Mostarska Vrata",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56528,
+    43.20167,
+    17.56528,
+    43.20167
+],
+  "geometry": {"coordinates":[17.56528,43.20167],"type":"Point"}
+}

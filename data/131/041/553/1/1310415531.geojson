@@ -1,0 +1,67 @@
+{
+  "id": 1310415531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9415,44.75732,15.9415,44.75732",
+    "geom:latitude":44.75732,
+    "geom:longitude":15.9415,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jezerine",
+    "gn:country_code":"BA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257714,
+    "gn:latitude":44.75732,
+    "gn:longitude":15.9415,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Jezerine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257714
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"21b1b3343b29e00db32e898a4546008f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1310415531,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1310415531,
+    "wof:lastmodified":1537044866,
+    "wof:name":"Jezerine",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9415,
+    44.75732,
+    15.9415,
+    44.75732
+],
+  "geometry": {"coordinates":[15.9415,44.75732],"type":"Point"}
+}

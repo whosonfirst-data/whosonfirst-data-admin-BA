@@ -1,0 +1,61 @@
+{
+  "id": 1209018535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.84718,43.22444,17.84718,43.22444",
+    "geom:latitude":43.22444,
+    "geom:longitude":17.84718,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Demirovica Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261704,
+    "gn:latitude":43.22444,
+    "gn:longitude":17.84718,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Demirovi\u0107a Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261704
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"856844a5881c0756011b530ab94fd7ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209018535
+        }
+    ],
+    "wof:id":1209018535,
+    "wof:lastmodified":1536300218,
+    "wof:name":"Demirovica Mahala",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.847179999999994,
+    43.22444,
+    17.847179999999994,
+    43.22444
+],
+  "geometry": {"coordinates":[17.84717999999999,43.22444],"type":"Point"}
+}

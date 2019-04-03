@@ -1,0 +1,72 @@
+{
+  "id": 1209829575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02919,42.77439,18.02919,42.77439",
+    "geom:latitude":42.77439,
+    "geom:longitude":18.02919,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Scenica Bobani",
+    "gn:country_code":"BA",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191206,
+    "gn:latitude":42.77439,
+    "gn:longitude":18.02919,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0160\u0107enica Bobani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0107enica",
+        "\u0160\u0107enica Bobani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191206,
+        "wk:page":"%C5%A0%C4%87enica_Bobani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e6dacd860875b6470852b038b35a84de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759213,
+            "locality_id":1209829575,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1209829575,
+    "wof:lastmodified":1537585564,
+    "wof:name":"Scenica Bobani",
+    "wof:parent_id":1108759213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02919,
+    42.77439,
+    18.02919,
+    42.77439
+],
+  "geometry": {"coordinates":[18.02919,42.77439],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209232349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.6636,43.79153,17.6636,43.79153",
+    "geom:latitude":43.79153,
+    "geom:longitude":17.6636,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donji Kranjcici",
+    "gn:country_code":"BA",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292867,
+    "gn:latitude":43.79153,
+    "gn:longitude":17.6636,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donji Kranj\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292867
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2a36e21788624a78697510700e83c7d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209232349
+        }
+    ],
+    "wof:id":1209232349,
+    "wof:lastmodified":1536293597,
+    "wof:name":"Donji Kranjcici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6636,
+    43.79153,
+    17.6636,
+    43.79153
+],
+  "geometry": {"coordinates":[17.6636,43.79153],"type":"Point"}
+}

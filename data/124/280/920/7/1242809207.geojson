@@ -1,0 +1,72 @@
+{
+  "id": 1242809207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52022,44.80254,18.52022,44.80254",
+    "geom:latitude":44.80254,
+    "geom:longitude":18.52022,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Hrgovi Donji",
+    "gn:country_code":"BA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199271,
+    "gn:latitude":44.80254,
+    "gn:longitude":18.52022,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Hrgovi Donji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donji Hrgovi",
+        "Hrgovi Donji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199271,
+        "wk:page":"Hrgovi_Donji"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"968c87a7dbb2a852fe790ebd6a820618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759093,
+            "locality_id":1242809207,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1242809207,
+    "wof:lastmodified":1537585596,
+    "wof:name":"Hrgovi Donji",
+    "wof:parent_id":1108759093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52022,
+    44.80254,
+    18.52022,
+    44.80254
+],
+  "geometry": {"coordinates":[18.52022,44.80254],"type":"Point"}
+}

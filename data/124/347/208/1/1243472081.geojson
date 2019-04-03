@@ -1,0 +1,67 @@
+{
+  "id": 1243472081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95366,44.62403,17.95366,44.62403",
+    "geom:latitude":44.62403,
+    "geom:longitude":17.95366,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kantici",
+    "gn:country_code":"BA",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252427,
+    "gn:latitude":44.62403,
+    "gn:longitude":17.95366,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kanti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252427
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f3fb72ca4664cdfef30a684230a8dd8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759255,
+            "locality_id":1243472081,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1243472081,
+    "wof:lastmodified":1536769060,
+    "wof:name":"Kantici",
+    "wof:parent_id":1108759255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95366,
+    44.62403,
+    17.95366,
+    44.62403
+],
+  "geometry": {"coordinates":[17.95366,44.62403],"type":"Point"}
+}

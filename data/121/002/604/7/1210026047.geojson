@@ -1,0 +1,67 @@
+{
+  "id": 1210026047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40493,44.09989,18.40493,44.09989",
+    "geom:latitude":44.09989,
+    "geom:longitude":18.40493,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Letevci",
+    "gn:country_code":"BA",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205058,
+    "gn:latitude":44.09989,
+    "gn:longitude":18.40493,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Letevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205058
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bc8abd65a1610ea2955f59b20698f125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759279,
+            "locality_id":1210026047,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1210026047,
+    "wof:lastmodified":1536390681,
+    "wof:name":"Letevci",
+    "wof:parent_id":1108759279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40493,
+    44.09989,
+    18.40493,
+    44.09989
+],
+  "geometry": {"coordinates":[18.40493,44.09989],"type":"Point"}
+}

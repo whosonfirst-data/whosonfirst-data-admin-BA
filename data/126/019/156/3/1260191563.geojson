@@ -1,0 +1,67 @@
+{
+  "id": 1260191563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.80135,43.3369,18.80135,43.3369",
+    "geom:latitude":43.3369,
+    "geom:longitude":18.80135,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ograde",
+    "gn:country_code":"BA",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297939,
+    "gn:latitude":43.3369,
+    "gn:longitude":18.80135,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ograde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297939
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"105649d886e71d5d981559d8bc40a6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1260191563,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260191563,
+    "wof:lastmodified":1536835742,
+    "wof:name":"Ograde",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.80135,
+    43.3369,
+    18.80135,
+    43.3369
+],
+  "geometry": {"coordinates":[18.80135,43.3369],"type":"Point"}
+}

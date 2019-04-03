@@ -1,0 +1,67 @@
+{
+  "id": 1326547723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68222,43.39579,17.68222,43.39579",
+    "geom:latitude":43.39579,
+    "geom:longitude":17.68222,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kuletina",
+    "gn:country_code":"BA",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287922,
+    "gn:latitude":43.39579,
+    "gn:longitude":17.68222,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kuletina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287922
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ef5d561948a9fc64c2ba8f34016f64c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759231,
+            "locality_id":1326547723,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1326547723,
+    "wof:lastmodified":1536961538,
+    "wof:name":"Kuletina",
+    "wof:parent_id":1108759231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68222,
+    43.39579000000001,
+    17.68222,
+    43.39579000000001
+],
+  "geometry": {"coordinates":[17.68222,43.39579000000001],"type":"Point"}
+}

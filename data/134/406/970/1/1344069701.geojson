@@ -1,0 +1,68 @@
+{
+  "id": 1344069701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93787,44.77369,18.93787,44.77369",
+    "geom:latitude":44.77369,
+    "geom:longitude":18.93787,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Piperci",
+    "gn:country_code":"BA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3193346,
+    "gn:latitude":44.77369,
+    "gn:longitude":18.93787,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Piperci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193346,
+        "wk:page":"Piperci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cc46db65cd783be24dd0dbaa719bdcd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1344069701,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344069701,
+    "wof:lastmodified":1537486739,
+    "wof:name":"Piperci",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93787,
+    44.77369,
+    18.93787,
+    44.77369
+],
+  "geometry": {"coordinates":[18.93787,44.77369],"type":"Point"}
+}

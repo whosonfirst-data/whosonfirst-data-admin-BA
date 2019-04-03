@@ -1,0 +1,72 @@
+{
+  "id": 1327240369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.30453,43.41649,18.30453,43.41649",
+    "geom:latitude":43.41649,
+    "geom:longitude":18.30453,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ulog",
+    "gn:country_code":"BA",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188505,
+    "gn:latitude":43.41649,
+    "gn:longitude":18.30453,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ulog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulog Borak",
+        "Ulog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188505,
+        "wk:page":"Ulog"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1e30ad96569b1ddb201ac7b38f6d41ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759125,
+            "locality_id":1327240369,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327240369,
+    "wof:lastmodified":1537585555,
+    "wof:name":"Ulog",
+    "wof:parent_id":1108759125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.30453,
+    43.41649,
+    18.30453,
+    43.41649
+],
+  "geometry": {"coordinates":[18.30453,43.41649],"type":"Point"}
+}

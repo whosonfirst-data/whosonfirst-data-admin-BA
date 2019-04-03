@@ -1,0 +1,67 @@
+{
+  "id": 1327043819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36697,44.15974,17.36697,44.15974",
+    "geom:latitude":44.15974,
+    "geom:longitude":17.36697,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Liovi",
+    "gn:country_code":"BA",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3237773,
+    "gn:latitude":44.15974,
+    "gn:longitude":17.36697,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Liovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3237773
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"60f39a8abf9003599d79a76fd8c2065b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759065,
+            "locality_id":1327043819,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1327043819,
+    "wof:lastmodified":1536743637,
+    "wof:name":"Liovi",
+    "wof:parent_id":1108759065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36697,
+    44.15974,
+    17.36697,
+    44.15974
+],
+  "geometry": {"coordinates":[17.36697,44.15974],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293003677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76526,43.36728,18.76526,43.36728",
+    "geom:latitude":43.36728,
+    "geom:longitude":18.76526,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Humici",
+    "gn:country_code":"BA",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3298152,
+    "gn:latitude":43.36728,
+    "gn:longitude":18.76526,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Humi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298152
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e3e1d63aec727f47eeb4c7aca56bcf8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1293003677,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293003677,
+    "wof:lastmodified":1536986660,
+    "wof:name":"Humici",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76526,
+    43.36728,
+    18.76526,
+    43.36728
+],
+  "geometry": {"coordinates":[18.76526,43.36728],"type":"Point"}
+}

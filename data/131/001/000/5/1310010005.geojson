@@ -1,0 +1,67 @@
+{
+  "id": 1310010005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47172,44.21586,17.47172,44.21586",
+    "geom:latitude":44.21586,
+    "geom:longitude":17.47172,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kurcele",
+    "gn:country_code":"BA",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3237974,
+    "gn:latitude":44.21586,
+    "gn:longitude":17.47172,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kur\u0107ele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3237974
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7390aa688785d14b73920c192eefe39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759065,
+            "locality_id":1310010005,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1310010005,
+    "wof:lastmodified":1536635527,
+    "wof:name":"Kurcele",
+    "wof:parent_id":1108759065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47172,
+    44.21586,
+    17.47172,
+    44.21586
+],
+  "geometry": {"coordinates":[17.47172,44.21586],"type":"Point"}
+}

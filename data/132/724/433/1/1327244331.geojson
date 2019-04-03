@@ -1,0 +1,67 @@
+{
+  "id": 1327244331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85681,44.27144,18.85681,44.27144",
+    "geom:latitude":44.27144,
+    "geom:longitude":18.85681,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sikimici",
+    "gn:country_code":"BA",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276471,
+    "gn:latitude":44.27144,
+    "gn:longitude":18.85681,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sikimi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276471
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6eb270fb813b13e24f0a205a21f80129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759227,
+            "locality_id":1327244331,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327244331,
+    "wof:lastmodified":1536952387,
+    "wof:name":"Sikimici",
+    "wof:parent_id":1108759227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85681,
+    44.27144000000001,
+    18.85681,
+    44.27144000000001
+],
+  "geometry": {"coordinates":[18.85681,44.27144000000001],"type":"Point"}
+}

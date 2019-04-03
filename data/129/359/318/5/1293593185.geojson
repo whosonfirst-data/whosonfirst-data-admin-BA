@@ -1,0 +1,67 @@
+{
+  "id": 1293593185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18432,44.46061,18.18432,44.46061",
+    "geom:latitude":44.46061,
+    "geom:longitude":18.18432,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mecevici",
+    "gn:country_code":"BA",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257937,
+    "gn:latitude":44.46061,
+    "gn:longitude":18.18432,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mecevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257937
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f724f684d6b18a2df95fb1fd762a6117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1293593185,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1293593185,
+    "wof:lastmodified":1536633316,
+    "wof:name":"Mecevici",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18432,
+    44.46061,
+    18.18432,
+    44.46061
+],
+  "geometry": {"coordinates":[18.18432,44.46061],"type":"Point"}
+}

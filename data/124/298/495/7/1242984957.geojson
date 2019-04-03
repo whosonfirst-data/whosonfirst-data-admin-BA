@@ -1,0 +1,73 @@
+{
+  "id": 1242984957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.43928,44.04849,18.43928,44.04849",
+    "geom:latitude":44.04849,
+    "geom:longitude":18.43928,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Stomorine",
+    "gn:country_code":"BA",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189813,
+    "gn:latitude":44.04849,
+    "gn:longitude":18.43928,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Stomorine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stomarine",
+        "Stomorina",
+        "Stomorine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189813,
+        "wk:page":"Stomorine"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dea5bcc97cc662d8273af1cacb814ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759109,
+            "locality_id":1242984957,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1242984957,
+    "wof:lastmodified":1537585559,
+    "wof:name":"Stomorine",
+    "wof:parent_id":1108759109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43928,
+    44.04849,
+    18.43928,
+    44.04849
+],
+  "geometry": {"coordinates":[18.43928,44.04849],"type":"Point"}
+}

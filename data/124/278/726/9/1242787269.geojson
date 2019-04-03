@@ -1,0 +1,67 @@
+{
+  "id": 1242787269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66156,44.1355,17.66156,44.1355",
+    "geom:latitude":44.1355,
+    "geom:longitude":17.66156,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cosici",
+    "gn:country_code":"BA",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3293743,
+    "gn:latitude":44.1355,
+    "gn:longitude":17.66156,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u010cosi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293743
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0471679376a9b10ef633150c9cf1f129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759183,
+            "locality_id":1242787269,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242787269,
+    "wof:lastmodified":1536761814,
+    "wof:name":"Cosici",
+    "wof:parent_id":1108759183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66156,
+    44.1355,
+    17.66156,
+    44.1355
+],
+  "geometry": {"coordinates":[17.66156,44.1355],"type":"Point"}
+}

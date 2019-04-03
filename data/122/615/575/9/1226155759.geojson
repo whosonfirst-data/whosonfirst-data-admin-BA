@@ -1,0 +1,67 @@
+{
+  "id": 1226155759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63505,43.98576,18.63505,43.98576",
+    "geom:latitude":43.98576,
+    "geom:longitude":18.63505,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hamze",
+    "gn:country_code":"BA",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206984,
+    "gn:latitude":43.98576,
+    "gn:longitude":18.63505,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Hamze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206984
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b48d81b32ef5c205f5b2af141a816170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1226155759,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226155759,
+    "wof:lastmodified":1537060528,
+    "wof:name":"Hamze",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63505,
+    43.98576,
+    18.63505,
+    43.98576
+],
+  "geometry": {"coordinates":[18.63505,43.98576],"type":"Point"}
+}

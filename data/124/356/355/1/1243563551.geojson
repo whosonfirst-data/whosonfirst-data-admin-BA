@@ -1,0 +1,67 @@
+{
+  "id": 1243563551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89066,44.51188,17.89066,44.51188",
+    "geom:latitude":44.51188,
+    "geom:longitude":17.89066,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Slatina",
+    "gn:country_code":"BA",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210437,
+    "gn:latitude":44.51188,
+    "gn:longitude":17.89066,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Slatina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210437
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cac8dc255bd14d237abf74bfb16850a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1243563551,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243563551,
+    "wof:lastmodified":1536635436,
+    "wof:name":"Slatina",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89066,
+    44.51188,
+    17.89066,
+    44.51188
+],
+  "geometry": {"coordinates":[17.89066,44.51188],"type":"Point"}
+}

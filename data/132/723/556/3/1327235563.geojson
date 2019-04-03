@@ -1,0 +1,67 @@
+{
+  "id": 1327235563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00053,43.83368,17.00053,43.83368",
+    "geom:latitude":43.83368,
+    "geom:longitude":17.00053,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zastinje",
+    "gn:country_code":"BA",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3285338,
+    "gn:latitude":43.83368,
+    "gn:longitude":17.00053,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zastinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285338
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3fc494bd9a0aa975f4e76e800d346526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1327235563,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1327235563,
+    "wof:lastmodified":1536964763,
+    "wof:name":"Zastinje",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00053,
+    43.83368,
+    17.00053,
+    43.83368
+],
+  "geometry": {"coordinates":[17.00053,43.83368],"type":"Point"}
+}

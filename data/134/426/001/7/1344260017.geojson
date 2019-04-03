@@ -1,0 +1,68 @@
+{
+  "id": 1344260017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0541,42.8264,18.0541,42.8264",
+    "geom:latitude":42.8264,
+    "geom:longitude":18.0541,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sedlari",
+    "gn:country_code":"BA",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191183,
+    "gn:latitude":42.8264,
+    "gn:longitude":18.0541,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sedlari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191183,
+        "wk:page":"Sedlari_%28Trebinje%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c3af6f97ee992ee22a65e4dc323830cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759265,
+            "locality_id":1344260017,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344260017,
+    "wof:lastmodified":1537486727,
+    "wof:name":"Sedlari",
+    "wof:parent_id":1108759265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0541,
+    42.8264,
+    18.0541,
+    42.8264
+],
+  "geometry": {"coordinates":[18.0541,42.8264],"type":"Point"}
+}

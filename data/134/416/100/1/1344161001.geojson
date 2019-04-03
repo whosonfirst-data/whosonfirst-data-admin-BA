@@ -1,0 +1,68 @@
+{
+  "id": 1344161001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5485,43.96939,17.5485,43.96939",
+    "geom:latitude":43.96939,
+    "geom:longitude":17.5485,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hrasnica",
+    "gn:country_code":"BA",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3294407,
+    "gn:latitude":43.96939,
+    "gn:longitude":17.5485,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hrasnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294407,
+        "wk:page":"Hrasnica%2C_Gornji_Vakuf-Uskoplje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d3714250c6c4d7af6c5385329dba7dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":1344161001,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1344161001,
+    "wof:lastmodified":1537486859,
+    "wof:name":"Hrasnica",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5485,
+    43.96939,
+    17.5485,
+    43.96939
+],
+  "geometry": {"coordinates":[17.5485,43.96939],"type":"Point"}
+}

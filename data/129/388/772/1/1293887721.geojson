@@ -1,0 +1,67 @@
+{
+  "id": 1293887721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87694,43.06984,17.87694,43.06984",
+    "geom:latitude":43.06984,
+    "geom:longitude":17.87694,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Udno Polje",
+    "gn:country_code":"BA",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213098,
+    "gn:latitude":43.06984,
+    "gn:longitude":17.87694,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Udno Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213098
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c917448a61adf7c079230d079cf2f985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759249,
+            "locality_id":1293887721,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1293887721,
+    "wof:lastmodified":1536707512,
+    "wof:name":"Udno Polje",
+    "wof:parent_id":1108759249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87694,
+    43.06984,
+    17.87694,
+    43.06984
+],
+  "geometry": {"coordinates":[17.87694,43.06984],"type":"Point"}
+}

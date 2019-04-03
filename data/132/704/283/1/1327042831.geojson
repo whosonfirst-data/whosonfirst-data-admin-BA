@@ -1,0 +1,67 @@
+{
+  "id": 1327042831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10108,43.03429,18.10108,43.03429",
+    "geom:latitude":43.03429,
+    "geom:longitude":18.10108,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stanjevici",
+    "gn:country_code":"BA",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264450,
+    "gn:latitude":43.03429,
+    "gn:longitude":18.10108,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Stanjevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264450
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e0bd08c0646c9eca991a229fbbe54834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759155,
+            "locality_id":1327042831,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327042831,
+    "wof:lastmodified":1536745025,
+    "wof:name":"Stanjevici",
+    "wof:parent_id":1108759155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10108,
+    43.03429000000001,
+    18.10108,
+    43.03429000000001
+],
+  "geometry": {"coordinates":[18.10108,43.03429000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259897739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10472,43.78333,18.10472,43.78333",
+    "geom:latitude":43.78333,
+    "geom:longitude":18.10472,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Bioca",
+    "gn:country_code":"BA",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201719,
+    "gn:latitude":43.78333,
+    "gn:longitude":18.10472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Donja Bio\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Bio\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201719,
+        "wk:page":"Donja_Bio%C4%8Da_%28Had%C5%BEi%C4%87i%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"40c4c478f64ceaa19e676db4ca9b2372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1259897739,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1259897739,
+    "wof:lastmodified":1537585614,
+    "wof:name":"Donja Bioca",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10472,
+    43.78333,
+    18.10472,
+    43.78333
+],
+  "geometry": {"coordinates":[18.10472,43.78333],"type":"Point"}
+}

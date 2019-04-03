@@ -1,0 +1,67 @@
+{
+  "id": 1243186563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1618,44.65297,16.1618,44.65297",
+    "geom:latitude":44.65297,
+    "geom:longitude":16.1618,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vrscic",
+    "gn:country_code":"BA",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3270003,
+    "gn:latitude":44.65297,
+    "gn:longitude":16.1618,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Vr\u0161\u010di\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270003
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f9f0b86598fdc50c2c7ea678bad54a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759013,
+            "locality_id":1243186563,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1243186563,
+    "wof:lastmodified":1536683083,
+    "wof:name":"Vrscic",
+    "wof:parent_id":1108759013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1618,
+    44.65297,
+    16.1618,
+    44.65297
+],
+  "geometry": {"coordinates":[16.1618,44.65297],"type":"Point"}
+}

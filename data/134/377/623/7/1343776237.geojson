@@ -1,0 +1,68 @@
+{
+  "id": 1343776237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28359,43.96111,17.28359,43.96111",
+    "geom:latitude":43.96111,
+    "geom:longitude":17.28359,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vrila",
+    "gn:country_code":"BA",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187175,
+    "gn:latitude":43.96111,
+    "gn:longitude":17.28359,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vrila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187175,
+        "wk:page":"Vrila"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ae6ca38ecc20fd60f97969eeea858c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759145,
+            "locality_id":1343776237,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1343776237,
+    "wof:lastmodified":1537486710,
+    "wof:name":"Vrila",
+    "wof:parent_id":1108759145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28359,
+    43.96111,
+    17.28359,
+    43.96111
+],
+  "geometry": {"coordinates":[17.28359,43.96111],"type":"Point"}
+}

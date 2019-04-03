@@ -1,0 +1,71 @@
+{
+  "id": 1310510373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9245,44.29035,18.9245,44.29035",
+    "geom:latitude":44.29035,
+    "geom:longitude":18.9245,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bobari",
+    "gn:country_code":"BA",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211352,
+    "gn:latitude":44.29035,
+    "gn:longitude":18.9245,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bobari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rudi\u0161te",
+        "Bobari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211352
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7e94654d0415f5eb9c3437ae4b53be53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759227,
+            "locality_id":1310510373,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310510373,
+    "wof:lastmodified":1537585649,
+    "wof:name":"Bobari",
+    "wof:parent_id":1108759227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9245,
+    44.29035,
+    18.9245,
+    44.29035
+],
+  "geometry": {"coordinates":[18.9245,44.29035],"type":"Point"}
+}

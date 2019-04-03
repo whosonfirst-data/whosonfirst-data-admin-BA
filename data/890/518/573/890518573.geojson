@@ -1,0 +1,68 @@
+{
+  "id": 890518573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.20521,44.44874,18.20521,44.44874",
+    "geom:latitude":44.44874,
+    "geom:longitude":18.20521,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":6410,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kova\u010di",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257948,
+        "qs:id":582298,
+        "wd:id":"Q1173261",
+        "wk:page":"Kova\u010di"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056070,
+    "wof:geomhash":"6d0ca951789f0686fbb8c7816589113f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":890518573,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":890518573,
+    "wof:lastmodified":1527751233,
+    "wof:name":"Kova\u010di",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:population":6410,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.20521,
+    44.44874,
+    18.20521,
+    44.44874
+],
+  "geometry": {"coordinates":[18.20521,44.44874],"type":"Point"}
+}

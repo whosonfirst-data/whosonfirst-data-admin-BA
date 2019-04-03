@@ -1,0 +1,89 @@
+{
+  "id": 890518791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97216,43.63299,17.97216,43.63299",
+    "geom:latitude":43.63299,
+    "geom:longitude":17.97216,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":1078,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Polje Bijela"
+    ],
+    "name:dut_x_preferred":[
+        "Polje Bijela"
+    ],
+    "name:eng_x_preferred":[
+        "Polje Bijela"
+    ],
+    "name:fre_x_preferred":[
+        "Polje Bijela"
+    ],
+    "name:hrv_x_preferred":[
+        "Polje Bijela"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0459\u0435 \u0411\u0438\u0458\u0435\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Donje Bjela"
+    ],
+    "qs:name":"Polje-Bijela",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192793,
+        "qs:id":1043988,
+        "wd:id":"Q3114485",
+        "wk:page":"Polje Bijela"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056079,
+    "wof:geomhash":"df34280379d80a78601476fba6821487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":890518791,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":890518791,
+    "wof:lastmodified":1527751229,
+    "wof:name":"Polje-Bijela",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:population":1078,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97216,
+    43.63299,
+    17.97216,
+    43.63299
+],
+  "geometry": {"coordinates":[17.97216,43.63299],"type":"Point"}
+}

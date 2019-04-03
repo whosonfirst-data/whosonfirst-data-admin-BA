@@ -1,0 +1,67 @@
+{
+  "id": 1309919869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.76722,43.80111,17.76722,43.80111",
+    "geom:latitude":43.80111,
+    "geom:longitude":17.76722,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pandze",
+    "gn:country_code":"BA",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288548,
+    "gn:latitude":43.80111,
+    "gn:longitude":17.76722,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Pand\u017ee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288548
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"012ab72aeffb5ae7e190468a7c7f1b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1309919869,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1309919869,
+    "wof:lastmodified":1536766984,
+    "wof:name":"Pandze",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.76722000000001,
+    43.80111,
+    17.76722000000001,
+    43.80111
+],
+  "geometry": {"coordinates":[17.76722000000001,43.80111],"type":"Point"}
+}

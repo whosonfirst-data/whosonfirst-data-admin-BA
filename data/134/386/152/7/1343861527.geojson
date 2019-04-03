@@ -1,0 +1,67 @@
+{
+  "id": 1343861527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44936,44.79786,17.44936,44.79786",
+    "geom:latitude":44.79786,
+    "geom:longitude":17.44936,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mladanovici",
+    "gn:country_code":"BA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251252,
+    "gn:latitude":44.79786,
+    "gn:longitude":17.44936,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mladanovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251252
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d1c682b620d86a5187129b0428552676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759045,
+            "locality_id":1343861527,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343861527,
+    "wof:lastmodified":1536665044,
+    "wof:name":"Mladanovici",
+    "wof:parent_id":1108759045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44936,
+    44.79786,
+    17.44936,
+    44.79786
+],
+  "geometry": {"coordinates":[17.44936,44.79786],"type":"Point"}
+}

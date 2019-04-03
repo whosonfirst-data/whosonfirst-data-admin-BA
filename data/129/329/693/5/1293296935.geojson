@@ -1,0 +1,71 @@
+{
+  "id": 1293296935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84537,44.76578,15.84537,44.76578",
+    "geom:latitude":44.76578,
+    "geom:longitude":15.84537,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Medudrazje",
+    "gn:country_code":"BA",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195310,
+    "gn:latitude":44.76578,
+    "gn:longitude":15.84537,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Me\u0111udra\u017eje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Me\u0111udra\u017eje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195310,
+        "wk:page":"Me%C4%91udra%C5%BEje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6294664c9d8012a46dc93f1f07cb6ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1293296935,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293296935,
+    "wof:lastmodified":1537585582,
+    "wof:name":"Medudrazje",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84537,
+    44.76578,
+    15.84537,
+    44.76578
+],
+  "geometry": {"coordinates":[15.84537,44.76578],"type":"Point"}
+}

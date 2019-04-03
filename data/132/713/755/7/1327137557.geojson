@@ -1,0 +1,67 @@
+{
+  "id": 1327137557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13473,44.74326,18.13473,44.74326",
+    "geom:latitude":44.74326,
+    "geom:longitude":18.13473,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hodzici Beslagici",
+    "gn:country_code":"BA",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253206,
+    "gn:latitude":44.74326,
+    "gn:longitude":18.13473,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Hod\u017ei\u0107i Be\u0161lagi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253206
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"69288c3a4e58c0b094972942869a6389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759055,
+            "locality_id":1327137557,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1327137557,
+    "wof:lastmodified":1536605673,
+    "wof:name":"Hodzici Beslagici",
+    "wof:parent_id":1108759055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13473,
+    44.74326,
+    18.13473,
+    44.74326
+],
+  "geometry": {"coordinates":[18.13473,44.74326],"type":"Point"}
+}

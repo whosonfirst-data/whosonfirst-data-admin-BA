@@ -1,0 +1,67 @@
+{
+  "id": 1209917407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51686,44.85235,17.51686,44.85235",
+    "geom:latitude":44.85235,
+    "geom:longitude":17.51686,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marica Palanka",
+    "gn:country_code":"BA",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253853,
+    "gn:latitude":44.85235,
+    "gn:longitude":17.51686,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mari\u0107a Palanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253853
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5b10f0ca2cd94a9f2fd83d58cd922106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1209917407,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209917407,
+    "wof:lastmodified":1536372218,
+    "wof:name":"Marica Palanka",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51686,
+    44.85235,
+    17.51686,
+    44.85235
+],
+  "geometry": {"coordinates":[17.51686,44.85235],"type":"Point"}
+}

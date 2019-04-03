@@ -1,0 +1,90 @@
+{
+  "id": 890518645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.37751,43.89342,18.37751,43.89342",
+    "geom:latitude":43.89342,
+    "geom:longitude":18.37751,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":4013,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Hotonj"
+    ],
+    "name:dut_x_preferred":[
+        "Hotonj"
+    ],
+    "name:eng_x_preferred":[
+        "Hotonj"
+    ],
+    "name:fre_x_preferred":[
+        "Hotonj"
+    ],
+    "name:hrv_x_preferred":[
+        "Hotonj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0442\u043e\u045a"
+    ],
+    "name:swe_x_preferred":[
+        "Hotonj"
+    ],
+    "qs:name":"Hotonj",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":164,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268187,
+        "gp:id":944549,
+        "qs:id":147397,
+        "wd:id":"Q3129606",
+        "wk:page":"Hotonj"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056074,
+    "wof:geomhash":"ed311f38c12bf27849dbfd651782bf1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759291,
+            "locality_id":890518645,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":890518645,
+    "wof:lastmodified":1527751230,
+    "wof:name":"Hotonj",
+    "wof:parent_id":1108759291,
+    "wof:placetype":"locality",
+    "wof:population":4013,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.37751,
+    43.89342,
+    18.37751,
+    43.89342
+],
+  "geometry": {"coordinates":[18.37751,43.89342],"type":"Point"}
+}

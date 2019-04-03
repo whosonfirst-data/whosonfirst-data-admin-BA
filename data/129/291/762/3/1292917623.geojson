@@ -1,0 +1,67 @@
+{
+  "id": 1292917623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48534,43.99492,18.48534,43.99492",
+    "geom:latitude":43.99492,
+    "geom:longitude":18.48534,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Klek",
+    "gn:country_code":"BA",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268593,
+    "gn:latitude":43.99492,
+    "gn:longitude":18.48534,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Klek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268593
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"eff9a2528db10b47a9eb91f97936d249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759109,
+            "locality_id":1292917623,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1292917623,
+    "wof:lastmodified":1536611901,
+    "wof:name":"Klek",
+    "wof:parent_id":1108759109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48534,
+    43.99492,
+    18.48534,
+    43.99492
+],
+  "geometry": {"coordinates":[18.48534,43.99492],"type":"Point"}
+}

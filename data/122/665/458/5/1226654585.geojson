@@ -1,0 +1,67 @@
+{
+  "id": 1226654585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71902,44.90653,17.71902,44.90653",
+    "geom:latitude":44.90653,
+    "geom:longitude":17.71902,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kudrici",
+    "gn:country_code":"BA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252991,
+    "gn:latitude":44.90653,
+    "gn:longitude":17.71902,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kudri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252991
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1925b75a9c77cc981e62171a0ff9d9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1226654585,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226654585,
+    "wof:lastmodified":1536845522,
+    "wof:name":"Kudrici",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71902,
+    44.90653,
+    17.71902,
+    44.90653
+],
+  "geometry": {"coordinates":[17.71902,44.90653],"type":"Point"}
+}

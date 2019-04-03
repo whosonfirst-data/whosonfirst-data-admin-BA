@@ -1,0 +1,67 @@
+{
+  "id": 1310120045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93014,43.98338,16.93014,43.98338",
+    "geom:latitude":43.98338,
+    "geom:longitude":16.93014,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Karlovac",
+    "gn:country_code":"BA",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198260,
+    "gn:latitude":43.98338,
+    "gn:longitude":16.93014,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Karlovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198260
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e2fd1c07a8bd40273abfaedbe571ddec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759081,
+            "locality_id":1310120045,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1310120045,
+    "wof:lastmodified":1536974922,
+    "wof:name":"Karlovac",
+    "wof:parent_id":1108759081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93014,
+    43.98338,
+    16.93014,
+    43.98338
+],
+  "geometry": {"coordinates":[16.93014,43.98338],"type":"Point"}
+}

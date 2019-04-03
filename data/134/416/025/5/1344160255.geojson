@@ -1,0 +1,67 @@
+{
+  "id": 1344160255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87673,44.85052,17.87673,44.85052",
+    "geom:latitude":44.85052,
+    "geom:longitude":17.87673,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Novici",
+    "gn:country_code":"BA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252137,
+    "gn:latitude":44.85052,
+    "gn:longitude":17.87673,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Novi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252137
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f2f0f071c44011b13a4c225d109e6c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1344160255,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344160255,
+    "wof:lastmodified":1536731839,
+    "wof:name":"Novici",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87673,
+    44.85052,
+    17.87673,
+    44.85052
+],
+  "geometry": {"coordinates":[17.87673,44.85052],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310319373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55791,44.32923,16.55791,44.32923",
+    "geom:latitude":44.32923,
+    "geom:longitude":16.55791,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornja Prekaja",
+    "gn:country_code":"BA",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3236547,
+    "gn:latitude":44.32923,
+    "gn:longitude":16.55791,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornja Prekaja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3236547
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f73239e2352f059a2167499e62c5ab87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759067,
+            "locality_id":1310319373,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1310319373,
+    "wof:lastmodified":1536687890,
+    "wof:name":"Gornja Prekaja",
+    "wof:parent_id":1108759067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55791,
+    44.32923,
+    16.55791,
+    44.32923
+],
+  "geometry": {"coordinates":[16.55791,44.32923],"type":"Point"}
+}

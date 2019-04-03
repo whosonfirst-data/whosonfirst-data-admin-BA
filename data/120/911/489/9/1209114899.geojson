@@ -1,0 +1,61 @@
+{
+  "id": 1209114899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18022,44.13452,17.18022,44.13452",
+    "geom:latitude":44.13452,
+    "geom:longitude":17.18022,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sumari",
+    "gn:country_code":"BA",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238319,
+    "gn:latitude":44.13452,
+    "gn:longitude":17.18022,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160umari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238319
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"eec5a8bed545c911db3bb32a54bc27c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209114899
+        }
+    ],
+    "wof:id":1209114899,
+    "wof:lastmodified":1536297286,
+    "wof:name":"Sumari",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.180220000000002,
+    44.13452,
+    17.180220000000002,
+    44.13452
+],
+  "geometry": {"coordinates":[17.18022,44.13452],"type":"Point"}
+}

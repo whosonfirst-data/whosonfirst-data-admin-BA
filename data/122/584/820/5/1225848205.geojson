@@ -1,0 +1,68 @@
+{
+  "id": 1225848205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48713,43.18547,18.48713,43.18547",
+    "geom:latitude":43.18547,
+    "geom:longitude":18.48713,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rudo Polje",
+    "gn:country_code":"BA",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292334,
+    "gn:latitude":43.18547,
+    "gn:longitude":18.48713,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rudo Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292334,
+        "wk:page":"Rudo_Polje_%28Gacko%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"171927018464fcb0e0083820f0dc3371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1225848205,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225848205,
+    "wof:lastmodified":1537486857,
+    "wof:name":"Rudo Polje",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48713,
+    43.18547,
+    18.48713,
+    43.18547
+],
+  "geometry": {"coordinates":[18.48713,43.18547],"type":"Point"}
+}

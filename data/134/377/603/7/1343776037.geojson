@@ -1,0 +1,71 @@
+{
+  "id": 1343776037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17507,44.19989,18.17507,44.19989",
+    "geom:latitude":44.19989,
+    "geom:longitude":18.17507,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zlokuce",
+    "gn:country_code":"BA",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296240,
+    "gn:latitude":44.19989,
+    "gn:longitude":18.17507,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Zloku\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zloku\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296240,
+        "wk:page":"Zloku%C4%87e_%28Kakanj%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"33f5bed74290724e0f1ce7ac48e8dc11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1343776037,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1343776037,
+    "wof:lastmodified":1537585679,
+    "wof:name":"Zlokuce",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17507,
+    44.19989,
+    18.17507,
+    44.19989
+],
+  "geometry": {"coordinates":[18.17507,44.19989],"type":"Point"}
+}

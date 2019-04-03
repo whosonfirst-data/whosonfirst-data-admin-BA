@@ -1,0 +1,67 @@
+{
+  "id": 1343570817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2743,44.08872,18.2743,44.08872",
+    "geom:latitude":44.08872,
+    "geom:longitude":18.2743,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Juke",
+    "gn:country_code":"BA",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295350,
+    "gn:latitude":44.08872,
+    "gn:longitude":18.2743,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Juke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295350
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bd07c16e7b0f5dc0934d2c19f6e9bddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759279,
+            "locality_id":1343570817,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1343570817,
+    "wof:lastmodified":1537081285,
+    "wof:name":"Juke",
+    "wof:parent_id":1108759279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2743,
+    44.08872,
+    18.2743,
+    44.08872
+],
+  "geometry": {"coordinates":[18.2743,44.08872],"type":"Point"}
+}

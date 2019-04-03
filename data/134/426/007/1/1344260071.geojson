@@ -1,0 +1,67 @@
+{
+  "id": 1344260071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.80807,44.63873,18.80807,44.63873",
+    "geom:latitude":44.63873,
+    "geom:longitude":18.80807,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zekici",
+    "gn:country_code":"BA",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256104,
+    "gn:latitude":44.63873,
+    "gn:longitude":18.80807,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zeki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256104
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"463b0890d68033bc44f6738bc99a0f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759159,
+            "locality_id":1344260071,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344260071,
+    "wof:lastmodified":1537081530,
+    "wof:name":"Zekici",
+    "wof:parent_id":1108759159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.80807,
+    44.63873,
+    18.80807,
+    44.63873
+],
+  "geometry": {"coordinates":[18.80807,44.63873],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259796513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22892,44.87675,18.22892,44.87675",
+    "geom:latitude":44.87675,
+    "geom:longitude":18.22892,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jovici",
+    "gn:country_code":"BA",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255701,
+    "gn:latitude":44.87675,
+    "gn:longitude":18.22892,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255701
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9cbf099b1acb7f83a25782a9bd592dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759169,
+            "locality_id":1259796513,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259796513,
+    "wof:lastmodified":1536904539,
+    "wof:name":"Jovici",
+    "wof:parent_id":1108759169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22892,
+    44.87675,
+    18.22892,
+    44.87675
+],
+  "geometry": {"coordinates":[18.22892,44.87675],"type":"Point"}
+}

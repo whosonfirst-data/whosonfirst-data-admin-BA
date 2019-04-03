@@ -1,0 +1,68 @@
+{
+  "id": 1360188551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45759,43.6722,18.45759,43.6722",
+    "geom:latitude":43.6722,
+    "geom:longitude":18.45759,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vrbovnik",
+    "gn:country_code":"BA",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3268616,
+    "gn:latitude":43.6722,
+    "gn:longitude":18.45759,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vrbovnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268616,
+        "wk:page":"Vrbovnik"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"de0de4eebec7c4b78134ae6425de51ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759269,
+            "locality_id":1360188551,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360188551,
+    "wof:lastmodified":1537486839,
+    "wof:name":"Vrbovnik",
+    "wof:parent_id":1108759269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45759,
+    43.6722,
+    18.45759,
+    43.6722
+],
+  "geometry": {"coordinates":[18.45759,43.6722],"type":"Point"}
+}

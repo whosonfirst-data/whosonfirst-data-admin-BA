@@ -1,0 +1,61 @@
+{
+  "id": 1209232535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46915,43.92217,18.46915,43.92217",
+    "geom:latitude":43.92217,
+    "geom:longitude":18.46915,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gvozdarevo",
+    "gn:country_code":"BA",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3266680,
+    "gn:latitude":43.92217,
+    "gn:longitude":18.46915,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gvozdarevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266680
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"18bd847617eaec9e0f9031d8cedbe62b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209232535
+        }
+    ],
+    "wof:id":1209232535,
+    "wof:lastmodified":1536293592,
+    "wof:name":"Gvozdarevo",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46915,
+    43.92217,
+    18.46915,
+    43.92217
+],
+  "geometry": {"coordinates":[18.46915,43.92217],"type":"Point"}
+}

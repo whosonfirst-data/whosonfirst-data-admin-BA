@@ -1,0 +1,67 @@
+{
+  "id": 1293896311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89377,44.81157,17.89377,44.81157",
+    "geom:latitude":44.81157,
+    "geom:longitude":17.89377,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sarica Mlin",
+    "gn:country_code":"BA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252328,
+    "gn:latitude":44.81157,
+    "gn:longitude":17.89377,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Sari\u0107a Mlin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252328
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"91fb056f576c6eecb003d65854263c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1293896311,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293896311,
+    "wof:lastmodified":1536695029,
+    "wof:name":"Sarica Mlin",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89377,
+    44.81157,
+    17.89377,
+    44.81157
+],
+  "geometry": {"coordinates":[17.89377,44.81157],"type":"Point"}
+}

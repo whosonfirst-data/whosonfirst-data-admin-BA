@@ -1,0 +1,67 @@
+{
+  "id": 1309816727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.82704,44.5861,17.82704,44.5861",
+    "geom:latitude":44.5861,
+    "geom:longitude":17.82704,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Irice",
+    "gn:country_code":"BA",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256978,
+    "gn:latitude":44.5861,
+    "gn:longitude":17.82704,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Iri\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256978
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c16b8ee4e798c0f6f58631f5cc0422e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1309816727,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309816727,
+    "wof:lastmodified":1536915728,
+    "wof:name":"Irice",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.82704,
+    44.5861,
+    17.82704,
+    44.5861
+],
+  "geometry": {"coordinates":[17.82704,44.5861],"type":"Point"}
+}

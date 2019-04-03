@@ -1,0 +1,67 @@
+{
+  "id": 1344166017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01907,43.21463,18.01907,43.21463",
+    "geom:latitude":43.21463,
+    "geom:longitude":18.01907,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Klepetusa",
+    "gn:country_code":"BA",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206731,
+    "gn:latitude":43.21463,
+    "gn:longitude":18.01907,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Klepetu\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206731
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3248f6cc50353c93eaeb5370627d869c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1344166017,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344166017,
+    "wof:lastmodified":1536723526,
+    "wof:name":"Klepetusa",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01907000000001,
+    43.21463,
+    18.01907000000001,
+    43.21463
+],
+  "geometry": {"coordinates":[18.01907000000001,43.21463],"type":"Point"}
+}

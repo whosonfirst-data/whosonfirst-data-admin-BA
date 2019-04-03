@@ -1,0 +1,61 @@
+{
+  "id": 1209217645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76452,43.80972,18.76452,43.80972",
+    "geom:latitude":43.80972,
+    "geom:longitude":18.76452,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Guljevine",
+    "gn:country_code":"BA",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276059,
+    "gn:latitude":43.80972,
+    "gn:longitude":18.76452,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Guljevine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276059
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e7e69774a841b8a1bd4bb8c6d661a76c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209217645
+        }
+    ],
+    "wof:id":1209217645,
+    "wof:lastmodified":1536294076,
+    "wof:name":"Guljevine",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76452,
+    43.80972,
+    18.76452,
+    43.80972
+],
+  "geometry": {"coordinates":[18.76452,43.80972],"type":"Point"}
+}

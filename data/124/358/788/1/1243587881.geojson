@@ -1,0 +1,67 @@
+{
+  "id": 1243587881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8101,44.80241,18.8101,44.80241",
+    "geom:latitude":44.80241,
+    "geom:longitude":18.8101,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Blagojevica Han",
+    "gn:country_code":"BA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255375,
+    "gn:latitude":44.80241,
+    "gn:longitude":18.8101,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Blagojevi\u0107a Han",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255375
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fc63a7998a45f7d22525e9c776434b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1243587881,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1243587881,
+    "wof:lastmodified":1537095385,
+    "wof:name":"Blagojevica Han",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8101,
+    44.80241,
+    18.8101,
+    44.80241
+],
+  "geometry": {"coordinates":[18.8101,44.80241],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243070953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.37399,43.62909,19.37399,43.62909",
+    "geom:latitude":43.62909,
+    "geom:longitude":19.37399,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Resici",
+    "gn:country_code":"BA",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3300205,
+    "gn:latitude":43.62909,
+    "gn:longitude":19.37399,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Resi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3300205
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9db90f4fc7673f28dfaf09e80ffa0e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759217,
+            "locality_id":1243070953,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243070953,
+    "wof:lastmodified":1536848698,
+    "wof:name":"Resici",
+    "wof:parent_id":1108759217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.37399,
+    43.62909000000001,
+    19.37399,
+    43.62909000000001
+],
+  "geometry": {"coordinates":[19.37399,43.62909000000001],"type":"Point"}
+}

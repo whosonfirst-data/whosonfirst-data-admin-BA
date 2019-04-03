@@ -1,0 +1,71 @@
+{
+  "id": 1293305765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16777,44.53173,19.16777,44.53173",
+    "geom:latitude":44.53173,
+    "geom:longitude":19.16777,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sepak Donji",
+    "gn:country_code":"BA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190993,
+    "gn:latitude":44.53173,
+    "gn:longitude":19.16777,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u0160epak Donji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160epak Pravoslavni",
+        "\u0160epak Donji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190993
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"aeff7d6bef432c6548eb10fa6d0843f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759303,
+            "locality_id":1293305765,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293305765,
+    "wof:lastmodified":1537585564,
+    "wof:name":"Sepak Donji",
+    "wof:parent_id":1108759303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16777,
+    44.53173,
+    19.16777,
+    44.53173
+],
+  "geometry": {"coordinates":[19.16777,44.53173],"type":"Point"}
+}

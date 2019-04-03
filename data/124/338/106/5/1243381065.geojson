@@ -1,0 +1,71 @@
+{
+  "id": 1243381065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.72515,43.61642,18.72515,43.61642",
+    "geom:latitude":43.61642,
+    "geom:longitude":18.72515,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Roskovici",
+    "gn:country_code":"BA",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206703,
+    "gn:latitude":43.61642,
+    "gn:longitude":18.72515,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Roskovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u0161kovi\u0107i",
+        "Roskovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206703
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5380dc4dd811d155ff62e66ba7068d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759071,
+            "locality_id":1243381065,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1243381065,
+    "wof:lastmodified":1537585636,
+    "wof:name":"Roskovici",
+    "wof:parent_id":1108759071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72515,
+    43.61642,
+    18.72515,
+    43.61642
+],
+  "geometry": {"coordinates":[18.72515,43.61642],"type":"Point"}
+}

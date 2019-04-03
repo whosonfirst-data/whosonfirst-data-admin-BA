@@ -1,0 +1,67 @@
+{
+  "id": 1276456475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58098,44.92125,18.58098,44.92125",
+    "geom:latitude":44.92125,
+    "geom:longitude":18.58098,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cendici",
+    "gn:country_code":"BA",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3211060,
+    "gn:latitude":44.92125,
+    "gn:longitude":18.58098,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u010cendi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211060
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6be40c165d0461eb6cc5cac0a9950197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759097,
+            "locality_id":1276456475,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276456475,
+    "wof:lastmodified":1536611082,
+    "wof:name":"Cendici",
+    "wof:parent_id":1108759097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58098,
+    44.92125,
+    18.58098,
+    44.92125
+],
+  "geometry": {"coordinates":[18.58098,44.92125],"type":"Point"}
+}

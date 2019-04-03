@@ -1,0 +1,72 @@
+{
+  "id": 1343967023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.24524,44.76459,17.24524,44.76459",
+    "geom:latitude":44.76459,
+    "geom:longitude":17.24524,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vrbanja",
+    "gn:country_code":"BA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187302,
+    "gn:latitude":44.76459,
+    "gn:longitude":17.24524,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vrbanja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banja Luka-Vrbanja",
+        "Vrbanja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187302,
+        "wk:page":"Vrbanja_%28Banja_Luka%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f61d712ba255a468be39b484391cacf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1343967023,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343967023,
+    "wof:lastmodified":1537585550,
+    "wof:name":"Vrbanja",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.24524,
+    44.76459000000001,
+    17.24524,
+    44.76459000000001
+],
+  "geometry": {"coordinates":[17.24524,44.76459000000001],"type":"Point"}
+}

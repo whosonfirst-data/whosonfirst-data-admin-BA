@@ -1,0 +1,67 @@
+{
+  "id": 1209927143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14753,44.64912,19.14753,44.64912",
+    "geom:latitude":44.64912,
+    "geom:longitude":19.14753,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Doknici",
+    "gn:country_code":"BA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253599,
+    "gn:latitude":44.64912,
+    "gn:longitude":19.14753,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dokni\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253599
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e7f370305423bee0b009a3e950c63496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1209927143,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209927143,
+    "wof:lastmodified":1536394384,
+    "wof:name":"Doknici",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14753,
+    44.64912,
+    19.14753,
+    44.64912
+],
+  "geometry": {"coordinates":[19.14753,44.64912],"type":"Point"}
+}

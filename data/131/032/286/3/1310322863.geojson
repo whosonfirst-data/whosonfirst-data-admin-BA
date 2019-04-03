@@ -1,0 +1,67 @@
+{
+  "id": 1310322863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32258,44.35472,17.32258,44.35472",
+    "geom:latitude":44.35472,
+    "geom:longitude":17.32258,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornja Lupnica",
+    "gn:country_code":"BA",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3235244,
+    "gn:latitude":44.35472,
+    "gn:longitude":17.32258,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornja Lupnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3235244
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"70b49808a65525e948830b7787bd7c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759115,
+            "locality_id":1310322863,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1310322863,
+    "wof:lastmodified":1536682857,
+    "wof:name":"Gornja Lupnica",
+    "wof:parent_id":1108759115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32258,
+    44.35472,
+    17.32258,
+    44.35472
+],
+  "geometry": {"coordinates":[17.32258,44.35472],"type":"Point"}
+}

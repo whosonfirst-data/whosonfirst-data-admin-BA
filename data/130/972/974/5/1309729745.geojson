@@ -1,0 +1,71 @@
+{
+  "id": 1309729745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63189,43.76072,17.63189,43.76072",
+    "geom:latitude":43.76072,
+    "geom:longitude":17.63189,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ricice",
+    "gn:country_code":"BA",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292965,
+    "gn:latitude":43.76072,
+    "gn:longitude":17.63189,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ri\u010dice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munikoze",
+        "Ri\u010dice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292965
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6e72bb69d0d639c8615cbf26ba502ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1309729745,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1309729745,
+    "wof:lastmodified":1537585677,
+    "wof:name":"Ricice",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63189,
+    43.76072,
+    17.63189,
+    43.76072
+],
+  "geometry": {"coordinates":[17.63189,43.76072],"type":"Point"}
+}

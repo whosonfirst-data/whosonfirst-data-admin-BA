@@ -1,0 +1,67 @@
+{
+  "id": 1326542973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22353,43.18636,18.22353,43.18636",
+    "geom:latitude":43.18636,
+    "geom:longitude":18.22353,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cantrovina",
+    "gn:country_code":"BA",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3266059,
+    "gn:latitude":43.18636,
+    "gn:longitude":18.22353,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u010cantrovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266059
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"30e6b03be85247177485eef55cb5085f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1326542973,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326542973,
+    "wof:lastmodified":1536968174,
+    "wof:name":"Cantrovina",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22353,
+    43.18636,
+    18.22353,
+    43.18636
+],
+  "geometry": {"coordinates":[18.22353,43.18636],"type":"Point"}
+}

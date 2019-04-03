@@ -1,0 +1,62 @@
+{
+  "id": 1209529663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28413,43.50861,18.28413,43.50861",
+    "geom:latitude":43.50861,
+    "geom:longitude":18.28413,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mokro",
+    "gn:country_code":"BA",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194906,
+    "gn:latitude":43.50861,
+    "gn:longitude":18.28413,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mokro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194906,
+        "wk:page":"Mokro"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5ec8d102946453fb1b53b1177c9190e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209529663
+        }
+    ],
+    "wof:id":1209529663,
+    "wof:lastmodified":1537486746,
+    "wof:name":"Mokro",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28413,
+    43.50861,
+    18.28413,
+    43.50861
+],
+  "geometry": {"coordinates":[18.28413,43.50861],"type":"Point"}
+}

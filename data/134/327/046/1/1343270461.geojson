@@ -1,0 +1,67 @@
+{
+  "id": 1343270461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.043,43.10434,18.043,43.10434",
+    "geom:latitude":43.10434,
+    "geom:longitude":18.043,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kameni Obor",
+    "gn:country_code":"BA",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3266475,
+    "gn:latitude":43.10434,
+    "gn:longitude":18.043,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kameni Obor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266475
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"342b108750fa798fa91e778926a12843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759251,
+            "locality_id":1343270461,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343270461,
+    "wof:lastmodified":1537019546,
+    "wof:name":"Kameni Obor",
+    "wof:parent_id":1108759251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.043,
+    43.10434,
+    18.043,
+    43.10434
+],
+  "geometry": {"coordinates":[18.043,43.10434],"type":"Point"}
+}

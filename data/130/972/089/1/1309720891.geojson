@@ -1,0 +1,67 @@
+{
+  "id": 1309720891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.82496,43.56422,18.82496,43.56422",
+    "geom:latitude":43.56422,
+    "geom:longitude":18.82496,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marisalici",
+    "gn:country_code":"BA",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271543,
+    "gn:latitude":43.56422,
+    "gn:longitude":18.82496,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Marisali\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271543
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b587c253c42ab348a17909712586ff07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1309720891,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309720891,
+    "wof:lastmodified":1537051267,
+    "wof:name":"Marisalici",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82496,
+    43.56422,
+    18.82496,
+    43.56422
+],
+  "geometry": {"coordinates":[18.82496,43.56422],"type":"Point"}
+}

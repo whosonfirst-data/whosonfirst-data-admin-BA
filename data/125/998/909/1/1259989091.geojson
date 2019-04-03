@@ -1,0 +1,67 @@
+{
+  "id": 1259989091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82988,44.83625,15.82988,44.83625",
+    "geom:latitude":44.83625,
+    "geom:longitude":15.82988,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pecikovici",
+    "gn:country_code":"BA",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212850,
+    "gn:latitude":44.83625,
+    "gn:longitude":15.82988,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pecikovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212850
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"026687878574dcb9c694fc16e9f65246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1259989091,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1259989091,
+    "wof:lastmodified":1536625047,
+    "wof:name":"Pecikovici",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82988,
+    44.83625,
+    15.82988,
+    44.83625
+],
+  "geometry": {"coordinates":[15.82988,44.83625],"type":"Point"}
+}

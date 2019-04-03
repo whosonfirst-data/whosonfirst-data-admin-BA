@@ -1,0 +1,67 @@
+{
+  "id": 1226355377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.88333,44.86667,16.88333,44.86667",
+    "geom:latitude":44.86667,
+    "geom:longitude":16.88333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gradina",
+    "gn:country_code":"BA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199705,
+    "gn:latitude":44.86667,
+    "gn:longitude":16.88333,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Gradina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199705
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f9a749ae7e405a4ade6790ea03767faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1226355377,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226355377,
+    "wof:lastmodified":1536776138,
+    "wof:name":"Gradina",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.88332999999999,
+    44.86667,
+    16.88332999999999,
+    44.86667
+],
+  "geometry": {"coordinates":[16.88332999999999,44.86667],"type":"Point"}
+}

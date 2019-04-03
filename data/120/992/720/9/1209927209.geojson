@@ -1,0 +1,71 @@
+{
+  "id": 1209927209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23517,44.86469,18.23517,44.86469",
+    "geom:latitude":44.86469,
+    "geom:longitude":18.23517,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vranjacka Trebava",
+    "gn:country_code":"BA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210874,
+    "gn:latitude":44.86469,
+    "gn:longitude":18.23517,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vranja\u010dka Trebava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vranrak",
+        "Vranja\u010dka Trebava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210874
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a5ce41e9db59967ab3b6b99bc85e78a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759169,
+            "locality_id":1209927209,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209927209,
+    "wof:lastmodified":1537585642,
+    "wof:name":"Vranjacka Trebava",
+    "wof:parent_id":1108759169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23517,
+    44.86469,
+    18.23517,
+    44.86469
+],
+  "geometry": {"coordinates":[18.23517,44.86469],"type":"Point"}
+}

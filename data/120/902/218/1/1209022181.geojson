@@ -1,0 +1,61 @@
+{
+  "id": 1209022181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65694,44.22333,16.65694,44.22333",
+    "geom:latitude":44.22333,
+    "geom:longitude":16.65694,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rokvici",
+    "gn:country_code":"BA",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3237278,
+    "gn:latitude":44.22333,
+    "gn:longitude":16.65694,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Rokvi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3237278
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2673058e949be507209b3f83f0ebf885",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209022181
+        }
+    ],
+    "wof:id":1209022181,
+    "wof:lastmodified":1536300113,
+    "wof:name":"Rokvici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65694,
+    44.22333,
+    16.65694,
+    44.22333
+],
+  "geometry": {"coordinates":[16.65694,44.22333],"type":"Point"}
+}

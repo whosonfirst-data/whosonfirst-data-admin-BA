@@ -1,0 +1,67 @@
+{
+  "id": 1226151727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.09598,44.71758,17.09598,44.71758",
+    "geom:latitude":44.71758,
+    "geom:longitude":17.09598,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Janjici",
+    "gn:country_code":"BA",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250275,
+    "gn:latitude":44.71758,
+    "gn:longitude":17.09598,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Janji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250275
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b48462cadfe8f1b67f266c18945c4b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1226151727,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226151727,
+    "wof:lastmodified":1537066098,
+    "wof:name":"Janjici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.09597999999999,
+    44.71758,
+    17.09597999999999,
+    44.71758
+],
+  "geometry": {"coordinates":[17.09597999999999,44.71758],"type":"Point"}
+}

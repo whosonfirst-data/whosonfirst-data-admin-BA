@@ -1,0 +1,68 @@
+{
+  "id": 1276242801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31472,44.22861,17.31472,44.22861",
+    "geom:latitude":44.22861,
+    "geom:longitude":17.31472,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Torlakovac",
+    "gn:country_code":"BA",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188961,
+    "gn:latitude":44.22861,
+    "gn:longitude":17.31472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Torlakovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188961,
+        "wk:page":"Torlakovac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"324327d4190c99fb0c3f36029524ffe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759065,
+            "locality_id":1276242801,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1276242801,
+    "wof:lastmodified":1537486718,
+    "wof:name":"Torlakovac",
+    "wof:parent_id":1108759065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31472,
+    44.22861,
+    17.31472,
+    44.22861
+],
+  "geometry": {"coordinates":[17.31472,44.22861],"type":"Point"}
+}

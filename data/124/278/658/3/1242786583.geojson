@@ -1,0 +1,67 @@
+{
+  "id": 1242786583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.52056,43.96361,19.52056,43.96361",
+    "geom:latitude":43.96361,
+    "geom:longitude":19.52056,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Resagici",
+    "gn:country_code":"BA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303750,
+    "gn:latitude":43.96361,
+    "gn:longitude":19.52056,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Re\u0161agi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303750
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9e7d9b96bb21bfe35b5848e663419ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1242786583,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242786583,
+    "wof:lastmodified":1536762856,
+    "wof:name":"Resagici",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.52056,
+    43.96361,
+    19.52056,
+    43.96361
+],
+  "geometry": {"coordinates":[19.52056,43.96361],"type":"Point"}
+}

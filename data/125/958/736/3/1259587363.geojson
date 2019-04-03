@@ -1,0 +1,67 @@
+{
+  "id": 1259587363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.29083,44.21528,16.29083,44.21528",
+    "geom:latitude":44.21528,
+    "geom:longitude":16.29083,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Barisici",
+    "gn:country_code":"BA",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281410,
+    "gn:latitude":44.21528,
+    "gn:longitude":16.29083,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Bari\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281410
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cea34a964db615aed06b42b4a0a26b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1259587363,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1259587363,
+    "wof:lastmodified":1536709483,
+    "wof:name":"Barisici",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.29083,
+    44.21528,
+    16.29083,
+    44.21528
+],
+  "geometry": {"coordinates":[16.29083,44.21528],"type":"Point"}
+}

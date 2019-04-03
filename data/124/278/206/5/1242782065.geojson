@@ -1,0 +1,67 @@
+{
+  "id": 1242782065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7662,44.57866,18.7662,44.57866",
+    "geom:latitude":44.57866,
+    "geom:longitude":18.7662,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kasimovici",
+    "gn:country_code":"BA",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255970,
+    "gn:latitude":44.57866,
+    "gn:longitude":18.7662,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kasimovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255970
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"82206e5fea7ed847814e04c0dd558a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1242782065,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1242782065,
+    "wof:lastmodified":1536769617,
+    "wof:name":"Kasimovici",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7662,
+    44.57866,
+    18.7662,
+    44.57866
+],
+  "geometry": {"coordinates":[18.7662,44.57866],"type":"Point"}
+}

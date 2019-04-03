@@ -1,0 +1,67 @@
+{
+  "id": 1310605293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3922,44.79821,16.3922,44.79821",
+    "geom:latitude":44.79821,
+    "geom:longitude":16.3922,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kondici",
+    "gn:country_code":"BA",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247559,
+    "gn:latitude":44.79821,
+    "gn:longitude":16.3922,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kondi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247559
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5e62b8b4385cb9349c69e335a75861df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759219,
+            "locality_id":1310605293,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1310605293,
+    "wof:lastmodified":1536773576,
+    "wof:name":"Kondici",
+    "wof:parent_id":1108759219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3922,
+    44.79821,
+    16.3922,
+    44.79821
+],
+  "geometry": {"coordinates":[16.3922,44.79821],"type":"Point"}
+}

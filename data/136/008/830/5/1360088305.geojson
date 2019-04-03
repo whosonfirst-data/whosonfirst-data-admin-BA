@@ -1,0 +1,72 @@
+{
+  "id": 1360088305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53333,44.61972,17.53333,44.61972",
+    "geom:latitude":44.61972,
+    "geom:longitude":17.53333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Simunovici",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260277,
+    "gn:latitude":44.61972,
+    "gn:longitude":17.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Simunovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blagojevi\u0107i",
+        "Simunovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260277
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"97113f7fc95eb50554899baa427cd0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1360088305,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360088305,
+    "wof:lastmodified":1537585664,
+    "wof:name":"Simunovici",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53333,
+    44.61972,
+    17.53333,
+    44.61972
+],
+  "geometry": {"coordinates":[17.53333,44.61972],"type":"Point"}
+}

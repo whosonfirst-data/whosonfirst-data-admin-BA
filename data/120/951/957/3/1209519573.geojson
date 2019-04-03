@@ -1,0 +1,61 @@
+{
+  "id": 1209519573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08975,44.56455,18.08975,44.56455",
+    "geom:latitude":44.56455,
+    "geom:longitude":18.08975,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jelovac",
+    "gn:country_code":"BA",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258675,
+    "gn:latitude":44.56455,
+    "gn:longitude":18.08975,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jelovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258675
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6f48ebfe5c15f990d3809775e4dcc9a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209519573
+        }
+    ],
+    "wof:id":1209519573,
+    "wof:lastmodified":1536284623,
+    "wof:name":"Jelovac",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08975,
+    44.56455,
+    18.08975,
+    44.56455
+],
+  "geometry": {"coordinates":[18.08975,44.56455],"type":"Point"}
+}

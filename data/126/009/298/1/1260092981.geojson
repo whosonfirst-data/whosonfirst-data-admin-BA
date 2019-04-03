@@ -1,0 +1,71 @@
+{
+  "id": 1260092981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7443,44.9123,17.7443,44.9123",
+    "geom:latitude":44.9123,
+    "geom:longitude":17.7443,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donji Palackovci",
+    "gn:country_code":"BA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201420,
+    "gn:latitude":44.9123,
+    "gn:longitude":17.7443,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donji Pala\u010dkovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pala\u010dkovci Donji",
+        "Donji Pala\u010dkovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201420
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f98c28556034d55b6cce7df93592a845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1260092981,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260092981,
+    "wof:lastmodified":1537585610,
+    "wof:name":"Donji Palackovci",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7443,
+    44.9123,
+    17.7443,
+    44.9123
+],
+  "geometry": {"coordinates":[17.7443,44.9123],"type":"Point"}
+}

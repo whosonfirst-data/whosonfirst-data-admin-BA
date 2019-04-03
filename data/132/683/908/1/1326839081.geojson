@@ -1,0 +1,67 @@
+{
+  "id": 1326839081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00818,44.88036,18.00818,44.88036",
+    "geom:latitude":44.88036,
+    "geom:longitude":18.00818,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornja Komarica",
+    "gn:country_code":"BA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256052,
+    "gn:latitude":44.88036,
+    "gn:longitude":18.00818,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornja Komarica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256052
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c4c929abfff7696c6a5e904b240a8e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1326839081,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326839081,
+    "wof:lastmodified":1537037204,
+    "wof:name":"Gornja Komarica",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00818,
+    44.88036,
+    18.00818,
+    44.88036
+],
+  "geometry": {"coordinates":[18.00818,44.88036],"type":"Point"}
+}

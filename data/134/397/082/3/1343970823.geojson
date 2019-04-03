@@ -1,0 +1,67 @@
+{
+  "id": 1343970823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19778,44.85007,17.19778,44.85007",
+    "geom:latitude":44.85007,
+    "geom:longitude":17.19778,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jakobasici",
+    "gn:country_code":"BA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3246992,
+    "gn:latitude":44.85007,
+    "gn:longitude":17.19778,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jakoba\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3246992
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1a3344f0949a2f6c285adbe20b07d99b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1343970823,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343970823,
+    "wof:lastmodified":1537004226,
+    "wof:name":"Jakobasici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19778,
+    44.85007,
+    17.19778,
+    44.85007
+],
+  "geometry": {"coordinates":[17.19778,44.85007],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 890518593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42576,44.72897,18.42576,44.72897",
+    "geom:latitude":44.72897,
+    "geom:longitude":18.42576,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":4304,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Sladna"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0430\u0434\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Sladna"
+    ],
+    "name:eng_x_preferred":[
+        "Sladna"
+    ],
+    "name:fre_x_preferred":[
+        "Sladna"
+    ],
+    "name:hrv_x_preferred":[
+        "Sladna"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0434\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sladna"
+    ],
+    "qs:name":"Sladna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190652,
+        "gp:id":943956,
+        "qs:id":147123,
+        "wd:id":"Q3118302",
+        "wk:page":"Sladna"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056071,
+    "wof:geomhash":"1397d4c2794b0e5ec5f3d00ec2c0c3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759243,
+            "locality_id":890518593,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890518593,
+    "wof:lastmodified":1527751228,
+    "wof:name":"Sladna",
+    "wof:parent_id":1108759243,
+    "wof:placetype":"locality",
+    "wof:population":4304,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42576,
+    44.72897,
+    18.42576,
+    44.72897
+],
+  "geometry": {"coordinates":[18.42576,44.72897],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343578885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01279,45.19652,16.01279,45.19652",
+    "geom:latitude":45.19652,
+    "geom:longitude":16.01279,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bosanska Bojna",
+    "gn:country_code":"BA",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203658,
+    "gn:latitude":45.19652,
+    "gn:longitude":16.01279,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bosanska Bojna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203658,
+        "wk:page":"Bosanska_Bojna"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"53db5d2bc7a4db5b8b4324c9a332633a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1343578885,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1343578885,
+    "wof:lastmodified":1537486796,
+    "wof:name":"Bosanska Bojna",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01279,
+    45.19652,
+    16.01279,
+    45.19652
+],
+  "geometry": {"coordinates":[16.01279,45.19652],"type":"Point"}
+}

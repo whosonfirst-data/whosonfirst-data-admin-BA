@@ -1,0 +1,67 @@
+{
+  "id": 1310120221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52457,44.79759,18.52457,44.79759",
+    "geom:latitude":44.79759,
+    "geom:longitude":18.52457,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252966,
+    "gn:latitude":44.79759,
+    "gn:longitude":18.52457,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donja Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252966
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3ca4690d0e8aea203e3c7abd0f635bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759093,
+            "locality_id":1310120221,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310120221,
+    "wof:lastmodified":1536974676,
+    "wof:name":"Donja Mahala",
+    "wof:parent_id":1108759093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52457,
+    44.79759,
+    18.52457,
+    44.79759
+],
+  "geometry": {"coordinates":[18.52457,44.79759],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276550699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07419,43.21486,18.07419,43.21486",
+    "geom:latitude":43.21486,
+    "geom:longitude":18.07419,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kula",
+    "gn:country_code":"BA",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267096,
+    "gn:latitude":43.21486,
+    "gn:longitude":18.07419,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267096
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2db302519314fdaa9675c5e1caa97692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1276550699,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276550699,
+    "wof:lastmodified":1536983939,
+    "wof:name":"Kula",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07419,
+    43.21486,
+    18.07419,
+    43.21486
+],
+  "geometry": {"coordinates":[18.07419,43.21486],"type":"Point"}
+}

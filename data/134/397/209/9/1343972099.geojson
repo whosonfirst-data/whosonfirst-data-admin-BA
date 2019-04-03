@@ -1,0 +1,67 @@
+{
+  "id": 1343972099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0,44.21667,18.0,44.21667",
+    "geom:latitude":44.21667,
+    "geom:longitude":18.0,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vranovici",
+    "gn:country_code":"BA",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187345,
+    "gn:latitude":44.21667,
+    "gn:longitude":18.0,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Vranovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187345
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0d5bd8aa36373904b3ca8eb3444fa621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1343972099,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1343972099,
+    "wof:lastmodified":1537002358,
+    "wof:name":"Vranovici",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0,
+    44.21667,
+    18.0,
+    44.21667
+],
+  "geometry": {"coordinates":[18.0,44.21667],"type":"Point"}
+}

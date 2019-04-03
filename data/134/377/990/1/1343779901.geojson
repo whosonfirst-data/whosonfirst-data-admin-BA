@@ -1,0 +1,67 @@
+{
+  "id": 1343779901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14269,43.59924,17.14269,43.59924",
+    "geom:latitude":43.59924,
+    "geom:longitude":17.14269,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pavin Dolac",
+    "gn:country_code":"BA",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284452,
+    "gn:latitude":43.59924,
+    "gn:longitude":17.14269,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pavin Dolac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284452
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a40d80ed1d0d857b2c94d142fccb5aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1343779901,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1343779901,
+    "wof:lastmodified":1536783403,
+    "wof:name":"Pavin Dolac",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14269,
+    43.59924,
+    17.14269,
+    43.59924
+],
+  "geometry": {"coordinates":[17.14269,43.59924],"type":"Point"}
+}

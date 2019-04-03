@@ -1,0 +1,67 @@
+{
+  "id": 1327241227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7077,44.54929,18.7077,44.54929",
+    "geom:latitude":44.54929,
+    "geom:longitude":18.7077,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Palavrici",
+    "gn:country_code":"BA",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259176,
+    "gn:latitude":44.54929,
+    "gn:longitude":18.7077,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Palavri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259176
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"efe6756176cbc5e5d3a9b8d77241a29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1327241227,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1327241227,
+    "wof:lastmodified":1536956752,
+    "wof:name":"Palavrici",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7077,
+    44.54929,
+    18.7077,
+    44.54929
+],
+  "geometry": {"coordinates":[18.7077,44.54929],"type":"Point"}
+}

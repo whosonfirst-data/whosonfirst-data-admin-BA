@@ -1,0 +1,67 @@
+{
+  "id": 1276456245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0415,44.74313,18.0415,44.74313",
+    "geom:latitude":44.74313,
+    "geom:longitude":18.0415,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mala Bukovica",
+    "gn:country_code":"BA",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195869,
+    "gn:latitude":44.74313,
+    "gn:longitude":18.0415,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mala Bukovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195869
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d1e0774d7ec00bf42b66f07f8093d810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1276456245,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276456245,
+    "wof:lastmodified":1536611414,
+    "wof:name":"Mala Bukovica",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0415,
+    44.74313,
+    18.0415,
+    44.74313
+],
+  "geometry": {"coordinates":[18.0415,44.74313],"type":"Point"}
+}

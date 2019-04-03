@@ -1,0 +1,67 @@
+{
+  "id": 1277087293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72915,44.85004,17.72915,44.85004",
+    "geom:latitude":44.85004,
+    "geom:longitude":17.72915,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Slatinci",
+    "gn:country_code":"BA",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252668,
+    "gn:latitude":44.85004,
+    "gn:longitude":17.72915,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Slatinci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252668
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c14757c58f2370337e3e7f46c080c119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1277087293,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1277087293,
+    "wof:lastmodified":1536761209,
+    "wof:name":"Slatinci",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72915,
+    44.85004,
+    17.72915,
+    44.85004
+],
+  "geometry": {"coordinates":[17.72915,44.85004],"type":"Point"}
+}

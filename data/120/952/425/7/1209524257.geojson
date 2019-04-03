@@ -1,0 +1,66 @@
+{
+  "id": 1209524257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94984,45.21136,16.94984,45.21136",
+    "geom:latitude":45.21136,
+    "geom:longitude":16.94984,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornja Mededa",
+    "gn:country_code":"BA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200226,
+    "gn:latitude":45.21136,
+    "gn:longitude":16.94984,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornja Me\u0111e\u0111a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Me\u0111i\u0111a",
+        "Gornja Medjedja",
+        "Gornja Me\u0111e\u0111a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200226
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ecc180ac8c6620a0ae83f164ce8abfa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209524257
+        }
+    ],
+    "wof:id":1209524257,
+    "wof:lastmodified":1537585603,
+    "wof:name":"Gornja Mededa",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94984,
+    45.21136,
+    16.94984,
+    45.21136
+],
+  "geometry": {"coordinates":[16.94984,45.21136],"type":"Point"}
+}

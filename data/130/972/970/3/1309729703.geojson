@@ -1,0 +1,71 @@
+{
+  "id": 1309729703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10472,44.64528,16.10472,44.64528",
+    "geom:latitude":44.64528,
+    "geom:longitude":16.10472,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Orasko Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194033,
+    "gn:latitude":44.64528,
+    "gn:longitude":16.10472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ora\u0161ko Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ora\u0161ko Brdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194033,
+        "wk:page":"Ora%C5%A1ko_Brdo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"32d80d0e349e277532d0e8b3846721d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759013,
+            "locality_id":1309729703,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1309729703,
+    "wof:lastmodified":1537585576,
+    "wof:name":"Orasko Brdo",
+    "wof:parent_id":1108759013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10472,
+    44.64528,
+    16.10472,
+    44.64528
+],
+  "geometry": {"coordinates":[16.10472,44.64528],"type":"Point"}
+}

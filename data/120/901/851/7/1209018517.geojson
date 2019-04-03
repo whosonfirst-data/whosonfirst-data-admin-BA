@@ -1,0 +1,61 @@
+{
+  "id": 1209018517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91473,44.27906,17.91473,44.27906",
+    "geom:latitude":44.27906,
+    "geom:longitude":17.91473,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ponirak",
+    "gn:country_code":"BA",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192737,
+    "gn:latitude":44.27906,
+    "gn:longitude":17.91473,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ponirak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192737
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8c6d88590235ea7604a286f3db1f0daa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209018517
+        }
+    ],
+    "wof:id":1209018517,
+    "wof:lastmodified":1536300218,
+    "wof:name":"Ponirak",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91473,
+    44.27906,
+    17.91473,
+    44.27906
+],
+  "geometry": {"coordinates":[17.91473,44.27906],"type":"Point"}
+}

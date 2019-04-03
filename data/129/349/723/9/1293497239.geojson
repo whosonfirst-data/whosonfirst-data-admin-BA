@@ -1,0 +1,71 @@
+{
+  "id": 1293497239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13224,43.92742,18.13224,43.92742",
+    "geom:latitude":43.92742,
+    "geom:longitude":18.13224,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Calikovac",
+    "gn:country_code":"BA",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298035,
+    "gn:latitude":43.92742,
+    "gn:longitude":18.13224,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u010calikovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010calikovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298035,
+        "wk:page":"%C4%8Calikovac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"61ee3586d4a494b04c451dc880b3012f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759127,
+            "locality_id":1293497239,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1293497239,
+    "wof:lastmodified":1537585680,
+    "wof:name":"Calikovac",
+    "wof:parent_id":1108759127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13224,
+    43.92742,
+    18.13224,
+    43.92742
+],
+  "geometry": {"coordinates":[18.13224,43.92742],"type":"Point"}
+}

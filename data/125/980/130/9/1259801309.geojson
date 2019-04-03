@@ -1,0 +1,67 @@
+{
+  "id": 1259801309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49843,43.758,17.49843,43.758",
+    "geom:latitude":43.758,
+    "geom:longitude":17.49843,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ivanike",
+    "gn:country_code":"BA",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3294319,
+    "gn:latitude":43.758,
+    "gn:longitude":17.49843,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ivanike",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294319
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bf8fc91a17a2460e58d361c6a5eff9ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1259801309,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1259801309,
+    "wof:lastmodified":1536897428,
+    "wof:name":"Ivanike",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49843,
+    43.758,
+    17.49843,
+    43.758
+],
+  "geometry": {"coordinates":[17.49843,43.758],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310613937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98553,44.59679,16.98553,44.59679",
+    "geom:latitude":44.59679,
+    "geom:longitude":16.98553,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pajici",
+    "gn:country_code":"BA",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247923,
+    "gn:latitude":44.59679,
+    "gn:longitude":16.98553,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Paji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247923
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"62cfc453df94b7c8b4c3d06b8f7a969b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1310613937,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310613937,
+    "wof:lastmodified":1536760654,
+    "wof:name":"Pajici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98552999999999,
+    44.59679000000001,
+    16.98552999999999,
+    44.59679000000001
+],
+  "geometry": {"coordinates":[16.98552999999999,44.59679000000001],"type":"Point"}
+}

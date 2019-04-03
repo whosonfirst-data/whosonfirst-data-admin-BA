@@ -1,0 +1,72 @@
+{
+  "id": 1276989843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18838,43.59841,19.18838,43.59841",
+    "geom:latitude":43.59841,
+    "geom:longitude":19.18838,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Milatkovici",
+    "gn:country_code":"BA",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195139,
+    "gn:latitude":43.59841,
+    "gn:longitude":19.18838,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Milatkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miletkovi\u0107i",
+        "Milatkovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195139,
+        "wk:page":"Milatkovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f5dba6178275be478b82eda01a7c566a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759035,
+            "locality_id":1276989843,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276989843,
+    "wof:lastmodified":1537585582,
+    "wof:name":"Milatkovici",
+    "wof:parent_id":1108759035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18838,
+    43.59841,
+    19.18838,
+    43.59841
+],
+  "geometry": {"coordinates":[19.18838,43.59841],"type":"Point"}
+}

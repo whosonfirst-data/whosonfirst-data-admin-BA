@@ -1,0 +1,67 @@
+{
+  "id": 1226152043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85985,44.94488,16.85985,44.94488",
+    "geom:latitude":44.94488,
+    "geom:longitude":16.85985,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donlagici",
+    "gn:country_code":"BA",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250181,
+    "gn:latitude":44.94488,
+    "gn:longitude":16.85985,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u00d0onlagi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250181
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ba6dce172ced124c0d3a2d0733f229c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1226152043,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226152043,
+    "wof:lastmodified":1537065644,
+    "wof:name":"Donlagici",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85985,
+    44.94488,
+    16.85985,
+    44.94488
+],
+  "geometry": {"coordinates":[16.85985,44.94488],"type":"Point"}
+}

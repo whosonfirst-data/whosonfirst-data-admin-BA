@@ -1,0 +1,68 @@
+{
+  "id": 1293603061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98921,45.13573,15.98921,45.13573",
+    "geom:latitude":45.13573,
+    "geom:longitude":15.98921,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Crvarevac",
+    "gn:country_code":"BA",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3277641,
+    "gn:latitude":45.13573,
+    "gn:longitude":15.98921,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Crvarevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277641,
+        "wk:page":"Crvarevac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ef46567c09e472e8068edca66711472d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1293603061,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293603061,
+    "wof:lastmodified":1537486849,
+    "wof:name":"Crvarevac",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98921,
+    45.13573,
+    15.98921,
+    45.13573
+],
+  "geometry": {"coordinates":[15.98921,45.13573],"type":"Point"}
+}

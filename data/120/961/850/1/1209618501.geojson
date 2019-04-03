@@ -1,0 +1,65 @@
+{
+  "id": 1209618501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59596,44.858,18.59596,44.858",
+    "geom:latitude":44.858,
+    "geom:longitude":18.59596,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Blazevac",
+    "gn:country_code":"BA",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203932,
+    "gn:latitude":44.858,
+    "gn:longitude":18.59596,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bla\u017eevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bla\u017eevac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203932,
+        "wk:page":"Bla%C5%BEevac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0dfc3eb4842896de276f638db633c9d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209618501
+        }
+    ],
+    "wof:id":1209618501,
+    "wof:lastmodified":1537585626,
+    "wof:name":"Blazevac",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59596,
+    44.858,
+    18.59596,
+    44.858
+],
+  "geometry": {"coordinates":[18.59596,44.858],"type":"Point"}
+}

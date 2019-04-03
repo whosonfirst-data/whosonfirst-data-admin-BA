@@ -1,0 +1,97 @@
+{
+  "id": 890519053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95444,45.16369,15.95444,45.16369",
+    "geom:latitude":45.16369,
+    "geom:longitude":15.95444,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":6860,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vrnogra\u010d"
+    ],
+    "name:dut_x_preferred":[
+        "Vrnogra\u010d"
+    ],
+    "name:eng_x_preferred":[
+        "Vrnogra\u010d"
+    ],
+    "name:fre_x_preferred":[
+        "Vrnogra\u010d"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrnogra\u010d"
+    ],
+    "name:sco_x_preferred":[
+        "Vrnogra\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u043d\u043e\u0433\u0440\u0430\u0447"
+    ],
+    "name:swe_x_preferred":[
+        "Vrnogra\u010d"
+    ],
+    "qs:name":"Vrnogra\u010d",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187162,
+        "gp:id":944622,
+        "qs:id":1283597,
+        "wd:id":"Q3118032",
+        "wk:page":"Vrnogra\u010d"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056090,
+    "wof:geomhash":"8f1dabdf5c386138d4bcfe5490a211ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":890519053,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890519053,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Vrnogra\u010d",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:population":6860,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95444,
+    45.16369,
+    15.95444,
+    45.16369
+],
+  "geometry": {"coordinates":[15.95444,45.16369],"type":"Point"}
+}

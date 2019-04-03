@@ -1,0 +1,67 @@
+{
+  "id": 1243185139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06337,44.43013,17.06337,44.43013",
+    "geom:latitude":44.43013,
+    "geom:longitude":17.06337,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stupari",
+    "gn:country_code":"BA",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3189620,
+    "gn:latitude":44.43013,
+    "gn:longitude":17.06337,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Stupari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189620
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d372c9cd1155e84ddfc84750423ab3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1243185139,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243185139,
+    "wof:lastmodified":1536685190,
+    "wof:name":"Stupari",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06337000000001,
+    44.43013,
+    17.06337000000001,
+    44.43013
+],
+  "geometry": {"coordinates":[17.06337000000001,44.43013],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344069939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6568,45.05088,16.6568,45.05088",
+    "geom:latitude":45.05088,
+    "geom:longitude":16.6568,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Balabani",
+    "gn:country_code":"BA",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282392,
+    "gn:latitude":45.05088,
+    "gn:longitude":16.6568,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Balabani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282392
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"502402db4337cd7e6f820020ad676e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1344069939,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344069939,
+    "wof:lastmodified":1536860439,
+    "wof:name":"Balabani",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6568,
+    45.05088,
+    16.6568,
+    45.05088
+],
+  "geometry": {"coordinates":[16.6568,45.05088],"type":"Point"}
+}

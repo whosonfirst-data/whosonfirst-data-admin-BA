@@ -1,0 +1,67 @@
+{
+  "id": 1326939925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.62147,43.82725,17.62147,43.82725",
+    "geom:latitude":43.82725,
+    "geom:longitude":17.62147,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kulaglici",
+    "gn:country_code":"BA",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3294670,
+    "gn:latitude":43.82725,
+    "gn:longitude":17.62147,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kulagli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294670
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bccb49f8cf8e6d58a2addcb469fa0181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1326939925,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1326939925,
+    "wof:lastmodified":1536893325,
+    "wof:name":"Kulaglici",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62147000000001,
+    43.82725,
+    17.62147000000001,
+    43.82725
+],
+  "geometry": {"coordinates":[17.62147000000001,43.82725],"type":"Point"}
+}

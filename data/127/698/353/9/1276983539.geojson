@@ -1,0 +1,71 @@
+{
+  "id": 1276983539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.35754,43.76624,19.35754,43.76624",
+    "geom:latitude":43.76624,
+    "geom:longitude":19.35754,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zagre",
+    "gn:country_code":"BA",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3186887,
+    "gn:latitude":43.76624,
+    "gn:longitude":19.35754,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u017dagre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u017dagre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186887,
+        "wk:page":"%C5%BDagre"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6aec02d85af32fd6dbe6537132afb15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1276983539,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276983539,
+    "wof:lastmodified":1537585548,
+    "wof:name":"Zagre",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.35754,
+    43.76624,
+    19.35754,
+    43.76624
+],
+  "geometry": {"coordinates":[19.35754,43.76624],"type":"Point"}
+}

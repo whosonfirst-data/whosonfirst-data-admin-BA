@@ -1,0 +1,72 @@
+{
+  "id": 1310613799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84234,44.49191,16.84234,44.49191",
+    "geom:latitude":44.49191,
+    "geom:longitude":16.84234,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zablece",
+    "gn:country_code":"BA",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3187002,
+    "gn:latitude":44.49191,
+    "gn:longitude":16.84234,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zable\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zabla\u0107e",
+        "Zable\u0107e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187002,
+        "wk:page":"Zable%C4%87e"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8faf138d5487894e5cfda1dc1561c819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759135,
+            "locality_id":1310613799,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310613799,
+    "wof:lastmodified":1537585549,
+    "wof:name":"Zablece",
+    "wof:parent_id":1108759135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84234,
+    44.49191,
+    16.84234,
+    44.49191
+],
+  "geometry": {"coordinates":[16.84234,44.49191],"type":"Point"}
+}

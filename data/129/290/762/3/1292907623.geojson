@@ -1,0 +1,67 @@
+{
+  "id": 1292907623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38881,44.3991,17.38881,44.3991",
+    "geom:latitude":44.3991,
+    "geom:longitude":17.38881,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kocanovica",
+    "gn:country_code":"BA",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3236640,
+    "gn:latitude":44.3991,
+    "gn:longitude":17.38881,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ko\u010danovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3236640
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a382744ede52917fc662854501bd89a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759061,
+            "locality_id":1292907623,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1292907623,
+    "wof:lastmodified":1536627092,
+    "wof:name":"Kocanovica",
+    "wof:parent_id":1108759061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38881,
+    44.3991,
+    17.38881,
+    44.3991
+],
+  "geometry": {"coordinates":[17.38881,44.3991],"type":"Point"}
+}

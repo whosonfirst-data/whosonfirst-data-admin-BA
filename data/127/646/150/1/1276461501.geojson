@@ -1,0 +1,72 @@
+{
+  "id": 1276461501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28172,43.42465,17.28172,43.42465",
+    "geom:latitude":43.42465,
+    "geom:longitude":17.28172,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Mala",
+    "gn:country_code":"BA",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213603,
+    "gn:latitude":43.42465,
+    "gn:longitude":17.28172,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donja Mala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Mah",
+        "Donja Mahala",
+        "Donja Mala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213603
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"911471ab9113ae2ce517e7dce048fbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1276461501,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1276461501,
+    "wof:lastmodified":1537585658,
+    "wof:name":"Donja Mala",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28172,
+    43.42465,
+    17.28172,
+    43.42465
+],
+  "geometry": {"coordinates":[17.28172,43.42465],"type":"Point"}
+}

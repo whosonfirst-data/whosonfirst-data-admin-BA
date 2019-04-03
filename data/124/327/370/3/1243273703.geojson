@@ -1,0 +1,67 @@
+{
+  "id": 1243273703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51139,43.29056,17.51139,43.29056",
+    "geom:latitude":43.29056,
+    "geom:longitude":17.51139,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sevi",
+    "gn:country_code":"BA",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291797,
+    "gn:latitude":43.29056,
+    "gn:longitude":17.51139,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"\u0160evi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291797
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f414467d74cb95f48e5d245e62532a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1243273703,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1243273703,
+    "wof:lastmodified":1537052241,
+    "wof:name":"Sevi",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51139,
+    43.29056,
+    17.51139,
+    43.29056
+],
+  "geometry": {"coordinates":[17.51139,43.29056],"type":"Point"}
+}

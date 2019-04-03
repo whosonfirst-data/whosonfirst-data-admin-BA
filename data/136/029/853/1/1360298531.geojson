@@ -1,0 +1,67 @@
+{
+  "id": 1360298531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.52989,44.95135,16.52989,44.95135",
+    "geom:latitude":44.95135,
+    "geom:longitude":16.52989,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Malinici",
+    "gn:country_code":"BA",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3245771,
+    "gn:latitude":44.95135,
+    "gn:longitude":16.52989,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Malini\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3245771
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8ab301b1faece7b7897c98e2887ecff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1360298531,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360298531,
+    "wof:lastmodified":1536636439,
+    "wof:name":"Malinici",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.52989,
+    44.95135,
+    16.52989,
+    44.95135
+],
+  "geometry": {"coordinates":[16.52989,44.95135],"type":"Point"}
+}

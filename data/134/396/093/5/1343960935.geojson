@@ -1,0 +1,68 @@
+{
+  "id": 1343960935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26222,43.79528,19.26222,43.79528",
+    "geom:latitude":43.79528,
+    "geom:longitude":19.26222,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donja Lijeska",
+    "gn:country_code":"BA",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201672,
+    "gn:latitude":43.79528,
+    "gn:longitude":19.26222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Donja Lijeska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201672,
+        "wk:page":"Donja_Lijeska"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"363ff70670f5b065ae71de2b21156066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1343960935,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343960935,
+    "wof:lastmodified":1537486783,
+    "wof:name":"Donja Lijeska",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26222000000001,
+    43.79528,
+    19.26222000000001,
+    43.79528
+],
+  "geometry": {"coordinates":[19.26222000000001,43.79528],"type":"Point"}
+}

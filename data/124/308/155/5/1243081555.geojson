@@ -1,0 +1,67 @@
+{
+  "id": 1243081555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67106,44.73446,16.67106,44.73446",
+    "geom:latitude":44.73446,
+    "geom:longitude":16.67106,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donji Cemberi",
+    "gn:country_code":"BA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247213,
+    "gn:latitude":44.73446,
+    "gn:longitude":16.67106,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Donji \u010cemberi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247213
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e7fdc3727bb7843e691c0c69f751fcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759219,
+            "locality_id":1243081555,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1243081555,
+    "wof:lastmodified":1536833404,
+    "wof:name":"Donji Cemberi",
+    "wof:parent_id":1108759219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67106,
+    44.73446,
+    16.67106,
+    44.73446
+],
+  "geometry": {"coordinates":[16.67106,44.73446],"type":"Point"}
+}

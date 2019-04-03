@@ -1,0 +1,67 @@
+{
+  "id": 1343862377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.64579,43.44696,17.64579,43.44696",
+    "geom:latitude":43.44696,
+    "geom:longitude":17.64579,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Prskale",
+    "gn:country_code":"BA",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287875,
+    "gn:latitude":43.44696,
+    "gn:longitude":17.64579,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Prskale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287875
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c7904ef470b34223a08f63549aa422b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1343862377,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1343862377,
+    "wof:lastmodified":1536663822,
+    "wof:name":"Prskale",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.64578999999999,
+    43.44696,
+    17.64578999999999,
+    43.44696
+],
+  "geometry": {"coordinates":[17.64578999999999,43.44696],"type":"Point"}
+}

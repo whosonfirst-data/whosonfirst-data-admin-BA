@@ -1,0 +1,73 @@
+{
+  "id": 1310217937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53253,45.08313,17.53253,45.08313",
+    "geom:latitude":45.08313,
+    "geom:longitude":17.53253,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mali Sitnesi",
+    "gn:country_code":"BA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190796,
+    "gn:latitude":45.08313,
+    "gn:longitude":17.53253,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mali Sitne\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sitne\u0161 Mali",
+        "Sitne\u0161 Bugarski",
+        "Sitne\u0161i Mali",
+        "Mali Sitne\u0161i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190796
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fb2dffff27b9037b4d4d8915913f998f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759237,
+            "locality_id":1310217937,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310217937,
+    "wof:lastmodified":1537585563,
+    "wof:name":"Mali Sitnesi",
+    "wof:parent_id":1108759237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53253,
+    45.08313,
+    17.53253,
+    45.08313
+],
+  "geometry": {"coordinates":[17.53253,45.08313],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209217823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16348,43.85098,19.16348,43.85098",
+    "geom:latitude":43.85098,
+    "geom:longitude":19.16348,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stavanj",
+    "gn:country_code":"BA",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3189913,
+    "gn:latitude":43.85098,
+    "gn:longitude":19.16348,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u0160tavanj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189913
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"13de057854b955362bb05d9307edd473",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209217823
+        }
+    ],
+    "wof:id":1209217823,
+    "wof:lastmodified":1536294069,
+    "wof:name":"Stavanj",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16348,
+    43.85098,
+    19.16348,
+    43.85098
+],
+  "geometry": {"coordinates":[19.16348,43.85098],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259786491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65736,43.93698,18.65736,43.93698",
+    "geom:latitude":43.93698,
+    "geom:longitude":18.65736,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Susike",
+    "gn:country_code":"BA",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206967,
+    "gn:latitude":43.93698,
+    "gn:longitude":18.65736,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Su\u0161ike",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206967
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a51e51e5767a42c11961fa32c3045621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759201,
+            "locality_id":1259786491,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259786491,
+    "wof:lastmodified":1536919415,
+    "wof:name":"Susike",
+    "wof:parent_id":1108759201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65736,
+    43.93698,
+    18.65736,
+    43.93698
+],
+  "geometry": {"coordinates":[18.65736,43.93698],"type":"Point"}
+}

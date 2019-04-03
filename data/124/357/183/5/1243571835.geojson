@@ -1,0 +1,67 @@
+{
+  "id": 1243571835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51849,44.63257,18.51849,44.63257",
+    "geom:latitude":44.63257,
+    "geom:longitude":18.51849,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Samar",
+    "gn:country_code":"BA",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257807,
+    "gn:latitude":44.63257,
+    "gn:longitude":18.51849,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Samar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257807
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c9c1e181c7896156f80699e32f88ab08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759161,
+            "locality_id":1243571835,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1243571835,
+    "wof:lastmodified":1536622852,
+    "wof:name":"Samar",
+    "wof:parent_id":1108759161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51849,
+    44.63257,
+    18.51849,
+    44.63257
+],
+  "geometry": {"coordinates":[18.51849,44.63257],"type":"Point"}
+}

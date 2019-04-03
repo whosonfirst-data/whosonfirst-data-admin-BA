@@ -1,0 +1,61 @@
+{
+  "id": 1209418997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23587,44.01835,18.23587,44.01835",
+    "geom:latitude":44.01835,
+    "geom:longitude":18.23587,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cvijanovici",
+    "gn:country_code":"BA",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298978,
+    "gn:latitude":44.01835,
+    "gn:longitude":18.23587,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Cvijanovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298978
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c25ab0e35afdc1bc4d9a7c70d8c68588",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209418997
+        }
+    ],
+    "wof:id":1209418997,
+    "wof:lastmodified":1536287593,
+    "wof:name":"Cvijanovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23587,
+    44.01835,
+    18.23587,
+    44.01835
+],
+  "geometry": {"coordinates":[18.23587,44.01835],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209718687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17953,43.3189,18.17953,43.3189",
+    "geom:latitude":43.3189,
+    "geom:longitude":18.17953,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Postoljani",
+    "gn:country_code":"BA",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192671,
+    "gn:latitude":43.3189,
+    "gn:longitude":18.17953,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Postoljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192671,
+        "wk:page":"Postoljani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a235187ef2641c3469aae9b711720906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1209718687,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209718687,
+    "wof:lastmodified":1537486735,
+    "wof:name":"Postoljani",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17953,
+    43.3189,
+    18.17953,
+    43.3189
+],
+  "geometry": {"coordinates":[18.17953,43.3189],"type":"Point"}
+}

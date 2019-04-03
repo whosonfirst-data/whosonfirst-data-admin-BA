@@ -1,0 +1,67 @@
+{
+  "id": 1360303285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01855,43.61653,17.01855,43.61653",
+    "geom:latitude":43.61653,
+    "geom:longitude":17.01855,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vuletici",
+    "gn:country_code":"BA",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286308,
+    "gn:latitude":43.61653,
+    "gn:longitude":17.01855,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vuleti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286308
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a461ac678cef353af35fdaf3101f458f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1360303285,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1360303285,
+    "wof:lastmodified":1536629132,
+    "wof:name":"Vuletici",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01855,
+    43.61653,
+    17.01855,
+    43.61653
+],
+  "geometry": {"coordinates":[17.01855,43.61653],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344161117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.50282,44.20339,18.50282,44.20339",
+    "geom:latitude":44.20339,
+    "geom:longitude":18.50282,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cunista",
+    "gn:country_code":"BA",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202276,
+    "gn:latitude":44.20339,
+    "gn:longitude":18.50282,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u010cuni\u0161ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202276
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6d0de0ab09af13d042280d5d1d61a347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759193,
+            "locality_id":1344161117,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1344161117,
+    "wof:lastmodified":1536730665,
+    "wof:name":"Cunista",
+    "wof:parent_id":1108759193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.50282,
+    44.20339,
+    18.50282,
+    44.20339
+],
+  "geometry": {"coordinates":[18.50282,44.20339],"type":"Point"}
+}

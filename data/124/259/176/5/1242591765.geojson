@@ -1,0 +1,67 @@
+{
+  "id": 1242591765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61333,44.66399,18.61333,44.66399",
+    "geom:latitude":44.66399,
+    "geom:longitude":18.61333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Malo Sijeno",
+    "gn:country_code":"BA",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257399,
+    "gn:latitude":44.66399,
+    "gn:longitude":18.61333,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Malo Sijeno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257399
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"842b1ba797924181c4bc5273a42cd428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759243,
+            "locality_id":1242591765,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1242591765,
+    "wof:lastmodified":1537041408,
+    "wof:name":"Malo Sijeno",
+    "wof:parent_id":1108759243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61333,
+    44.66399000000001,
+    18.61333,
+    44.66399000000001
+],
+  "geometry": {"coordinates":[18.61333,44.66399000000001],"type":"Point"}
+}

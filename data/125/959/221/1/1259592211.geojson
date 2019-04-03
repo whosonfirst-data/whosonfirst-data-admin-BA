@@ -1,0 +1,67 @@
+{
+  "id": 1259592211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38017,44.50948,17.38017,44.50948",
+    "geom:latitude":44.50948,
+    "geom:longitude":17.38017,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Reljici",
+    "gn:country_code":"BA",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251121,
+    "gn:latitude":44.50948,
+    "gn:longitude":17.38017,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Relji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251121
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f9b2b8a6ad5330770309313474db4709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759233,
+            "locality_id":1259592211,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259592211,
+    "wof:lastmodified":1536702416,
+    "wof:name":"Reljici",
+    "wof:parent_id":1108759233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38017,
+    44.50948,
+    17.38017,
+    44.50948
+],
+  "geometry": {"coordinates":[17.38017,44.50948],"type":"Point"}
+}

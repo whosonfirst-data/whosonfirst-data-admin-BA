@@ -1,0 +1,65 @@
+{
+  "id": 1209123797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49757,44.14718,17.49757,44.14718",
+    "geom:latitude":44.14718,
+    "geom:longitude":17.49757,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Petkovici",
+    "gn:country_code":"BA",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292930,
+    "gn:latitude":44.14718,
+    "gn:longitude":17.49757,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Petkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petkovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292930,
+        "wk:page":"Petkovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"aacc8efcc120e74e334bfd7dea76b26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209123797
+        }
+    ],
+    "wof:id":1209123797,
+    "wof:lastmodified":1537585677,
+    "wof:name":"Petkovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49757,
+    44.14718,
+    17.49757,
+    44.14718
+],
+  "geometry": {"coordinates":[17.49757,44.14718],"type":"Point"}
+}

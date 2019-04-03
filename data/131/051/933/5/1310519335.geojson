@@ -1,0 +1,67 @@
+{
+  "id": 1310519335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27034,44.5577,18.27034,44.5577",
+    "geom:latitude":44.5577,
+    "geom:longitude":18.27034,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Protici",
+    "gn:country_code":"BA",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211043,
+    "gn:latitude":44.5577,
+    "gn:longitude":18.27034,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Proti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211043
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5ceef9496f87e2b1ef631bd23c3f5d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1310519335,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1310519335,
+    "wof:lastmodified":1536896795,
+    "wof:name":"Protici",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27034,
+    44.5577,
+    18.27034,
+    44.5577
+],
+  "geometry": {"coordinates":[18.27034,44.5577],"type":"Point"}
+}

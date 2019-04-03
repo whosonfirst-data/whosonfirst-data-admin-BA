@@ -1,0 +1,67 @@
+{
+  "id": 1327434631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90528,44.05889,18.90528,44.05889",
+    "geom:latitude":44.05889,
+    "geom:longitude":18.90528,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Visocnik",
+    "gn:country_code":"BA",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3204911,
+    "gn:latitude":44.05889,
+    "gn:longitude":18.90528,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Viso\u010dnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204911
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3080daa7451fecd1a4ccc3861049ef70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":1327434631,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327434631,
+    "wof:lastmodified":1536677554,
+    "wof:name":"Visocnik",
+    "wof:parent_id":1108759103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90528,
+    44.05889000000001,
+    18.90528,
+    44.05889000000001
+],
+  "geometry": {"coordinates":[18.90528,44.05889000000001],"type":"Point"}
+}

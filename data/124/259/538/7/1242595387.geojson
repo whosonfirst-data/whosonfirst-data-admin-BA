@@ -1,0 +1,67 @@
+{
+  "id": 1242595387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26882,43.47883,17.26882,43.47883",
+    "geom:latitude":43.47883,
+    "geom:longitude":17.26882,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Domici",
+    "gn:country_code":"BA",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284389,
+    "gn:latitude":43.47883,
+    "gn:longitude":17.26882,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Domi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284389
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"40d2a7dd5a6033532cf72b4d2a502082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1242595387,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1242595387,
+    "wof:lastmodified":1537036445,
+    "wof:name":"Domici",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26882,
+    43.47883,
+    17.26882,
+    43.47883
+],
+  "geometry": {"coordinates":[17.26882,43.47883],"type":"Point"}
+}

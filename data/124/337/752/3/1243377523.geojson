@@ -1,0 +1,67 @@
+{
+  "id": 1243377523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52322,43.38585,17.52322,43.38585",
+    "geom:latitude":43.38585,
+    "geom:longitude":17.52322,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sarica Dubrava",
+    "gn:country_code":"BA",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290772,
+    "gn:latitude":43.38585,
+    "gn:longitude":17.52322,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160ari\u0107a Dubrava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290772
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d0d95ebfc4d8126a264915ce58708321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759231,
+            "locality_id":1243377523,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1243377523,
+    "wof:lastmodified":1536905097,
+    "wof:name":"Sarica Dubrava",
+    "wof:parent_id":1108759231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52322,
+    43.38585,
+    17.52322,
+    43.38585
+],
+  "geometry": {"coordinates":[17.52322,43.38585],"type":"Point"}
+}

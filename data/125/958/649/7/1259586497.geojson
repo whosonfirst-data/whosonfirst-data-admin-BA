@@ -1,0 +1,67 @@
+{
+  "id": 1259586497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93192,45.00299,16.93192,45.00299",
+    "geom:latitude":45.00299,
+    "geom:longitude":16.93192,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kos",
+    "gn:country_code":"BA",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287168,
+    "gn:latitude":45.00299,
+    "gn:longitude":16.93192,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287168
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8e5593b19518446619890f40b15eb866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1259586497,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259586497,
+    "wof:lastmodified":1536710756,
+    "wof:name":"Kos",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93192,
+    45.00299,
+    16.93192,
+    45.00299
+],
+  "geometry": {"coordinates":[16.93192,45.00299],"type":"Point"}
+}

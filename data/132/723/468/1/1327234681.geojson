@@ -1,0 +1,67 @@
+{
+  "id": 1327234681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9349,45.12466,16.9349,45.12466",
+    "geom:latitude":45.12466,
+    "geom:longitude":16.9349,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tramosljani",
+    "gn:country_code":"BA",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286263,
+    "gn:latitude":45.12466,
+    "gn:longitude":16.9349,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tramo\u0161ljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286263
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"793c6285cc464ad85a90e660d5864f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1327234681,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327234681,
+    "wof:lastmodified":1536966017,
+    "wof:name":"Tramosljani",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9349,
+    45.12466,
+    16.9349,
+    45.12466
+],
+  "geometry": {"coordinates":[16.9349,45.12466],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890518889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20923,44.6934,19.20923,44.6934",
+    "geom:latitude":44.6934,
+    "geom:longitude":19.20923,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":499,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Glogovac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":1667,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200573,
+        "qs:id":581717,
+        "wd:id":"Q1008042",
+        "wk:page":"Glogovac"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056083,
+    "wof:geomhash":"39d3292c16959b54705cb38ee944d837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":890518889,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518889,
+    "wof:lastmodified":1527751230,
+    "wof:name":"Glogovac",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:population":499,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20923,
+    44.6934,
+    19.20923,
+    44.6934
+],
+  "geometry": {"coordinates":[19.20923,44.6934],"type":"Point"}
+}

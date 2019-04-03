@@ -1,0 +1,68 @@
+{
+  "id": 1242795299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95271,44.07213,17.95271,44.07213",
+    "geom:latitude":44.07213,
+    "geom:longitude":17.95271,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gusti Grab",
+    "gn:country_code":"BA",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199457,
+    "gn:latitude":44.07213,
+    "gn:longitude":17.95271,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gusti Grab",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199457,
+        "wk:page":"Gusti_Grab"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"638caf7cb75cc2ae9a5d26695ce33b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759031,
+            "locality_id":1242795299,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242795299,
+    "wof:lastmodified":1537486767,
+    "wof:name":"Gusti Grab",
+    "wof:parent_id":1108759031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95271,
+    44.07213,
+    17.95271,
+    44.07213
+],
+  "geometry": {"coordinates":[17.95271,44.07213],"type":"Point"}
+}

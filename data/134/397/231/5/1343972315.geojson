@@ -1,0 +1,67 @@
+{
+  "id": 1343972315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58972,43.22389,17.58972,43.22389",
+    "geom:latitude":43.22389,
+    "geom:longitude":17.58972,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Meka Dubrava",
+    "gn:country_code":"BA",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288960,
+    "gn:latitude":43.22389,
+    "gn:longitude":17.58972,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Meka Dubrava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288960
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cfb0d8216c7eb8f7d981090cad34daa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1343972315,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1343972315,
+    "wof:lastmodified":1537002058,
+    "wof:name":"Meka Dubrava",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58972,
+    43.22389,
+    17.58972,
+    43.22389
+],
+  "geometry": {"coordinates":[17.58972,43.22389],"type":"Point"}
+}

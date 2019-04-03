@@ -1,0 +1,68 @@
+{
+  "id": 1225854359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61353,44.6248,16.61353,44.6248",
+    "geom:latitude":44.6248,
+    "geom:longitude":16.61353,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sanica Gornja",
+    "gn:country_code":"BA",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248255,
+    "gn:latitude":44.6248,
+    "gn:longitude":16.61353,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sanica Gornja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248255,
+        "wk:page":"Sanica_Gornja"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"08a425419d55e75681bdb63613591efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1225854359,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1225854359,
+    "wof:lastmodified":1537486829,
+    "wof:name":"Sanica Gornja",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61352999999999,
+    44.6248,
+    16.61352999999999,
+    44.6248
+],
+  "geometry": {"coordinates":[16.61352999999999,44.6248],"type":"Point"}
+}

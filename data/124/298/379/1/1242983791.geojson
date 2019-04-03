@@ -1,0 +1,72 @@
+{
+  "id": 1242983791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85574,44.73541,17.85574,44.73541",
+    "geom:latitude":44.73541,
+    "geom:longitude":17.85574,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ostruznja Donja",
+    "gn:country_code":"BA",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193814,
+    "gn:latitude":44.73541,
+    "gn:longitude":17.85574,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ostru\u017enja Donja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Ostru\u017enja",
+        "Ostru\u017enja Donja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193814,
+        "wk:page":"Ostru%C5%BEnja_Donja"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"da1b59078f1c7ff8bfa68649e5b056c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1242983791,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242983791,
+    "wof:lastmodified":1537585576,
+    "wof:name":"Ostruznja Donja",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85574,
+    44.73541,
+    17.85574,
+    44.73541
+],
+  "geometry": {"coordinates":[17.85574,44.73541],"type":"Point"}
+}

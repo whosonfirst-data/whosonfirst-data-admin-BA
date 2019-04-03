@@ -1,0 +1,67 @@
+{
+  "id": 1276984563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85839,45.19143,15.85839,45.19143",
+    "geom:latitude":45.19143,
+    "geom:longitude":15.85839,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rizvici",
+    "gn:country_code":"BA",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280651,
+    "gn:latitude":45.19143,
+    "gn:longitude":15.85839,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Rizvi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280651
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1faa4fdc60643d78e23c875628bc9c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1276984563,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1276984563,
+    "wof:lastmodified":1536900918,
+    "wof:name":"Rizvici",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85839,
+    45.19143,
+    15.85839,
+    45.19143
+],
+  "geometry": {"coordinates":[15.85839,45.19143],"type":"Point"}
+}

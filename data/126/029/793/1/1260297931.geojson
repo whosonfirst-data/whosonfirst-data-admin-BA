@@ -1,0 +1,67 @@
+{
+  "id": 1260297931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62356,45.08214,16.62356,45.08214",
+    "geom:latitude":45.08214,
+    "geom:longitude":16.62356,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marini",
+    "gn:country_code":"BA",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281343,
+    "gn:latitude":45.08214,
+    "gn:longitude":16.62356,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Marini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281343
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cc2d8943aa8fa3eb1fee8a36b790dad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1260297931,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260297931,
+    "wof:lastmodified":1536692676,
+    "wof:name":"Marini",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62356,
+    45.08214,
+    16.62356,
+    45.08214
+],
+  "geometry": {"coordinates":[16.62356,45.08214],"type":"Point"}
+}

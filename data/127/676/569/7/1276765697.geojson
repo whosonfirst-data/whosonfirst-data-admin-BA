@@ -1,0 +1,71 @@
+{
+  "id": 1276765697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96009,44.32025,16.96009,44.32025",
+    "geom:latitude":44.32025,
+    "geom:longitude":16.96009,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Podgrabez",
+    "gn:country_code":"BA",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210582,
+    "gn:latitude":44.32025,
+    "gn:longitude":16.96009,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Podgrabe\u017e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grabe\u017e",
+        "Podgrabe\u017e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210582
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c8a7fa900650cfeb712b165fefa541d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1276765697,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276765697,
+    "wof:lastmodified":1537585640,
+    "wof:name":"Podgrabez",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96009,
+    44.32025,
+    16.96009,
+    44.32025
+],
+  "geometry": {"coordinates":[16.96009,44.32025],"type":"Point"}
+}

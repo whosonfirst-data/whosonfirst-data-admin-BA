@@ -1,0 +1,68 @@
+{
+  "id": 1276561057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51056,43.79667,18.51056,43.79667",
+    "geom:latitude":43.79667,
+    "geom:longitude":18.51056,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jasik",
+    "gn:country_code":"BA",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206030,
+    "gn:latitude":43.79667,
+    "gn:longitude":18.51056,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Jasik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206030,
+        "wk:page":"Jasik_%28Pale%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"baae8de5d7feb9997b028838d41b81c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759201,
+            "locality_id":1276561057,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276561057,
+    "wof:lastmodified":1537486805,
+    "wof:name":"Jasik",
+    "wof:parent_id":1108759201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51056,
+    43.79667,
+    18.51056,
+    43.79667
+],
+  "geometry": {"coordinates":[18.51056,43.79667],"type":"Point"}
+}

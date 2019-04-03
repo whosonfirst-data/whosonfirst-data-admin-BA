@@ -1,0 +1,67 @@
+{
+  "id": 1360299539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7005,44.18083,17.7005,44.18083",
+    "geom:latitude":44.18083,
+    "geom:longitude":17.7005,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bucici",
+    "gn:country_code":"BA",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289760,
+    "gn:latitude":44.18083,
+    "gn:longitude":17.7005,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bu\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289760
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2f29f3d1ede60c77e741af66ec60f59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759183,
+            "locality_id":1360299539,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1360299539,
+    "wof:lastmodified":1536634887,
+    "wof:name":"Bucici",
+    "wof:parent_id":1108759183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7005,
+    44.18083,
+    17.7005,
+    44.18083
+],
+  "geometry": {"coordinates":[17.7005,44.18083],"type":"Point"}
+}

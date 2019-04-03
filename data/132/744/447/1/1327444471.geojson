@@ -1,0 +1,67 @@
+{
+  "id": 1327444471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07644,44.28276,17.07644,44.28276",
+    "geom:latitude":44.28276,
+    "geom:longitude":17.07644,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kozji Brod",
+    "gn:country_code":"BA",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261424,
+    "gn:latitude":44.28276,
+    "gn:longitude":17.07644,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kozji Brod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261424
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8bdfb64b9f53317511f6957382abcfa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1327444471,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327444471,
+    "wof:lastmodified":1536663277,
+    "wof:name":"Kozji Brod",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07644,
+    44.28276,
+    17.07644,
+    44.28276
+],
+  "geometry": {"coordinates":[17.07644,44.28276],"type":"Point"}
+}

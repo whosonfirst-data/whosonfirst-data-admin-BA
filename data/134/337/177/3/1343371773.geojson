@@ -1,0 +1,67 @@
+{
+  "id": 1343371773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71908,45.16045,16.71908,45.16045",
+    "geom:latitude":45.16045,
+    "geom:longitude":16.71908,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marjanovici",
+    "gn:country_code":"BA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280581,
+    "gn:latitude":45.16045,
+    "gn:longitude":16.71908,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Marjanovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280581
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ddba0795dce37550d57ef78d04d86c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1343371773,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343371773,
+    "wof:lastmodified":1536873126,
+    "wof:name":"Marjanovici",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71908,
+    45.16045,
+    16.71908,
+    45.16045
+],
+  "geometry": {"coordinates":[16.71908,45.16045],"type":"Point"}
+}

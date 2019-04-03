@@ -1,0 +1,67 @@
+{
+  "id": 1293689863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78227,44.03336,18.78227,44.03336",
+    "geom:latitude":44.03336,
+    "geom:longitude":18.78227,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beslici",
+    "gn:country_code":"BA",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269203,
+    "gn:latitude":44.03336,
+    "gn:longitude":18.78227,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Be\u0161li\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269203
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"127a13ae3ce2e981d7e3fefe8009ce3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1293689863,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293689863,
+    "wof:lastmodified":1536991741,
+    "wof:name":"Beslici",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78227,
+    44.03336,
+    18.78227,
+    44.03336
+],
+  "geometry": {"coordinates":[18.78227,44.03336],"type":"Point"}
+}

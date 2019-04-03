@@ -1,0 +1,67 @@
+{
+  "id": 1210019801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19504,44.9425,18.19504,44.9425",
+    "geom:latitude":44.9425,
+    "geom:longitude":18.19504,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ristici",
+    "gn:country_code":"BA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256590,
+    "gn:latitude":44.9425,
+    "gn:longitude":18.19504,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Risti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256590
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f9b492f7b6dd3fa4a91b9604f8186f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759169,
+            "locality_id":1210019801,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1210019801,
+    "wof:lastmodified":1536393393,
+    "wof:name":"Ristici",
+    "wof:parent_id":1108759169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19504,
+    44.9425,
+    18.19504,
+    44.9425
+],
+  "geometry": {"coordinates":[18.19504,44.9425],"type":"Point"}
+}

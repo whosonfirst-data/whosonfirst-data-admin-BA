@@ -1,0 +1,67 @@
+{
+  "id": 1259796507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.59134,44.05926,19.59134,44.05926",
+    "geom:latitude":44.05926,
+    "geom:longitude":19.59134,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornja Vranjkovina",
+    "gn:country_code":"BA",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285605,
+    "gn:latitude":44.05926,
+    "gn:longitude":19.59134,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornja Vranjkovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285605
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"170022d07b42ac5bb5f930221aa5792f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759021,
+            "locality_id":1259796507,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259796507,
+    "wof:lastmodified":1536904548,
+    "wof:name":"Gornja Vranjkovina",
+    "wof:parent_id":1108759021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.59134,
+    44.05926,
+    19.59134,
+    44.05926
+],
+  "geometry": {"coordinates":[19.59134,44.05926],"type":"Point"}
+}

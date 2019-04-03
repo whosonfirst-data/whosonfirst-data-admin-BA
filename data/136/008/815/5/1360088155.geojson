@@ -1,0 +1,71 @@
+{
+  "id": 1360088155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10207,44.24304,17.10207,44.24304",
+    "geom:latitude":44.24304,
+    "geom:longitude":17.10207,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donji Mujdzici",
+    "gn:country_code":"BA",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210489,
+    "gn:latitude":44.24304,
+    "gn:longitude":17.10207,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donji Mujd\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mujd\u017ei\u0107i",
+        "Donji Mujd\u017ei\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210489
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bf7fe6cfdc289296ab2a1304ef35aa8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1360088155,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1360088155,
+    "wof:lastmodified":1537585638,
+    "wof:name":"Donji Mujdzici",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10207,
+    44.24304,
+    17.10207,
+    44.24304
+],
+  "geometry": {"coordinates":[17.10207,44.24304],"type":"Point"}
+}

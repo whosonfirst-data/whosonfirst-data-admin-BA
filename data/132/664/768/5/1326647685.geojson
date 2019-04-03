@@ -1,0 +1,67 @@
+{
+  "id": 1326647685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53533,44.30765,17.53533,44.30765",
+    "geom:latitude":44.30765,
+    "geom:longitude":17.53533,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mudrike",
+    "gn:country_code":"BA",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194685,
+    "gn:latitude":44.30765,
+    "gn:longitude":17.53533,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mudrike",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194685
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e035a434b3412a79a22cfbe03e6b757a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759263,
+            "locality_id":1326647685,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1326647685,
+    "wof:lastmodified":1536816778,
+    "wof:name":"Mudrike",
+    "wof:parent_id":1108759263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53533,
+    44.30765,
+    17.53533,
+    44.30765
+],
+  "geometry": {"coordinates":[17.53533,44.30765],"type":"Point"}
+}

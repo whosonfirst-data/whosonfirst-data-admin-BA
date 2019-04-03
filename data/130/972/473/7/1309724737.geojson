@@ -1,0 +1,67 @@
+{
+  "id": 1309724737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88083,44.6417,17.88083,44.6417",
+    "geom:latitude":44.6417,
+    "geom:longitude":17.88083,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marelje",
+    "gn:country_code":"BA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251873,
+    "gn:latitude":44.6417,
+    "gn:longitude":17.88083,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Marelje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251873
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0cc23310d7df19fcc54b71c18ac1589c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1309724737,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309724737,
+    "wof:lastmodified":1537045970,
+    "wof:name":"Marelje",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88083,
+    44.6417,
+    17.88083,
+    44.6417
+],
+  "geometry": {"coordinates":[17.88083,44.6417],"type":"Point"}
+}

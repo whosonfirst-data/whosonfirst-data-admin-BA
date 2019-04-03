@@ -1,0 +1,67 @@
+{
+  "id": 1259786771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67889,44.35333,16.67889,44.35333",
+    "geom:latitude":44.35333,
+    "geom:longitude":16.67889,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tisova Kosa",
+    "gn:country_code":"BA",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3235250,
+    "gn:latitude":44.35333,
+    "gn:longitude":16.67889,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Tisova Kosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3235250
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d3aabe500a7f2258b9f9337228e8b933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759135,
+            "locality_id":1259786771,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259786771,
+    "wof:lastmodified":1536918997,
+    "wof:name":"Tisova Kosa",
+    "wof:parent_id":1108759135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67889,
+    44.35333,
+    16.67889,
+    44.35333
+],
+  "geometry": {"coordinates":[16.67889,44.35333],"type":"Point"}
+}

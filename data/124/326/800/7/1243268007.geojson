@@ -1,0 +1,68 @@
+{
+  "id": 1243268007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86245,44.96514,15.86245,44.96514",
+    "geom:latitude":44.96514,
+    "geom:longitude":15.86245,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mutnik",
+    "gn:country_code":"BA",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194616,
+    "gn:latitude":44.96514,
+    "gn:longitude":15.86245,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mutnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194616,
+        "wk:page":"Mutnik"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"993a292e0b4af332e5dcd1f959d947f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1243268007,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1243268007,
+    "wof:lastmodified":1537486744,
+    "wof:name":"Mutnik",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86245,
+    44.96514000000001,
+    15.86245,
+    44.96514000000001
+],
+  "geometry": {"coordinates":[15.86245,44.96514000000001],"type":"Point"}
+}

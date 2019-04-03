@@ -1,0 +1,67 @@
+{
+  "id": 1327042785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67432,44.86189,17.67432,44.86189",
+    "geom:latitude":44.86189,
+    "geom:longitude":17.67432,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Glozici",
+    "gn:country_code":"BA",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253921,
+    "gn:latitude":44.86189,
+    "gn:longitude":17.67432,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Glo\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253921
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"881a6c9b97f40a5045e178c8e954c3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1327042785,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327042785,
+    "wof:lastmodified":1536745092,
+    "wof:name":"Glozici",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67432,
+    44.86189,
+    17.67432,
+    44.86189
+],
+  "geometry": {"coordinates":[17.67432,44.86189],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242988351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.91886,44.44475,18.91886,44.44475",
+    "geom:latitude":44.44475,
+    "geom:longitude":18.91886,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krizevci",
+    "gn:country_code":"BA",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273914,
+    "gn:latitude":44.44475,
+    "gn:longitude":18.91886,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kri\u017eevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273914
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"df4daa41a64a69c5c439dd25cb37068f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759121,
+            "locality_id":1242988351,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1242988351,
+    "wof:lastmodified":1536968737,
+    "wof:name":"Krizevci",
+    "wof:parent_id":1108759121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.91886,
+    44.44475,
+    18.91886,
+    44.44475
+],
+  "geometry": {"coordinates":[18.91886,44.44475],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1210030511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.69412,44.56048,16.69412,44.56048",
+    "geom:latitude":44.56048,
+    "geom:longitude":16.69412,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kopjenica",
+    "gn:country_code":"BA",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197740,
+    "gn:latitude":44.56048,
+    "gn:longitude":16.69412,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kopjenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kopljenica",
+        "Kopjenica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197740,
+        "wk:page":"Kopjenica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"07a5115573fab11bb15d21f3bc62c5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1210030511,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1210030511,
+    "wof:lastmodified":1537585590,
+    "wof:name":"Kopjenica",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69412,
+    44.56048,
+    16.69412,
+    44.56048
+],
+  "geometry": {"coordinates":[16.69412,44.56048],"type":"Point"}
+}

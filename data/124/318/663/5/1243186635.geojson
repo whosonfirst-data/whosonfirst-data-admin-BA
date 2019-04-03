@@ -1,0 +1,67 @@
+{
+  "id": 1243186635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5154,43.23106,17.5154,43.23106",
+    "geom:latitude":43.23106,
+    "geom:longitude":17.5154,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zovak",
+    "gn:country_code":"BA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288759,
+    "gn:latitude":43.23106,
+    "gn:longitude":17.5154,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zovak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288759
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f75eeaec035af4187e9cf5a40618da5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1243186635,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1243186635,
+    "wof:lastmodified":1536682977,
+    "wof:name":"Zovak",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5154,
+    43.23106,
+    17.5154,
+    43.23106
+],
+  "geometry": {"coordinates":[17.5154,43.23106],"type":"Point"}
+}

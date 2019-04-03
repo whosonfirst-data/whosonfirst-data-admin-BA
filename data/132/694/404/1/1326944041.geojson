@@ -1,0 +1,67 @@
+{
+  "id": 1326944041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23299,44.8297,16.23299,44.8297",
+    "geom:latitude":44.8297,
+    "geom:longitude":16.23299,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Trnjak",
+    "gn:country_code":"BA",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263190,
+    "gn:latitude":44.8297,
+    "gn:longitude":16.23299,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Trnjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263190
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d1587693235661fd2621aca313d4a2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759003,
+            "locality_id":1326944041,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1326944041,
+    "wof:lastmodified":1536887259,
+    "wof:name":"Trnjak",
+    "wof:parent_id":1108759003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23299,
+    44.8297,
+    16.23299,
+    44.8297
+],
+  "geometry": {"coordinates":[16.23299,44.8297],"type":"Point"}
+}

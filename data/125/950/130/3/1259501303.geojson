@@ -1,0 +1,71 @@
+{
+  "id": 1259501303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01514,44.35486,18.01514,44.35486",
+    "geom:latitude":44.35486,
+    "geom:longitude":18.01514,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Branosica",
+    "gn:country_code":"BA",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211177,
+    "gn:latitude":44.35486,
+    "gn:longitude":18.01514,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Brano\u0161ica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brano\u0161ice",
+        "Brano\u0161ica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211177
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"75bbdec0d94af93b5d4f521829f46a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759299,
+            "locality_id":1259501303,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259501303,
+    "wof:lastmodified":1537585646,
+    "wof:name":"Branosica",
+    "wof:parent_id":1108759299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01514,
+    44.35486,
+    18.01514,
+    44.35486
+],
+  "geometry": {"coordinates":[18.01514,44.35486],"type":"Point"}
+}

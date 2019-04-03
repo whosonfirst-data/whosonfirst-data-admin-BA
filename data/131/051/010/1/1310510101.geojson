@@ -1,0 +1,68 @@
+{
+  "id": 1310510101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93233,43.97196,18.93233,43.97196",
+    "geom:latitude":43.97196,
+    "geom:longitude":18.93233,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mandra",
+    "gn:country_code":"BA",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3195540,
+    "gn:latitude":43.97196,
+    "gn:longitude":18.93233,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mandra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195540,
+        "wk:page":"Mandra_%28Sokolac%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e1095fde63d874abb440cd967e97705b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1310510101,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310510101,
+    "wof:lastmodified":1537486749,
+    "wof:name":"Mandra",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93233,
+    43.97196,
+    18.93233,
+    43.97196
+],
+  "geometry": {"coordinates":[18.93233,43.97196],"type":"Point"}
+}

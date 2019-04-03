@@ -1,0 +1,67 @@
+{
+  "id": 1242587081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.12806,44.57167,18.12806,44.57167",
+    "geom:latitude":44.57167,
+    "geom:longitude":18.12806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Crvenike",
+    "gn:country_code":"BA",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260210,
+    "gn:latitude":44.57167,
+    "gn:longitude":18.12806,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Crvenike",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260210
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d12d8b25a70ad2b2f031a307d6fab786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1242587081,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1242587081,
+    "wof:lastmodified":1537047852,
+    "wof:name":"Crvenike",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.12806,
+    44.57167000000001,
+    18.12806,
+    44.57167000000001
+],
+  "geometry": {"coordinates":[18.12806,44.57167000000001],"type":"Point"}
+}

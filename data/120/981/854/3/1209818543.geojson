@@ -1,0 +1,67 @@
+{
+  "id": 1209818543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75578,44.76094,17.75578,44.76094",
+    "geom:latitude":44.76094,
+    "geom:longitude":17.75578,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dekici",
+    "gn:country_code":"BA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252581,
+    "gn:latitude":44.76094,
+    "gn:longitude":17.75578,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u00d0eki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252581
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6962daba96f33072e0f14f9b1c25a0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1209818543,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209818543,
+    "wof:lastmodified":1536381255,
+    "wof:name":"Dekici",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75577999999999,
+    44.76094000000001,
+    17.75577999999999,
+    44.76094000000001
+],
+  "geometry": {"coordinates":[17.75577999999999,44.76094000000001],"type":"Point"}
+}

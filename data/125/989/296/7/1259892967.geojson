@@ -1,0 +1,67 @@
+{
+  "id": 1259892967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.79989,44.8282,17.79989,44.8282",
+    "geom:latitude":44.8282,
+    "geom:longitude":17.79989,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Garici",
+    "gn:country_code":"BA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251953,
+    "gn:latitude":44.8282,
+    "gn:longitude":17.79989,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gari\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251953
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"92f07f6416055146fc3b65220e7ce4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1259892967,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259892967,
+    "wof:lastmodified":1536765794,
+    "wof:name":"Garici",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79988999999999,
+    44.8282,
+    17.79988999999999,
+    44.8282
+],
+  "geometry": {"coordinates":[17.79988999999999,44.8282],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276128031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88394,43.66089,17.88394,43.66089",
+    "geom:latitude":43.66089,
+    "geom:longitude":17.88394,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bukvici",
+    "gn:country_code":"BA",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344724,
+    "gn:latitude":43.66089,
+    "gn:longitude":17.88394,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Bukvi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344724
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"193b3316a4997c691b38df0f5b1e4a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1276128031,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1276128031,
+    "wof:lastmodified":1537051436,
+    "wof:name":"Bukvici",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88394,
+    43.66089,
+    17.88394,
+    43.66089
+],
+  "geometry": {"coordinates":[17.88394,43.66089],"type":"Point"}
+}

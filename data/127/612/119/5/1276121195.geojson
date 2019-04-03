@@ -1,0 +1,67 @@
+{
+  "id": 1276121195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.64056,44.52464,17.64056,44.52464",
+    "geom:latitude":44.52464,
+    "geom:longitude":17.64056,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Markovici",
+    "gn:country_code":"BA",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259229,
+    "gn:latitude":44.52464,
+    "gn:longitude":17.64056,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Markovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259229
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d94f553865d575d95da22e8e7defab31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1276121195,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276121195,
+    "wof:lastmodified":1537060167,
+    "wof:name":"Markovici",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.64056,
+    44.52464000000001,
+    17.64056,
+    44.52464000000001
+],
+  "geometry": {"coordinates":[17.64056,44.52464000000001],"type":"Point"}
+}

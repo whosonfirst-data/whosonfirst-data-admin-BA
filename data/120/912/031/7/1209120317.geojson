@@ -1,0 +1,61 @@
+{
+  "id": 1209120317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57296,43.41719,17.57296,43.41719",
+    "geom:latitude":43.41719,
+    "geom:longitude":17.57296,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krc",
+    "gn:country_code":"BA",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290510,
+    "gn:latitude":43.41719,
+    "gn:longitude":17.57296,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kr\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290510
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c0488fb426e9c48ff49f521a2e845596",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209120317
+        }
+    ],
+    "wof:id":1209120317,
+    "wof:lastmodified":1536297121,
+    "wof:name":"Krc",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.572960000000002,
+    43.41719000000001,
+    17.572960000000002,
+    43.41719000000001
+],
+  "geometry": {"coordinates":[17.57296,43.41719000000001],"type":"Point"}
+}

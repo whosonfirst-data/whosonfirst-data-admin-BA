@@ -1,0 +1,67 @@
+{
+  "id": 1327342461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21139,43.16611,18.21139,43.16611",
+    "geom:latitude":43.16611,
+    "geom:longitude":18.21139,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zecevici",
+    "gn:country_code":"BA",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3266049,
+    "gn:latitude":43.16611,
+    "gn:longitude":18.21139,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Ze\u010devi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266049
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cff3905bf8a4f5d5866ae70a4250d599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1327342461,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327342461,
+    "wof:lastmodified":1536810142,
+    "wof:name":"Zecevici",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21139,
+    43.16611,
+    18.21139,
+    43.16611
+],
+  "geometry": {"coordinates":[18.21139,43.16611],"type":"Point"}
+}

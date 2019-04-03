@@ -1,0 +1,67 @@
+{
+  "id": 1225962105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67917,44.18028,17.67917,44.18028",
+    "geom:latitude":44.18028,
+    "geom:longitude":17.67917,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vrepci",
+    "gn:country_code":"BA",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291269,
+    "gn:latitude":44.18028,
+    "gn:longitude":17.67917,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Vrepci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291269
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fa57602caf3eac969fb9b0bdc3e8106a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759183,
+            "locality_id":1225962105,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1225962105,
+    "wof:lastmodified":1536844616,
+    "wof:name":"Vrepci",
+    "wof:parent_id":1108759183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67917000000001,
+    44.18028,
+    17.67917000000001,
+    44.18028
+],
+  "geometry": {"coordinates":[17.67917000000001,44.18028],"type":"Point"}
+}

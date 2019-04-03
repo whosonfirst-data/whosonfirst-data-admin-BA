@@ -1,0 +1,67 @@
+{
+  "id": 1293496521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.77831,44.61998,17.77831,44.61998",
+    "geom:latitude":44.61998,
+    "geom:longitude":17.77831,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Memici",
+    "gn:country_code":"BA",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256816,
+    "gn:latitude":44.61998,
+    "gn:longitude":17.77831,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Memi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256816
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1ae81fa7fa0876705917c518fa36c132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1293496521,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293496521,
+    "wof:lastmodified":1536774604,
+    "wof:name":"Memici",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.77831,
+    44.61998,
+    17.77831,
+    44.61998
+],
+  "geometry": {"coordinates":[17.77831,44.61998],"type":"Point"}
+}

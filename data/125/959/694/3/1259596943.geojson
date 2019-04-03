@@ -1,0 +1,67 @@
+{
+  "id": 1259596943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26071,44.00091,18.26071,44.00091",
+    "geom:latitude":44.00091,
+    "geom:longitude":18.26071,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kahve",
+    "gn:country_code":"BA",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295496,
+    "gn:latitude":44.00091,
+    "gn:longitude":18.26071,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kahve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295496
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"acf2c3d0d1055d689498f52b6115866a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759027,
+            "locality_id":1259596943,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259596943,
+    "wof:lastmodified":1536695529,
+    "wof:name":"Kahve",
+    "wof:parent_id":1108759027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26071,
+    44.00091,
+    18.26071,
+    44.00091
+],
+  "geometry": {"coordinates":[18.26071,44.00091],"type":"Point"}
+}

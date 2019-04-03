@@ -1,0 +1,67 @@
+{
+  "id": 1276246353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01484,43.88409,18.01484,43.88409",
+    "geom:latitude":43.88409,
+    "geom:longitude":18.01484,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vrenjak",
+    "gn:country_code":"BA",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297149,
+    "gn:latitude":43.88409,
+    "gn:longitude":18.01484,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vrenjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297149
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f75a203420b4aab9ed396c2c872eff0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759143,
+            "locality_id":1276246353,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1276246353,
+    "wof:lastmodified":1536894962,
+    "wof:name":"Vrenjak",
+    "wof:parent_id":1108759143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01484,
+    43.88409,
+    18.01484,
+    43.88409
+],
+  "geometry": {"coordinates":[18.01484,43.88409],"type":"Point"}
+}

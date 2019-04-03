@@ -1,0 +1,67 @@
+{
+  "id": 1226654709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2511,43.65505,19.2511,43.65505",
+    "geom:latitude":43.65505,
+    "geom:longitude":19.2511,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kutlici",
+    "gn:country_code":"BA",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3299656,
+    "gn:latitude":43.65505,
+    "gn:longitude":19.2511,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kutli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299656
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"34e6c950c06a200ab2282b7330222ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759217,
+            "locality_id":1226654709,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226654709,
+    "wof:lastmodified":1536845343,
+    "wof:name":"Kutlici",
+    "wof:parent_id":1108759217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2511,
+    43.65505,
+    19.2511,
+    43.65505
+],
+  "geometry": {"coordinates":[19.2511,43.65505],"type":"Point"}
+}

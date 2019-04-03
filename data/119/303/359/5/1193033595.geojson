@@ -1,0 +1,67 @@
+{
+  "id": 1193033595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83134,44.48816,18.83134,44.48816",
+    "geom:latitude":44.48816,
+    "geom:longitude":18.83134,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Meskovici",
+    "gn:country_code":"BA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275672,
+    "gn:latitude":44.48816,
+    "gn:longitude":18.83134,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Me\u0161kovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275672
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5c3dfaf4b674c4ff591fd5cae4fa4d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759121,
+            "locality_id":1193033595,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1193033595,
+    "wof:lastmodified":1536383410,
+    "wof:name":"Meskovici",
+    "wof:parent_id":1108759121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83134,
+    44.48816,
+    18.83134,
+    44.48816
+],
+  "geometry": {"coordinates":[18.83134,44.48816],"type":"Point"}
+}

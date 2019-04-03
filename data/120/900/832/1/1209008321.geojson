@@ -1,0 +1,66 @@
+{
+  "id": 1209008321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40774,44.85919,18.40774,44.85919",
+    "geom:latitude":44.85919,
+    "geom:longitude":18.40774,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Lukavac",
+    "gn:country_code":"BA",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199974,
+    "gn:latitude":44.85919,
+    "gn:longitude":18.40774,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornji Lukavac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukavac Gornji",
+        "Gornji Lukavac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199974,
+        "wk:page":"Gornji_Lukavac_%28Grada%C4%8Dac%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6667d8da84945272f36540bda044f961",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209008321
+        }
+    ],
+    "wof:id":1209008321,
+    "wof:lastmodified":1537585600,
+    "wof:name":"Gornji Lukavac",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40774,
+    44.85919000000001,
+    18.40774,
+    44.85919000000001
+],
+  "geometry": {"coordinates":[18.40774,44.85919000000001],"type":"Point"}
+}

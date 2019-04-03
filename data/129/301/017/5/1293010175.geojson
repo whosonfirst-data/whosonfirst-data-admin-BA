@@ -1,0 +1,67 @@
+{
+  "id": 1293010175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70977,44.57276,18.70977,44.57276",
+    "geom:latitude":44.57276,
+    "geom:longitude":18.70977,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kamenjasi",
+    "gn:country_code":"BA",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260192,
+    "gn:latitude":44.57276,
+    "gn:longitude":18.70977,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kamenja\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260192
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5626e2baaa7bfa11eb0b69c8402b908e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1293010175,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1293010175,
+    "wof:lastmodified":1536977454,
+    "wof:name":"Kamenjasi",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70977,
+    44.57276,
+    18.70977,
+    44.57276
+],
+  "geometry": {"coordinates":[18.70977,44.57276],"type":"Point"}
+}

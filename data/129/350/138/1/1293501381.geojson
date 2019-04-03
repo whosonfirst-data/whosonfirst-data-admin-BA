@@ -1,0 +1,72 @@
+{
+  "id": 1293501381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.90048,44.07169,17.90048,44.07169",
+    "geom:latitude":44.07169,
+    "geom:longitude":17.90048,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ocenici",
+    "gn:country_code":"BA",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194225,
+    "gn:latitude":44.07169,
+    "gn:longitude":17.90048,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"O\u010deni\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O\u010dehni\u0107i",
+        "O\u010deni\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194225,
+        "wk:page":"O%C4%8Dehni%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"19c32fd6c4d23869f8a3fa07970660b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759031,
+            "locality_id":1293501381,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1293501381,
+    "wof:lastmodified":1537585578,
+    "wof:name":"Ocenici",
+    "wof:parent_id":1108759031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90047999999999,
+    44.07169,
+    17.90047999999999,
+    44.07169
+],
+  "geometry": {"coordinates":[17.90047999999999,44.07169],"type":"Point"}
+}

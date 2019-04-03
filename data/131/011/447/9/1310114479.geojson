@@ -1,0 +1,68 @@
+{
+  "id": 1310114479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85799,44.80005,16.85799,44.80005",
+    "geom:latitude":44.80005,
+    "geom:longitude":16.85799,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stratinska",
+    "gn:country_code":"BA",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3189771,
+    "gn:latitude":44.80005,
+    "gn:longitude":16.85799,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Stratinska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189771,
+        "wk:page":"Stratinska"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"06858822b1b702abed4bd582b9753905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1310114479,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310114479,
+    "wof:lastmodified":1537486721,
+    "wof:name":"Stratinska",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85799,
+    44.80005,
+    16.85799,
+    44.80005
+],
+  "geometry": {"coordinates":[16.85799,44.80005],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209619271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41775,43.28664,17.41775,43.28664",
+    "geom:latitude":43.28664,
+    "geom:longitude":17.41775,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rudikovica",
+    "gn:country_code":"BA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288309,
+    "gn:latitude":43.28664,
+    "gn:longitude":17.41775,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Rudikovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288309
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c09e0a70793128399427a96671faafda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209619271
+        }
+    ],
+    "wof:id":1209619271,
+    "wof:lastmodified":1536281577,
+    "wof:name":"Rudikovica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41775,
+    43.28664000000001,
+    17.41775,
+    43.28664000000001
+],
+  "geometry": {"coordinates":[17.41775,43.28664000000001],"type":"Point"}
+}

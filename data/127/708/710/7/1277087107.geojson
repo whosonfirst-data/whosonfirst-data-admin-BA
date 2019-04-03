@@ -1,0 +1,67 @@
+{
+  "id": 1277087107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.72255,45.10216,16.72255,45.10216",
+    "geom:latitude":45.10216,
+    "geom:longitude":16.72255,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Radisici",
+    "gn:country_code":"BA",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280770,
+    "gn:latitude":45.10216,
+    "gn:longitude":16.72255,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Radi\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280770
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6965c2d99b948ea93313321710ee8ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1277087107,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1277087107,
+    "wof:lastmodified":1536761501,
+    "wof:name":"Radisici",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.72255,
+    45.10216,
+    16.72255,
+    45.10216
+],
+  "geometry": {"coordinates":[16.72255,45.10216],"type":"Point"}
+}

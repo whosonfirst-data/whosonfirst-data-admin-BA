@@ -1,0 +1,67 @@
+{
+  "id": 1293394089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90823,45.11945,15.90823,45.11945",
+    "geom:latitude":45.11945,
+    "geom:longitude":15.90823,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Muharici",
+    "gn:country_code":"BA",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277699,
+    "gn:latitude":45.11945,
+    "gn:longitude":15.90823,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Muhari\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277699
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a056388626c683cc0a6088e100828357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1293394089,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293394089,
+    "wof:lastmodified":1536922285,
+    "wof:name":"Muharici",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90823,
+    45.11945,
+    15.90823,
+    45.11945
+],
+  "geometry": {"coordinates":[15.90823,45.11945],"type":"Point"}
+}

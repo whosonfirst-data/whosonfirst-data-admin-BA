@@ -1,0 +1,67 @@
+{
+  "id": 1344061131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.20806,43.96778,18.20806,43.96778",
+    "geom:latitude":43.96778,
+    "geom:longitude":18.20806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Huma",
+    "gn:country_code":"BA",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298294,
+    "gn:latitude":43.96778,
+    "gn:longitude":18.20806,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Huma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298294
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5dfab70ea2fd94d7cc79266f42b78434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759285,
+            "locality_id":1344061131,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1344061131,
+    "wof:lastmodified":1536873573,
+    "wof:name":"Huma",
+    "wof:parent_id":1108759285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.20806,
+    43.96778,
+    18.20806,
+    43.96778
+],
+  "geometry": {"coordinates":[18.20806,43.96778],"type":"Point"}
+}

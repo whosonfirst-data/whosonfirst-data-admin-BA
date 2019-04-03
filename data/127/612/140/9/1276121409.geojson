@@ -1,0 +1,67 @@
+{
+  "id": 1276121409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11528,43.26639,18.11528,43.26639",
+    "geom:latitude":43.26639,
+    "geom:longitude":18.11528,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kaluze",
+    "gn:country_code":"BA",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3265796,
+    "gn:latitude":43.26639,
+    "gn:longitude":18.11528,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Kalu\u017ee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265796
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"aded5b597872716feb797af7b3915964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1276121409,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276121409,
+    "wof:lastmodified":1537059903,
+    "wof:name":"Kaluze",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11528,
+    43.26639,
+    18.11528,
+    43.26639
+],
+  "geometry": {"coordinates":[18.11528,43.26639],"type":"Point"}
+}

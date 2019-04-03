@@ -1,0 +1,72 @@
+{
+  "id": 1293018693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.09403,43.57702,17.09403,43.57702",
+    "geom:latitude":43.57702,
+    "geom:longitude":17.09403,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rosnjace",
+    "gn:country_code":"BA",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3191532,
+    "gn:latitude":43.57702,
+    "gn:longitude":17.09403,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ro\u0161nja\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ro\u0161nja\u010da",
+        "Ro\u0161nja\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191532,
+        "wk:page":"Ro%C5%A1nja%C4%8De"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f20b55005fc635c026d2402a0d9b96ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1293018693,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1293018693,
+    "wof:lastmodified":1537585565,
+    "wof:name":"Rosnjace",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.09403,
+    43.57702000000001,
+    17.09403,
+    43.57702000000001
+],
+  "geometry": {"coordinates":[17.09403,43.57702000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1210034191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78489,43.70711,18.78489,43.70711",
+    "geom:latitude":43.70711,
+    "geom:longitude":18.78489,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Butkovici Ilovaca",
+    "gn:country_code":"BA",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202949,
+    "gn:latitude":43.70711,
+    "gn:longitude":18.78489,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Butkovi\u0107i Ilova\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butkovi\u0107i Ilova\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202949,
+        "wk:page":"Butkovi%C4%87i_Ilova%C4%8Da"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bf02c12480cc7de9af9c4beda875a005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759083,
+            "locality_id":1210034191,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1210034191,
+    "wof:lastmodified":1537585620,
+    "wof:name":"Butkovici Ilovaca",
+    "wof:parent_id":1108759083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78489,
+    43.70711,
+    18.78489,
+    43.70711
+],
+  "geometry": {"coordinates":[18.78489,43.70711],"type":"Point"}
+}

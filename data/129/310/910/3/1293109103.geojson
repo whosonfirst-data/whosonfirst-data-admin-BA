@@ -1,0 +1,66 @@
+{
+  "id": 1293109103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61616,44.60509,16.61616,44.60509",
+    "geom:latitude":44.60509,
+    "geom:longitude":16.61616,
+    "gn:asciiname":"Vrelo Sanice",
+    "gn:country_code":"BA",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10793694,
+    "gn:latitude":44.60509,
+    "gn:longitude":16.61616,
+    "gn:modification_date":"2015-09-19",
+    "gn:name":"Vrelo Sanice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10793694
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5059469fb02d4b87aac81d4ab0a867ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1293109103,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293109103,
+    "wof:lastmodified":1536834475,
+    "wof:name":"Vrelo Sanice",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61616,
+    44.60509,
+    16.61616,
+    44.60509
+],
+  "geometry": {"coordinates":[16.61616,44.60509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193149753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53424,44.97607,16.53424,44.97607",
+    "geom:latitude":44.97607,
+    "geom:longitude":16.53424,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sokoliste",
+    "gn:country_code":"BA",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190374,
+    "gn:latitude":44.97607,
+    "gn:longitude":16.53424,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sokoli\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sokoli\u0161te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190374,
+        "wk:page":"Sokoli%C5%A1te"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f3769f691e0583de572dfb3e53638e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1193149753,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193149753,
+    "wof:lastmodified":1537585561,
+    "wof:name":"Sokoliste",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53424,
+    44.97607,
+    16.53424,
+    44.97607
+],
+  "geometry": {"coordinates":[16.53424,44.97607],"type":"Point"}
+}

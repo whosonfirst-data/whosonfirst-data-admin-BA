@@ -1,0 +1,71 @@
+{
+  "id": 1310613847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.06615,44.56917,19.06615,44.56917",
+    "geom:latitude":44.56917,
+    "geom:longitude":19.06615,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornji Lokanj",
+    "gn:country_code":"BA",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3211587,
+    "gn:latitude":44.56917,
+    "gn:longitude":19.06615,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornji Lokanj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokanj",
+        "Gornji Lokanj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211587
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d11363c41cb0ed5eaecbdca23d83389c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759303,
+            "locality_id":1310613847,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310613847,
+    "wof:lastmodified":1537585651,
+    "wof:name":"Gornji Lokanj",
+    "wof:parent_id":1108759303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06615,
+    44.56917,
+    19.06615,
+    44.56917
+],
+  "geometry": {"coordinates":[19.06615,44.56917],"type":"Point"}
+}

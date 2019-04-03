@@ -1,0 +1,67 @@
+{
+  "id": 1259701395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65602,44.60445,16.65602,44.60445",
+    "geom:latitude":44.60445,
+    "geom:longitude":16.65602,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Loncari",
+    "gn:country_code":"BA",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3246817,
+    "gn:latitude":44.60445,
+    "gn:longitude":16.65602,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lon\u010dari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3246817
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9dd206e58e53c37bc110f2b002b8ce3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1259701395,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1259701395,
+    "wof:lastmodified":1537039548,
+    "wof:name":"Loncari",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65602,
+    44.60445,
+    16.65602,
+    44.60445
+],
+  "geometry": {"coordinates":[16.65602,44.60445],"type":"Point"}
+}

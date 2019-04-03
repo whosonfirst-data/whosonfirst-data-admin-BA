@@ -1,0 +1,67 @@
+{
+  "id": 1276128085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67818,44.21155,17.67818,44.21155",
+    "geom:latitude":44.21155,
+    "geom:longitude":17.67818,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Grahovik",
+    "gn:country_code":"BA",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199669,
+    "gn:latitude":44.21155,
+    "gn:longitude":17.67818,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Grahovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199669
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e9a63670e234787b5f514e4d610fa2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759263,
+            "locality_id":1276128085,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1276128085,
+    "wof:lastmodified":1537051365,
+    "wof:name":"Grahovik",
+    "wof:parent_id":1108759263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67817999999999,
+    44.21155,
+    17.67817999999999,
+    44.21155
+],
+  "geometry": {"coordinates":[17.67817999999999,44.21155],"type":"Point"}
+}

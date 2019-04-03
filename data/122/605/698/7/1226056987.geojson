@@ -1,0 +1,67 @@
+{
+  "id": 1226056987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23801,44.43439,18.23801,44.43439",
+    "geom:latitude":44.43439,
+    "geom:longitude":18.23801,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krajnici",
+    "gn:country_code":"BA",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257867,
+    "gn:latitude":44.43439,
+    "gn:longitude":18.23801,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Krajni\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257867
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"876f7ade04e35326e032ed82944a16ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1226056987,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1226056987,
+    "wof:lastmodified":1536709184,
+    "wof:name":"Krajnici",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23801,
+    44.43439,
+    18.23801,
+    44.43439
+],
+  "geometry": {"coordinates":[18.23801,44.43439],"type":"Point"}
+}

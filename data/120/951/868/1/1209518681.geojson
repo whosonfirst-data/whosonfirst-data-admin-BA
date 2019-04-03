@@ -1,0 +1,61 @@
+{
+  "id": 1209518681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13786,44.17204,17.13786,44.17204",
+    "geom:latitude":44.17204,
+    "geom:longitude":17.13786,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lazukici",
+    "gn:country_code":"BA",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238352,
+    "gn:latitude":44.17204,
+    "gn:longitude":17.13786,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Lazuki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238352
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4ae01974319aeaad3049e6b2a8b5449f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209518681
+        }
+    ],
+    "wof:id":1209518681,
+    "wof:lastmodified":1536284649,
+    "wof:name":"Lazukici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13786,
+    44.17204,
+    17.13786,
+    44.17204
+],
+  "geometry": {"coordinates":[17.13786,44.17204],"type":"Point"}
+}

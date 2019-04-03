@@ -1,0 +1,67 @@
+{
+  "id": 1225958059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75068,44.70882,18.75068,44.70882",
+    "geom:latitude":44.70882,
+    "geom:longitude":18.75068,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Todici",
+    "gn:country_code":"BA",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257155,
+    "gn:latitude":44.70882,
+    "gn:longitude":18.75068,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Todi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257155
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b1ef733af7298c660e52efbb3ffc79da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759043,
+            "locality_id":1225958059,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1225958059,
+    "wof:lastmodified":1536850371,
+    "wof:name":"Todici",
+    "wof:parent_id":1108759043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75068,
+    44.70882,
+    18.75068,
+    44.70882
+],
+  "geometry": {"coordinates":[18.75068,44.70882],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343279711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49778,44.14403,17.49778,44.14403",
+    "geom:latitude":44.14403,
+    "geom:longitude":17.49778,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ladevici",
+    "gn:country_code":"BA",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3292931,
+    "gn:latitude":44.14403,
+    "gn:longitude":17.49778,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"La\u0111evi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292931
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"88139869285d5a476952299f9f11d293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759029,
+            "locality_id":1343279711,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1343279711,
+    "wof:lastmodified":1537006397,
+    "wof:name":"Ladevici",
+    "wof:parent_id":1108759029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49778,
+    44.14403,
+    17.49778,
+    44.14403
+],
+  "geometry": {"coordinates":[17.49778,44.14403],"type":"Point"}
+}

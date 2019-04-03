@@ -1,0 +1,67 @@
+{
+  "id": 1276231933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03676,43.69308,17.03676,43.69308",
+    "geom:latitude":43.69308,
+    "geom:longitude":17.03676,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brculjevina",
+    "gn:country_code":"BA",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283733,
+    "gn:latitude":43.69308,
+    "gn:longitude":17.03676,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Br\u010duljevina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283733
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9aa9139c4e58d6281cc1da735689b94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1276231933,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1276231933,
+    "wof:lastmodified":1536915115,
+    "wof:name":"Brculjevina",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03676,
+    43.69308,
+    17.03676,
+    43.69308
+],
+  "geometry": {"coordinates":[17.03676,43.69308],"type":"Point"}
+}

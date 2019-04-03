@@ -1,0 +1,106 @@
+{
+  "id": 890518967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88472,44.88361,15.88472,44.88361",
+    "geom:latitude":44.88361,
+    "geom:longitude":15.88472,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Brekovica"
+    ],
+    "name:dut_x_preferred":[
+        "Brekovica"
+    ],
+    "name:eng_x_preferred":[
+        "Brekovica"
+    ],
+    "name:fre_x_preferred":[
+        "Brekovica"
+    ],
+    "name:ger_x_preferred":[
+        "Brekovica"
+    ],
+    "name:hrv_x_preferred":[
+        "Brekovica"
+    ],
+    "name:pol_x_preferred":[
+        "Brekovica"
+    ],
+    "name:slv_x_preferred":[
+        "Brekovica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Brekovica"
+    ],
+    "qs:name":"Brekovica",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203458,
+        "gp:id":940864,
+        "qs:id":43901,
+        "wd:id":"Q907106",
+        "wk:page":"Brekovica"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056086,
+    "wof:geomhash":"db847c7987882346f0348e216020bc8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":890518967,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890518967,
+    "wof:lastmodified":1527751234,
+    "wof:name":"Brekovica",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88472,
+    44.88361,
+    15.88472,
+    44.88361
+],
+  "geometry": {"coordinates":[15.88472,44.88361],"type":"Point"}
+}

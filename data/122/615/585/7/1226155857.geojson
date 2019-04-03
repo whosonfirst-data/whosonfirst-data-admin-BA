@@ -1,0 +1,67 @@
+{
+  "id": 1226155857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.579,44.85515,18.579,44.85515",
+    "geom:latitude":44.85515,
+    "geom:longitude":18.579,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Srednja Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211098,
+    "gn:latitude":44.85515,
+    "gn:longitude":18.579,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Srednja Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211098
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0385e5722a59c429cb171ebb3a23fbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759097,
+            "locality_id":1226155857,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226155857,
+    "wof:lastmodified":1537060392,
+    "wof:name":"Srednja Mahala",
+    "wof:parent_id":1108759097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.579,
+    44.85515,
+    18.579,
+    44.85515
+],
+  "geometry": {"coordinates":[18.579,44.85515],"type":"Point"}
+}

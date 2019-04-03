@@ -1,0 +1,67 @@
+{
+  "id": 1276910025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62879,44.84132,18.62879,44.84132",
+    "geom:latitude":44.84132,
+    "geom:longitude":18.62879,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Maricani",
+    "gn:country_code":"BA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255293,
+    "gn:latitude":44.84132,
+    "gn:longitude":18.62879,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Mari\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255293
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"038e9ff23d879bf5e1403a40c3998644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1276910025,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1276910025,
+    "wof:lastmodified":1537000058,
+    "wof:name":"Maricani",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62879,
+    44.84132,
+    18.62879,
+    44.84132
+],
+  "geometry": {"coordinates":[18.62879,44.84132],"type":"Point"}
+}

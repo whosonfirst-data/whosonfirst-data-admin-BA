@@ -1,0 +1,68 @@
+{
+  "id": 1226445629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38996,45.0234,17.38996,45.0234",
+    "geom:latitude":45.0234,
+    "geom:longitude":17.38996,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Petrovo Selo",
+    "gn:country_code":"BA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285913,
+    "gn:latitude":45.0234,
+    "gn:longitude":17.38996,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Petrovo Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285913,
+        "wk:page":"Petrovo_Selo_%28Bosanska_Gradi%C5%A1ka%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4ff7d2e80b151327f03a121cc9360c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1226445629,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226445629,
+    "wof:lastmodified":1537486853,
+    "wof:name":"Petrovo Selo",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38996,
+    45.0234,
+    17.38996,
+    45.0234
+],
+  "geometry": {"coordinates":[17.38996,45.0234],"type":"Point"}
+}

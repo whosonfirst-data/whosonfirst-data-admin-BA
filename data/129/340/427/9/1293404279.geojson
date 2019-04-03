@@ -1,0 +1,68 @@
+{
+  "id": 1293404279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25608,44.19531,16.25608,44.19531",
+    "geom:latitude":44.19531,
+    "geom:longitude":16.25608,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zaseok",
+    "gn:country_code":"BA",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210640,
+    "gn:latitude":44.19531,
+    "gn:longitude":16.25608,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zaseok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210640,
+        "wk:page":"Zaseok"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b5ace64272dd63984172fa448d613100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1293404279,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1293404279,
+    "wof:lastmodified":1537486809,
+    "wof:name":"Zaseok",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25607999999999,
+    44.19531,
+    16.25607999999999,
+    44.19531
+],
+  "geometry": {"coordinates":[16.25607999999999,44.19531],"type":"Point"}
+}

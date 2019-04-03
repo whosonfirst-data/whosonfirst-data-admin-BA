@@ -1,0 +1,67 @@
+{
+  "id": 1243081519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7672,44.3977,18.7672,44.3977",
+    "geom:latitude":44.3977,
+    "geom:longitude":18.7672,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gracanica",
+    "gn:country_code":"BA",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199780,
+    "gn:latitude":44.3977,
+    "gn:longitude":18.7672,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gra\u010danica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199780
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f8e4f15dcc4a77bf8f37826c1a041c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":1243081519,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1243081519,
+    "wof:lastmodified":1536833457,
+    "wof:name":"Gracanica",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7672,
+    44.3977,
+    18.7672,
+    44.3977
+],
+  "geometry": {"coordinates":[18.7672,44.3977],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293210065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67871,44.5971,16.67871,44.5971",
+    "geom:latitude":44.5971,
+    "geom:longitude":16.67871,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dzaferagici",
+    "gn:country_code":"BA",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3246848,
+    "gn:latitude":44.5971,
+    "gn:longitude":16.67871,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"D\u017eaferagi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3246848
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"908b993e579d869721365148511f8ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":1293210065,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293210065,
+    "wof:lastmodified":1536690023,
+    "wof:name":"Dzaferagici",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67871,
+    44.5971,
+    16.67871,
+    44.5971
+],
+  "geometry": {"coordinates":[16.67871,44.5971],"type":"Point"}
+}

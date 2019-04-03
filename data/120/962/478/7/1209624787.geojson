@@ -1,0 +1,61 @@
+{
+  "id": 1209624787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9961,43.06213,17.9961,43.06213",
+    "geom:latitude":43.06213,
+    "geom:longitude":17.9961,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Podvrsnik",
+    "gn:country_code":"BA",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267798,
+    "gn:latitude":43.06213,
+    "gn:longitude":17.9961,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Podvrsnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267798
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e122f230437ffa0e07cd2aed9b3e9f28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209624787
+        }
+    ],
+    "wof:id":1209624787,
+    "wof:lastmodified":1536281392,
+    "wof:name":"Podvrsnik",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9961,
+    43.06213,
+    17.9961,
+    43.06213
+],
+  "geometry": {"coordinates":[17.9961,43.06213],"type":"Point"}
+}

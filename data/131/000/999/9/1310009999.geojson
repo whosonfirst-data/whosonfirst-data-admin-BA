@@ -1,0 +1,73 @@
+{
+  "id": 1310009999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94517,43.7134,18.94517,43.7134",
+    "geom:latitude":43.7134,
+    "geom:longitude":18.94517,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Deseva",
+    "gn:country_code":"BA",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202075,
+    "gn:latitude":43.7134,
+    "gn:longitude":18.94517,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"De\u0161eva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De\u0161ava",
+        "De\u0161evo",
+        "De\u0161eva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202075,
+        "wk:page":"De%C5%A1eva"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4999d648e38589d69d88845fef6b7025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759083,
+            "locality_id":1310009999,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1310009999,
+    "wof:lastmodified":1537585615,
+    "wof:name":"Deseva",
+    "wof:parent_id":1108759083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94517,
+    43.7134,
+    18.94517,
+    43.7134
+],
+  "geometry": {"coordinates":[18.94517,43.7134],"type":"Point"}
+}

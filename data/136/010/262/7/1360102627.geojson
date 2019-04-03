@@ -1,0 +1,67 @@
+{
+  "id": 1360102627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31845,43.34063,17.31845,43.34063",
+    "geom:latitude":43.34063,
+    "geom:longitude":17.31845,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ravlici",
+    "gn:country_code":"BA",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283679,
+    "gn:latitude":43.34063,
+    "gn:longitude":17.31845,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ravli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283679
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b69c5b067eb8298b04bbf1a3711feecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1360102627,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1360102627,
+    "wof:lastmodified":1536920961,
+    "wof:name":"Ravlici",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31845,
+    43.34063,
+    17.31845,
+    43.34063
+],
+  "geometry": {"coordinates":[17.31845,43.34063],"type":"Point"}
+}

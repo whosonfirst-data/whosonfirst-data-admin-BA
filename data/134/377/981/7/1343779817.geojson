@@ -1,0 +1,67 @@
+{
+  "id": 1343779817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.24,43.99556,18.24,43.99556",
+    "geom:latitude":43.99556,
+    "geom:longitude":18.24,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Do",
+    "gn:country_code":"BA",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298206,
+    "gn:latitude":43.99556,
+    "gn:longitude":18.24,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298206
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"46718f1d345f602ef9559ac8aa9c8904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759109,
+            "locality_id":1343779817,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1343779817,
+    "wof:lastmodified":1536783522,
+    "wof:name":"Do",
+    "wof:parent_id":1108759109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.24,
+    43.99556,
+    18.24,
+    43.99556
+],
+  "geometry": {"coordinates":[18.24,43.99556],"type":"Point"}
+}

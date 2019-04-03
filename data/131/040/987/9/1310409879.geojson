@@ -1,0 +1,71 @@
+{
+  "id": 1310409879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08498,43.78769,17.08498,43.78769",
+    "geom:latitude":43.78769,
+    "geom:longitude":17.08498,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zagoricani",
+    "gn:country_code":"BA",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3186919,
+    "gn:latitude":43.78769,
+    "gn:longitude":17.08498,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zagori\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zagori\u010dani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186919,
+        "wk:page":"Zagori%C4%8Dani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"78aa59e214884ff4caeb2e87ff093c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1310409879,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1310409879,
+    "wof:lastmodified":1537585548,
+    "wof:name":"Zagoricani",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08498,
+    43.78769000000001,
+    17.08498,
+    43.78769000000001
+],
+  "geometry": {"coordinates":[17.08498,43.78769000000001],"type":"Point"}
+}

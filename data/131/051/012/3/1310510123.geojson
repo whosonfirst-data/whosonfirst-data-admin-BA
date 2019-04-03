@@ -1,0 +1,67 @@
+{
+  "id": 1310510123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.63109,45.1231,16.63109,45.1231",
+    "geom:latitude":45.1231,
+    "geom:longitude":16.63109,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pavetici",
+    "gn:country_code":"BA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281256,
+    "gn:latitude":45.1231,
+    "gn:longitude":16.63109,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Paveti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281256
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c7f2917ec323fd406a55416f5fba1de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1310510123,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310510123,
+    "wof:lastmodified":1536910485,
+    "wof:name":"Pavetici",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.63109,
+    45.1231,
+    16.63109,
+    45.1231
+],
+  "geometry": {"coordinates":[16.63109,45.1231],"type":"Point"}
+}

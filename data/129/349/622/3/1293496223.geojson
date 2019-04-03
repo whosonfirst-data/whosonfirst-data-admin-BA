@@ -1,0 +1,72 @@
+{
+  "id": 1293496223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.74266,43.95634,18.74266,43.95634",
+    "geom:latitude":43.95634,
+    "geom:longitude":18.74266,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pedise",
+    "gn:country_code":"BA",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193528,
+    "gn:latitude":43.95634,
+    "gn:longitude":18.74266,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pedi\u0161e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pedi\u0161te",
+        "Pedi\u0161e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193528,
+        "wk:page":"Pedi%C5%A1e"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"68ccde5544c1acc2e2376da8ad093d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1293496223,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293496223,
+    "wof:lastmodified":1537585575,
+    "wof:name":"Pedise",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.74266,
+    43.95634,
+    18.74266,
+    43.95634
+],
+  "geometry": {"coordinates":[18.74266,43.95634],"type":"Point"}
+}

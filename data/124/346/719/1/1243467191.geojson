@@ -1,0 +1,67 @@
+{
+  "id": 1243467191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49825,43.38056,18.49825,43.38056",
+    "geom:latitude":43.38056,
+    "geom:longitude":18.49825,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornja Bara",
+    "gn:country_code":"BA",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264575,
+    "gn:latitude":43.38056,
+    "gn:longitude":18.49825,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornja Bara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264575
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"784e1d3e2909f3f50943697334606189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759125,
+            "locality_id":1243467191,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243467191,
+    "wof:lastmodified":1536776154,
+    "wof:name":"Gornja Bara",
+    "wof:parent_id":1108759125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49825,
+    43.38056,
+    18.49825,
+    43.38056
+],
+  "geometry": {"coordinates":[18.49825,43.38056],"type":"Point"}
+}

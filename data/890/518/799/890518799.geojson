@@ -1,0 +1,95 @@
+{
+  "id": 890518799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59869,44.95214,18.59869,44.95214",
+    "geom:latitude":44.95214,
+    "geom:longitude":18.59869,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":2171,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Obudovac"
+    ],
+    "name:dut_x_preferred":[
+        "Obudovac"
+    ],
+    "name:eng_x_preferred":[
+        "Obudovac"
+    ],
+    "name:fre_x_preferred":[
+        "Obudovac"
+    ],
+    "name:ger_x_preferred":[
+        "Obudovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Obudovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0443\u0434\u043e\u0432\u0430\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0431\u0443\u0434\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Obudovac"
+    ],
+    "qs:name":"Obudovac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194231,
+        "qs:id":1044006,
+        "wd:id":"Q2013255",
+        "wk:page":"Obudovac"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056079,
+    "wof:geomhash":"441d5771f4b362e00905d519f21cfea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759017,
+            "locality_id":890518799,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518799,
+    "wof:lastmodified":1527751228,
+    "wof:name":"Obudovac",
+    "wof:parent_id":1108759017,
+    "wof:placetype":"locality",
+    "wof:population":2171,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59869,
+    44.95214,
+    18.59869,
+    44.95214
+],
+  "geometry": {"coordinates":[18.59869,44.95214],"type":"Point"}
+}

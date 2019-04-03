@@ -1,0 +1,72 @@
+{
+  "id": 1310208081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18244,44.09881,19.18244,44.09881",
+    "geom:latitude":44.09881,
+    "geom:longitude":19.18244,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornje Zedanjsko",
+    "gn:country_code":"BA",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186635,
+    "gn:latitude":44.09881,
+    "gn:longitude":19.18244,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornje \u017dedanjsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dedanjsko",
+        "Gornje \u017dedanjsko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186635,
+        "wk:page":"%C5%BDedanjsko"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f64717b4111ef83fd5ef0cd5eae05973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1310208081,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310208081,
+    "wof:lastmodified":1537585547,
+    "wof:name":"Gornje Zedanjsko",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18244,
+    44.09881,
+    19.18244,
+    44.09881
+],
+  "geometry": {"coordinates":[19.18244,44.09881],"type":"Point"}
+}

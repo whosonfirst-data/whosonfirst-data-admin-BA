@@ -1,0 +1,71 @@
+{
+  "id": 1226257035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56577,43.64391,18.56577,43.64391",
+    "geom:latitude":43.64391,
+    "geom:longitude":18.56577,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dragomilici",
+    "gn:country_code":"BA",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201292,
+    "gn:latitude":43.64391,
+    "gn:longitude":18.56577,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Dragomili\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dragomili\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201292,
+        "wk:page":"Dragomili%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c03ec7dd66e554697d30ac9b861e3e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759071,
+            "locality_id":1226257035,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1226257035,
+    "wof:lastmodified":1537585608,
+    "wof:name":"Dragomilici",
+    "wof:parent_id":1108759071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56577,
+    43.64391,
+    18.56577,
+    43.64391
+],
+  "geometry": {"coordinates":[18.56577,43.64391],"type":"Point"}
+}

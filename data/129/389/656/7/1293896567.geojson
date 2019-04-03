@@ -1,0 +1,67 @@
+{
+  "id": 1293896567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00276,44.05075,19.00276,44.05075",
+    "geom:latitude":44.05075,
+    "geom:longitude":19.00276,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gasevici",
+    "gn:country_code":"BA",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273245,
+    "gn:latitude":44.05075,
+    "gn:longitude":19.00276,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ga\u0161evi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273245
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"97d12d74d299b627bb67c157b0935bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":1293896567,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293896567,
+    "wof:lastmodified":1536694651,
+    "wof:name":"Gasevici",
+    "wof:parent_id":1108759103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00276,
+    44.05075,
+    19.00276,
+    44.05075
+],
+  "geometry": {"coordinates":[19.00276,44.05075],"type":"Point"}
+}

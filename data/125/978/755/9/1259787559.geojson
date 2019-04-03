@@ -1,0 +1,67 @@
+{
+  "id": 1259787559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79535,45.11509,15.79535,45.11509",
+    "geom:latitude":45.11509,
+    "geom:longitude":15.79535,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Katici",
+    "gn:country_code":"BA",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3279585,
+    "gn:latitude":45.11509,
+    "gn:longitude":15.79535,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kati\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3279585
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"33adbb875faaad98c6331bcce41db711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1259787559,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1259787559,
+    "wof:lastmodified":1536917815,
+    "wof:name":"Katici",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79535,
+    45.11509,
+    15.79535,
+    45.11509
+],
+  "geometry": {"coordinates":[15.79535,45.11509],"type":"Point"}
+}

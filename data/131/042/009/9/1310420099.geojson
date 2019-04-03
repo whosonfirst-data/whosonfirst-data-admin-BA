@@ -1,0 +1,78 @@
+{
+  "id": 1310420099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67306,43.18083,17.67306,43.18083",
+    "geom:latitude":43.18083,
+    "geom:longitude":17.67306,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3343733.0",
+    "gn:asciiname":"Vasilj",
+    "gn:country_code":"BA",
+    "gn:dem":187,
+    "gn:elevation":"162.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213104,
+    "gn:latitude":43.18083,
+    "gn:longitude":17.67306,
+    "gn:modification_date":"2016-11-03",
+    "gn:name":"Vasilj",
+    "gn:population":350,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Put Krizevca"
+    ],
+    "name:hrv_x_variant":[
+        "Vasilji"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213104
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9dcad7c48cd2b939808bba74298a3c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759049,
+            "locality_id":1310420099,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1310420099,
+    "wof:lastmodified":1537486822,
+    "wof:name":"Vasilj",
+    "wof:parent_id":1108759049,
+    "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67306,
+    43.18083,
+    17.67306,
+    43.18083
+],
+  "geometry": {"coordinates":[17.67306,43.18083],"type":"Point"}
+}

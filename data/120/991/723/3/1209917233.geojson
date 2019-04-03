@@ -1,0 +1,72 @@
+{
+  "id": 1209917233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97514,43.38385,18.97514,43.38385",
+    "geom:latitude":43.38385,
+    "geom:longitude":18.97514,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Celebici",
+    "gn:country_code":"BA",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202794,
+    "gn:latitude":43.38385,
+    "gn:longitude":18.97514,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u010celebi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010celebi\u0107",
+        "\u010celebi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202794,
+        "wk:page":"%C4%8Celebi%C4%87i_%28Fo%C4%8Da%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"70e7e399f49db300d2186179f9a38276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1209917233,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209917233,
+    "wof:lastmodified":1537585618,
+    "wof:name":"Celebici",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97514,
+    43.38385,
+    18.97514,
+    43.38385
+],
+  "geometry": {"coordinates":[18.97514,43.38385],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209833157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78411,44.43862,18.78411,44.43862",
+    "geom:latitude":44.43862,
+    "geom:longitude":18.78411,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jeginov Lug",
+    "gn:country_code":"BA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198728,
+    "gn:latitude":44.43862,
+    "gn:longitude":18.78411,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Jeginov Lug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198728,
+        "wk:page":"Jeginov_Lug"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fd693d90d952009d26f7894b495735fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759121,
+            "locality_id":1209833157,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1209833157,
+    "wof:lastmodified":1537486763,
+    "wof:name":"Jeginov Lug",
+    "wof:parent_id":1108759121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78411,
+    44.43862,
+    18.78411,
+    44.43862
+],
+  "geometry": {"coordinates":[18.78411,44.43862],"type":"Point"}
+}

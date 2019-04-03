@@ -1,0 +1,71 @@
+{
+  "id": 1243571821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.24905,44.7782,18.24905,44.7782",
+    "geom:latitude":44.7782,
+    "geom:longitude":18.24905,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kojici",
+    "gn:country_code":"BA",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210918,
+    "gn:latitude":44.7782,
+    "gn:longitude":18.24905,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Koji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kogi\u0107i",
+        "Koji\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210918
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c7690799bf13f3c747d09f8766abba69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1243571821,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1243571821,
+    "wof:lastmodified":1537585643,
+    "wof:name":"Kojici",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.24905,
+    44.7782,
+    18.24905,
+    44.7782
+],
+  "geometry": {"coordinates":[18.24905,44.7782],"type":"Point"}
+}

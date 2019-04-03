@@ -1,0 +1,150 @@
+{
+  "id": 890518519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97708,44.66235,18.97708,44.66235",
+    "geom:latitude":44.66235,
+    "geom:longitude":18.97708,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":4,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:bos_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:cat_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:cze_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:dan_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:dut_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:eng_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:fin_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:fre_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:ger_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:ind_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:ita_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:nno_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:nob_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:oci_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:pol_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:por_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:rum_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:slo_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:spa_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0433\u0443\u0442\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:tgl_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:tur_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "name:unk_x_variant":[
+        "Begutovo Selo"
+    ],
+    "name:war_x_preferred":[
+        "Bogutovo Selo"
+    ],
+    "qs:name":"Bogutovo Selo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203812,
+        "qs:id":95183,
+        "wd:id":"Q2908781"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056068,
+    "wof:geomhash":"bae7365469e627058f5ca182bd95c379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759273,
+            "locality_id":890518519,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518519,
+    "wof:lastmodified":1513898798,
+    "wof:name":"Bogutovo Selo",
+    "wof:parent_id":1108759273,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97708,
+    44.66235,
+    18.97708,
+    44.66235
+],
+  "geometry": {"coordinates":[18.97708,44.66235],"type":"Point"}
+}

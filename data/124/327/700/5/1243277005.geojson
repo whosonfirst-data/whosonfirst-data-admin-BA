@@ -1,0 +1,67 @@
+{
+  "id": 1243277005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27596,43.44152,18.27596,43.44152",
+    "geom:latitude":43.44152,
+    "geom:longitude":18.27596,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bijonoge",
+    "gn:country_code":"BA",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263897,
+    "gn:latitude":43.44152,
+    "gn:longitude":18.27596,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bijonoge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263897
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ddf125dcbeba99575222199d15052d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759125,
+            "locality_id":1243277005,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243277005,
+    "wof:lastmodified":1537047726,
+    "wof:name":"Bijonoge",
+    "wof:parent_id":1108759125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27596,
+    43.44152,
+    18.27596,
+    43.44152
+],
+  "geometry": {"coordinates":[18.27596,43.44152],"type":"Point"}
+}

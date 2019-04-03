@@ -1,0 +1,71 @@
+{
+  "id": 1193030007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.90247,44.00967,17.90247,44.00967",
+    "geom:latitude":44.00967,
+    "geom:longitude":17.90247,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vladici",
+    "gn:country_code":"BA",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187552,
+    "gn:latitude":44.00967,
+    "gn:longitude":17.90247,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Vladi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vladi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187552,
+        "wk:page":"Vladi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"977c968e8905f7c8893e1a7ce71f60f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1193030007,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1193030007,
+    "wof:lastmodified":1537585552,
+    "wof:name":"Vladici",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90247,
+    44.00967,
+    17.90247,
+    44.00967
+],
+  "geometry": {"coordinates":[17.90247,44.00967],"type":"Point"}
+}

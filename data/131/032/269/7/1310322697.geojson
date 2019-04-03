@@ -1,0 +1,67 @@
+{
+  "id": 1310322697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.43712,44.50378,18.43712,44.50378",
+    "geom:latitude":44.50378,
+    "geom:longitude":18.43712,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Alici",
+    "gn:country_code":"BA",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3262970,
+    "gn:latitude":44.50378,
+    "gn:longitude":18.43712,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ali\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3262970
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5ebeb7da0c4b267ef1cab90b05f57214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759161,
+            "locality_id":1310322697,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310322697,
+    "wof:lastmodified":1536683098,
+    "wof:name":"Alici",
+    "wof:parent_id":1108759161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.43712,
+    44.50378,
+    18.43712,
+    44.50378
+],
+  "geometry": {"coordinates":[18.43712,44.50378],"type":"Point"}
+}

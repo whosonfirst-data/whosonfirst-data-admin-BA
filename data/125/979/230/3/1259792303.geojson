@@ -1,0 +1,67 @@
+{
+  "id": 1259792303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44212,44.49401,17.44212,44.49401",
+    "geom:latitude":44.49401,
+    "geom:longitude":17.44212,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bjelosevici",
+    "gn:country_code":"BA",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3234811,
+    "gn:latitude":44.49401,
+    "gn:longitude":17.44212,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bjelo\u0161evi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3234811
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"23af05227d9a03e396802f5b5db455d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759233,
+            "locality_id":1259792303,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259792303,
+    "wof:lastmodified":1536910715,
+    "wof:name":"Bjelosevici",
+    "wof:parent_id":1108759233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44212000000001,
+    44.49401,
+    17.44212000000001,
+    44.49401
+],
+  "geometry": {"coordinates":[17.44212000000001,44.49401],"type":"Point"}
+}

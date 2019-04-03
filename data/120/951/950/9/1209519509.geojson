@@ -1,0 +1,65 @@
+{
+  "id": 1209519509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54957,44.04165,17.54957,44.04165",
+    "geom:latitude":44.04165,
+    "geom:longitude":17.54957,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Susljici",
+    "gn:country_code":"BA",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292221,
+    "gn:latitude":44.04165,
+    "gn:longitude":17.54957,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160u\u0161lji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160u\u0161lji\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292221,
+        "wk:page":"%C5%A0u%C5%A1ljici"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cff65c13e38ee5bdca50381c5858df8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209519509
+        }
+    ],
+    "wof:id":1209519509,
+    "wof:lastmodified":1537585677,
+    "wof:name":"Susljici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54957000000001,
+    44.04165,
+    17.54957000000001,
+    44.04165
+],
+  "geometry": {"coordinates":[17.54957000000001,44.04165],"type":"Point"}
+}

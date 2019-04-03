@@ -1,0 +1,71 @@
+{
+  "id": 1243278167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40457,43.69831,18.40457,43.69831",
+    "geom:latitude":43.69831,
+    "geom:longitude":18.40457,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ceruzici",
+    "gn:country_code":"BA",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202671,
+    "gn:latitude":43.69831,
+    "gn:longitude":18.40457,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u010ceru\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010ceru\u017ei\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202671,
+        "wk:page":"%C4%8Ceru%C5%BEi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0f39580e4c530b33bfe803829510abd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1243278167,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1243278167,
+    "wof:lastmodified":1537585617,
+    "wof:name":"Ceruzici",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40457,
+    43.69831,
+    18.40457,
+    43.69831
+],
+  "geometry": {"coordinates":[18.40457,43.69831],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243458575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36058,43.93878,17.36058,43.93878",
+    "geom:latitude":43.93878,
+    "geom:longitude":17.36058,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Omerovici",
+    "gn:country_code":"BA",
+    "gn:dem":1327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283767,
+    "gn:latitude":43.93878,
+    "gn:longitude":17.36058,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Omerovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283767
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"91a59cc91e0887fd1a6e2dac5ef6a430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759029,
+            "locality_id":1243458575,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1243458575,
+    "wof:lastmodified":1536788441,
+    "wof:name":"Omerovici",
+    "wof:parent_id":1108759029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36058,
+    43.93878,
+    17.36058,
+    43.93878
+],
+  "geometry": {"coordinates":[17.36058,43.93878],"type":"Point"}
+}

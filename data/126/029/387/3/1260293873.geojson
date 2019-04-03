@@ -1,0 +1,67 @@
+{
+  "id": 1260293873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.07928,43.59432,19.07928,43.59432",
+    "geom:latitude":43.59432,
+    "geom:longitude":19.07928,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nekosine",
+    "gn:country_code":"BA",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269964,
+    "gn:latitude":43.59432,
+    "gn:longitude":19.07928,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nekosine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269964
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b2a60e12b208d918021be6bec7c144ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759035,
+            "locality_id":1260293873,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260293873,
+    "wof:lastmodified":1536698137,
+    "wof:name":"Nekosine",
+    "wof:parent_id":1108759035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07928,
+    43.59432,
+    19.07928,
+    43.59432
+],
+  "geometry": {"coordinates":[19.07928,43.59432],"type":"Point"}
+}

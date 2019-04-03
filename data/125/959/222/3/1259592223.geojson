@@ -1,0 +1,67 @@
+{
+  "id": 1259592223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18792,44.83518,19.18792,44.83518",
+    "geom:latitude":44.83518,
+    "geom:longitude":19.18792,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Greda Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254173,
+    "gn:latitude":44.83518,
+    "gn:longitude":19.18792,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Greda Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254173
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9b76b06c119be6f2be44e57c4267714a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1259592223,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259592223,
+    "wof:lastmodified":1536702398,
+    "wof:name":"Greda Mahala",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18792,
+    44.83518,
+    19.18792,
+    44.83518
+],
+  "geometry": {"coordinates":[19.18792,44.83518],"type":"Point"}
+}

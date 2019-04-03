@@ -1,0 +1,67 @@
+{
+  "id": 1293496429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88859,44.67559,17.88859,44.67559",
+    "geom:latitude":44.67559,
+    "geom:longitude":17.88859,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hercezi",
+    "gn:country_code":"BA",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251632,
+    "gn:latitude":44.67559,
+    "gn:longitude":17.88859,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Hercezi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251632
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"57fb42ff396e29df5ee310f59e70d940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759255,
+            "locality_id":1293496429,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1293496429,
+    "wof:lastmodified":1536774743,
+    "wof:name":"Hercezi",
+    "wof:parent_id":1108759255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88859,
+    44.67559,
+    17.88859,
+    44.67559
+],
+  "geometry": {"coordinates":[17.88859,44.67559],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226762033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.89098,43.59734,18.89098,43.59734",
+    "geom:latitude":43.59734,
+    "geom:longitude":18.89098,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zigovi",
+    "gn:country_code":"BA",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186464,
+    "gn:latitude":43.59734,
+    "gn:longitude":18.89098,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u017digovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017digovi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186464,
+        "wk:page":"%C5%BDigovi"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1afdebb18b5ee07a815782a58fde62ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759083,
+            "locality_id":1226762033,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1226762033,
+    "wof:lastmodified":1537585547,
+    "wof:name":"Zigovi",
+    "wof:parent_id":1108759083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.89098,
+    43.59734,
+    18.89098,
+    43.59734
+],
+  "geometry": {"coordinates":[18.89098,43.59734],"type":"Point"}
+}

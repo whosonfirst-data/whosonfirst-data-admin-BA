@@ -1,0 +1,61 @@
+{
+  "id": 1209624029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45614,42.89468,18.45614,42.89468",
+    "geom:latitude":42.89468,
+    "geom:longitude":18.45614,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Baljci",
+    "gn:country_code":"BA",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3292251,
+    "gn:latitude":42.89468,
+    "gn:longitude":18.45614,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Baljci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292251
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6fdb64d58661b5bb376705019318a891",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209624029
+        }
+    ],
+    "wof:id":1209624029,
+    "wof:lastmodified":1536281417,
+    "wof:name":"Baljci",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45614,
+    42.89468,
+    18.45614,
+    42.89468
+],
+  "geometry": {"coordinates":[18.45614,42.89468],"type":"Point"}
+}

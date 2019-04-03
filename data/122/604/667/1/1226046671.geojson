@@ -1,0 +1,67 @@
+{
+  "id": 1226046671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35833,44.33833,17.35833,44.33833",
+    "geom:latitude":44.33833,
+    "geom:longitude":17.35833,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kruscica",
+    "gn:country_code":"BA",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197102,
+    "gn:latitude":44.33833,
+    "gn:longitude":17.35833,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Kru\u0161\u010dica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197102
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"195a804d0d4722ffcf28e9eb4f38a82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759115,
+            "locality_id":1226046671,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1226046671,
+    "wof:lastmodified":1536724156,
+    "wof:name":"Kruscica",
+    "wof:parent_id":1108759115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35833,
+    44.33833,
+    17.35833,
+    44.33833
+],
+  "geometry": {"coordinates":[17.35833,44.33833],"type":"Point"}
+}

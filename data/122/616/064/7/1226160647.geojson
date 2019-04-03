@@ -1,0 +1,67 @@
+{
+  "id": 1226160647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04361,43.87417,18.04361,43.87417",
+    "geom:latitude":43.87417,
+    "geom:longitude":18.04361,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hrasno",
+    "gn:country_code":"BA",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297164,
+    "gn:latitude":43.87417,
+    "gn:longitude":18.04361,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Hrasno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297164
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0c7044b91495ea6a666d60e107d4353a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759143,
+            "locality_id":1226160647,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1226160647,
+    "wof:lastmodified":1537053900,
+    "wof:name":"Hrasno",
+    "wof:parent_id":1108759143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04361,
+    43.87417,
+    18.04361,
+    43.87417
+],
+  "geometry": {"coordinates":[18.04361,43.87417],"type":"Point"}
+}

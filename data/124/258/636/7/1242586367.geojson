@@ -1,0 +1,67 @@
+{
+  "id": 1242586367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95435,44.25466,18.95435,44.25466",
+    "geom:latitude":44.25466,
+    "geom:longitude":18.95435,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rajevina",
+    "gn:country_code":"BA",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211353,
+    "gn:latitude":44.25466,
+    "gn:longitude":18.95435,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rajevina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211353
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"46b1b031ecd8d99526079378a333f74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759289,
+            "locality_id":1242586367,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242586367,
+    "wof:lastmodified":1537048843,
+    "wof:name":"Rajevina",
+    "wof:parent_id":1108759289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95435,
+    44.25466,
+    18.95435,
+    44.25466
+],
+  "geometry": {"coordinates":[18.95435,44.25466],"type":"Point"}
+}

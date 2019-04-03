@@ -1,0 +1,68 @@
+{
+  "id": 1193033887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31667,43.96667,17.31667,43.96667",
+    "geom:latitude":43.96667,
+    "geom:longitude":17.31667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Botun",
+    "gn:country_code":"BA",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203615,
+    "gn:latitude":43.96667,
+    "gn:longitude":17.31667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Botun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203615,
+        "wk:page":"Botun_%28Kupres%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ea8bab61d0aecf04b379089c1150bd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759145,
+            "locality_id":1193033887,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1193033887,
+    "wof:lastmodified":1537486796,
+    "wof:name":"Botun",
+    "wof:parent_id":1108759145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31667,
+    43.96667,
+    17.31667,
+    43.96667
+],
+  "geometry": {"coordinates":[17.31667,43.96667],"type":"Point"}
+}

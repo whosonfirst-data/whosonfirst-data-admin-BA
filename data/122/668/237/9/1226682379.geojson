@@ -1,0 +1,67 @@
+{
+  "id": 1226682379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81242,44.78149,18.81242,44.78149",
+    "geom:latitude":44.78149,
+    "geom:longitude":18.81242,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Mateljici",
+    "gn:country_code":"BA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256169,
+    "gn:latitude":44.78149,
+    "gn:longitude":18.81242,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Matelji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256169
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"05e22432fd50a7e54e911e8b9c1ccaf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1226682379,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1226682379,
+    "wof:lastmodified":1536806486,
+    "wof:name":"Mateljici",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81242,
+    44.78149000000001,
+    18.81242,
+    44.78149000000001
+],
+  "geometry": {"coordinates":[18.81242,44.78149000000001],"type":"Point"}
+}

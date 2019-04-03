@@ -1,0 +1,67 @@
+{
+  "id": 1193025615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25806,43.87278,18.25806,43.87278",
+    "geom:latitude":43.87278,
+    "geom:longitude":18.25806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Draskic",
+    "gn:country_code":"BA",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295776,
+    "gn:latitude":43.87278,
+    "gn:longitude":18.25806,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Dra\u0161ki\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295776
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"215c47153a6f002c59509e3447e24545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759105,
+            "locality_id":1193025615,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1193025615,
+    "wof:lastmodified":1536368254,
+    "wof:name":"Draskic",
+    "wof:parent_id":1108759105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25806,
+    43.87278,
+    18.25806,
+    43.87278
+],
+  "geometry": {"coordinates":[18.25806,43.87278],"type":"Point"}
+}

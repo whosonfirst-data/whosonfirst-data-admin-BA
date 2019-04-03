@@ -1,0 +1,67 @@
+{
+  "id": 1242974193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87818,44.27041,16.87818,44.27041",
+    "geom:latitude":44.27041,
+    "geom:longitude":16.87818,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Miletici",
+    "gn:country_code":"BA",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259597,
+    "gn:latitude":44.27041,
+    "gn:longitude":16.87818,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mileti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259597
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b8ef75542a53aaae2c0a924e61da24ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1242974193,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242974193,
+    "wof:lastmodified":1536988540,
+    "wof:name":"Miletici",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87818,
+    44.27041,
+    16.87818,
+    44.27041
+],
+  "geometry": {"coordinates":[16.87818,44.27041],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276876781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00454,43.57857,17.00454,43.57857",
+    "geom:latitude":43.57857,
+    "geom:longitude":17.00454,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mala Vinica",
+    "gn:country_code":"BA",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286364,
+    "gn:latitude":43.57857,
+    "gn:longitude":17.00454,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mala Vinica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286364
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ef0c934893b51b1abcb6073a039ccdfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276876781,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1276876781,
+    "wof:lastmodified":1537043456,
+    "wof:name":"Mala Vinica",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00454,
+    43.57857,
+    17.00454,
+    43.57857
+],
+  "geometry": {"coordinates":[17.00454,43.57857],"type":"Point"}
+}

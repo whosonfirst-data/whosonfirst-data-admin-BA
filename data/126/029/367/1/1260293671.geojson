@@ -1,0 +1,67 @@
+{
+  "id": 1260293671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87277,44.88365,16.87277,44.88365",
+    "geom:latitude":44.88365,
+    "geom:longitude":16.87277,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Babici",
+    "gn:country_code":"BA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3249858,
+    "gn:latitude":44.88365,
+    "gn:longitude":16.87277,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Babi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3249858
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"108d26d11be17cd81491c93f85ccf07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1260293671,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260293671,
+    "wof:lastmodified":1536698410,
+    "wof:name":"Babici",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87277000000001,
+    44.88365,
+    16.87277000000001,
+    44.88365
+],
+  "geometry": {"coordinates":[16.87277000000001,44.88365],"type":"Point"}
+}

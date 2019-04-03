@@ -1,0 +1,67 @@
+{
+  "id": 1276353743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17111,43.52139,18.17111,43.52139",
+    "geom:latitude":43.52139,
+    "geom:longitude":18.17111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zascenje",
+    "gn:country_code":"BA",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269951,
+    "gn:latitude":43.52139,
+    "gn:longitude":18.17111,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Zas\u0107enje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269951
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"45482c2c1b686ca7b33c96fcc7a57927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1276353743,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1276353743,
+    "wof:lastmodified":1536751108,
+    "wof:name":"Zascenje",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17111,
+    43.52139,
+    18.17111,
+    43.52139
+],
+  "geometry": {"coordinates":[18.17111,43.52139],"type":"Point"}
+}

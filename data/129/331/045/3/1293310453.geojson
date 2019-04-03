@@ -1,0 +1,67 @@
+{
+  "id": 1293310453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9211,43.98551,17.9211,43.98551",
+    "geom:latitude":43.98551,
+    "geom:longitude":17.9211,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Urvine",
+    "gn:country_code":"BA",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289659,
+    "gn:latitude":43.98551,
+    "gn:longitude":17.9211,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Urvine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289659
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a61e4b23de5541ecc6ff8c8e97b30dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1293310453,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1293310453,
+    "wof:lastmodified":1537040559,
+    "wof:name":"Urvine",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9211,
+    43.98551,
+    17.9211,
+    43.98551
+],
+  "geometry": {"coordinates":[17.9211,43.98551],"type":"Point"}
+}

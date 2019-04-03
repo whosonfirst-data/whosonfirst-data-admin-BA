@@ -1,0 +1,73 @@
+{
+  "id": 1310208279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41541,42.64783,18.41541,42.64783",
+    "geom:latitude":42.64783,
+    "geom:longitude":18.41541,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Orasje Zupci",
+    "gn:country_code":"BA",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194034,
+    "gn:latitude":42.64783,
+    "gn:longitude":18.41541,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ora\u0161je Zupci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ora\u0161je-Zubci",
+        "Ora\u0161je",
+        "Ora\u0161je Zupci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194034,
+        "wk:page":"Ora%C5%A1je_Zubci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4dee584b2bb0b021b5099d0982b6b297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759265,
+            "locality_id":1310208279,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310208279,
+    "wof:lastmodified":1537585577,
+    "wof:name":"Orasje Zupci",
+    "wof:parent_id":1108759265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41541,
+    42.64783,
+    18.41541,
+    42.64783
+],
+  "geometry": {"coordinates":[18.41541,42.64783],"type":"Point"}
+}

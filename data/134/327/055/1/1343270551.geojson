@@ -1,0 +1,71 @@
+{
+  "id": 1343270551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73881,45.14466,16.73881,45.14466",
+    "geom:latitude":45.14466,
+    "geom:longitude":16.73881,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Celebinci",
+    "gn:country_code":"BA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3280559,
+    "gn:latitude":45.14466,
+    "gn:longitude":16.73881,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u010celebinci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010celebinci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280559,
+        "wk:page":"%C4%8Celebinci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1b9da7c748b2615b02246586d0c9db83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1343270551,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343270551,
+    "wof:lastmodified":1537585674,
+    "wof:name":"Celebinci",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73881,
+    45.14466,
+    16.73881,
+    45.14466
+],
+  "geometry": {"coordinates":[16.73881,45.14466],"type":"Point"}
+}

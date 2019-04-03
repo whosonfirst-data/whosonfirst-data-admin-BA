@@ -1,0 +1,67 @@
+{
+  "id": 1360198543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95845,45.14192,15.95845,45.14192",
+    "geom:latitude":45.14192,
+    "geom:longitude":15.95845,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sestanovac",
+    "gn:country_code":"BA",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277613,
+    "gn:latitude":45.14192,
+    "gn:longitude":15.95845,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u0160estanovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277613
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5c304e74a537e10b96739cc66186544c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1360198543,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1360198543,
+    "wof:lastmodified":1536782407,
+    "wof:name":"Sestanovac",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95845,
+    45.14192,
+    15.95845,
+    45.14192
+],
+  "geometry": {"coordinates":[15.95845,45.14192],"type":"Point"}
+}

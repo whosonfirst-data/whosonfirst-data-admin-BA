@@ -1,0 +1,67 @@
+{
+  "id": 1276128025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36152,44.24769,17.36152,44.24769",
+    "geom:latitude":44.24769,
+    "geom:longitude":17.36152,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zabreg",
+    "gn:country_code":"BA",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238033,
+    "gn:latitude":44.24769,
+    "gn:longitude":17.36152,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zabreg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238033
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f857af66898e7871f137dd359a1fb6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759065,
+            "locality_id":1276128025,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1276128025,
+    "wof:lastmodified":1537051441,
+    "wof:name":"Zabreg",
+    "wof:parent_id":1108759065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36152,
+    44.24769000000001,
+    17.36152,
+    44.24769000000001
+],
+  "geometry": {"coordinates":[17.36152,44.24769000000001],"type":"Point"}
+}

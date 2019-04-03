@@ -1,0 +1,72 @@
+{
+  "id": 1193019329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81102,44.09379,18.81102,44.09379",
+    "geom:latitude":44.09379,
+    "geom:longitude":18.81102,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornje Babine",
+    "gn:country_code":"BA",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204718,
+    "gn:latitude":44.09379,
+    "gn:longitude":18.81102,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornje Babine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babine Gornje",
+        "Gornje Babine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204718,
+        "wk:page":"Babine_Gornje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9d66089ef19524ee5a5a6d00dda40c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":1193019329,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193019329,
+    "wof:lastmodified":1537585629,
+    "wof:name":"Gornje Babine",
+    "wof:parent_id":1108759103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81102000000001,
+    44.09379000000001,
+    18.81102000000001,
+    44.09379000000001
+],
+  "geometry": {"coordinates":[18.81102000000001,44.09379000000001],"type":"Point"}
+}

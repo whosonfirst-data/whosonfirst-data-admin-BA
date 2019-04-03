@@ -1,0 +1,72 @@
+{
+  "id": 1277088661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3947,44.12851,17.3947,44.12851",
+    "geom:latitude":44.12851,
+    "geom:longitude":17.3947,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Daljan",
+    "gn:country_code":"BA",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202213,
+    "gn:latitude":44.12851,
+    "gn:longitude":17.3947,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Daljan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daljar",
+        "Daljan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202213,
+        "wk:page":"Daljan"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"15aa232a62630d3344d3a607911fee5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759065,
+            "locality_id":1277088661,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1277088661,
+    "wof:lastmodified":1537585615,
+    "wof:name":"Daljan",
+    "wof:parent_id":1108759065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3947,
+    44.12851,
+    17.3947,
+    44.12851
+],
+  "geometry": {"coordinates":[17.3947,44.12851],"type":"Point"}
+}

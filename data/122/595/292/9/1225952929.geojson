@@ -1,0 +1,67 @@
+{
+  "id": 1225952929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.24295,43.08584,18.24295,43.08584",
+    "geom:latitude":43.08584,
+    "geom:longitude":18.24295,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kulusici",
+    "gn:country_code":"BA",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3265555,
+    "gn:latitude":43.08584,
+    "gn:longitude":18.24295,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kulu\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265555
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"460ead8aa5b667bc70da39acc42f8c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759251,
+            "locality_id":1225952929,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225952929,
+    "wof:lastmodified":1536857587,
+    "wof:name":"Kulusici",
+    "wof:parent_id":1108759251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.24295,
+    43.08584000000001,
+    18.24295,
+    43.08584000000001
+],
+  "geometry": {"coordinates":[18.24295,43.08584000000001],"type":"Point"}
+}

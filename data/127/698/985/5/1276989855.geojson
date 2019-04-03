@@ -1,0 +1,67 @@
+{
+  "id": 1276989855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.60974,44.43171,17.60974,44.43171",
+    "geom:latitude":44.43171,
+    "geom:longitude":17.60974,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Palivuk",
+    "gn:country_code":"BA",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210433,
+    "gn:latitude":44.43171,
+    "gn:longitude":17.60974,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Palivuk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210433
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bdfb81bf83e27429f3fb84acaced3b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1276989855,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276989855,
+    "wof:lastmodified":1536893329,
+    "wof:name":"Palivuk",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.60974,
+    44.43171,
+    17.60974,
+    44.43171
+],
+  "geometry": {"coordinates":[17.60974,44.43171],"type":"Point"}
+}

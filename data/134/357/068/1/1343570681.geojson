@@ -1,0 +1,71 @@
+{
+  "id": 1343570681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.60924,44.5519,18.60924,44.5519",
+    "geom:latitude":44.5519,
+    "geom:longitude":18.60924,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lipnica Donja",
+    "gn:country_code":"BA",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196521,
+    "gn:latitude":44.5519,
+    "gn:longitude":18.60924,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Lipnica Donja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Lipnica",
+        "Lipnica Donja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196521
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e2e1423494148a9e122574aa6a30e8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1343570681,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1343570681,
+    "wof:lastmodified":1537585586,
+    "wof:name":"Lipnica Donja",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.60924,
+    44.5519,
+    18.60924,
+    44.5519
+],
+  "geometry": {"coordinates":[18.60924,44.5519],"type":"Point"}
+}

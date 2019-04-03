@@ -1,0 +1,61 @@
+{
+  "id": 1209432513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59766,44.10654,16.59766,44.10654",
+    "geom:latitude":44.10654,
+    "geom:longitude":16.59766,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brezine",
+    "gn:country_code":"BA",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3239472,
+    "gn:latitude":44.10654,
+    "gn:longitude":16.59766,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bre\u017eine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3239472
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9ac4b7147c42d976db26ef0a4b5d74f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209432513
+        }
+    ],
+    "wof:id":1209432513,
+    "wof:lastmodified":1536287198,
+    "wof:name":"Brezine",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59766,
+    44.10654,
+    16.59766,
+    44.10654
+],
+  "geometry": {"coordinates":[16.59766,44.10654],"type":"Point"}
+}

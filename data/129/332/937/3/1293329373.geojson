@@ -1,0 +1,71 @@
+{
+  "id": 1293329373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79074,44.83972,18.79074,44.83972",
+    "geom:latitude":44.83972,
+    "geom:longitude":18.79074,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Omerbegovaca",
+    "gn:country_code":"BA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194118,
+    "gn:latitude":44.83972,
+    "gn:longitude":18.79074,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Omerbegova\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Omerbegova\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194118,
+        "wk:page":"Omerbegova%C4%8Da"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f48f7b489492ed28ace6ec0442cd276a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1293329373,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1293329373,
+    "wof:lastmodified":1537585577,
+    "wof:name":"Omerbegovaca",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79074,
+    44.83972,
+    18.79074,
+    44.83972
+],
+  "geometry": {"coordinates":[18.79074,44.83972],"type":"Point"}
+}

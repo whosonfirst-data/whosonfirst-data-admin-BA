@@ -1,0 +1,67 @@
+{
+  "id": 1343971045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08012,44.11919,19.08012,44.11919",
+    "geom:latitude":44.11919,
+    "geom:longitude":19.08012,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornje Vrsinje",
+    "gn:country_code":"BA",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200066,
+    "gn:latitude":44.11919,
+    "gn:longitude":19.08012,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornje Vrsinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200066
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f3427638bcb51f5e75a6ee206deda091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759165,
+            "locality_id":1343971045,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343971045,
+    "wof:lastmodified":1537003905,
+    "wof:name":"Gornje Vrsinje",
+    "wof:parent_id":1108759165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08012,
+    44.11919,
+    19.08012,
+    44.11919
+],
+  "geometry": {"coordinates":[19.08012,44.11919],"type":"Point"}
+}

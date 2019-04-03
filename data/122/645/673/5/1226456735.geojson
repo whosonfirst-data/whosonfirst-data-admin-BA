@@ -1,0 +1,67 @@
+{
+  "id": 1226456735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95023,45.0808,15.95023,45.0808",
+    "geom:latitude":45.0808,
+    "geom:longitude":15.95023,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Culumak",
+    "gn:country_code":"BA",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277894,
+    "gn:latitude":45.0808,
+    "gn:longitude":15.95023,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u0106ulumak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277894
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bae87cb34738b69f765c78be37f98259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1226456735,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1226456735,
+    "wof:lastmodified":1536627824,
+    "wof:name":"Culumak",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95023,
+    45.0808,
+    15.95023,
+    45.0808
+],
+  "geometry": {"coordinates":[15.95023,45.0808],"type":"Point"}
+}

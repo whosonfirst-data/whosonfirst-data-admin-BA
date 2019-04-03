@@ -1,0 +1,67 @@
+{
+  "id": 1327445615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.92556,44.38386,17.92556,44.38386",
+    "geom:latitude":44.38386,
+    "geom:longitude":17.92556,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Biljevina",
+    "gn:country_code":"BA",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3249306,
+    "gn:latitude":44.38386,
+    "gn:longitude":17.92556,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Biljevina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3249306
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c0ee9693cb4d58e35e9d7acc8be8e3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759299,
+            "locality_id":1327445615,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1327445615,
+    "wof:lastmodified":1536661646,
+    "wof:name":"Biljevina",
+    "wof:parent_id":1108759299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.92556,
+    44.38386,
+    17.92556,
+    44.38386
+],
+  "geometry": {"coordinates":[17.92556,44.38386],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209927023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96597,43.59074,18.96597,43.59074",
+    "geom:latitude":43.59074,
+    "geom:longitude":18.96597,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Radmilovici",
+    "gn:country_code":"BA",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271854,
+    "gn:latitude":43.59074,
+    "gn:longitude":18.96597,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Radmilovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Radmilovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271854,
+        "wk:page":"Radmilovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c7f3a6a3e737b03b07b2b5b54679c903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759085,
+            "locality_id":1209927023,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209927023,
+    "wof:lastmodified":1537585671,
+    "wof:name":"Radmilovici",
+    "wof:parent_id":1108759085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96597,
+    43.59074,
+    18.96597,
+    43.59074
+],
+  "geometry": {"coordinates":[18.96597,43.59074],"type":"Point"}
+}

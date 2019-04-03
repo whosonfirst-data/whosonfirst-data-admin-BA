@@ -1,0 +1,61 @@
+{
+  "id": 1209419007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.80879,43.6051,18.80879,43.6051",
+    "geom:latitude":43.6051,
+    "geom:longitude":18.80879,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nestici",
+    "gn:country_code":"BA",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271165,
+    "gn:latitude":43.6051,
+    "gn:longitude":18.80879,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nesti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271165
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1b5190d2048a56f0ba513444565c4289",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209419007
+        }
+    ],
+    "wof:id":1209419007,
+    "wof:lastmodified":1536287592,
+    "wof:name":"Nestici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.80879,
+    43.6051,
+    18.80879,
+    43.6051
+],
+  "geometry": {"coordinates":[18.80879,43.6051],"type":"Point"}
+}

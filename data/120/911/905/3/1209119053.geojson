@@ -1,0 +1,61 @@
+{
+  "id": 1209119053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15774,44.21428,17.15774,44.21428",
+    "geom:latitude":44.21428,
+    "geom:longitude":17.15774,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Golubovici",
+    "gn:country_code":"BA",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238388,
+    "gn:latitude":44.21428,
+    "gn:longitude":17.15774,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Golubovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238388
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"93dac801e0641be3a9b0cca34503d31b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209119053
+        }
+    ],
+    "wof:id":1209119053,
+    "wof:lastmodified":1536297162,
+    "wof:name":"Golubovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15774,
+    44.21428,
+    17.15774,
+    44.21428
+],
+  "geometry": {"coordinates":[17.15774,44.21428],"type":"Point"}
+}

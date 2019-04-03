@@ -1,0 +1,67 @@
+{
+  "id": 1226246743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64758,44.46062,18.64758,44.46062",
+    "geom:latitude":44.46062,
+    "geom:longitude":18.64758,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Spreca",
+    "gn:country_code":"BA",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275420,
+    "gn:latitude":44.46062,
+    "gn:longitude":18.64758,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Spre\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275420
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dd45dbac34c6dc4002173c6d832fe62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":1226246743,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1226246743,
+    "wof:lastmodified":1536932897,
+    "wof:name":"Spreca",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64758,
+    44.46062,
+    18.64758,
+    44.46062
+],
+  "geometry": {"coordinates":[18.64758,44.46062],"type":"Point"}
+}

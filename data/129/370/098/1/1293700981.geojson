@@ -1,0 +1,67 @@
+{
+  "id": 1293700981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7063,43.43853,17.7063,43.43853",
+    "geom:latitude":43.43853,
+    "geom:longitude":17.7063,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Glog",
+    "gn:country_code":"BA",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264372,
+    "gn:latitude":43.43853,
+    "gn:longitude":17.7063,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Glog",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264372
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e6b4197841ae7c1ef9079666bda347c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1293700981,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1293700981,
+    "wof:lastmodified":1536975971,
+    "wof:name":"Glog",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7063,
+    43.43853,
+    17.7063,
+    43.43853
+],
+  "geometry": {"coordinates":[17.7063,43.43853],"type":"Point"}
+}

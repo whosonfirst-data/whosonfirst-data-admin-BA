@@ -1,0 +1,71 @@
+{
+  "id": 1310208065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.23809,43.77491,19.23809,43.77491",
+    "geom:latitude":43.77491,
+    "geom:longitude":19.23809,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pretisa",
+    "gn:country_code":"BA",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3298780,
+    "gn:latitude":43.77491,
+    "gn:longitude":19.23809,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Preti\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Preti\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298780,
+        "wk:page":"Preti%C5%A1a"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0447b6199bec206de190af062707d373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1310208065,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310208065,
+    "wof:lastmodified":1537585681,
+    "wof:name":"Pretisa",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.23809,
+    43.77491,
+    19.23809,
+    43.77491
+],
+  "geometry": {"coordinates":[19.23809,43.77491],"type":"Point"}
+}

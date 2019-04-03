@@ -1,0 +1,65 @@
+{
+  "id": 1209618483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28832,44.85069,18.28832,44.85069",
+    "geom:latitude":44.85069,
+    "geom:longitude":18.28832,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Krcevljani",
+    "gn:country_code":"BA",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210929,
+    "gn:latitude":44.85069,
+    "gn:longitude":18.28832,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kr\u010devljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u010devljani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210929,
+        "wk:page":"Kr%C4%8Devljani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"499bd3a4d4f3b7262be057b6aafd3770",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209618483
+        }
+    ],
+    "wof:id":1209618483,
+    "wof:lastmodified":1537585643,
+    "wof:name":"Krcevljani",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28832,
+    44.85069,
+    18.28832,
+    44.85069
+],
+  "geometry": {"coordinates":[18.28832,44.85069],"type":"Point"}
+}

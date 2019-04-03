@@ -1,0 +1,67 @@
+{
+  "id": 1259797655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12039,45.05826,16.12039,45.05826",
+    "geom:latitude":45.05826,
+    "geom:longitude":16.12039,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dobro Selo",
+    "gn:country_code":"BA",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201906,
+    "gn:latitude":45.05826,
+    "gn:longitude":16.12039,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dobro Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201906
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"86ec956e813873742e3e87924f931415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759033,
+            "locality_id":1259797655,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1259797655,
+    "wof:lastmodified":1536902822,
+    "wof:name":"Dobro Selo",
+    "wof:parent_id":1108759033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12039,
+    45.05826,
+    16.12039,
+    45.05826
+],
+  "geometry": {"coordinates":[16.12039,45.05826],"type":"Point"}
+}

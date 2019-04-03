@@ -1,0 +1,67 @@
+{
+  "id": 1242586253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98344,44.01071,18.98344,44.01071",
+    "geom:latitude":44.01071,
+    "geom:longitude":18.98344,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornje Dzimrije",
+    "gn:country_code":"BA",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271195,
+    "gn:latitude":44.01071,
+    "gn:longitude":18.98344,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gornje D\u017eimrije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271195
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"25559527d793e5547484389ada4f61c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":1242586253,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242586253,
+    "wof:lastmodified":1537049005,
+    "wof:name":"Gornje Dzimrije",
+    "wof:parent_id":1108759103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98344,
+    44.01071,
+    18.98344,
+    44.01071
+],
+  "geometry": {"coordinates":[18.98344,44.01071],"type":"Point"}
+}

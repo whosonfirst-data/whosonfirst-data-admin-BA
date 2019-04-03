@@ -1,0 +1,67 @@
+{
+  "id": 1259497437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9106,44.93711,15.9106,44.93711",
+    "geom:latitude":44.93711,
+    "geom:longitude":15.9106,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Osredak",
+    "gn:country_code":"BA",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3258575,
+    "gn:latitude":44.93711,
+    "gn:longitude":15.9106,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Osredak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258575
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7b66b016ac0c65ee97fc7366b5ff73a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1259497437,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1259497437,
+    "wof:lastmodified":1536837672,
+    "wof:name":"Osredak",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9106,
+    44.93711,
+    15.9106,
+    44.93711
+],
+  "geometry": {"coordinates":[15.9106,44.93711],"type":"Point"}
+}

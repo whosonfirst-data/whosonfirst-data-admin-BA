@@ -1,0 +1,67 @@
+{
+  "id": 1293496485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42842,43.26612,18.42842,43.26612",
+    "geom:latitude":43.26612,
+    "geom:longitude":18.42842,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sveti Duro",
+    "gn:country_code":"BA",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264867,
+    "gn:latitude":43.26612,
+    "gn:longitude":18.42842,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sveti \u00d0uro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264867
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dccd21c185c07c0620caffbc6ca3b682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1293496485,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293496485,
+    "wof:lastmodified":1536774657,
+    "wof:name":"Sveti Duro",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42842000000001,
+    43.26612,
+    18.42842000000001,
+    43.26612
+],
+  "geometry": {"coordinates":[18.42842000000001,43.26612],"type":"Point"}
+}

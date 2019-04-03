@@ -1,0 +1,61 @@
+{
+  "id": 1209423837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12351,44.083,17.12351,44.083",
+    "geom:latitude":44.083,
+    "geom:longitude":17.12351,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marici",
+    "gn:country_code":"BA",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238243,
+    "gn:latitude":44.083,
+    "gn:longitude":17.12351,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mari\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238243
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6828bcb82be24b0bac42e6699445d73e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209423837
+        }
+    ],
+    "wof:id":1209423837,
+    "wof:lastmodified":1536287443,
+    "wof:name":"Marici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12351,
+    44.083,
+    17.12351,
+    44.083
+],
+  "geometry": {"coordinates":[17.12351,44.083],"type":"Point"}
+}

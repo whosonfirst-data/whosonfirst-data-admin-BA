@@ -1,0 +1,67 @@
+{
+  "id": 1343377311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25833,45.0625,18.25833,45.0625",
+    "geom:latitude":45.0625,
+    "geom:longitude":18.25833,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rakovac",
+    "gn:country_code":"BA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212148,
+    "gn:latitude":45.0625,
+    "gn:longitude":18.25833,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Rakovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669243,
+        1108759191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212148
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c3926955aa6fe3807d31b563b2522282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759191,
+            "locality_id":1343377311,
+            "region_id":85669243
+        }
+    ],
+    "wof:id":1343377311,
+    "wof:lastmodified":1536864852,
+    "wof:name":"Rakovac",
+    "wof:parent_id":1108759191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25833,
+    45.0625,
+    18.25833,
+    45.0625
+],
+  "geometry": {"coordinates":[18.25833,45.0625],"type":"Point"}
+}

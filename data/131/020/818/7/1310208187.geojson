@@ -1,0 +1,67 @@
+{
+  "id": 1310208187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.11585,44.21138,17.11585,44.21138",
+    "geom:latitude":44.21138,
+    "geom:longitude":17.11585,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Popuze",
+    "gn:country_code":"BA",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210488,
+    "gn:latitude":44.21138,
+    "gn:longitude":17.11585,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Popu\u017ee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210488
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dc275b3f00e8d02a3a3c9dc5451e7a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1310208187,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310208187,
+    "wof:lastmodified":1536847265,
+    "wof:name":"Popuze",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.11585,
+    44.21138,
+    17.11585,
+    44.21138
+],
+  "geometry": {"coordinates":[17.11585,44.21138],"type":"Point"}
+}

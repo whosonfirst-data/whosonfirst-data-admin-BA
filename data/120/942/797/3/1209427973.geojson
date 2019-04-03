@@ -1,0 +1,61 @@
+{
+  "id": 1209427973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85598,43.58135,18.85598,43.58135",
+    "geom:latitude":43.58135,
+    "geom:longitude":18.85598,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mjerkovici",
+    "gn:country_code":"BA",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271232,
+    "gn:latitude":43.58135,
+    "gn:longitude":18.85598,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mjerkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271232
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3cc644edfc1cd97783a0380f6d11d296",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209427973
+        }
+    ],
+    "wof:id":1209427973,
+    "wof:lastmodified":1536287322,
+    "wof:name":"Mjerkovici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85598,
+    43.58135,
+    18.85598,
+    43.58135
+],
+  "geometry": {"coordinates":[18.85598,43.58135],"type":"Point"}
+}

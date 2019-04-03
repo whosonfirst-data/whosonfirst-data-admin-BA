@@ -1,0 +1,67 @@
+{
+  "id": 1259497547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80036,44.74619,16.80036,44.74619",
+    "geom:latitude":44.74619,
+    "geom:longitude":16.80036,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cerovac",
+    "gn:country_code":"BA",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3246258,
+    "gn:latitude":44.74619,
+    "gn:longitude":16.80036,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Cerovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3246258
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4926438b363f756d8c7a459d89c09ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759223,
+            "locality_id":1259497547,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259497547,
+    "wof:lastmodified":1536837506,
+    "wof:name":"Cerovac",
+    "wof:parent_id":1108759223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80036,
+    44.74619000000001,
+    16.80036,
+    44.74619000000001
+],
+  "geometry": {"coordinates":[16.80036,44.74619000000001],"type":"Point"}
+}

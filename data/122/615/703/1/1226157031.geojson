@@ -1,0 +1,71 @@
+{
+  "id": 1226157031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18235,44.88685,16.18235,44.88685",
+    "geom:latitude":44.88685,
+    "geom:longitude":16.18235,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ostroznica",
+    "gn:country_code":"BA",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3262053,
+    "gn:latitude":44.88685,
+    "gn:longitude":16.18235,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ostro\u017enica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ostro\u017enica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3262053,
+        "wk:page":"Ostro%C5%BEnica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d2a3f313178c170e3c95fc6af230fa6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759003,
+            "locality_id":1226157031,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1226157031,
+    "wof:lastmodified":1537585665,
+    "wof:name":"Ostroznica",
+    "wof:parent_id":1108759003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18235,
+    44.88685,
+    16.18235,
+    44.88685
+],
+  "geometry": {"coordinates":[16.18235,44.88685],"type":"Point"}
+}

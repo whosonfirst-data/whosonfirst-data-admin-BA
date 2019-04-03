@@ -1,0 +1,67 @@
+{
+  "id": 1242591763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03577,43.57947,17.03577,43.57947",
+    "geom:latitude":43.57947,
+    "geom:longitude":17.03577,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ivande",
+    "gn:country_code":"BA",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285557,
+    "gn:latitude":43.57947,
+    "gn:longitude":17.03577,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ivande",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285557
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c68364e34b25efb81a5ee8685a1923c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1242591763,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1242591763,
+    "wof:lastmodified":1537041410,
+    "wof:name":"Ivande",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03577,
+    43.57947,
+    17.03577,
+    43.57947
+],
+  "geometry": {"coordinates":[17.03577,43.57947],"type":"Point"}
+}

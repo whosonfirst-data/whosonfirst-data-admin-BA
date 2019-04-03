@@ -1,0 +1,67 @@
+{
+  "id": 1310519139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61579,44.22861,17.61579,44.22861",
+    "geom:latitude":44.22861,
+    "geom:longitude":17.61579,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Miskica Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3293020,
+    "gn:latitude":44.22861,
+    "gn:longitude":17.61579,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mi\u0161ki\u0107a Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293020
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b5bf42d38480ea6834d8dd374660b3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759263,
+            "locality_id":1310519139,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1310519139,
+    "wof:lastmodified":1536897084,
+    "wof:name":"Miskica Brdo",
+    "wof:parent_id":1108759263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61579,
+    44.22861,
+    17.61579,
+    44.22861
+],
+  "geometry": {"coordinates":[17.61579,44.22861],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344169919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52241,43.10328,18.52241,43.10328",
+    "geom:latitude":43.10328,
+    "geom:longitude":18.52241,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stolac",
+    "gn:country_code":"BA",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189822,
+    "gn:latitude":43.10328,
+    "gn:longitude":18.52241,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Stolac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189822,
+        "wk:page":"Stolac_%28Gacko%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b193b9cd14fc63528d9bd20a04bea0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1344169919,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344169919,
+    "wof:lastmodified":1537486721,
+    "wof:name":"Stolac",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52241,
+    43.10328,
+    18.52241,
+    43.10328
+],
+  "geometry": {"coordinates":[18.52241,43.10328],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276875719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52268,45.03921,17.52268,45.03921",
+    "geom:latitude":45.03921,
+    "geom:longitude":17.52268,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Romica Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212012,
+    "gn:latitude":45.03921,
+    "gn:longitude":17.52268,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Romi\u0107a Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212012
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ba4fd92f7dd4362907824a13e1c80be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759237,
+            "locality_id":1276875719,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276875719,
+    "wof:lastmodified":1537044828,
+    "wof:name":"Romica Brdo",
+    "wof:parent_id":1108759237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52268,
+    45.03921,
+    17.52268,
+    45.03921
+],
+  "geometry": {"coordinates":[17.52268,45.03921],"type":"Point"}
+}

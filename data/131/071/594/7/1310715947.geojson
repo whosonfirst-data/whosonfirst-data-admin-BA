@@ -1,0 +1,67 @@
+{
+  "id": 1310715947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.34611,43.72472,18.34611,43.72472",
+    "geom:latitude":43.72472,
+    "geom:longitude":18.34611,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sljivaci",
+    "gn:country_code":"BA",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3267977,
+    "gn:latitude":43.72472,
+    "gn:longitude":18.34611,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"\u0160ljivaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267977
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ad23ddd52bdda5938b6f23f4b85028bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1310715947,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1310715947,
+    "wof:lastmodified":1536610682,
+    "wof:name":"Sljivaci",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34611,
+    43.72472,
+    18.34611,
+    43.72472
+],
+  "geometry": {"coordinates":[18.34611,43.72472],"type":"Point"}
+}

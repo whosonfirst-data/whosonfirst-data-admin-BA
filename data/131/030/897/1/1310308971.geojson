@@ -1,0 +1,67 @@
+{
+  "id": 1310308971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.27215,44.74372,18.27215,44.74372",
+    "geom:latitude":44.74372,
+    "geom:longitude":18.27215,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rahmici",
+    "gn:country_code":"BA",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253596,
+    "gn:latitude":44.74372,
+    "gn:longitude":18.27215,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rahmi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253596
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e4794b2c9de68e28aa0d4f312ea251bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1310308971,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310308971,
+    "wof:lastmodified":1536703147,
+    "wof:name":"Rahmici",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.27215,
+    44.74372,
+    18.27215,
+    44.74372
+],
+  "geometry": {"coordinates":[18.27215,44.74372],"type":"Point"}
+}

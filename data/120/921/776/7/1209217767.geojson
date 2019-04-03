@@ -1,0 +1,65 @@
+{
+  "id": 1209217767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21004,43.6386,19.21004,43.6386",
+    "geom:latitude":43.6386,
+    "geom:longitude":19.21004,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dzihanici",
+    "gn:country_code":"BA",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299993,
+    "gn:latitude":43.6386,
+    "gn:longitude":19.21004,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"D\u017eihani\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d0ihani\u0107i",
+        "D\u017eihani\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299993
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0b92bdff87ec72689afe9b0c51867664",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209217767
+        }
+    ],
+    "wof:id":1209217767,
+    "wof:lastmodified":1537585682,
+    "wof:name":"Dzihanici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21004,
+    43.6386,
+    19.21004,
+    43.6386
+],
+  "geometry": {"coordinates":[19.21004,43.6386],"type":"Point"}
+}

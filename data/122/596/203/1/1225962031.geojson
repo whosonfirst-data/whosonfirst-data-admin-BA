@@ -1,0 +1,72 @@
+{
+  "id": 1225962031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41717,44.65704,18.41717,44.65704",
+    "geom:latitude":44.65704,
+    "geom:longitude":18.41717,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rasljeva",
+    "gn:country_code":"BA",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3191935,
+    "gn:latitude":44.65704,
+    "gn:longitude":18.41717,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ra\u0161ljeva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u0161ljevo",
+        "Ra\u0161ljeva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191935,
+        "wk:page":"Ra%C5%A1ljeva"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ad83a77bf5e6d5e56f26b99c3a0023d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1225962031,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1225962031,
+    "wof:lastmodified":1537585568,
+    "wof:name":"Rasljeva",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41717,
+    44.65704,
+    18.41717,
+    44.65704
+],
+  "geometry": {"coordinates":[18.41717,44.65704],"type":"Point"}
+}

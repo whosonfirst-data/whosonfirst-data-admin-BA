@@ -1,0 +1,67 @@
+{
+  "id": 1276236919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91255,44.91299,17.91255,44.91299",
+    "geom:latitude":44.91299,
+    "geom:longitude":17.91255,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Brestovci",
+    "gn:country_code":"BA",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250744,
+    "gn:latitude":44.91299,
+    "gn:longitude":17.91255,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Brestovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250744
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4ceed67e254284064e74972af2539065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1276236919,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276236919,
+    "wof:lastmodified":1536908054,
+    "wof:name":"Brestovci",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91255,
+    44.91299,
+    17.91255,
+    44.91299
+],
+  "geometry": {"coordinates":[17.91255,44.91299],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242681037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79455,44.31134,18.79455,44.31134",
+    "geom:latitude":44.31134,
+    "geom:longitude":18.79455,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Divovici",
+    "gn:country_code":"BA",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276841,
+    "gn:latitude":44.31134,
+    "gn:longitude":18.79455,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Divovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276841
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"96fafe3e6b7e5cc818efc3f1cfd0ebe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759227,
+            "locality_id":1242681037,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242681037,
+    "wof:lastmodified":1536915242,
+    "wof:name":"Divovici",
+    "wof:parent_id":1108759227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79455,
+    44.31134,
+    18.79455,
+    44.31134
+],
+  "geometry": {"coordinates":[18.79455,44.31134],"type":"Point"}
+}

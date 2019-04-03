@@ -1,0 +1,67 @@
+{
+  "id": 1243567393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46457,44.58045,17.46457,44.58045",
+    "geom:latitude":44.58045,
+    "geom:longitude":17.46457,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jeftimiri",
+    "gn:country_code":"BA",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253183,
+    "gn:latitude":44.58045,
+    "gn:longitude":17.46457,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jeftimiri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253183
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c9eac3b7db84c8ec7d549fcbe763f769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1243567393,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243567393,
+    "wof:lastmodified":1536629499,
+    "wof:name":"Jeftimiri",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46457,
+    44.58045,
+    17.46457,
+    44.58045
+],
+  "geometry": {"coordinates":[17.46457,44.58045],"type":"Point"}
+}

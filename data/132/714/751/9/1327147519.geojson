@@ -1,0 +1,71 @@
+{
+  "id": 1327147519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84728,44.26224,16.84728,44.26224",
+    "geom:latitude":44.26224,
+    "geom:longitude":16.84728,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mliniste",
+    "gn:country_code":"BA",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194968,
+    "gn:latitude":44.26224,
+    "gn:longitude":16.84728,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mlini\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mlini\u0161ta",
+        "Mlini\u0161te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194968
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cb7113b5ccfa0edde6e7e56e602a1a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1327147519,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327147519,
+    "wof:lastmodified":1537585580,
+    "wof:name":"Mliniste",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84728,
+    44.26224000000001,
+    16.84728,
+    44.26224000000001
+],
+  "geometry": {"coordinates":[16.84728,44.26224000000001],"type":"Point"}
+}

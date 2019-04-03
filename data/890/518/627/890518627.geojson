@@ -1,0 +1,147 @@
+{
+  "id": 890518627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15477,44.01911,18.15477,44.01911",
+    "geom:latitude":44.01911,
+    "geom:longitude":18.15477,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4009,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:bos_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:cat_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:cze_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:dan_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:dut_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:eng_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:fin_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:fre_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:ger_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:ind_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:ita_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:nno_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:nob_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:oci_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:pol_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:por_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:rum_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:slo_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:slv_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:spa_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:swe_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:tgl_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:tur_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "name:unk_x_variant":[
+        "Mo\u0161tre Gornje"
+    ],
+    "name:war_x_preferred":[
+        "Gornje Mo\u0161tre"
+    ],
+    "qs:name":"Gornje Mo\u0161tre",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200108,
+        "qs:id":147263,
+        "wd:id":"Q3111206"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056072,
+    "wof:geomhash":"483edf36d3da4be58020a59ed78c04b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759285,
+            "locality_id":890518627,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":890518627,
+    "wof:lastmodified":1513898818,
+    "wof:name":"Gornje Mo\u0161tre",
+    "wof:parent_id":1108759285,
+    "wof:placetype":"locality",
+    "wof:population":4009,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15477,
+    44.01911,
+    18.15477,
+    44.01911
+],
+  "geometry": {"coordinates":[18.15477,44.01911],"type":"Point"}
+}

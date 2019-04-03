@@ -1,0 +1,108 @@
+{
+  "id": 890519095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53216,44.56594,17.53216,44.56594",
+    "geom:latitude":44.56594,
+    "geom:longitude":17.53216,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4899,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0544\u0561\u057d\u056c\u0578\u057e\u0561\u0580\u0565"
+    ],
+    "name:bos_x_preferred":[
+        "Maslovare"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0441\u043b\u043e\u0432\u0430\u0440\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Maslovare"
+    ],
+    "name:eng_x_preferred":[
+        "Maslovare"
+    ],
+    "name:fre_x_preferred":[
+        "Maslovare"
+    ],
+    "name:hrv_x_preferred":[
+        "Maslovare"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u043b\u043e\u0432\u0430\u0440\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0441\u043b\u043e\u0432\u0430\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Maslovare"
+    ],
+    "name:unk_x_variant":[
+        "Mastovare"
+    ],
+    "qs:name":"Maslovare",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"44.5656",
+    "wd:longitude":"17.5336",
+    "wd:wordcount":393,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195399,
+        "gp:id":942845,
+        "qs:id":1283518,
+        "wd:id":"Q1254473",
+        "wk:page":"Maslovare"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056091,
+    "wof:geomhash":"3214659577eb3dd1ff92e5ab963d1e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":890519095,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890519095,
+    "wof:lastmodified":1527751224,
+    "wof:name":"Maslovare",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:population":4899,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53216,
+    44.56594,
+    17.53216,
+    44.56594
+],
+  "geometry": {"coordinates":[17.53216,44.56594],"type":"Point"}
+}

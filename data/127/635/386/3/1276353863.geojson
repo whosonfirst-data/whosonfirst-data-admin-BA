@@ -1,0 +1,68 @@
+{
+  "id": 1276353863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04117,44.71348,16.04117,44.71348",
+    "geom:latitude":44.71348,
+    "geom:longitude":16.04117,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dubovsko",
+    "gn:country_code":"BA",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201072,
+    "gn:latitude":44.71348,
+    "gn:longitude":16.04117,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dubovsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201072,
+        "wk:page":"Dubovsko"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ba1cf08530124ab3e592b34b0bce5d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1276353863,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1276353863,
+    "wof:lastmodified":1537486778,
+    "wof:name":"Dubovsko",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04117,
+    44.71348,
+    16.04117,
+    44.71348
+],
+  "geometry": {"coordinates":[16.04117,44.71348],"type":"Point"}
+}

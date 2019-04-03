@@ -1,0 +1,71 @@
+{
+  "id": 1343675965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53847,44.21763,17.53847,44.21763",
+    "geom:latitude":44.21763,
+    "geom:longitude":17.53847,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Trebeusa",
+    "gn:country_code":"BA",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201610,
+    "gn:latitude":44.21763,
+    "gn:longitude":17.53847,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donja Trebeu\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trebeu\u0161a",
+        "Donja Trebeu\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201610
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a48eff658dba474c013c8dcd990d336e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759263,
+            "locality_id":1343675965,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1343675965,
+    "wof:lastmodified":1537585612,
+    "wof:name":"Donja Trebeusa",
+    "wof:parent_id":1108759263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53847,
+    44.21763,
+    17.53847,
+    44.21763
+],
+  "geometry": {"coordinates":[17.53847,44.21763],"type":"Point"}
+}

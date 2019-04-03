@@ -1,0 +1,67 @@
+{
+  "id": 1293606867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23005,44.35151,17.23005,44.35151",
+    "geom:latitude":44.35151,
+    "geom:longitude":17.23005,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donje Mile",
+    "gn:country_code":"BA",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3236247,
+    "gn:latitude":44.35151,
+    "gn:longitude":17.23005,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donje Mile",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3236247
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"257eb56bb9caa42dc27d14d628a36726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759115,
+            "locality_id":1293606867,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1293606867,
+    "wof:lastmodified":1536612538,
+    "wof:name":"Donje Mile",
+    "wof:parent_id":1108759115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23005,
+    44.35151,
+    17.23005,
+    44.35151
+],
+  "geometry": {"coordinates":[17.23005,44.35151],"type":"Point"}
+}

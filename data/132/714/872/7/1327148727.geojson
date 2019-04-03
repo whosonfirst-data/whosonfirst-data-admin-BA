@@ -1,0 +1,68 @@
+{
+  "id": 1327148727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93185,43.97829,16.93185,43.97829",
+    "geom:latitude":43.97829,
+    "geom:longitude":16.93185,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zaglavica",
+    "gn:country_code":"BA",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3294627,
+    "gn:latitude":43.97829,
+    "gn:longitude":16.93185,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Zaglavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294627,
+        "wk:page":"Zaglavica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5ce58e4b5f8cb355377a9dc7ec5755dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759081,
+            "locality_id":1327148727,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1327148727,
+    "wof:lastmodified":1537486859,
+    "wof:name":"Zaglavica",
+    "wof:parent_id":1108759081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93185,
+    43.97829,
+    16.93185,
+    43.97829
+],
+  "geometry": {"coordinates":[16.93185,43.97829],"type":"Point"}
+}

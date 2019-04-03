@@ -1,0 +1,67 @@
+{
+  "id": 1226756549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10282,44.01598,19.10282,44.01598",
+    "geom:latitude":44.01598,
+    "geom:longitude":19.10282,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Luke",
+    "gn:country_code":"BA",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3273091,
+    "gn:latitude":44.01598,
+    "gn:longitude":19.10282,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Luke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273091
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b49292ba1b00f29cc52b7f77c3629c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":1226756549,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226756549,
+    "wof:lastmodified":1536700180,
+    "wof:name":"Luke",
+    "wof:parent_id":1108759103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10282,
+    44.01598,
+    19.10282,
+    44.01598
+],
+  "geometry": {"coordinates":[19.10282,44.01598],"type":"Point"}
+}

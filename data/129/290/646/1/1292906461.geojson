@@ -1,0 +1,71 @@
+{
+  "id": 1292906461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08208,44.04213,19.08208,44.04213",
+    "geom:latitude":44.04213,
+    "geom:longitude":19.08208,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Podzeplje",
+    "gn:country_code":"BA",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3192879,
+    "gn:latitude":44.04213,
+    "gn:longitude":19.08208,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pod\u017eeplje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pod\u017eeplje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192879,
+        "wk:page":"Pod%C5%BEeplje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ee55b7b2d73cbf2ca2867bf38cd20f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":1292906461,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1292906461,
+    "wof:lastmodified":1537585572,
+    "wof:name":"Podzeplje",
+    "wof:parent_id":1108759103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08208,
+    44.04213,
+    19.08208,
+    44.04213
+],
+  "geometry": {"coordinates":[19.08208,44.04213],"type":"Point"}
+}

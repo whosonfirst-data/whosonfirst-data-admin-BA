@@ -1,0 +1,61 @@
+{
+  "id": 1209429183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.14716,44.21375,18.14716,44.21375",
+    "geom:latitude":44.21375,
+    "geom:longitude":18.14716,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Paocine",
+    "gn:country_code":"BA",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296226,
+    "gn:latitude":44.21375,
+    "gn:longitude":18.14716,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Pao\u010dine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296226
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"89e8599684e564e37eb7ee840d711ce6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209429183
+        }
+    ],
+    "wof:id":1209429183,
+    "wof:lastmodified":1536287286,
+    "wof:name":"Paocine",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14716,
+    44.21375,
+    18.14716,
+    44.21375
+],
+  "geometry": {"coordinates":[18.14716,44.21375],"type":"Point"}
+}

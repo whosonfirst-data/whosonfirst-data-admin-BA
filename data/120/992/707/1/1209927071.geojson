@@ -1,0 +1,71 @@
+{
+  "id": 1209927071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.88171,43.99593,18.88171,43.99593",
+    "geom:latitude":43.99593,
+    "geom:longitude":18.88171,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zljebovi",
+    "gn:country_code":"BA",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276083,
+    "gn:latitude":43.99593,
+    "gn:longitude":18.88171,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u017dljebovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dljebovi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276083,
+        "wk:page":"%C5%BDljebovi"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1278f093ffd8dc0d44dbd6e2444c72d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1209927071,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209927071,
+    "wof:lastmodified":1537585673,
+    "wof:name":"Zljebovi",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.88171,
+    43.99593,
+    18.88171,
+    43.99593
+],
+  "geometry": {"coordinates":[18.88171,43.99593],"type":"Point"}
+}

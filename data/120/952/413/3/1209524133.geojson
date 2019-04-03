@@ -1,0 +1,61 @@
+{
+  "id": 1209524133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33169,44.03215,19.33169,44.03215",
+    "geom:latitude":44.03215,
+    "geom:longitude":19.33169,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cagljevici",
+    "gn:country_code":"BA",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3238799,
+    "gn:latitude":44.03215,
+    "gn:longitude":19.33169,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u010cagljevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238799
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1a121fd6ff1f002b88c97d25801918a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209524133
+        }
+    ],
+    "wof:id":1209524133,
+    "wof:lastmodified":1536284485,
+    "wof:name":"Cagljevici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33169,
+    44.03215,
+    19.33169,
+    44.03215
+],
+  "geometry": {"coordinates":[19.33169,44.03215],"type":"Point"}
+}

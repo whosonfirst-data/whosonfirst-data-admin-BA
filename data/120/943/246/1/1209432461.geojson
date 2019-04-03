@@ -1,0 +1,61 @@
+{
+  "id": 1209432461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01603,44.00498,18.01603,44.00498",
+    "geom:latitude":44.00498,
+    "geom:longitude":18.01603,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krcevine",
+    "gn:country_code":"BA",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298660,
+    "gn:latitude":44.00498,
+    "gn:longitude":18.01603,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Kr\u010devine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298660
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d246ee5403c24e339707dc564eb122da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209432461
+        }
+    ],
+    "wof:id":1209432461,
+    "wof:lastmodified":1536287199,
+    "wof:name":"Krcevine",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01603,
+    44.00498,
+    18.01603,
+    44.00498
+],
+  "geometry": {"coordinates":[18.01603,44.00498],"type":"Point"}
+}

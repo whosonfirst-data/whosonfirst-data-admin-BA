@@ -1,0 +1,68 @@
+{
+  "id": 1343279719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97293,43.70574,17.97293,43.70574",
+    "geom:latitude":43.70574,
+    "geom:longitude":17.97293,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vrbljani",
+    "gn:country_code":"BA",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344658,
+    "gn:latitude":43.70574,
+    "gn:longitude":17.97293,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vrbljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344658,
+        "wk:page":"Vrbljani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c9cd5c72ab3f52993cef516ce63e269e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1343279719,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1343279719,
+    "wof:lastmodified":1537486870,
+    "wof:name":"Vrbljani",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97292999999999,
+    43.70574000000001,
+    17.97292999999999,
+    43.70574000000001
+],
+  "geometry": {"coordinates":[17.97292999999999,43.70574000000001],"type":"Point"}
+}

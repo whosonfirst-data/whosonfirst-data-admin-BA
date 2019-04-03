@@ -1,0 +1,72 @@
+{
+  "id": 1276661455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78586,44.91304,15.78586,44.91304",
+    "geom:latitude":44.91304,
+    "geom:longitude":15.78586,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mala Pec",
+    "gn:country_code":"BA",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212307,
+    "gn:latitude":44.91304,
+    "gn:longitude":15.78586,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mala Pe\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mala Pe\u0107a",
+        "Mala Pe\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212307,
+        "wk:page":"Mala_Pe%C4%87a"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b81a1a25ea7f71c5e8dee26c528a55a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1276661455,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1276661455,
+    "wof:lastmodified":1537585655,
+    "wof:name":"Mala Pec",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78586,
+    44.91304,
+    15.78586,
+    44.91304
+],
+  "geometry": {"coordinates":[15.78586,44.91304],"type":"Point"}
+}

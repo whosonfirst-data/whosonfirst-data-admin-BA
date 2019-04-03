@@ -1,0 +1,67 @@
+{
+  "id": 1242581615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02053,45.05005,16.02053,45.05005",
+    "geom:latitude":45.05005,
+    "geom:longitude":16.02053,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bag",
+    "gn:country_code":"BA",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3278718,
+    "gn:latitude":45.05005,
+    "gn:longitude":16.02053,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bag",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278718
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5058cc97e3d50a078243ce0e3971bae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759033,
+            "locality_id":1242581615,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1242581615,
+    "wof:lastmodified":1537055423,
+    "wof:name":"Bag",
+    "wof:parent_id":1108759033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02052999999999,
+    45.05005,
+    16.02052999999999,
+    45.05005
+],
+  "geometry": {"coordinates":[16.02052999999999,45.05005],"type":"Point"}
+}

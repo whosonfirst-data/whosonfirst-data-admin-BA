@@ -1,0 +1,67 @@
+{
+  "id": 1309817363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.39369,43.30816,17.39369,43.30816",
+    "geom:latitude":43.30816,
+    "geom:longitude":17.39369,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hrziste",
+    "gn:country_code":"BA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283547,
+    "gn:latitude":43.30816,
+    "gn:longitude":17.39369,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Hr\u017ei\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283547
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a0cd90b4541854f9384f492d3a6c45c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1309817363,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1309817363,
+    "wof:lastmodified":1536914791,
+    "wof:name":"Hrziste",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39369,
+    43.30816,
+    17.39369,
+    43.30816
+],
+  "geometry": {"coordinates":[17.39369,43.30816],"type":"Point"}
+}

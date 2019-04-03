@@ -1,0 +1,67 @@
+{
+  "id": 1326748139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04837,44.44459,18.04837,44.44459",
+    "geom:latitude":44.44459,
+    "geom:longitude":18.04837,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tatarbudzak",
+    "gn:country_code":"BA",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211167,
+    "gn:latitude":44.44459,
+    "gn:longitude":18.04837,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tatarbud\u017eak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211167
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b4f60cbc3aeee8a23b88ec993dd0a7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759299,
+            "locality_id":1326748139,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1326748139,
+    "wof:lastmodified":1536672703,
+    "wof:name":"Tatarbudzak",
+    "wof:parent_id":1108759299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04837,
+    44.44459000000001,
+    18.04837,
+    44.44459000000001
+],
+  "geometry": {"coordinates":[18.04837,44.44459000000001],"type":"Point"}
+}

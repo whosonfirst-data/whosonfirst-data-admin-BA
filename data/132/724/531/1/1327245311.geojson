@@ -1,0 +1,67 @@
+{
+  "id": 1327245311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99775,44.60183,17.99775,44.60183",
+    "geom:latitude":44.60183,
+    "geom:longitude":17.99775,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brke",
+    "gn:country_code":"BA",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258347,
+    "gn:latitude":44.60183,
+    "gn:longitude":17.99775,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Brke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258347
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c00f0cb159b811f085e3d0d9003ab3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759255,
+            "locality_id":1327245311,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1327245311,
+    "wof:lastmodified":1536951027,
+    "wof:name":"Brke",
+    "wof:parent_id":1108759255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99775,
+    44.60183,
+    17.99775,
+    44.60183
+],
+  "geometry": {"coordinates":[17.99775,44.60183],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260303223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98627,44.23991,17.98627,44.23991",
+    "geom:latitude":44.23991,
+    "geom:longitude":17.98627,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Skubinac",
+    "gn:country_code":"BA",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289827,
+    "gn:latitude":44.23991,
+    "gn:longitude":17.98627,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Skubinac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadi\u0107i",
+        "Skubinac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289827
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cc083839f6e11864c656dfd848912a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1260303223,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1260303223,
+    "wof:lastmodified":1537585676,
+    "wof:name":"Skubinac",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98627,
+    44.23991,
+    17.98627,
+    44.23991
+],
+  "geometry": {"coordinates":[17.98627,44.23991],"type":"Point"}
+}

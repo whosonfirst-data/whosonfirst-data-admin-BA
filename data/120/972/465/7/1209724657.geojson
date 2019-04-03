@@ -1,0 +1,67 @@
+{
+  "id": 1209724657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97324,45.02432,17.97324,45.02432",
+    "geom:latitude":45.02432,
+    "geom:longitude":17.97324,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zebe",
+    "gn:country_code":"BA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240037,
+    "gn:latitude":45.02432,
+    "gn:longitude":17.97324,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zebe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240037
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0da89720e926a77693c591e50d26d6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1209724657,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209724657,
+    "wof:lastmodified":1536384791,
+    "wof:name":"Zebe",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97324,
+    45.02432,
+    17.97324,
+    45.02432
+],
+  "geometry": {"coordinates":[17.97324,45.02432],"type":"Point"}
+}

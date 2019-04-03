@@ -1,0 +1,71 @@
+{
+  "id": 1226256487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90094,44.8397,15.90094,44.8397",
+    "geom:latitude":44.8397,
+    "geom:longitude":15.90094,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Malo Zalozje",
+    "gn:country_code":"BA",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212381,
+    "gn:latitude":44.8397,
+    "gn:longitude":15.90094,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Malo Zalo\u017eje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pravoslavno Zalo\u017eje",
+        "Malo Zalo\u017eje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212381
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6f217a36ee401289adf904f9b25269e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1226256487,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1226256487,
+    "wof:lastmodified":1537585656,
+    "wof:name":"Malo Zalozje",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90094,
+    44.8397,
+    15.90094,
+    44.8397
+],
+  "geometry": {"coordinates":[15.90094,44.8397],"type":"Point"}
+}

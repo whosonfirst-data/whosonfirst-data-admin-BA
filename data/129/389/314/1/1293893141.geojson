@@ -1,0 +1,67 @@
+{
+  "id": 1293893141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39382,44.15721,16.39382,44.15721",
+    "geom:latitude":44.15721,
+    "geom:longitude":16.39382,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Grtici",
+    "gn:country_code":"BA",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280902,
+    "gn:latitude":44.15721,
+    "gn:longitude":16.39382,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Grti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280902
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8a7fffd3cf1dee329df81c19e5a9e09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1293893141,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1293893141,
+    "wof:lastmodified":1536699645,
+    "wof:name":"Grtici",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39382,
+    44.15721,
+    16.39382,
+    44.15721
+],
+  "geometry": {"coordinates":[16.39382,44.15721],"type":"Point"}
+}

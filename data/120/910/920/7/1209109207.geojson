@@ -1,0 +1,61 @@
+{
+  "id": 1209109207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58437,44.00179,18.58437,44.00179",
+    "geom:latitude":44.00179,
+    "geom:longitude":18.58437,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donje Sirovine",
+    "gn:country_code":"BA",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3244560,
+    "gn:latitude":44.00179,
+    "gn:longitude":18.58437,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donje Sirovine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3244560
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7dc039155f741c07fe6f944c25a323ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209109207
+        }
+    ],
+    "wof:id":1209109207,
+    "wof:lastmodified":1536297462,
+    "wof:name":"Donje Sirovine",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58437,
+    44.00179,
+    18.58437,
+    44.00179
+],
+  "geometry": {"coordinates":[18.58437,44.00179],"type":"Point"}
+}

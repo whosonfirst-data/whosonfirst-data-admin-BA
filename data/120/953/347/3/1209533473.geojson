@@ -1,0 +1,61 @@
+{
+  "id": 1209533473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42739,44.43046,18.42739,44.43046",
+    "geom:latitude":44.43046,
+    "geom:longitude":18.42739,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Puzavci",
+    "gn:country_code":"BA",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258995,
+    "gn:latitude":44.43046,
+    "gn:longitude":18.42739,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Puzavci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258995
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"128aa9e5eaef928cf09cfc6c43d4ca6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209533473
+        }
+    ],
+    "wof:id":1209533473,
+    "wof:lastmodified":1536284212,
+    "wof:name":"Puzavci",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42739,
+    44.43046,
+    18.42739,
+    44.43046
+],
+  "geometry": {"coordinates":[18.42739,44.43046],"type":"Point"}
+}

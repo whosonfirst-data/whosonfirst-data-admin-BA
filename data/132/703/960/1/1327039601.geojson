@@ -1,0 +1,71 @@
+{
+  "id": 1327039601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94212,44.45763,18.94212,44.45763",
+    "geom:latitude":44.45763,
+    "geom:longitude":18.94212,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zukici",
+    "gn:country_code":"BA",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273929,
+    "gn:latitude":44.45763,
+    "gn:longitude":18.94212,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zuki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zuki\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273929,
+        "wk:page":"Zuki%C4%87i_%28Kalesija%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f783e14e9cd537bc542f9a75d4e86cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759121,
+            "locality_id":1327039601,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1327039601,
+    "wof:lastmodified":1537585672,
+    "wof:name":"Zukici",
+    "wof:parent_id":1108759121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94212000000001,
+    44.45763,
+    18.94212000000001,
+    44.45763
+],
+  "geometry": {"coordinates":[18.94212000000001,44.45763],"type":"Point"}
+}

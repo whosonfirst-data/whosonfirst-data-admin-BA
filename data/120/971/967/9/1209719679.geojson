@@ -1,0 +1,67 @@
+{
+  "id": 1209719679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20894,43.83016,17.20894,43.83016",
+    "geom:latitude":43.83016,
+    "geom:longitude":17.20894,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Grab",
+    "gn:country_code":"BA",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3284295,
+    "gn:latitude":43.83016,
+    "gn:longitude":17.20894,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Grab",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284295
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dd553de51d0a1aaab456f7f332ccdbfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1209719679,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1209719679,
+    "wof:lastmodified":1536386949,
+    "wof:name":"Grab",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20894,
+    43.83016,
+    17.20894,
+    43.83016
+],
+  "geometry": {"coordinates":[17.20894,43.83016],"type":"Point"}
+}

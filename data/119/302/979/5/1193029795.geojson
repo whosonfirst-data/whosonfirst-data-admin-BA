@@ -1,0 +1,67 @@
+{
+  "id": 1193029795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2104,43.62843,17.2104,43.62843",
+    "geom:latitude":43.62843,
+    "geom:longitude":17.2104,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jukisici",
+    "gn:country_code":"BA",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284894,
+    "gn:latitude":43.62843,
+    "gn:longitude":17.2104,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Juki\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284894
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"708288966541419a57510fec6657aa4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1193029795,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1193029795,
+    "wof:lastmodified":1536365068,
+    "wof:name":"Jukisici",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2104,
+    43.62843,
+    17.2104,
+    43.62843
+],
+  "geometry": {"coordinates":[17.2104,43.62843],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343867773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18763,44.91868,16.18763,44.91868",
+    "geom:latitude":44.91868,
+    "geom:longitude":16.18763,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Veliki Badic",
+    "gn:country_code":"BA",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3188113,
+    "gn:latitude":44.91868,
+    "gn:longitude":16.18763,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Veliki Badi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliki Badi\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188113,
+        "wk:page":"Veliki_Badi%C4%87"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"303ccbd39ae6d9b34959524ea39eb939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759003,
+            "locality_id":1343867773,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1343867773,
+    "wof:lastmodified":1537585553,
+    "wof:name":"Veliki Badic",
+    "wof:parent_id":1108759003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18763,
+    44.91868,
+    16.18763,
+    44.91868
+],
+  "geometry": {"coordinates":[16.18763,44.91868],"type":"Point"}
+}

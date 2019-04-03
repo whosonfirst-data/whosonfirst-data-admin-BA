@@ -1,0 +1,67 @@
+{
+  "id": 1293407743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1275,43.52889,18.1275,43.52889",
+    "geom:latitude":43.52889,
+    "geom:longitude":18.1275,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Smilovici",
+    "gn:country_code":"BA",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268760,
+    "gn:latitude":43.52889,
+    "gn:longitude":18.1275,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Smilovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268760
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5f56911652714f88f8047ee884f9924d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1293407743,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1293407743,
+    "wof:lastmodified":1536902095,
+    "wof:name":"Smilovici",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1275,
+    43.52889,
+    18.1275,
+    43.52889
+],
+  "geometry": {"coordinates":[18.1275,43.52889],"type":"Point"}
+}

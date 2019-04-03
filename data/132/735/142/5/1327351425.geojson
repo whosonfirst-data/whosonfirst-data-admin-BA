@@ -1,0 +1,67 @@
+{
+  "id": 1327351425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17243,44.83028,16.17243,44.83028",
+    "geom:latitude":44.83028,
+    "geom:longitude":16.17243,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cardak",
+    "gn:country_code":"BA",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3262501,
+    "gn:latitude":44.83028,
+    "gn:longitude":16.17243,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u010cardak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3262501
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"916a96bd5d6abc31736469ce111dfd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759003,
+            "locality_id":1327351425,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1327351425,
+    "wof:lastmodified":1536797890,
+    "wof:name":"Cardak",
+    "wof:parent_id":1108759003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17243,
+    44.83028,
+    16.17243,
+    44.83028
+],
+  "geometry": {"coordinates":[16.17243,44.83028],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209524413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9432,45.12424,16.9432,45.12424",
+    "geom:latitude":45.12424,
+    "geom:longitude":16.9432,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jankovica Kosa",
+    "gn:country_code":"BA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211947,
+    "gn:latitude":45.12424,
+    "gn:longitude":16.9432,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Jankovi\u0107a Kosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jankovi\u0107i",
+        "Jankovi\u0107i Kosa",
+        "Jankovi\u0107a Kosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211947
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d34313cbd48abb091f6a7de5051ea8c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209524413
+        }
+    ],
+    "wof:id":1209524413,
+    "wof:lastmodified":1537585654,
+    "wof:name":"Jankovica Kosa",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9432,
+    45.12424,
+    16.9432,
+    45.12424
+],
+  "geometry": {"coordinates":[16.9432,45.12424],"type":"Point"}
+}

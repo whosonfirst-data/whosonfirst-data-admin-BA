@@ -1,0 +1,67 @@
+{
+  "id": 1225848373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80056,45.12917,16.80056,45.12917",
+    "geom:latitude":45.12917,
+    "geom:longitude":16.80056,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Prva Kosa",
+    "gn:country_code":"BA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286178,
+    "gn:latitude":45.12917,
+    "gn:longitude":16.80056,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Prva Kosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286178
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"21f883e6702a2ff168dc6824fc5294d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1225848373,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225848373,
+    "wof:lastmodified":1537009148,
+    "wof:name":"Prva Kosa",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80056,
+    45.12917,
+    16.80056,
+    45.12917
+],
+  "geometry": {"coordinates":[16.80056,45.12917],"type":"Point"}
+}

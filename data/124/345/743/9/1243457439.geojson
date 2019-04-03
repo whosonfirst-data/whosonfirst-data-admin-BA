@@ -1,0 +1,67 @@
+{
+  "id": 1243457439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25539,44.20517,17.25539,44.20517",
+    "geom:latitude":44.20517,
+    "geom:longitude":17.25539,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ljusa",
+    "gn:country_code":"BA",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210477,
+    "gn:latitude":44.20517,
+    "gn:longitude":17.25539,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Lju\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210477
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7f0e384fd20e831b3c12621f8c9f1c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1243457439,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243457439,
+    "wof:lastmodified":1536790044,
+    "wof:name":"Ljusa",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25539,
+    44.20517,
+    17.25539,
+    44.20517
+],
+  "geometry": {"coordinates":[17.25539,44.20517],"type":"Point"}
+}

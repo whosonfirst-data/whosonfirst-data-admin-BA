@@ -1,0 +1,72 @@
+{
+  "id": 1343473087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21701,44.22272,16.21701,44.22272",
+    "geom:latitude":44.22272,
+    "geom:longitude":16.21701,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donji Tiskovac",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201381,
+    "gn:latitude":44.22272,
+    "gn:longitude":16.21701,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Donji Ti\u0161kovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donji Ti\u0161kovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201381,
+        "wk:page":"Donji_Ti%C5%A1kovac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"25cf20629dabe6413b6b7b8181d7e195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1343473087,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1343473087,
+    "wof:lastmodified":1537585609,
+    "wof:name":"Donji Tiskovac",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21701,
+    44.22272,
+    16.21701,
+    44.22272
+],
+  "geometry": {"coordinates":[16.21701,44.22272],"type":"Point"}
+}

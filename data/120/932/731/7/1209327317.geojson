@@ -1,0 +1,61 @@
+{
+  "id": 1209327317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18127,44.56806,17.18127,44.56806",
+    "geom:latitude":44.56806,
+    "geom:longitude":17.18127,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zeljkovica Glavica",
+    "gn:country_code":"BA",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248823,
+    "gn:latitude":44.56806,
+    "gn:longitude":17.18127,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zeljkovi\u0107a Glavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248823
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"278727ef2ba4c588ba883f0d62240969",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209327317
+        }
+    ],
+    "wof:id":1209327317,
+    "wof:lastmodified":1536290489,
+    "wof:name":"Zeljkovica Glavica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18127,
+    44.56806,
+    17.18127,
+    44.56806
+],
+  "geometry": {"coordinates":[17.18127,44.56806],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243276765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.77645,44.96897,16.77645,44.96897",
+    "geom:latitude":44.96897,
+    "geom:longitude":16.77645,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zmijanci",
+    "gn:country_code":"BA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3246789,
+    "gn:latitude":44.96897,
+    "gn:longitude":16.77645,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zmijanci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3246789
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b4495d850b0b96ba48da37013ef53232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1243276765,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243276765,
+    "wof:lastmodified":1537048059,
+    "wof:name":"Zmijanci",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.77645,
+    44.96897,
+    16.77645,
+    44.96897
+],
+  "geometry": {"coordinates":[16.77645,44.96897],"type":"Point"}
+}

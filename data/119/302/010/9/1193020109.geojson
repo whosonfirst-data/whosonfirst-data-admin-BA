@@ -1,0 +1,67 @@
+{
+  "id": 1193020109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.06582,44.22548,18.06582,44.22548",
+    "geom:latitude":44.22548,
+    "geom:longitude":18.06582,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Radinovici",
+    "gn:country_code":"BA",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192125,
+    "gn:latitude":44.22548,
+    "gn:longitude":18.06582,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Radinovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192125
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"55b02e6672393261853288731c74a82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1193020109,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1193020109,
+    "wof:lastmodified":1536374154,
+    "wof:name":"Radinovici",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.06582,
+    44.22548,
+    18.06582,
+    44.22548
+],
+  "geometry": {"coordinates":[18.06582,44.22548],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226455415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19857,45.01249,17.19857,45.01249",
+    "geom:latitude":45.01249,
+    "geom:longitude":17.19857,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Brdani",
+    "gn:country_code":"BA",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285672,
+    "gn:latitude":45.01249,
+    "gn:longitude":17.19857,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Br\u0111ani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285672
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4f0d69baec570ab97a33083a52feba96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1226455415,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226455415,
+    "wof:lastmodified":1536629812,
+    "wof:name":"Brdani",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19857,
+    45.01249,
+    17.19857,
+    45.01249
+],
+  "geometry": {"coordinates":[17.19857,45.01249],"type":"Point"}
+}

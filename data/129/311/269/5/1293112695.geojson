@@ -1,0 +1,67 @@
+{
+  "id": 1293112695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10789,44.18038,18.10789,44.18038",
+    "geom:latitude":44.18038,
+    "geom:longitude":18.10789,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dole",
+    "gn:country_code":"BA",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296293,
+    "gn:latitude":44.18038,
+    "gn:longitude":18.10789,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Dole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296293
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9ee0b520a87957a7dc40e689ba1795f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1293112695,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1293112695,
+    "wof:lastmodified":1536829363,
+    "wof:name":"Dole",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10789,
+    44.18038,
+    18.10789,
+    44.18038
+],
+  "geometry": {"coordinates":[18.10789,44.18038],"type":"Point"}
+}

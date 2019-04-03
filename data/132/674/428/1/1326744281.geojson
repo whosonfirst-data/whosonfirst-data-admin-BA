@@ -1,0 +1,67 @@
+{
+  "id": 1326744281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36712,43.90559,17.36712,43.90559",
+    "geom:latitude":43.90559,
+    "geom:longitude":17.36712,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gajevi",
+    "gn:country_code":"BA",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3283476,
+    "gn:latitude":43.90559,
+    "gn:longitude":17.36712,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gajevi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283476
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"73cf24510ee4f9a9f358d48660d192ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759145,
+            "locality_id":1326744281,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1326744281,
+    "wof:lastmodified":1536678269,
+    "wof:name":"Gajevi",
+    "wof:parent_id":1108759145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36712,
+    43.90559,
+    17.36712,
+    43.90559
+],
+  "geometry": {"coordinates":[17.36712,43.90559],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 890519091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48552,43.39005,17.48552,43.39005",
+    "geom:latitude":43.39005,
+    "geom:longitude":17.48552,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":3516,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ko\u010derin"
+    ],
+    "name:eng_x_preferred":[
+        "Ko\u010derin"
+    ],
+    "name:fre_x_preferred":[
+        "Ko\u010derin"
+    ],
+    "name:hrv_x_preferred":[
+        "Ko\u010derin"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0447\u0435\u0440\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ko\u010derin"
+    ],
+    "name:tur_x_preferred":[
+        "Ko\u010derin"
+    ],
+    "qs:name":"Ko\u010derin",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197944,
+        "gp:id":942349,
+        "qs:id":1283498,
+        "wd:id":"Q3025567",
+        "wk:page":"Ko\u010derin"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056091,
+    "wof:geomhash":"c14df28d1ec2c7b95987493a2c6cbc88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759231,
+            "locality_id":890519091,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":890519091,
+    "wof:lastmodified":1527751221,
+    "wof:name":"Ko\u010derin",
+    "wof:parent_id":1108759231,
+    "wof:placetype":"locality",
+    "wof:population":3516,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48552,
+    43.39005,
+    17.48552,
+    43.39005
+],
+  "geometry": {"coordinates":[17.48552,43.39005],"type":"Point"}
+}

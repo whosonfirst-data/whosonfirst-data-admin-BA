@@ -1,0 +1,68 @@
+{
+  "id": 1309806823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20373,44.47951,17.20373,44.47951",
+    "geom:latitude":44.47951,
+    "geom:longitude":17.20373,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Baljvine",
+    "gn:country_code":"BA",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3204567,
+    "gn:latitude":44.47951,
+    "gn:longitude":17.20373,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Baljvine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204567,
+        "wk:page":"Baljvine"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c8d0be15924001d9cfc3e4099f039c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1309806823,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309806823,
+    "wof:lastmodified":1537486801,
+    "wof:name":"Baljvine",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20373,
+    44.47951,
+    17.20373,
+    44.47951
+],
+  "geometry": {"coordinates":[17.20373,44.47951],"type":"Point"}
+}

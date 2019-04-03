@@ -1,0 +1,62 @@
+{
+  "id": 1209217673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70272,44.0102,18.70272,44.0102",
+    "geom:latitude":44.0102,
+    "geom:longitude":18.70272,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Miletine",
+    "gn:country_code":"BA",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211306,
+    "gn:latitude":44.0102,
+    "gn:longitude":18.70272,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Miletine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211306,
+        "wk:page":"Miletine"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f1da585dd3d25362db1f2a934a8a0a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209217673
+        }
+    ],
+    "wof:id":1209217673,
+    "wof:lastmodified":1537486815,
+    "wof:name":"Miletine",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70272000000001,
+    44.0102,
+    18.70272000000001,
+    44.0102
+],
+  "geometry": {"coordinates":[18.70272000000001,44.0102],"type":"Point"}
+}

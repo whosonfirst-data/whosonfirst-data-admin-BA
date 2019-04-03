@@ -1,0 +1,68 @@
+{
+  "id": 1242795335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13049,43.7873,18.13049,43.7873",
+    "geom:latitude":43.7873,
+    "geom:longitude":18.13049,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Resnik",
+    "gn:country_code":"BA",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295108,
+    "gn:latitude":43.7873,
+    "gn:longitude":18.13049,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Resnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295108,
+        "wk:page":"Resnik_%28Had%C5%BEi%C4%87i%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9dc030f52f512758ed07861a27b2b692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1242795335,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1242795335,
+    "wof:lastmodified":1537486860,
+    "wof:name":"Resnik",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13049,
+    43.7873,
+    18.13049,
+    43.7873
+],
+  "geometry": {"coordinates":[18.13049,43.7873],"type":"Point"}
+}

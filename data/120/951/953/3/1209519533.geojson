@@ -1,0 +1,65 @@
+{
+  "id": 1209519533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10775,43.56629,18.10775,43.56629",
+    "geom:latitude":43.56629,
+    "geom:longitude":18.10775,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Grusca",
+    "gn:country_code":"BA",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199504,
+    "gn:latitude":43.56629,
+    "gn:longitude":18.10775,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gru\u0161\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gru\u0161\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199504,
+        "wk:page":"Gru%C5%A1%C4%8Da"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1a8db9a3a15e82c25460671fa5e3d827",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209519533
+        }
+    ],
+    "wof:id":1209519533,
+    "wof:lastmodified":1537585597,
+    "wof:name":"Grusca",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10775,
+    43.56629,
+    18.10775,
+    43.56629
+],
+  "geometry": {"coordinates":[18.10775,43.56629],"type":"Point"}
+}

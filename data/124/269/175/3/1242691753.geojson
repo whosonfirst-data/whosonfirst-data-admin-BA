@@ -1,0 +1,67 @@
+{
+  "id": 1242691753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82583,44.97722,15.82583,44.97722",
+    "geom:latitude":44.97722,
+    "geom:longitude":15.82583,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Samardzici",
+    "gn:country_code":"BA",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212957,
+    "gn:latitude":44.97722,
+    "gn:longitude":15.82583,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Samard\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212957
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"89ea93c837aa762f9b5a156865390e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1242691753,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1242691753,
+    "wof:lastmodified":1536899275,
+    "wof:name":"Samardzici",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82583,
+    44.97722,
+    15.82583,
+    44.97722
+],
+  "geometry": {"coordinates":[15.82583,44.97722],"type":"Point"}
+}

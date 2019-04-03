@@ -1,0 +1,67 @@
+{
+  "id": 1209928565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57159,43.25936,17.57159,43.25936",
+    "geom:latitude":43.25936,
+    "geom:longitude":17.57159,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Corica Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291930,
+    "gn:latitude":43.25936,
+    "gn:longitude":17.57159,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0106ori\u0107a Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291930
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a2451e9e89c10dfd76b6d3ea658f92ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1209928565,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1209928565,
+    "wof:lastmodified":1536393769,
+    "wof:name":"Corica Mahala",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57159,
+    43.25936,
+    17.57159,
+    43.25936
+],
+  "geometry": {"coordinates":[17.57159,43.25936],"type":"Point"}
+}

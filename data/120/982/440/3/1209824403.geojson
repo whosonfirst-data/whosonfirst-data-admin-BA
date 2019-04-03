@@ -1,0 +1,71 @@
+{
+  "id": 1209824403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45207,43.8136,18.45207,43.8136",
+    "geom:latitude":43.8136,
+    "geom:longitude":18.45207,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donje Meduse",
+    "gn:country_code":"BA",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201557,
+    "gn:latitude":43.8136,
+    "gn:longitude":18.45207,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donje Me\u0111u\u0161e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donje Me\u0111u\u0161e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201557,
+        "wk:page":"Donje_Me%C4%91u%C5%A1e"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"386965c9c53d8f254c60b9318bb7432c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759247,
+            "locality_id":1209824403,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209824403,
+    "wof:lastmodified":1537585611,
+    "wof:name":"Donje Meduse",
+    "wof:parent_id":1108759247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45207000000001,
+    43.8136,
+    18.45207000000001,
+    43.8136
+],
+  "geometry": {"coordinates":[18.45207000000001,43.8136],"type":"Point"}
+}

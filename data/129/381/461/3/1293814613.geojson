@@ -1,0 +1,67 @@
+{
+  "id": 1293814613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81725,44.82629,18.81725,44.82629",
+    "geom:latitude":44.82629,
+    "geom:longitude":18.81725,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Potocari",
+    "gn:country_code":"BA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3192656,
+    "gn:latitude":44.82629,
+    "gn:longitude":18.81725,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Poto\u010dari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192656
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"10fbfc7e0528ae32ab9ef333009a68a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1293814613,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1293814613,
+    "wof:lastmodified":1536812107,
+    "wof:name":"Potocari",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81725,
+    44.82629,
+    18.81725,
+    44.82629
+],
+  "geometry": {"coordinates":[18.81725,44.82629],"type":"Point"}
+}

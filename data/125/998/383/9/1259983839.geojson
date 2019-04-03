@@ -1,0 +1,67 @@
+{
+  "id": 1259983839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.12042,44.06762,18.12042,44.06762",
+    "geom:latitude":44.06762,
+    "geom:longitude":18.12042,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Stublo",
+    "gn:country_code":"BA",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297880,
+    "gn:latitude":44.06762,
+    "gn:longitude":18.12042,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Stublo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297880
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7882619073a38a49c261941c601a6901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1259983839,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259983839,
+    "wof:lastmodified":1536633211,
+    "wof:name":"Stublo",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.12042000000001,
+    44.06762,
+    18.12042000000001,
+    44.06762
+],
+  "geometry": {"coordinates":[18.12042000000001,44.06762],"type":"Point"}
+}

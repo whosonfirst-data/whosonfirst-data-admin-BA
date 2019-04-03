@@ -1,0 +1,67 @@
+{
+  "id": 1226455151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69668,43.78516,18.69668,43.78516",
+    "geom:latitude":43.78516,
+    "geom:longitude":18.69668,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Strahovo",
+    "gn:country_code":"BA",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206861,
+    "gn:latitude":43.78516,
+    "gn:longitude":18.69668,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Strahovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206861
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2b266178f9df9be172a86e0c395ae1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759201,
+            "locality_id":1226455151,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226455151,
+    "wof:lastmodified":1536630241,
+    "wof:name":"Strahovo",
+    "wof:parent_id":1108759201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69668,
+    43.78516,
+    18.69668,
+    43.78516
+],
+  "geometry": {"coordinates":[18.69668,43.78516],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276772003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29532,45.14756,17.29532,45.14756",
+    "geom:latitude":45.14756,
+    "geom:longitude":17.29532,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kozinci",
+    "gn:country_code":"BA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3284916,
+    "gn:latitude":45.14756,
+    "gn:longitude":17.29532,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kozinci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284916,
+        "wk:page":"Kozinci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e6932673497d75086dabe29ee953a2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1276772003,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276772003,
+    "wof:lastmodified":1537486852,
+    "wof:name":"Kozinci",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29532,
+    45.14756,
+    17.29532,
+    45.14756
+],
+  "geometry": {"coordinates":[17.29532,45.14756],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209724363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96457,44.39709,18.96457,44.39709",
+    "geom:latitude":44.39709,
+    "geom:longitude":18.96457,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Caparde",
+    "gn:country_code":"BA",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3202875,
+    "gn:latitude":44.39709,
+    "gn:longitude":18.96457,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Caparde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010capardi",
+        "Caparde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202875
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5170fa7d8f478d7df78b47b77dbff4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759123,
+            "locality_id":1209724363,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209724363,
+    "wof:lastmodified":1537585619,
+    "wof:name":"Caparde",
+    "wof:parent_id":1108759123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96457,
+    44.39709000000001,
+    18.96457,
+    44.39709000000001
+],
+  "geometry": {"coordinates":[18.96457,44.39709000000001],"type":"Point"}
+}

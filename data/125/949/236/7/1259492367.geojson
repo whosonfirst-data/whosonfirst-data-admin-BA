@@ -1,0 +1,71 @@
+{
+  "id": 1259492367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.49699,43.878,18.49699,43.878",
+    "geom:latitude":43.878,
+    "geom:longitude":18.49699,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hresa",
+    "gn:country_code":"BA",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3199275,
+    "gn:latitude":43.878,
+    "gn:longitude":18.49699,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hre\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hre\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199275,
+        "wk:page":"Hre%C5%A1a"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1905674c9045c9118b1b1585d58d284b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759247,
+            "locality_id":1259492367,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259492367,
+    "wof:lastmodified":1537585596,
+    "wof:name":"Hresa",
+    "wof:parent_id":1108759247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.49699,
+    43.878,
+    18.49699,
+    43.878
+],
+  "geometry": {"coordinates":[18.49699,43.878],"type":"Point"}
+}

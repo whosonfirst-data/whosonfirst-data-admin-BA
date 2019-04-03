@@ -1,0 +1,71 @@
+{
+  "id": 1344265867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24526,44.85031,19.24526,44.85031",
+    "geom:latitude":44.85031,
+    "geom:longitude":19.24526,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Panjik",
+    "gn:country_code":"BA",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258379,
+    "gn:latitude":44.85031,
+    "gn:longitude":19.24526,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Panjik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panik",
+        "Panjik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258379
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"075a37359e448d186210796fd2121090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1344265867,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344265867,
+    "wof:lastmodified":1537585664,
+    "wof:name":"Panjik",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24526,
+    44.85031,
+    19.24526,
+    44.85031
+],
+  "geometry": {"coordinates":[19.24526,44.85031],"type":"Point"}
+}

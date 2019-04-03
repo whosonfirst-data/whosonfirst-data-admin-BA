@@ -1,0 +1,71 @@
+{
+  "id": 1226351235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25965,45.05084,17.25965,45.05084",
+    "geom:latitude":45.05084,
+    "geom:longitude":17.25965,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Elezagici",
+    "gn:country_code":"BA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3285080,
+    "gn:latitude":45.05084,
+    "gn:longitude":17.25965,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Elezagi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elezagi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285080,
+        "wk:page":"Elezagi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"518f308be923fab512923c350d34f897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1226351235,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226351235,
+    "wof:lastmodified":1537585674,
+    "wof:name":"Elezagici",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25965,
+    45.05084,
+    17.25965,
+    45.05084
+],
+  "geometry": {"coordinates":[17.25965,45.05084],"type":"Point"}
+}

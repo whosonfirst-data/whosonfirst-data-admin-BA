@@ -1,0 +1,67 @@
+{
+  "id": 1343872529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31278,43.34306,17.31278,43.34306",
+    "geom:latitude":43.34306,
+    "geom:longitude":17.31278,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tomas",
+    "gn:country_code":"BA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284686,
+    "gn:latitude":43.34306,
+    "gn:longitude":17.31278,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Tomas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284686
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"25fe9a4c1ae75da535617d0be0661410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1343872529,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1343872529,
+    "wof:lastmodified":1536648794,
+    "wof:name":"Tomas",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31278,
+    43.34306,
+    17.31278,
+    43.34306
+],
+  "geometry": {"coordinates":[17.31278,43.34306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276343933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41337,43.76835,18.41337,43.76835",
+    "geom:latitude":43.76835,
+    "geom:longitude":18.41337,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Batici",
+    "gn:country_code":"BA",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268058,
+    "gn:latitude":43.76835,
+    "gn:longitude":18.41337,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bati\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268058
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a2bda2ddb3de749030580b654c5706ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759269,
+            "locality_id":1276343933,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276343933,
+    "wof:lastmodified":1536764513,
+    "wof:name":"Batici",
+    "wof:parent_id":1108759269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41337,
+    43.76835,
+    18.41337,
+    43.76835
+],
+  "geometry": {"coordinates":[18.41337,43.76835],"type":"Point"}
+}

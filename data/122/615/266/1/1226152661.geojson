@@ -1,0 +1,67 @@
+{
+  "id": 1226152661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26716,44.05048,18.26716,44.05048",
+    "geom:latitude":44.05048,
+    "geom:longitude":18.26716,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Koscana",
+    "gn:country_code":"BA",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295422,
+    "gn:latitude":44.05048,
+    "gn:longitude":18.26716,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ko\u0161\u010dana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295422
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e56e3d5d4d976dade798c2105dba9aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759027,
+            "locality_id":1226152661,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1226152661,
+    "wof:lastmodified":1537064762,
+    "wof:name":"Koscana",
+    "wof:parent_id":1108759027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26716,
+    44.05048,
+    18.26716,
+    44.05048
+],
+  "geometry": {"coordinates":[18.26716,44.05048],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209619331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93472,43.86889,16.93472,43.86889",
+    "geom:latitude":43.86889,
+    "geom:longitude":16.93472,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dolac",
+    "gn:country_code":"BA",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201872,
+    "gn:latitude":43.86889,
+    "gn:longitude":16.93472,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Dolac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201872
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"763077e26b9e5fb1afe03533b9830196",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209619331
+        }
+    ],
+    "wof:id":1209619331,
+    "wof:lastmodified":1536281575,
+    "wof:name":"Dolac",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.934720000000002,
+    43.86889,
+    16.934720000000002,
+    43.86889
+],
+  "geometry": {"coordinates":[16.93472,43.86889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343770837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55605,45.21462,16.55605,45.21462",
+    "geom:latitude":45.21462,
+    "geom:longitude":16.55605,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cekinovac",
+    "gn:country_code":"BA",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3279740,
+    "gn:latitude":45.21462,
+    "gn:longitude":16.55605,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u010cekinovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3279740
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3ee16e6c2ed758d9ed49270ca289435d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759139,
+            "locality_id":1343770837,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343770837,
+    "wof:lastmodified":1536796125,
+    "wof:name":"Cekinovac",
+    "wof:parent_id":1108759139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55605,
+    45.21462,
+    16.55605,
+    45.21462
+],
+  "geometry": {"coordinates":[16.55605,45.21462],"type":"Point"}
+}

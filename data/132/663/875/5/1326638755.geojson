@@ -1,0 +1,67 @@
+{
+  "id": 1326638755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41976,43.2027,18.41976,43.2027",
+    "geom:latitude":43.2027,
+    "geom:longitude":18.41976,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zapolje",
+    "gn:country_code":"BA",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292343,
+    "gn:latitude":43.2027,
+    "gn:longitude":18.41976,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zapolje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292343
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b3dee5c343bb1a47a2331ca2844128b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1326638755,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326638755,
+    "wof:lastmodified":1536829341,
+    "wof:name":"Zapolje",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41976,
+    43.2027,
+    18.41976,
+    43.2027
+],
+  "geometry": {"coordinates":[18.41976,43.2027],"type":"Point"}
+}

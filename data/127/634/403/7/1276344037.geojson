@@ -1,0 +1,78 @@
+{
+  "id": 1276344037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32461,44.80284,17.32461,44.80284",
+    "geom:latitude":44.80284,
+    "geom:longitude":17.32461,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Slatina",
+    "gn:country_code":"BA",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190617,
+    "gn:latitude":44.80284,
+    "gn:longitude":17.32461,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Slatina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banja Slatina",
+        "Slatina Ildze",
+        "Slatina Varo\u0161",
+        "Slatina Ilid\u017ee",
+        "Slatina Hid\u017ee",
+        "Slatina Ilice",
+        "Slatina Ilid\u017ea",
+        "Slatina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190617,
+        "wk:page":"Slatina_%28Gora%C5%BEde%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b1f1f6b02b444b32e13f8b11a51c4ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759151,
+            "locality_id":1276344037,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276344037,
+    "wof:lastmodified":1537585562,
+    "wof:name":"Slatina",
+    "wof:parent_id":1108759151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32461,
+    44.80284,
+    17.32461,
+    44.80284
+],
+  "geometry": {"coordinates":[17.32461,44.80284],"type":"Point"}
+}

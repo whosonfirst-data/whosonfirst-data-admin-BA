@@ -1,0 +1,67 @@
+{
+  "id": 1259993863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25417,43.59944,17.25417,43.59944",
+    "geom:latitude":43.59944,
+    "geom:longitude":17.25417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cuici",
+    "gn:country_code":"BA",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286061,
+    "gn:latitude":43.59944,
+    "gn:longitude":17.25417,
+    "gn:modification_date":"1998-05-04",
+    "gn:name":"Cui\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286061
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ce39b6bd9f76644b5e5b1c975d9442b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1259993863,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1259993863,
+    "wof:lastmodified":1536617919,
+    "wof:name":"Cuici",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25417,
+    43.59944,
+    17.25417,
+    43.59944
+],
+  "geometry": {"coordinates":[17.25417,43.59944],"type":"Point"}
+}

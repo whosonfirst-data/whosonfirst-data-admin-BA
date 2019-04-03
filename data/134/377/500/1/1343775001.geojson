@@ -1,0 +1,67 @@
+{
+  "id": 1343775001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00052,43.14125,18.00052,43.14125",
+    "geom:latitude":43.14125,
+    "geom:longitude":18.00052,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Brijeg",
+    "gn:country_code":"BA",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3266814,
+    "gn:latitude":43.14125,
+    "gn:longitude":18.00052,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Brijeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266814
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"01a7c8dda8b3369761da2c4aa727baa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759251,
+            "locality_id":1343775001,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343775001,
+    "wof:lastmodified":1536790320,
+    "wof:name":"Brijeg",
+    "wof:parent_id":1108759251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00052,
+    43.14125,
+    18.00052,
+    43.14125
+],
+  "geometry": {"coordinates":[18.00052,43.14125],"type":"Point"}
+}

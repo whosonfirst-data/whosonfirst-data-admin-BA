@@ -1,0 +1,61 @@
+{
+  "id": 1209619175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61782,44.14469,17.61782,44.14469",
+    "geom:latitude":44.14469,
+    "geom:longitude":17.61782,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Torine",
+    "gn:country_code":"BA",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188965,
+    "gn:latitude":44.14469,
+    "gn:longitude":17.61782,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Torine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188965
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e861f2d5d6b919376c8f81a28f577cef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209619175
+        }
+    ],
+    "wof:id":1209619175,
+    "wof:lastmodified":1536281580,
+    "wof:name":"Torine",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.617820000000005,
+    44.14469,
+    17.617820000000005,
+    44.14469
+],
+  "geometry": {"coordinates":[17.61782000000001,44.14469],"type":"Point"}
+}

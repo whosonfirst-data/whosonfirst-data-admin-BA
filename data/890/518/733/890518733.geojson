@@ -1,0 +1,117 @@
+{
+  "id": 890518733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89814,44.8917,16.89814,44.8917",
+    "geom:latitude":44.8917,
+    "geom:longitude":16.89814,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":6466,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Omarska"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u043c\u0430\u0440\u0441\u043a\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u5967\u99ac\u723e\u65af\u5361"
+    ],
+    "name:dut_x_preferred":[
+        "Omarska"
+    ],
+    "name:eng_x_preferred":[
+        "Omarska"
+    ],
+    "name:fre_x_preferred":[
+        "Omarska"
+    ],
+    "name:ger_x_preferred":[
+        "Omarska"
+    ],
+    "name:hrv_x_preferred":[
+        "Omarska"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30de\u30eb\u30b9\u30ab"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0645\u0627\u0631\u0633\u06a9\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043c\u0430\u0440\u0441\u043a\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043c\u0430\u0440\u0441\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Omarska"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0645\u0627\u0631\u0633\u06a9\u0627"
+    ],
+    "qs:name":"Omarska",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":368,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":448,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194120,
+        "gp:id":943152,
+        "qs:id":633472,
+        "wd:id":"Q1938626",
+        "wk:page":"Omarska"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056077,
+    "wof:geomhash":"d9163f7620a21921528be34ed03232a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":890518733,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518733,
+    "wof:lastmodified":1527751234,
+    "wof:name":"Omarska",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:population":6466,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89814,
+    44.8917,
+    16.89814,
+    44.8917
+],
+  "geometry": {"coordinates":[16.89814,44.8917],"type":"Point"}
+}

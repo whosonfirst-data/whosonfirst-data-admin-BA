@@ -1,0 +1,67 @@
+{
+  "id": 1344170895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.30092,44.46079,18.30092,44.46079",
+    "geom:latitude":44.46079,
+    "geom:longitude":18.30092,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tunjik",
+    "gn:country_code":"BA",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258420,
+    "gn:latitude":44.46079,
+    "gn:longitude":18.30092,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tunjik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258420
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9a4e07b799f7f9bddc350dbd81f4c1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1344170895,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1344170895,
+    "wof:lastmodified":1536716485,
+    "wof:name":"Tunjik",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.30092,
+    44.46079,
+    18.30092,
+    44.46079
+],
+  "geometry": {"coordinates":[18.30092,44.46079],"type":"Point"}
+}

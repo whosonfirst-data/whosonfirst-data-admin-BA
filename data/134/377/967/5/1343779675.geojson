@@ -1,0 +1,71 @@
+{
+  "id": 1343779675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75418,43.15267,17.75418,43.15267",
+    "geom:latitude":43.15267,
+    "geom:longitude":17.75418,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sevas Njive",
+    "gn:country_code":"BA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261844,
+    "gn:latitude":43.15267,
+    "gn:longitude":17.75418,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0160eva\u0161 Njive",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160eva\u0161 Njive"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261844,
+        "wk:page":"%C5%A0eva%C5%A1_Njive"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d8fb437b3caab289d575c2dc6e280a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759037,
+            "locality_id":1343779675,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1343779675,
+    "wof:lastmodified":1537585665,
+    "wof:name":"Sevas Njive",
+    "wof:parent_id":1108759037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75417999999999,
+    43.15267,
+    17.75417999999999,
+    43.15267
+],
+  "geometry": {"coordinates":[17.75417999999999,43.15267],"type":"Point"}
+}

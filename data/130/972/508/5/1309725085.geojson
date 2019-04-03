@@ -1,0 +1,72 @@
+{
+  "id": 1309725085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1882,44.22965,19.1882,44.22965",
+    "geom:latitude":44.22965,
+    "geom:longitude":19.1882,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Brana Bacici",
+    "gn:country_code":"BA",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203571,
+    "gn:latitude":44.22965,
+    "gn:longitude":19.1882,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Brana Ba\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brana Ba\u010di\u0107",
+        "Brana Ba\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203571,
+        "wk:page":"Brana_Ba%C4%8Di%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8aef4b5295d6d6ea4acaa6b520c11ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759021,
+            "locality_id":1309725085,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309725085,
+    "wof:lastmodified":1537585623,
+    "wof:name":"Brana Bacici",
+    "wof:parent_id":1108759021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1882,
+    44.22965,
+    19.1882,
+    44.22965
+],
+  "geometry": {"coordinates":[19.1882,44.22965],"type":"Point"}
+}

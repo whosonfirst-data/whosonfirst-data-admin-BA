@@ -1,0 +1,61 @@
+{
+  "id": 1209324215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33659,43.88246,18.33659,43.88246",
+    "geom:latitude":43.88246,
+    "geom:longitude":18.33659,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Perivoje",
+    "gn:country_code":"BA",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267973,
+    "gn:latitude":43.88246,
+    "gn:longitude":18.33659,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Perivoje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267973
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4eb8a7a6877369122eadb8af153bbaca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209324215
+        }
+    ],
+    "wof:id":1209324215,
+    "wof:lastmodified":1536290586,
+    "wof:name":"Perivoje",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33659,
+    43.88246,
+    18.33659,
+    43.88246
+],
+  "geometry": {"coordinates":[18.33659,43.88246],"type":"Point"}
+}

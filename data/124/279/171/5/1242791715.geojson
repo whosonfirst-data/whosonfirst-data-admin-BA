@@ -1,0 +1,67 @@
+{
+  "id": 1242791715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83528,43.72639,17.83528,43.72639",
+    "geom:latitude":43.72639,
+    "geom:longitude":17.83528,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sajici",
+    "gn:country_code":"BA",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3344390,
+    "gn:latitude":43.72639,
+    "gn:longitude":17.83528,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"\u0160aji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344390
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5fdedaae7f121f444f76a367f3a33287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1242791715,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1242791715,
+    "wof:lastmodified":1536755199,
+    "wof:name":"Sajici",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83527999999999,
+    43.72639,
+    17.83527999999999,
+    43.72639
+],
+  "geometry": {"coordinates":[17.83527999999999,43.72639],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209824331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16366,44.58954,19.16366,44.58954",
+    "geom:latitude":44.58954,
+    "geom:longitude":19.16366,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ivanic Mala",
+    "gn:country_code":"BA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211592,
+    "gn:latitude":44.58954,
+    "gn:longitude":19.16366,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ivani\u0107 Mala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ivani\u0107i",
+        "Ivanovi\u0107i",
+        "Ivani\u0107 Mala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211592
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e2227cb2f80e5f6325dee88591e54bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759303,
+            "locality_id":1209824331,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209824331,
+    "wof:lastmodified":1537585652,
+    "wof:name":"Ivanic Mala",
+    "wof:parent_id":1108759303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16366,
+    44.58954,
+    19.16366,
+    44.58954
+],
+  "geometry": {"coordinates":[19.16366,44.58954],"type":"Point"}
+}

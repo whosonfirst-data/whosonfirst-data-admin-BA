@@ -1,0 +1,67 @@
+{
+  "id": 1243558537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40635,44.91316,18.40635,44.91316",
+    "geom:latitude":44.91316,
+    "geom:longitude":18.40635,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Bjeljevina",
+    "gn:country_code":"BA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254763,
+    "gn:latitude":44.91316,
+    "gn:longitude":18.40635,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donja Bjeljevina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254763
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"10f3bb4ce3713343d8f0e59a7f060735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759097,
+            "locality_id":1243558537,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243558537,
+    "wof:lastmodified":1536643245,
+    "wof:name":"Donja Bjeljevina",
+    "wof:parent_id":1108759097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40635,
+    44.91316,
+    18.40635,
+    44.91316
+],
+  "geometry": {"coordinates":[18.40635,44.91316],"type":"Point"}
+}

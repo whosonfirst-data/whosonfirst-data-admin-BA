@@ -1,0 +1,72 @@
+{
+  "id": 1310108971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75058,44.32714,18.75058,44.32714",
+    "geom:latitude":44.32714,
+    "geom:longitude":18.75058,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lukici",
+    "gn:country_code":"BA",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211367,
+    "gn:latitude":44.32714,
+    "gn:longitude":18.75058,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Luki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jo\u0161je",
+        "Luki\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211367,
+        "wk:page":"Jo%C5%A1je"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e79147e73235b35a65c965f47e599f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759227,
+            "locality_id":1310108971,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310108971,
+    "wof:lastmodified":1537585649,
+    "wof:name":"Lukici",
+    "wof:parent_id":1108759227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75058,
+    44.32714,
+    18.75058,
+    44.32714
+],
+  "geometry": {"coordinates":[18.75058,44.32714],"type":"Point"}
+}

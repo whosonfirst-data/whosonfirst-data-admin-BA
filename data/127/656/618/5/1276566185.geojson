@@ -1,0 +1,67 @@
+{
+  "id": 1276566185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6479,44.08343,16.6479,44.08343",
+    "geom:latitude":44.08343,
+    "geom:longitude":16.6479,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cvijani",
+    "gn:country_code":"BA",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3239515,
+    "gn:latitude":44.08343,
+    "gn:longitude":16.6479,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Cvijani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3239515
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"97694f320bf0e7b00e834363d8953bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1276566185,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1276566185,
+    "wof:lastmodified":1536964014,
+    "wof:name":"Cvijani",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6479,
+    44.08343,
+    16.6479,
+    44.08343
+],
+  "geometry": {"coordinates":[16.6479,44.08343],"type":"Point"}
+}

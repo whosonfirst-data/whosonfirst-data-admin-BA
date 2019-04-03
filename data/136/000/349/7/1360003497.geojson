@@ -1,0 +1,67 @@
+{
+  "id": 1360003497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2026,43.54369,18.2026,43.54369",
+    "geom:latitude":43.54369,
+    "geom:longitude":18.2026,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Slatinica",
+    "gn:country_code":"BA",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3270002,
+    "gn:latitude":43.54369,
+    "gn:longitude":18.2026,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Slatinica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3270002
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0dc409627f4d9c980652dba0b05fba64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1360003497,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1360003497,
+    "wof:lastmodified":1537060658,
+    "wof:name":"Slatinica",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2026,
+    43.54369000000001,
+    18.2026,
+    43.54369000000001
+],
+  "geometry": {"coordinates":[18.2026,43.54369000000001],"type":"Point"}
+}

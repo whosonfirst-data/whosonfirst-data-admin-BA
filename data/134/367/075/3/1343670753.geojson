@@ -1,0 +1,67 @@
+{
+  "id": 1343670753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9835,45.02736,17.9835,45.02736",
+    "geom:latitude":45.02736,
+    "geom:longitude":17.9835,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ranitovici",
+    "gn:country_code":"BA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240050,
+    "gn:latitude":45.02736,
+    "gn:longitude":17.9835,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ranitovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240050
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4d4a73bc6dc30796137fa897823c097c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1343670753,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343670753,
+    "wof:lastmodified":1536940787,
+    "wof:name":"Ranitovici",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9835,
+    45.02736,
+    17.9835,
+    45.02736
+],
+  "geometry": {"coordinates":[17.9835,45.02736],"type":"Point"}
+}

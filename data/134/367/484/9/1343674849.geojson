@@ -1,0 +1,71 @@
+{
+  "id": 1343674849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7415,44.99121,17.7415,44.99121",
+    "geom:latitude":44.99121,
+    "geom:longitude":17.7415,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornji Smrtici",
+    "gn:country_code":"BA",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199920,
+    "gn:latitude":44.99121,
+    "gn:longitude":17.7415,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornji Smrti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smrti\u0107i Gornji",
+        "Gornji Smrti\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199920
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cf949c4fc68cf81ab685c7b7497c7b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1343674849,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343674849,
+    "wof:lastmodified":1537585599,
+    "wof:name":"Gornji Smrtici",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7415,
+    44.99121,
+    17.7415,
+    44.99121
+],
+  "geometry": {"coordinates":[17.7415,44.99121],"type":"Point"}
+}

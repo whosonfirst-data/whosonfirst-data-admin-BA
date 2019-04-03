@@ -1,0 +1,68 @@
+{
+  "id": 1343871267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55479,45.20369,16.55479,45.20369",
+    "geom:latitude":45.20369,
+    "geom:longitude":16.55479,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tavija",
+    "gn:country_code":"BA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3279750,
+    "gn:latitude":45.20369,
+    "gn:longitude":16.55479,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tavija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3279750,
+        "wk:page":"Tavija"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1216e984a59a479cccf567fa9dcdfdd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759139,
+            "locality_id":1343871267,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343871267,
+    "wof:lastmodified":1537486851,
+    "wof:name":"Tavija",
+    "wof:parent_id":1108759139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55479,
+    45.20369,
+    16.55479,
+    45.20369
+],
+  "geometry": {"coordinates":[16.55479,45.20369],"type":"Point"}
+}

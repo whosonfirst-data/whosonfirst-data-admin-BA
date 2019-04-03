@@ -1,0 +1,67 @@
+{
+  "id": 1344260323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13942,44.16319,19.13942,44.16319",
+    "geom:latitude":44.16319,
+    "geom:longitude":19.13942,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stup",
+    "gn:country_code":"BA",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275265,
+    "gn:latitude":44.16319,
+    "gn:longitude":19.13942,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Stup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275265
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5c16d2359888ba691ffaa5e5e2a404b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759165,
+            "locality_id":1344260323,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344260323,
+    "wof:lastmodified":1537081168,
+    "wof:name":"Stup",
+    "wof:parent_id":1108759165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13942,
+    44.16319,
+    19.13942,
+    44.16319
+],
+  "geometry": {"coordinates":[19.13942,44.16319],"type":"Point"}
+}

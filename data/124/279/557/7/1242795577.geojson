@@ -1,0 +1,67 @@
+{
+  "id": 1242795577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89639,44.09667,16.89639,44.09667",
+    "geom:latitude":44.09667,
+    "geom:longitude":16.89639,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dzudzolije",
+    "gn:country_code":"BA",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260057,
+    "gn:latitude":44.09667,
+    "gn:longitude":16.89639,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"D\u017eud\u017eolije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260057
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"44b6ac994b2c3cb4e6ebb7224328b540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759081,
+            "locality_id":1242795577,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1242795577,
+    "wof:lastmodified":1536749541,
+    "wof:name":"Dzudzolije",
+    "wof:parent_id":1108759081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89639,
+    44.09667,
+    16.89639,
+    44.09667
+],
+  "geometry": {"coordinates":[16.89639,44.09667],"type":"Point"}
+}

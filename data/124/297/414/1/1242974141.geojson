@@ -1,0 +1,71 @@
+{
+  "id": 1242974141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19984,44.66167,17.19984,44.66167",
+    "geom:latitude":44.66167,
+    "geom:longitude":17.19984,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ljubacevo",
+    "gn:country_code":"BA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3196386,
+    "gn:latitude":44.66167,
+    "gn:longitude":17.19984,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ljuba\u010devo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ljuba\u010devo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196386,
+        "wk:page":"Ljuba%C4%8Devo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4b2c7e98258eaa078b2890fd6d6db8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1242974141,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242974141,
+    "wof:lastmodified":1537585585,
+    "wof:name":"Ljubacevo",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19984,
+    44.66167,
+    17.19984,
+    44.66167
+],
+  "geometry": {"coordinates":[17.19984,44.66167],"type":"Point"}
+}

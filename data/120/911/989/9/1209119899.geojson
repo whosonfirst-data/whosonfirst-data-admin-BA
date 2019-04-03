@@ -1,0 +1,65 @@
+{
+  "id": 1209119899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77658,44.1429,18.77658,44.1429",
+    "geom:latitude":44.1429,
+    "geom:longitude":18.77658,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zeravice",
+    "gn:country_code":"BA",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3186563,
+    "gn:latitude":44.1429,
+    "gn:longitude":18.77658,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u017deravice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017deravice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186563,
+        "wk:page":"%C5%BDeravice_%28Han_Pijesak%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"89f29ada79e1e15456459d4ad690a0de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209119899
+        }
+    ],
+    "wof:id":1209119899,
+    "wof:lastmodified":1537585547,
+    "wof:name":"Zeravice",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77658,
+    44.1429,
+    18.77658,
+    44.1429
+],
+  "geometry": {"coordinates":[18.77658,44.1429],"type":"Point"}
+}

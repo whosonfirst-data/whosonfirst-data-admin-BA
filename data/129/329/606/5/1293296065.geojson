@@ -1,0 +1,67 @@
+{
+  "id": 1293296065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.92699,44.17551,18.92699,44.17551",
+    "geom:latitude":44.17551,
+    "geom:longitude":18.92699,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zalukovlje",
+    "gn:country_code":"BA",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3272421,
+    "gn:latitude":44.17551,
+    "gn:longitude":18.92699,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Zalukovlje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3272421
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4444bb70c33dcf1b06b3e4186549739d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759289,
+            "locality_id":1293296065,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293296065,
+    "wof:lastmodified":1537060290,
+    "wof:name":"Zalukovlje",
+    "wof:parent_id":1108759289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92699,
+    44.17551,
+    18.92699,
+    44.17551
+],
+  "geometry": {"coordinates":[18.92699,44.17551],"type":"Point"}
+}

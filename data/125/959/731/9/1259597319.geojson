@@ -1,0 +1,71 @@
+{
+  "id": 1259597319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.62321,43.26146,17.62321,43.26146",
+    "geom:latitude":43.26146,
+    "geom:longitude":17.62321,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dragicina",
+    "gn:country_code":"BA",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213071,
+    "gn:latitude":43.26146,
+    "gn:longitude":17.62321,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Dragi\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dragi\u010dina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213071,
+        "wk:page":"Dragi%C4%87ina_%28%C4%8Citluk%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0b96e788196cb27a9fc5cf173055eba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759049,
+            "locality_id":1259597319,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1259597319,
+    "wof:lastmodified":1537585657,
+    "wof:name":"Dragicina",
+    "wof:parent_id":1108759049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62321,
+    43.26146,
+    17.62321,
+    43.26146
+],
+  "geometry": {"coordinates":[17.62321,43.26146],"type":"Point"}
+}

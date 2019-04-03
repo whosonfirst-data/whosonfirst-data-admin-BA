@@ -1,0 +1,61 @@
+{
+  "id": 1209525087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46722,43.20139,17.46722,43.20139",
+    "geom:latitude":43.20139,
+    "geom:longitude":17.46722,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Granici",
+    "gn:country_code":"BA",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287999,
+    "gn:latitude":43.20139,
+    "gn:longitude":17.46722,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Grani\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287999
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"54efe3b349bfee3cc61261e650a5ecee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209525087
+        }
+    ],
+    "wof:id":1209525087,
+    "wof:lastmodified":1536284456,
+    "wof:name":"Granici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46722,
+    43.20139,
+    17.46722,
+    43.20139
+],
+  "geometry": {"coordinates":[17.46722,43.20139],"type":"Point"}
+}

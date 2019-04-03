@@ -1,0 +1,67 @@
+{
+  "id": 1309923589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.44423,44.59721,16.44423,44.59721",
+    "geom:latitude":44.59721,
+    "geom:longitude":16.44423,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jelicici",
+    "gn:country_code":"BA",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3245665,
+    "gn:latitude":44.59721,
+    "gn:longitude":16.44423,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Jeli\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3245665
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9f4ad136d0cf07a2bbe39718b3df842e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759013,
+            "locality_id":1309923589,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1309923589,
+    "wof:lastmodified":1536761559,
+    "wof:name":"Jelicici",
+    "wof:parent_id":1108759013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.44422999999999,
+    44.59721,
+    16.44422999999999,
+    44.59721
+],
+  "geometry": {"coordinates":[16.44422999999999,44.59721],"type":"Point"}
+}

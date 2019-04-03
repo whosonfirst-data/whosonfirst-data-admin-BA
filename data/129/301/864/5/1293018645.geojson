@@ -1,0 +1,71 @@
+{
+  "id": 1293018645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04715,43.83424,18.04715,43.83424",
+    "geom:latitude":43.83424,
+    "geom:longitude":18.04715,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vidosovici",
+    "gn:country_code":"BA",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3187798,
+    "gn:latitude":43.83424,
+    "gn:longitude":18.04715,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vidosovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Vidosavi\u0107i",
+        "Vidosovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187798
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b5708fbe1b2091cfe2e8f5ccf996cc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759143,
+            "locality_id":1293018645,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1293018645,
+    "wof:lastmodified":1537585553,
+    "wof:name":"Vidosovici",
+    "wof:parent_id":1108759143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04715,
+    43.83424,
+    18.04715,
+    43.83424
+],
+  "geometry": {"coordinates":[18.04715,43.83424],"type":"Point"}
+}

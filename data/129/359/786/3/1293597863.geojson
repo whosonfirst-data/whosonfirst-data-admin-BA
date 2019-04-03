@@ -1,0 +1,67 @@
+{
+  "id": 1293597863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44944,43.99917,19.44944,43.99917",
+    "geom:latitude":43.99917,
+    "geom:longitude":19.44944,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Podjezero",
+    "gn:country_code":"BA",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299724,
+    "gn:latitude":43.99917,
+    "gn:longitude":19.44944,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Podjezero",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299724
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f6399a65e3ed9a0a65d69c3c58f3f5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1293597863,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293597863,
+    "wof:lastmodified":1536626059,
+    "wof:name":"Podjezero",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44944,
+    43.99917,
+    19.44944,
+    43.99917
+],
+  "geometry": {"coordinates":[19.44944,43.99917],"type":"Point"}
+}

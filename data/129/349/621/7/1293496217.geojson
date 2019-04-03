@@ -1,0 +1,67 @@
+{
+  "id": 1293496217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.87732,43.79073,18.87732,43.79073",
+    "geom:latitude":43.79073,
+    "geom:longitude":18.87732,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dobrace",
+    "gn:country_code":"BA",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3201973,
+    "gn:latitude":43.79073,
+    "gn:longitude":18.87732,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Dobra\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201973
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8d8d1dfe35940300b18ec4d03e6ecd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1293496217,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293496217,
+    "wof:lastmodified":1536775039,
+    "wof:name":"Dobrace",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.87732,
+    43.79073,
+    18.87732,
+    43.79073
+],
+  "geometry": {"coordinates":[18.87732,43.79073],"type":"Point"}
+}

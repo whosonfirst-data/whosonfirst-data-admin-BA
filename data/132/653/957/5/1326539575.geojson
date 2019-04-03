@@ -1,0 +1,71 @@
+{
+  "id": 1326539575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45133,44.03649,18.45133,44.03649",
+    "geom:latitude":44.03649,
+    "geom:longitude":18.45133,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Budraze",
+    "gn:country_code":"BA",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205064,
+    "gn:latitude":44.03649,
+    "gn:longitude":18.45133,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Budra\u017ee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Budra\u017eje",
+        "Budra\u017ee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205064
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"be2ee7021c6f6c18697a3e1097e5ebd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759109,
+            "locality_id":1326539575,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1326539575,
+    "wof:lastmodified":1537585632,
+    "wof:name":"Budraze",
+    "wof:parent_id":1108759109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45133,
+    44.03649,
+    18.45133,
+    44.03649
+],
+  "geometry": {"coordinates":[18.45133,44.03649],"type":"Point"}
+}

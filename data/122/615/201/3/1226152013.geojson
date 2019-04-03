@@ -1,0 +1,67 @@
+{
+  "id": 1226152013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91444,45.20583,16.91444,45.20583",
+    "geom:latitude":45.20583,
+    "geom:longitude":16.91444,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Radmanovica Sokak",
+    "gn:country_code":"BA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285894,
+    "gn:latitude":45.20583,
+    "gn:longitude":16.91444,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Radmanovi\u0107a Sokak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285894
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c05fba3b3ebc548ebf36d46395baa0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1226152013,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226152013,
+    "wof:lastmodified":1537065687,
+    "wof:name":"Radmanovica Sokak",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91444,
+    45.20583,
+    16.91444,
+    45.20583
+],
+  "geometry": {"coordinates":[16.91444,45.20583],"type":"Point"}
+}

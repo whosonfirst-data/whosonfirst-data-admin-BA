@@ -1,0 +1,61 @@
+{
+  "id": 1209432437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52338,43.17121,17.52338,43.17121",
+    "geom:latitude":43.17121,
+    "geom:longitude":17.52338,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bezer",
+    "gn:country_code":"BA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288695,
+    "gn:latitude":43.17121,
+    "gn:longitude":17.52338,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bezer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288695
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"83cdaec995acbc5385532847257c5532",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209432437
+        }
+    ],
+    "wof:id":1209432437,
+    "wof:lastmodified":1536287200,
+    "wof:name":"Bezer",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52338,
+    43.17121,
+    17.52338,
+    43.17121
+],
+  "geometry": {"coordinates":[17.52338,43.17121],"type":"Point"}
+}

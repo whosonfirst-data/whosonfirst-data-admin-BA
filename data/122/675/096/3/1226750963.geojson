@@ -1,0 +1,67 @@
+{
+  "id": 1226750963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1876,44.13117,17.1876,44.13117",
+    "geom:latitude":44.13117,
+    "geom:longitude":17.1876,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donji Jandrici",
+    "gn:country_code":"BA",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238296,
+    "gn:latitude":44.13117,
+    "gn:longitude":17.1876,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donji Jandri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238296
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b6d222ab8f24cd0e6311fd7b7724e580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1226750963,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226750963,
+    "wof:lastmodified":1536708276,
+    "wof:name":"Donji Jandrici",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1876,
+    44.13117,
+    17.1876,
+    44.13117
+],
+  "geometry": {"coordinates":[17.1876,44.13117],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242787375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4386,43.67927,18.4386,43.67927",
+    "geom:latitude":43.67927,
+    "geom:longitude":18.4386,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pendicici",
+    "gn:country_code":"BA",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3193508,
+    "gn:latitude":43.67927,
+    "gn:longitude":18.4386,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pendi\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Pendi\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193508,
+        "wk:page":"Pendi%C4%8Di%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cb524523274d3a56b674a97aa71baf4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1242787375,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1242787375,
+    "wof:lastmodified":1537585575,
+    "wof:name":"Pendicici",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4386,
+    43.67927,
+    18.4386,
+    43.67927
+],
+  "geometry": {"coordinates":[18.4386,43.67927],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343468379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13694,43.85472,18.13694,43.85472",
+    "geom:latitude":43.85472,
+    "geom:longitude":18.13694,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Bojakovici",
+    "gn:country_code":"BA",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296404,
+    "gn:latitude":43.85472,
+    "gn:longitude":18.13694,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Gornji Bojakovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296404
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dd44651e64e140f7d69e479f7a8cdcda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759127,
+            "locality_id":1343468379,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1343468379,
+    "wof:lastmodified":1536734752,
+    "wof:name":"Gornji Bojakovici",
+    "wof:parent_id":1108759127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13694,
+    43.85472,
+    18.13694,
+    43.85472
+],
+  "geometry": {"coordinates":[18.13694,43.85472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343861641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.57044,43.2277,18.57044,43.2277",
+    "geom:latitude":43.2277,
+    "geom:longitude":18.57044,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gaj",
+    "gn:country_code":"BA",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205739,
+    "gn:latitude":43.2277,
+    "gn:longitude":18.57044,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jasenice",
+        "Gaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205739
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"12f6cf9219c2107277113aa994f0375b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1343861641,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343861641,
+    "wof:lastmodified":1537585632,
+    "wof:name":"Gaj",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.57044,
+    43.2277,
+    18.57044,
+    43.2277
+],
+  "geometry": {"coordinates":[18.57044,43.2277],"type":"Point"}
+}

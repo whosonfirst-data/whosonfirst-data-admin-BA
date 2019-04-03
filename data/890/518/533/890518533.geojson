@@ -1,0 +1,68 @@
+{
+  "id": 890518533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17944,44.76111,17.17944,44.76111",
+    "geom:latitude":44.76111,
+    "geom:longitude":17.17944,
+    "gn:country":"BA",
+    "gn:fcode":"PPLX",
+    "gn:pop":5000,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Ko\u010di\u0107ev Vijenac"
+    ],
+    "qs:name":"Hiseti",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632267,
+        85632609,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248643,
+        "qs:id":95321
+    },
+    "wof:country":"BA",
+    "wof:created":1469056069,
+    "wof:geomhash":"b6749df61a9b475eda09ec7d3ed1fc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "neighbourhood_id":890518533,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518533,
+    "wof:lastmodified":1505343909,
+    "wof:name":"Hiseti",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17944,
+    44.76111,
+    17.17944,
+    44.76111
+],
+  "geometry": {"coordinates":[17.17944,44.76111],"type":"Point"}
+}

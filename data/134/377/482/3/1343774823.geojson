@@ -1,0 +1,67 @@
+{
+  "id": 1343774823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84448,44.35003,16.84448,44.35003",
+    "geom:latitude":44.35003,
+    "geom:longitude":16.84448,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Landeke",
+    "gn:country_code":"BA",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260998,
+    "gn:latitude":44.35003,
+    "gn:longitude":16.84448,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Landeke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260998
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"56dae875b9674d1f4f3fc7c15ad987a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1343774823,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343774823,
+    "wof:lastmodified":1536790568,
+    "wof:name":"Landeke",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84447999999999,
+    44.35003,
+    16.84447999999999,
+    44.35003
+],
+  "geometry": {"coordinates":[16.84447999999999,44.35003],"type":"Point"}
+}

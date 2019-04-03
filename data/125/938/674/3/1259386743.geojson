@@ -1,0 +1,71 @@
+{
+  "id": 1259386743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25722,43.91694,18.25722,43.91694",
+    "geom:latitude":43.91694,
+    "geom:longitude":18.25722,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornja Bioca",
+    "gn:country_code":"BA",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200288,
+    "gn:latitude":43.91694,
+    "gn:longitude":18.25722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gornja Bio\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Bio\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200288,
+        "wk:page":"Gornja_Bio%C4%8Da_%28Ilija%C5%A1%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c8d42c3e5a80d6fd59d39b12b8acb98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759109,
+            "locality_id":1259386743,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1259386743,
+    "wof:lastmodified":1537585604,
+    "wof:name":"Gornja Bioca",
+    "wof:parent_id":1108759109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25722,
+    43.91694,
+    18.25722,
+    43.91694
+],
+  "geometry": {"coordinates":[18.25722,43.91694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310515703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54504,44.5023,18.54504,44.5023",
+    "geom:latitude":44.5023,
+    "geom:longitude":18.54504,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Selimovici",
+    "gn:country_code":"BA",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263306,
+    "gn:latitude":44.5023,
+    "gn:longitude":18.54504,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Selimovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263306
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1d3400fd4bc5d1ce26b6a60b080385ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759161,
+            "locality_id":1310515703,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310515703,
+    "wof:lastmodified":1536902189,
+    "wof:name":"Selimovici",
+    "wof:parent_id":1108759161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54504,
+    44.5023,
+    18.54504,
+    44.5023
+],
+  "geometry": {"coordinates":[18.54504,44.5023],"type":"Point"}
+}

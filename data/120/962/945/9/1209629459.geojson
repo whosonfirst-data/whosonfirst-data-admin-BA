@@ -1,0 +1,65 @@
+{
+  "id": 1209629459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.44928,44.73102,18.44928,44.73102",
+    "geom:latitude":44.73102,
+    "geom:longitude":18.44928,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lusnica",
+    "gn:country_code":"BA",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211010,
+    "gn:latitude":44.73102,
+    "gn:longitude":18.44928,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Lu\u0161nica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu\u0161nica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211010,
+        "wk:page":"Lu%C5%A1nica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dbdc1f4feb6d55739cdc913b73fd6dc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209629459
+        }
+    ],
+    "wof:id":1209629459,
+    "wof:lastmodified":1537585644,
+    "wof:name":"Lusnica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44928,
+    44.73102,
+    18.44928,
+    44.73102
+],
+  "geometry": {"coordinates":[18.44928,44.73102],"type":"Point"}
+}

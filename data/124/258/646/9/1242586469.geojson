@@ -1,0 +1,67 @@
+{
+  "id": 1242586469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61571,44.8692,16.61571,44.8692",
+    "geom:latitude":44.8692,
+    "geom:longitude":16.61571,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mustanica",
+    "gn:country_code":"BA",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248695,
+    "gn:latitude":44.8692,
+    "gn:longitude":16.61571,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mu\u0161tanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248695
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ef0b2250d9c02217311718c283964f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1242586469,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242586469,
+    "wof:lastmodified":1537048698,
+    "wof:name":"Mustanica",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61571,
+    44.8692,
+    16.61571,
+    44.8692
+],
+  "geometry": {"coordinates":[16.61571,44.8692],"type":"Point"}
+}

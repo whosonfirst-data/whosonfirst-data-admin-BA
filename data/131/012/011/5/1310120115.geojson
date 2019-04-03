@@ -1,0 +1,67 @@
+{
+  "id": 1310120115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53386,44.68978,16.53386,44.68978",
+    "geom:latitude":44.68978,
+    "geom:longitude":16.53386,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rustina",
+    "gn:country_code":"BA",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3246574,
+    "gn:latitude":44.68978,
+    "gn:longitude":16.53386,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Rustina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3246574
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fd8a920393b344517910950c0601d0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759219,
+            "locality_id":1310120115,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1310120115,
+    "wof:lastmodified":1536974824,
+    "wof:name":"Rustina",
+    "wof:parent_id":1108759219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53386,
+    44.68978,
+    16.53386,
+    44.68978
+],
+  "geometry": {"coordinates":[16.53386,44.68978],"type":"Point"}
+}

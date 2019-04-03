@@ -1,0 +1,67 @@
+{
+  "id": 1343461645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93063,45.19802,16.93063,45.19802",
+    "geom:latitude":45.19802,
+    "geom:longitude":16.93063,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rasica Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285974,
+    "gn:latitude":45.19802,
+    "gn:longitude":16.93063,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ra\u0161i\u0107a Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285974
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4aa5671031005df90009498d7ab10bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1343461645,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343461645,
+    "wof:lastmodified":1536744131,
+    "wof:name":"Rasica Brdo",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93062999999999,
+    45.19802,
+    16.93062999999999,
+    45.19802
+],
+  "geometry": {"coordinates":[16.93062999999999,45.19802],"type":"Point"}
+}

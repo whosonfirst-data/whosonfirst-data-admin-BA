@@ -1,0 +1,73 @@
+{
+  "id": 1327044089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.44232,44.50523,18.44232,44.50523",
+    "geom:latitude":44.50523,
+    "geom:longitude":18.44232,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Babice Donje",
+    "gn:country_code":"BA",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3204739,
+    "gn:latitude":44.50523,
+    "gn:longitude":18.44232,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Babice Donje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muslimlanske Babice",
+        "Babice",
+        "Babice Donje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204739,
+        "wk:page":"Babice_Donje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bb9bb5bc0ace0cf90bb6a28cdccbf0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759161,
+            "locality_id":1327044089,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1327044089,
+    "wof:lastmodified":1537585629,
+    "wof:name":"Babice Donje",
+    "wof:parent_id":1108759161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44232,
+    44.50523,
+    18.44232,
+    44.50523
+],
+  "geometry": {"coordinates":[18.44232,44.50523],"type":"Point"}
+}

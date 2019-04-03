@@ -1,0 +1,67 @@
+{
+  "id": 1344166661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17044,44.13576,18.17044,44.13576",
+    "geom:latitude":44.13576,
+    "geom:longitude":18.17044,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kaparovici",
+    "gn:country_code":"BA",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296724,
+    "gn:latitude":44.13576,
+    "gn:longitude":18.17044,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Kaparovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296724
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"186f7b90c3fba75d71b3d5771bffd0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1344166661,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1344166661,
+    "wof:lastmodified":1536722600,
+    "wof:name":"Kaparovici",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17044,
+    44.13576,
+    18.17044,
+    44.13576
+],
+  "geometry": {"coordinates":[18.17044,44.13576],"type":"Point"}
+}

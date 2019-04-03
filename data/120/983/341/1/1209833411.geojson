@@ -1,0 +1,68 @@
+{
+  "id": 1209833411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36945,43.49482,17.36945,43.49482",
+    "geom:latitude":43.49482,
+    "geom:longitude":17.36945,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tribistovo",
+    "gn:country_code":"BA",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3284281,
+    "gn:latitude":43.49482,
+    "gn:longitude":17.36945,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Tribistovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284281,
+        "wk:page":"Tribistovo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1adaed2307b84dc7b444d31a141062f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1209833411,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1209833411,
+    "wof:lastmodified":1537486852,
+    "wof:name":"Tribistovo",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36945,
+    43.49482,
+    17.36945,
+    43.49482
+],
+  "geometry": {"coordinates":[17.36945,43.49482],"type":"Point"}
+}

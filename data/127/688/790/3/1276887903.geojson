@@ -1,0 +1,67 @@
+{
+  "id": 1276887903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33001,43.95208,17.33001,43.95208",
+    "geom:latitude":43.95208,
+    "geom:longitude":17.33001,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tritunovici",
+    "gn:country_code":"BA",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285645,
+    "gn:latitude":43.95208,
+    "gn:longitude":17.33001,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tritunovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285645
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d810ef0295986e759cecbb49f2c5dbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759145,
+            "locality_id":1276887903,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1276887903,
+    "wof:lastmodified":1537029058,
+    "wof:name":"Tritunovici",
+    "wof:parent_id":1108759145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33001,
+    43.95208,
+    17.33001,
+    43.95208
+],
+  "geometry": {"coordinates":[17.33001,43.95208],"type":"Point"}
+}

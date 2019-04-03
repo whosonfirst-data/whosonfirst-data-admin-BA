@@ -1,0 +1,67 @@
+{
+  "id": 1276672219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8424,45.14521,15.8424,45.14521",
+    "geom:latitude":45.14521,
+    "geom:longitude":15.8424,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Grahovo",
+    "gn:country_code":"BA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278864,
+    "gn:latitude":45.14521,
+    "gn:longitude":15.8424,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Grahovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278864
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"793fb596dbf66f121976ba2b01a0a391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1276672219,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1276672219,
+    "wof:lastmodified":1536820670,
+    "wof:name":"Grahovo",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8424,
+    45.14521,
+    15.8424,
+    45.14521
+],
+  "geometry": {"coordinates":[15.8424,45.14521],"type":"Point"}
+}

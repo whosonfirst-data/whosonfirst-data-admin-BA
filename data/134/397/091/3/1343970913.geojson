@@ -1,0 +1,67 @@
+{
+  "id": 1343970913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64044,44.82227,16.64044,44.82227",
+    "geom:latitude":44.82227,
+    "geom:longitude":16.64044,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Todorovici",
+    "gn:country_code":"BA",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3249017,
+    "gn:latitude":44.82227,
+    "gn:longitude":16.64044,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Todorovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3249017
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ca69fa68ce4771e03caa897cb137351b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759219,
+            "locality_id":1343970913,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1343970913,
+    "wof:lastmodified":1537004097,
+    "wof:name":"Todorovici",
+    "wof:parent_id":1108759219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64044,
+    44.82227,
+    16.64044,
+    44.82227
+],
+  "geometry": {"coordinates":[16.64044,44.82227],"type":"Point"}
+}

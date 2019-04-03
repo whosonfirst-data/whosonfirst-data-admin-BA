@@ -1,0 +1,65 @@
+{
+  "id": 1209022121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.55713,44.12537,17.55713,44.12537",
+    "geom:latitude":44.12537,
+    "geom:longitude":17.55713,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cardaci",
+    "gn:country_code":"BA",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202865,
+    "gn:latitude":44.12537,
+    "gn:longitude":17.55713,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u010cardaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cardaci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202865,
+        "wk:page":"%C4%8Cardaci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a0fbaf7942b65b9c4198d1782d11da73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209022121
+        }
+    ],
+    "wof:id":1209022121,
+    "wof:lastmodified":1537585619,
+    "wof:name":"Cardaci",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55712999999999,
+    44.12537,
+    17.55712999999999,
+    44.12537
+],
+  "geometry": {"coordinates":[17.55712999999999,44.12537],"type":"Point"}
+}

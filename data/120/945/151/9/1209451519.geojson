@@ -1,0 +1,61 @@
+{
+  "id": 1209451519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61731,44.79627,18.61731,44.79627",
+    "geom:latitude":44.79627,
+    "geom:longitude":18.61731,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Stjepkovica",
+    "gn:country_code":"BA",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211085,
+    "gn:latitude":44.79627,
+    "gn:longitude":18.61731,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Stjepkovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211085
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"41ae4d585a57a9e83cdf1ba9bdadb987",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209451519
+        }
+    ],
+    "wof:id":1209451519,
+    "wof:lastmodified":1536286657,
+    "wof:name":"Stjepkovica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61731,
+    44.79627,
+    18.61731,
+    44.79627
+],
+  "geometry": {"coordinates":[18.61731,44.79627],"type":"Point"}
+}

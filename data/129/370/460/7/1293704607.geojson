@@ -1,0 +1,71 @@
+{
+  "id": 1293704607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88114,44.83445,15.88114,44.83445",
+    "geom:latitude":44.83445,
+    "geom:longitude":15.88114,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mrkonjica Lug",
+    "gn:country_code":"BA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212847,
+    "gn:latitude":44.83445,
+    "gn:longitude":15.88114,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Mrkonji\u0107a Lug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bak\u0161aisko Polje",
+        "Mrkonji\u0107a Lug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108758993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212847
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"274becd4fb38bc9de8c9b187422c4967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758993,
+            "locality_id":1293704607,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293704607,
+    "wof:lastmodified":1537585656,
+    "wof:name":"Mrkonjica Lug",
+    "wof:parent_id":1108758993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88114,
+    44.83445,
+    15.88114,
+    44.83445
+],
+  "geometry": {"coordinates":[15.88114,44.83445],"type":"Point"}
+}

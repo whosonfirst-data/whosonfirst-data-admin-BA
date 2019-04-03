@@ -1,0 +1,67 @@
+{
+  "id": 1259982889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00598,44.37571,17.00598,44.37571",
+    "geom:latitude":44.37571,
+    "geom:longitude":17.00598,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Crni Vrh",
+    "gn:country_code":"BA",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3261597,
+    "gn:latitude":44.37571,
+    "gn:longitude":17.00598,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Crni Vrh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3261597
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e1c69a795d9f27515bd5a43d6d3aa362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1259982889,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259982889,
+    "wof:lastmodified":1536634682,
+    "wof:name":"Crni Vrh",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00597999999999,
+    44.37571,
+    17.00597999999999,
+    44.37571
+],
+  "geometry": {"coordinates":[17.00597999999999,44.37571],"type":"Point"}
+}

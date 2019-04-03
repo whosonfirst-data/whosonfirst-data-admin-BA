@@ -1,0 +1,71 @@
+{
+  "id": 1309821287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13533,44.14786,18.13533,44.14786",
+    "geom:latitude":44.14786,
+    "geom:longitude":18.13533,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zgosca",
+    "gn:country_code":"BA",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186479,
+    "gn:latitude":44.14786,
+    "gn:longitude":18.13533,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Zgo\u0161\u0107a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zgo\u0161\u0107a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186479,
+        "wk:page":"Zgo%C5%A1%C4%87a"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d171acac5db817bbb2d418068a388e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1309821287,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1309821287,
+    "wof:lastmodified":1537585547,
+    "wof:name":"Zgosca",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13533,
+    44.14786,
+    18.13533,
+    44.14786
+],
+  "geometry": {"coordinates":[18.13533,44.14786],"type":"Point"}
+}

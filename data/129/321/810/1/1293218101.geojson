@@ -1,0 +1,68 @@
+{
+  "id": 1293218101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28561,44.5399,18.28561,44.5399",
+    "geom:latitude":44.5399,
+    "geom:longitude":18.28561,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rajnovo Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260968,
+    "gn:latitude":44.5399,
+    "gn:longitude":18.28561,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rajnovo Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260968,
+        "wk:page":"Rajnovo_Brdo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4ddad819b591c02643d651e1463058bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1293218101,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1293218101,
+    "wof:lastmodified":1537486833,
+    "wof:name":"Rajnovo Brdo",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28561,
+    44.5399,
+    18.28561,
+    44.5399
+],
+  "geometry": {"coordinates":[18.28561,44.5399],"type":"Point"}
+}

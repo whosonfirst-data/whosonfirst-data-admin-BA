@@ -1,0 +1,67 @@
+{
+  "id": 1226660331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33462,43.88595,18.33462,43.88595",
+    "geom:latitude":43.88595,
+    "geom:longitude":18.33462,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Piskoc",
+    "gn:country_code":"BA",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268204,
+    "gn:latitude":43.88595,
+    "gn:longitude":18.33462,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pisko\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268204
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2160ed3fc9d8c0db9bef9dc553c26683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759181,
+            "locality_id":1226660331,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1226660331,
+    "wof:lastmodified":1536837332,
+    "wof:name":"Piskoc",
+    "wof:parent_id":1108759181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33462,
+    43.88595,
+    18.33462,
+    43.88595
+],
+  "geometry": {"coordinates":[18.33462,43.88595],"type":"Point"}
+}

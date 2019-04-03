@@ -1,0 +1,68 @@
+{
+  "id": 1226251541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.53556,43.97528,19.53556,43.97528",
+    "geom:latitude":43.97528,
+    "geom:longitude":19.53556,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Skelani",
+    "gn:country_code":"BA",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190736,
+    "gn:latitude":43.97528,
+    "gn:longitude":19.53556,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Skelani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190736,
+        "wk:page":"Skelani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d6285af813a0470d5fcb452a95377671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1226251541,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226251541,
+    "wof:lastmodified":1537486725,
+    "wof:name":"Skelani",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.53556,
+    43.97528,
+    19.53556,
+    43.97528
+],
+  "geometry": {"coordinates":[19.53556,43.97528],"type":"Point"}
+}

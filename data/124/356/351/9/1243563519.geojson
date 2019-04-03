@@ -1,0 +1,67 @@
+{
+  "id": 1243563519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03812,44.24627,17.03812,44.24627",
+    "geom:latitude":44.24627,
+    "geom:longitude":17.03812,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vuceni",
+    "gn:country_code":"BA",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260716,
+    "gn:latitude":44.24627,
+    "gn:longitude":17.03812,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vu\u010deni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260716
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fb801aa00329d919ddee62f3d4b57bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1243563519,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243563519,
+    "wof:lastmodified":1536635483,
+    "wof:name":"Vuceni",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03812000000001,
+    44.24627,
+    17.03812000000001,
+    44.24627
+],
+  "geometry": {"coordinates":[17.03812000000001,44.24627],"type":"Point"}
+}

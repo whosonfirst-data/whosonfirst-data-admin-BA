@@ -1,0 +1,67 @@
+{
+  "id": 1259883069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.53547,44.88101,18.53547,44.88101",
+    "geom:latitude":44.88101,
+    "geom:longitude":18.53547,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Staro Selo",
+    "gn:country_code":"BA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211100,
+    "gn:latitude":44.88101,
+    "gn:longitude":18.53547,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Staro Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211100
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8cc4add1aad7087808baa5f1d1de45f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759097,
+            "locality_id":1259883069,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259883069,
+    "wof:lastmodified":1536780245,
+    "wof:name":"Staro Selo",
+    "wof:parent_id":1108759097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.53547,
+    44.88101,
+    18.53547,
+    44.88101
+],
+  "geometry": {"coordinates":[18.53547,44.88101],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360093997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89833,44.68026,17.89833,44.68026",
+    "geom:latitude":44.68026,
+    "geom:longitude":17.89833,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Blazevci",
+    "gn:country_code":"BA",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3251612,
+    "gn:latitude":44.68026,
+    "gn:longitude":17.89833,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bla\u017eevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251612
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"72ff8fd493811eff058c71e86522dc78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759255,
+            "locality_id":1360093997,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1360093997,
+    "wof:lastmodified":1536933483,
+    "wof:name":"Blazevci",
+    "wof:parent_id":1108759255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89832999999999,
+    44.68026,
+    17.89832999999999,
+    44.68026
+],
+  "geometry": {"coordinates":[17.89832999999999,44.68026],"type":"Point"}
+}

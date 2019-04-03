@@ -1,0 +1,71 @@
+{
+  "id": 1360303199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80508,44.15458,16.80508,44.15458",
+    "geom:latitude":44.15458,
+    "geom:longitude":16.80508,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Odzak",
+    "gn:country_code":"BA",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194200,
+    "gn:latitude":44.15458,
+    "gn:longitude":16.80508,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Od\u017eak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Od\u017eak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194200,
+        "wk:page":"Od%C5%BEak_%28Glamo%C4%8D%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"75995788c1511554dcb8714f56fe076e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759081,
+            "locality_id":1360303199,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1360303199,
+    "wof:lastmodified":1537585577,
+    "wof:name":"Odzak",
+    "wof:parent_id":1108759081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80508,
+    44.15458,
+    16.80508,
+    44.15458
+],
+  "geometry": {"coordinates":[16.80508,44.15458],"type":"Point"}
+}

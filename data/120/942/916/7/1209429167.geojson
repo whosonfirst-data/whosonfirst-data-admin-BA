@@ -1,0 +1,61 @@
+{
+  "id": 1209429167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79094,44.46999,18.79094,44.46999",
+    "geom:latitude":44.46999,
+    "geom:longitude":18.79094,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Suhopolje",
+    "gn:country_code":"BA",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3234509,
+    "gn:latitude":44.46999,
+    "gn:longitude":18.79094,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Suhopolje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3234509
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0966705976263db87aad45e895317491",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209429167
+        }
+    ],
+    "wof:id":1209429167,
+    "wof:lastmodified":1536287286,
+    "wof:name":"Suhopolje",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79094,
+    44.46999,
+    18.79094,
+    44.46999
+],
+  "geometry": {"coordinates":[18.79094,44.46999],"type":"Point"}
+}

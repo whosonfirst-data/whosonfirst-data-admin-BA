@@ -1,0 +1,67 @@
+{
+  "id": 1242691559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.82139,43.89778,16.82139,43.89778",
+    "geom:latitude":43.89778,
+    "geom:longitude":16.82139,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Milakova Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284311,
+    "gn:latitude":43.89778,
+    "gn:longitude":16.82139,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Milakova Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284311
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"514e10353de0d844f7fb04f4e327d1a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1242691559,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1242691559,
+    "wof:lastmodified":1536899572,
+    "wof:name":"Milakova Mahala",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.82139,
+    43.89778,
+    16.82139,
+    43.89778
+],
+  "geometry": {"coordinates":[16.82139,43.89778],"type":"Point"}
+}

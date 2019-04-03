@@ -1,0 +1,67 @@
+{
+  "id": 1226455283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29312,43.45007,18.29312,43.45007",
+    "geom:latitude":43.45007,
+    "geom:longitude":18.29312,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Badusa",
+    "gn:country_code":"BA",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263893,
+    "gn:latitude":43.45007,
+    "gn:longitude":18.29312,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Badu\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263893
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c8409c733449c29e0e65d06c8f7b190b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759125,
+            "locality_id":1226455283,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226455283,
+    "wof:lastmodified":1536630029,
+    "wof:name":"Badusa",
+    "wof:parent_id":1108759125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29312,
+    43.45007,
+    18.29312,
+    43.45007
+],
+  "geometry": {"coordinates":[18.29312,43.45007],"type":"Point"}
+}

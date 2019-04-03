@@ -1,0 +1,67 @@
+{
+  "id": 1242680869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.31194,44.12417,19.31194,44.12417",
+    "geom:latitude":44.12417,
+    "geom:longitude":19.31194,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Solocusa",
+    "gn:country_code":"BA",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211633,
+    "gn:latitude":44.12417,
+    "gn:longitude":19.31194,
+    "gn:modification_date":"2005-11-05",
+    "gn:name":"Solo\u0107u\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211633
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e9ac090eeb202c5b5c8aa5526fd6404b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1242680869,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242680869,
+    "wof:lastmodified":1536915490,
+    "wof:name":"Solocusa",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.31194,
+    44.12417,
+    19.31194,
+    44.12417
+],
+  "geometry": {"coordinates":[19.31194,44.12417],"type":"Point"}
+}

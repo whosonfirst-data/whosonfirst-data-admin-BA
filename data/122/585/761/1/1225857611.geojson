@@ -1,0 +1,67 @@
+{
+  "id": 1225857611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14694,43.99194,19.14694,43.99194",
+    "geom:latitude":43.99194,
+    "geom:longitude":19.14694,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bukovik",
+    "gn:country_code":"BA",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268075,
+    "gn:latitude":43.99194,
+    "gn:longitude":19.14694,
+    "gn:modification_date":"1998-01-09",
+    "gn:name":"Bukovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268075
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3eb0472995c8d2f0dd652b7dc6c05504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1225857611,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225857611,
+    "wof:lastmodified":1536995700,
+    "wof:name":"Bukovik",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14694,
+    43.99194,
+    19.14694,
+    43.99194
+],
+  "geometry": {"coordinates":[19.14694,43.99194],"type":"Point"}
+}

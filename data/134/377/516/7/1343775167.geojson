@@ -1,0 +1,67 @@
+{
+  "id": 1343775167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.34459,44.523,17.34459,44.523",
+    "geom:latitude":44.523,
+    "geom:longitude":17.34459,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Crljenice",
+    "gn:country_code":"BA",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251441,
+    "gn:latitude":44.523,
+    "gn:longitude":17.34459,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Crljenice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251441
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2a0d8d9f39278219d987cabfb5c5c334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759233,
+            "locality_id":1343775167,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343775167,
+    "wof:lastmodified":1536790076,
+    "wof:name":"Crljenice",
+    "wof:parent_id":1108759233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.34459,
+    44.523,
+    17.34459,
+    44.523
+],
+  "geometry": {"coordinates":[17.34459,44.523],"type":"Point"}
+}

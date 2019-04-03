@@ -1,0 +1,71 @@
+{
+  "id": 1343573987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61349,44.93546,16.61349,44.93546",
+    "geom:latitude":44.93546,
+    "geom:longitude":16.61349,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donja Ljubija",
+    "gn:country_code":"BA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210568,
+    "gn:latitude":44.93546,
+    "gn:longitude":16.61349,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Donja Ljubija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ljubija",
+        "Donja Ljubija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210568
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fcf50959c7b2b46cab3e4cba0ebbe41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1343573987,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343573987,
+    "wof:lastmodified":1537585639,
+    "wof:name":"Donja Ljubija",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61349,
+    44.93546,
+    16.61349,
+    44.93546
+],
+  "geometry": {"coordinates":[16.61349,44.93546],"type":"Point"}
+}

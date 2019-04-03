@@ -1,0 +1,67 @@
+{
+  "id": 1309725863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66867,44.64501,18.66867,44.64501",
+    "geom:latitude":44.64501,
+    "geom:longitude":18.66867,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tunjasi",
+    "gn:country_code":"BA",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257539,
+    "gn:latitude":44.64501,
+    "gn:longitude":18.66867,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tunja\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257539
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e4b39f6ff00755e66477b4774b8092dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759043,
+            "locality_id":1309725863,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1309725863,
+    "wof:lastmodified":1537044413,
+    "wof:name":"Tunjasi",
+    "wof:parent_id":1108759043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66867,
+    44.64501,
+    18.66867,
+    44.64501
+],
+  "geometry": {"coordinates":[18.66867,44.64501],"type":"Point"}
+}

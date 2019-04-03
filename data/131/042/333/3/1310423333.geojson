@@ -1,0 +1,67 @@
+{
+  "id": 1310423333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75636,44.69542,18.75636,44.69542",
+    "geom:latitude":44.69542,
+    "geom:longitude":18.75636,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ceste",
+    "gn:country_code":"BA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256701,
+    "gn:latitude":44.69542,
+    "gn:longitude":18.75636,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u010ceste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256701
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3d671bd8114a5b55c2d1bb1536d5cb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759043,
+            "locality_id":1310423333,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310423333,
+    "wof:lastmodified":1537034045,
+    "wof:name":"Ceste",
+    "wof:parent_id":1108759043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75636,
+    44.69542,
+    18.75636,
+    44.69542
+],
+  "geometry": {"coordinates":[18.75636,44.69542],"type":"Point"}
+}

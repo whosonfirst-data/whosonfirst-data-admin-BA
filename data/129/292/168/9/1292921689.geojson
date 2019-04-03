@@ -1,0 +1,67 @@
+{
+  "id": 1292921689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42833,45.02389,18.42833,45.02389",
+    "geom:latitude":45.02389,
+    "geom:longitude":18.42833,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gornja Crkvina",
+    "gn:country_code":"BA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213236,
+    "gn:latitude":45.02389,
+    "gn:longitude":18.42833,
+    "gn:modification_date":"1996-03-12",
+    "gn:name":"Gornja Crkvina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213236
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"494815d66ec9330a77afd97943a0c3fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759017,
+            "locality_id":1292921689,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1292921689,
+    "wof:lastmodified":1536605644,
+    "wof:name":"Gornja Crkvina",
+    "wof:parent_id":1108759017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42833,
+    45.02389,
+    18.42833,
+    45.02389
+],
+  "geometry": {"coordinates":[18.42833,45.02389],"type":"Point"}
+}

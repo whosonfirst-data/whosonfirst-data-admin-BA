@@ -1,0 +1,71 @@
+{
+  "id": 1310715829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00814,43.77055,17.00814,43.77055",
+    "geom:latitude":43.77055,
+    "geom:longitude":17.00814,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Smricani",
+    "gn:country_code":"BA",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190437,
+    "gn:latitude":43.77055,
+    "gn:longitude":17.00814,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Smri\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smri\u010dani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190437,
+        "wk:page":"Smri%C4%8Dani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"19751310512c467473e43fae6e5cb2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1310715829,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1310715829,
+    "wof:lastmodified":1537585561,
+    "wof:name":"Smricani",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00814,
+    43.77055,
+    17.00814,
+    43.77055
+],
+  "geometry": {"coordinates":[17.00814,43.77055],"type":"Point"}
+}

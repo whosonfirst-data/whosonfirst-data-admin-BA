@@ -1,0 +1,67 @@
+{
+  "id": 1327245783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58333,43.66667,18.58333,43.66667",
+    "geom:latitude":43.66667,
+    "geom:longitude":18.58333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Balibasici",
+    "gn:country_code":"BA",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204584,
+    "gn:latitude":43.66667,
+    "gn:longitude":18.58333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Baliba\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204584
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7092db1efaa00fb595b38088d49c9ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1327245783,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1327245783,
+    "wof:lastmodified":1536950375,
+    "wof:name":"Balibasici",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58333,
+    43.66667,
+    18.58333,
+    43.66667
+],
+  "geometry": {"coordinates":[18.58333,43.66667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209114793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50512,45.0532,16.50512,45.0532",
+    "geom:latitude":45.0532,
+    "geom:longitude":16.50512,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Petkovac",
+    "gn:country_code":"BA",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3193441,
+    "gn:latitude":45.0532,
+    "gn:longitude":16.50512,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Petkovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193441
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3367d1a725a4c7e6bc78ccbf9ae62fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209114793
+        }
+    ],
+    "wof:id":1209114793,
+    "wof:lastmodified":1536297289,
+    "wof:name":"Petkovac",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50512,
+    45.0532,
+    16.50512,
+    45.0532
+],
+  "geometry": {"coordinates":[16.50512,45.0532],"type":"Point"}
+}

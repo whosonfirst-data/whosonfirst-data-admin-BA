@@ -1,0 +1,67 @@
+{
+  "id": 1293496275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57613,44.43762,17.57613,44.43762",
+    "geom:latitude":44.43762,
+    "geom:longitude":17.57613,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zuhrici",
+    "gn:country_code":"BA",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257317,
+    "gn:latitude":44.43762,
+    "gn:longitude":17.57613,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zuhri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257317
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cd4abde927841d10901734ac542d6117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1293496275,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293496275,
+    "wof:lastmodified":1536774956,
+    "wof:name":"Zuhrici",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57613,
+    44.43762,
+    17.57613,
+    44.43762
+],
+  "geometry": {"coordinates":[17.57613,44.43762],"type":"Point"}
+}

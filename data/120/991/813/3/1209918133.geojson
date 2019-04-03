@@ -1,0 +1,71 @@
+{
+  "id": 1209918133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18968,44.85927,16.18968,44.85927",
+    "geom:latitude":44.85927,
+    "geom:longitude":16.18968,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pucenik",
+    "gn:country_code":"BA",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3192234,
+    "gn:latitude":44.85927,
+    "gn:longitude":16.18968,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pu\u010denik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu\u010denik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192234,
+        "wk:page":"Pu%C4%8Denik"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c7d741ec6ecb026ccb0ad4bf9a58c63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759003,
+            "locality_id":1209918133,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1209918133,
+    "wof:lastmodified":1537585569,
+    "wof:name":"Pucenik",
+    "wof:parent_id":1108759003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18968,
+    44.85927,
+    16.18968,
+    44.85927
+],
+  "geometry": {"coordinates":[16.18968,44.85927],"type":"Point"}
+}

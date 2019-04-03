@@ -1,0 +1,68 @@
+{
+  "id": 1293009239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26389,43.86917,19.26389,43.86917",
+    "geom:latitude":43.86917,
+    "geom:longitude":19.26389,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Obravnje",
+    "gn:country_code":"BA",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3299021,
+    "gn:latitude":43.86917,
+    "gn:longitude":19.26389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Obravnje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299021,
+        "wk:page":"Obravnje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8b7e58c9753d1a262c596b12ac67fffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1293009239,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293009239,
+    "wof:lastmodified":1537486866,
+    "wof:name":"Obravnje",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26389,
+    43.86917,
+    19.26389,
+    43.86917
+],
+  "geometry": {"coordinates":[19.26389,43.86917],"type":"Point"}
+}

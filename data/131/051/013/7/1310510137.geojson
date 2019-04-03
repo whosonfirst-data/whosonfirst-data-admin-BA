@@ -1,0 +1,72 @@
+{
+  "id": 1310510137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9036,45.09404,16.9036,45.09404",
+    "geom:latitude":45.09404,
+    "geom:longitude":16.9036,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vojskova",
+    "gn:country_code":"BA",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3187441,
+    "gn:latitude":45.09404,
+    "gn:longitude":16.9036,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vojskova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vojskovo",
+        "Vojskova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187441,
+        "wk:page":"Vojskova"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"84f1a6627678b63910c8fbfdcf7a6084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1310510137,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310510137,
+    "wof:lastmodified":1537585551,
+    "wof:name":"Vojskova",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9036,
+    45.09404,
+    16.9036,
+    45.09404
+],
+  "geometry": {"coordinates":[16.9036,45.09404],"type":"Point"}
+}

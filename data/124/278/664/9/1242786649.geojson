@@ -1,0 +1,67 @@
+{
+  "id": 1242786649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83254,44.98249,16.83254,44.98249",
+    "geom:latitude":44.98249,
+    "geom:longitude":16.83254,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beslagici",
+    "gn:country_code":"BA",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250714,
+    "gn:latitude":44.98249,
+    "gn:longitude":16.83254,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Be\u0161lagi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250714
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d4287bf7ebfe42e44ce5cfe29e020f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1242786649,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242786649,
+    "wof:lastmodified":1536762758,
+    "wof:name":"Beslagici",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83254,
+    44.98249000000001,
+    16.83254,
+    44.98249000000001
+],
+  "geometry": {"coordinates":[16.83254,44.98249000000001],"type":"Point"}
+}

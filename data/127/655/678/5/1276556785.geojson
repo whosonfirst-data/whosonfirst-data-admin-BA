@@ -1,0 +1,67 @@
+{
+  "id": 1276556785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.50161,45.07396,17.50161,45.07396",
+    "geom:latitude":45.07396,
+    "geom:longitude":17.50161,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Povelic",
+    "gn:country_code":"BA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3240466,
+    "gn:latitude":45.07396,
+    "gn:longitude":17.50161,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Poveli\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240466
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"85deff2cb0874ebd4164c00ea3543ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759237,
+            "locality_id":1276556785,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276556785,
+    "wof:lastmodified":1536976025,
+    "wof:name":"Povelic",
+    "wof:parent_id":1108759237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.50161,
+    45.07396,
+    17.50161,
+    45.07396
+],
+  "geometry": {"coordinates":[17.50161,45.07396],"type":"Point"}
+}

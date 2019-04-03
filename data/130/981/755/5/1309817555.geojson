@@ -1,0 +1,67 @@
+{
+  "id": 1309817555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.82997,44.34571,17.82997,44.34571",
+    "geom:latitude":44.34571,
+    "geom:longitude":17.82997,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jastrebac",
+    "gn:country_code":"BA",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250055,
+    "gn:latitude":44.34571,
+    "gn:longitude":17.82997,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jastrebac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250055
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f4b62bcd8fe40780accfb8e11224d26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1309817555,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1309817555,
+    "wof:lastmodified":1536914508,
+    "wof:name":"Jastrebac",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.82997,
+    44.34571,
+    17.82997,
+    44.34571
+],
+  "geometry": {"coordinates":[17.82997,44.34571],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326933411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63653,43.23686,18.63653,43.23686",
+    "geom:latitude":43.23686,
+    "geom:longitude":18.63653,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sokolovina",
+    "gn:country_code":"BA",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298462,
+    "gn:latitude":43.23686,
+    "gn:longitude":18.63653,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sokolovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298462
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f5387969b4c812e37a2cbeb26a1fb7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1326933411,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326933411,
+    "wof:lastmodified":1536903172,
+    "wof:name":"Sokolovina",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63653,
+    43.23686,
+    18.63653,
+    43.23686
+],
+  "geometry": {"coordinates":[18.63653,43.23686],"type":"Point"}
+}

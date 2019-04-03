@@ -1,0 +1,67 @@
+{
+  "id": 1259692529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08207,44.75792,17.08207,44.75792",
+    "geom:latitude":44.75792,
+    "geom:longitude":17.08207,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Galici",
+    "gn:country_code":"BA",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3247836,
+    "gn:latitude":44.75792,
+    "gn:longitude":17.08207,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gali\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3247836
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"06a4244ac80c3d9b0ee56202d6f37787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1259692529,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259692529,
+    "wof:lastmodified":1537051719,
+    "wof:name":"Galici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08207,
+    44.75792,
+    17.08207,
+    44.75792
+],
+  "geometry": {"coordinates":[17.08207,44.75792],"type":"Point"}
+}

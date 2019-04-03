@@ -1,0 +1,67 @@
+{
+  "id": 1276882725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8597,44.32554,17.8597,44.32554",
+    "geom:latitude":44.32554,
+    "geom:longitude":17.8597,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Imamovici",
+    "gn:country_code":"BA",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250045,
+    "gn:latitude":44.32554,
+    "gn:longitude":17.8597,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Imamovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250045
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0c9c3e107c410b24b6e0ca6270ec13ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1276882725,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1276882725,
+    "wof:lastmodified":1537035655,
+    "wof:name":"Imamovici",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8597,
+    44.32554,
+    17.8597,
+    44.32554
+],
+  "geometry": {"coordinates":[17.8597,44.32554],"type":"Point"}
+}

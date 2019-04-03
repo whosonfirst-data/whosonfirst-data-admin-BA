@@ -1,0 +1,67 @@
+{
+  "id": 1226146175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.88732,44.609,18.88732,44.609",
+    "geom:latitude":44.609,
+    "geom:longitude":18.88732,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donje Lipovice",
+    "gn:country_code":"BA",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211431,
+    "gn:latitude":44.609,
+    "gn:longitude":18.88732,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donje Lipovice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211431
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c5ac99d3aa6cf1585cfc8d4bac8d2b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759159,
+            "locality_id":1226146175,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226146175,
+    "wof:lastmodified":1537073992,
+    "wof:name":"Donje Lipovice",
+    "wof:parent_id":1108759159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.88732000000001,
+    44.609,
+    18.88732000000001,
+    44.609
+],
+  "geometry": {"coordinates":[18.88732000000001,44.609],"type":"Point"}
+}

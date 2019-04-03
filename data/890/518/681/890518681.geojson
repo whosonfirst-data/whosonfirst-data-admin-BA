@@ -1,0 +1,81 @@
+{
+  "id": 890518681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.03778,44.42667,18.03778,44.42667",
+    "geom:latitude":44.42667,
+    "geom:longitude":18.03778,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":8502,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017dep\u010d\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043f\u0447\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u043f\u0447\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u70ed\u666e\u5207"
+    ],
+    "qs:name":"\u017dep\u010de",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":215,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186567,
+        "gp:id":944776,
+        "qs:id":1043871,
+        "wd:id":"Q393860",
+        "wk:page":"\u017dep\u010de"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056075,
+    "wof:geomhash":"99d96868f6d189c3006d9aca09e00eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759299,
+            "locality_id":890518681,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":890518681,
+    "wof:lastmodified":1527751230,
+    "wof:name":"\u017dep\u010de",
+    "wof:parent_id":1108759299,
+    "wof:placetype":"locality",
+    "wof:population":8502,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.03778,
+    44.42667,
+    18.03778,
+    44.42667
+],
+  "geometry": {"coordinates":[18.03778,44.42667],"type":"Point"}
+}

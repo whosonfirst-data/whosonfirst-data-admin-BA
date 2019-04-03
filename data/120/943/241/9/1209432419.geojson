@@ -1,0 +1,61 @@
+{
+  "id": 1209432419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38839,43.54859,17.38839,43.54859",
+    "geom:latitude":43.54859,
+    "geom:longitude":17.38839,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tokici",
+    "gn:country_code":"BA",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286997,
+    "gn:latitude":43.54859,
+    "gn:longitude":17.38839,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Toki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286997
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4dac7005b20eb371d443e5a4ce975105",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209432419
+        }
+    ],
+    "wof:id":1209432419,
+    "wof:lastmodified":1536287200,
+    "wof:name":"Tokici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38839,
+    43.54859,
+    17.38839,
+    43.54859
+],
+  "geometry": {"coordinates":[17.38839,43.54859],"type":"Point"}
+}

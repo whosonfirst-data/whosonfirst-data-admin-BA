@@ -1,0 +1,67 @@
+{
+  "id": 1310309135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42835,43.52453,17.42835,43.52453",
+    "geom:latitude":43.52453,
+    "geom:longitude":17.42835,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dupovci",
+    "gn:country_code":"BA",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289729,
+    "gn:latitude":43.52453,
+    "gn:longitude":17.42835,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Dupovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289729
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"13c29a03428b6d81839fd32d2fc6b38a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1310309135,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1310309135,
+    "wof:lastmodified":1536702916,
+    "wof:name":"Dupovci",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42835,
+    43.52453,
+    17.42835,
+    43.52453
+],
+  "geometry": {"coordinates":[17.42835,43.52453],"type":"Point"}
+}

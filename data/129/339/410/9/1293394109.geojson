@@ -1,0 +1,67 @@
+{
+  "id": 1293394109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83097,44.38621,18.83097,44.38621",
+    "geom:latitude":44.38621,
+    "geom:longitude":18.83097,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sahinovici",
+    "gn:country_code":"BA",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276178,
+    "gn:latitude":44.38621,
+    "gn:longitude":18.83097,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Sahinovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276178
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"aaef531460f89b73b13c3cd91cd1f7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759121,
+            "locality_id":1293394109,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1293394109,
+    "wof:lastmodified":1536922258,
+    "wof:name":"Sahinovici",
+    "wof:parent_id":1108759121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83097,
+    44.38621,
+    18.83097,
+    44.38621
+],
+  "geometry": {"coordinates":[18.83097,44.38621],"type":"Point"}
+}

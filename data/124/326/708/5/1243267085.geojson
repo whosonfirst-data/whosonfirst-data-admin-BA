@@ -1,0 +1,68 @@
+{
+  "id": 1243267085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.09001,43.60982,19.09001,43.60982",
+    "geom:latitude":43.60982,
+    "geom:longitude":19.09001,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Slatina",
+    "gn:country_code":"BA",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3190623,
+    "gn:latitude":43.60982,
+    "gn:longitude":19.09001,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Slatina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190623,
+        "wk:page":"Slatina_%28%C4%8Cajni%C4%8De%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e75e236330c8863fee3718f524e9a4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759035,
+            "locality_id":1243267085,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243267085,
+    "wof:lastmodified":1537486725,
+    "wof:name":"Slatina",
+    "wof:parent_id":1108759035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09001,
+    43.60982,
+    19.09001,
+    43.60982
+],
+  "geometry": {"coordinates":[19.09001,43.60982],"type":"Point"}
+}

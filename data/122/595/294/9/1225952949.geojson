@@ -1,0 +1,67 @@
+{
+  "id": 1225952949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54924,42.69307,18.54924,42.69307",
+    "geom:latitude":42.69307,
+    "geom:longitude":18.54924,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kunska",
+    "gn:country_code":"BA",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264775,
+    "gn:latitude":42.69307,
+    "gn:longitude":18.54924,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kunska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264775
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d75aceddc75c731ee68379657c097023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759265,
+            "locality_id":1225952949,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225952949,
+    "wof:lastmodified":1536857558,
+    "wof:name":"Kunska",
+    "wof:parent_id":1108759265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54924,
+    42.69307,
+    18.54924,
+    42.69307
+],
+  "geometry": {"coordinates":[18.54924,42.69307],"type":"Point"}
+}

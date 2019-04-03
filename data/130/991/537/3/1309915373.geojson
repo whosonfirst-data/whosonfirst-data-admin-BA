@@ -1,0 +1,68 @@
+{
+  "id": 1309915373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.12106,43.78822,18.12106,43.78822",
+    "geom:latitude":43.78822,
+    "geom:longitude":18.12106,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kazina Bara",
+    "gn:country_code":"BA",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3293448,
+    "gn:latitude":43.78822,
+    "gn:longitude":18.12106,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kazina Bara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293448,
+        "wk:page":"Kazina_Bara"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"15c6feb53ab7dd85840106426735a827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1309915373,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1309915373,
+    "wof:lastmodified":1537486859,
+    "wof:name":"Kazina Bara",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.12106,
+    43.78822,
+    18.12106,
+    43.78822
+],
+  "geometry": {"coordinates":[18.12106,43.78822],"type":"Point"}
+}

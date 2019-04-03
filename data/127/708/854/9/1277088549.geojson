@@ -1,0 +1,67 @@
+{
+  "id": 1277088549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46578,44.43339,18.46578,44.43339",
+    "geom:latitude":44.43339,
+    "geom:longitude":18.46578,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Piralici",
+    "gn:country_code":"BA",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259141,
+    "gn:latitude":44.43339,
+    "gn:longitude":18.46578,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pirali\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108758991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259141
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cfb6318f92d824d2ea14e39e02ec9fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758991,
+            "locality_id":1277088549,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1277088549,
+    "wof:lastmodified":1536759348,
+    "wof:name":"Piralici",
+    "wof:parent_id":1108758991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46578,
+    44.43339,
+    18.46578,
+    44.43339
+],
+  "geometry": {"coordinates":[18.46578,44.43339],"type":"Point"}
+}

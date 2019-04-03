@@ -1,0 +1,67 @@
+{
+  "id": 1276122243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.80626,43.76109,18.80626,43.76109",
+    "geom:latitude":43.76109,
+    "geom:longitude":18.80626,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Prespica",
+    "gn:country_code":"BA",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275357,
+    "gn:latitude":43.76109,
+    "gn:longitude":18.80626,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pre\u0161pica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275357
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8ad544f6b8c487d1980c3aa05e14c9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759199,
+            "locality_id":1276122243,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1276122243,
+    "wof:lastmodified":1537058840,
+    "wof:name":"Prespica",
+    "wof:parent_id":1108759199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.80626,
+    43.76109,
+    18.80626,
+    43.76109
+],
+  "geometry": {"coordinates":[18.80626,43.76109],"type":"Point"}
+}

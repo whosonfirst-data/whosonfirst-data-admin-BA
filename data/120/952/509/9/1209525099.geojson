@@ -1,0 +1,61 @@
+{
+  "id": 1209525099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.86222,44.15296,17.86222,44.15296",
+    "geom:latitude":44.15296,
+    "geom:longitude":17.86222,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kratine",
+    "gn:country_code":"BA",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197344,
+    "gn:latitude":44.15296,
+    "gn:longitude":17.86222,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kratine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197344
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ce393c567d9152f852c6e08b13a160c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209525099
+        }
+    ],
+    "wof:id":1209525099,
+    "wof:lastmodified":1536284455,
+    "wof:name":"Kratine",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.86222,
+    44.15296,
+    17.86222,
+    44.15296
+],
+  "geometry": {"coordinates":[17.86222,44.15296],"type":"Point"}
+}

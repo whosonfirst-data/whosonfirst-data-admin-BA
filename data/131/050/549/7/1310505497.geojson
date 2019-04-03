@@ -1,0 +1,67 @@
+{
+  "id": 1310505497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0675,43.6525,18.0675,43.6525",
+    "geom:latitude":43.6525,
+    "geom:longitude":18.0675,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Buben Kamen",
+    "gn:country_code":"BA",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267013,
+    "gn:latitude":43.6525,
+    "gn:longitude":18.0675,
+    "gn:modification_date":"1998-05-28",
+    "gn:name":"Buben Kamen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267013
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"52bd0a1fa3cb130ce68442d41db7fad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1310505497,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1310505497,
+    "wof:lastmodified":1536917406,
+    "wof:name":"Buben Kamen",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0675,
+    43.6525,
+    18.0675,
+    43.6525
+],
+  "geometry": {"coordinates":[18.0675,43.6525],"type":"Point"}
+}

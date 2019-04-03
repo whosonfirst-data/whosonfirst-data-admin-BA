@@ -1,0 +1,61 @@
+{
+  "id": 1209633077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67893,43.72861,17.67893,43.72861",
+    "geom:latitude":43.72861,
+    "geom:longitude":17.67893,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gracac",
+    "gn:country_code":"BA",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213061,
+    "gn:latitude":43.72861,
+    "gn:longitude":17.67893,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gra\u010dac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213061
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fbc3900284edb1d3772e3c6d39d67bfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209633077
+        }
+    ],
+    "wof:id":1209633077,
+    "wof:lastmodified":1536281128,
+    "wof:name":"Gracac",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.678929999999994,
+    43.72861,
+    17.678929999999994,
+    43.72861
+],
+  "geometry": {"coordinates":[17.67892999999999,43.72861],"type":"Point"}
+}

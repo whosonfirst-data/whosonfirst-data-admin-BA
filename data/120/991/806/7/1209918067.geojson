@@ -1,0 +1,71 @@
+{
+  "id": 1209918067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9327,44.08514,17.9327,44.08514",
+    "geom:latitude":44.08514,
+    "geom:longitude":17.9327,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mihaljevici",
+    "gn:country_code":"BA",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289230,
+    "gn:latitude":44.08514,
+    "gn:longitude":17.9327,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mihaljevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mihaljevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289230,
+        "wk:page":"Mihaljevi%C4%87i%2C_Busova%C4%8Da"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f6b5ff8dcdbce8f65a9776e76626628f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759031,
+            "locality_id":1209918067,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1209918067,
+    "wof:lastmodified":1537585676,
+    "wof:name":"Mihaljevici",
+    "wof:parent_id":1108759031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9327,
+    44.08514,
+    17.9327,
+    44.08514
+],
+  "geometry": {"coordinates":[17.9327,44.08514],"type":"Point"}
+}

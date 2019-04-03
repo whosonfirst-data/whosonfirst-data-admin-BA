@@ -1,0 +1,67 @@
+{
+  "id": 1327038689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1042,44.40956,19.1042,44.40956",
+    "geom:latitude":44.40956,
+    "geom:longitude":19.1042,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lipovac",
+    "gn:country_code":"BA",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273109,
+    "gn:latitude":44.40956,
+    "gn:longitude":19.1042,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lipovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273109
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0ea43dd19b498f423c64edd80d9d269e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759303,
+            "locality_id":1327038689,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327038689,
+    "wof:lastmodified":1536751174,
+    "wof:name":"Lipovac",
+    "wof:parent_id":1108759303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1042,
+    44.40956,
+    19.1042,
+    44.40956
+],
+  "geometry": {"coordinates":[19.1042,44.40956],"type":"Point"}
+}

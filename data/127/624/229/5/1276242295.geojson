@@ -1,0 +1,67 @@
+{
+  "id": 1276242295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.34774,43.96163,18.34774,43.96163",
+    "geom:latitude":43.96163,
+    "geom:longitude":18.34774,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kamenica",
+    "gn:country_code":"BA",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3266557,
+    "gn:latitude":43.96163,
+    "gn:longitude":18.34774,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kamenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266557
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e2c93d471001ec4a1b270d5ff50b012a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759291,
+            "locality_id":1276242295,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1276242295,
+    "wof:lastmodified":1536900643,
+    "wof:name":"Kamenica",
+    "wof:parent_id":1108759291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34774,
+    43.96163,
+    18.34774,
+    43.96163
+],
+  "geometry": {"coordinates":[18.34774,43.96163],"type":"Point"}
+}

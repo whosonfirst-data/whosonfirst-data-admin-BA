@@ -1,0 +1,67 @@
+{
+  "id": 1226256719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93278,45.14083,15.93278,45.14083",
+    "geom:latitude":45.14083,
+    "geom:longitude":15.93278,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jasenar",
+    "gn:country_code":"BA",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277618,
+    "gn:latitude":45.14083,
+    "gn:longitude":15.93278,
+    "gn:modification_date":"1997-12-17",
+    "gn:name":"Jasenar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277618
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0fd645c5704f1712a0756fecdd152a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1226256719,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1226256719,
+    "wof:lastmodified":1536918287,
+    "wof:name":"Jasenar",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93278,
+    45.14083,
+    15.93278,
+    45.14083
+],
+  "geometry": {"coordinates":[15.93278,45.14083],"type":"Point"}
+}

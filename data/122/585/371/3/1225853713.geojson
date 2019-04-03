@@ -1,0 +1,67 @@
+{
+  "id": 1225853713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94638,44.34535,18.94638,44.34535",
+    "geom:latitude":44.34535,
+    "geom:longitude":18.94638,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Velika Njiva",
+    "gn:country_code":"BA",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3274800,
+    "gn:latitude":44.34535,
+    "gn:longitude":18.94638,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Velika Njiva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3274800
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"09718202c01a1c7fcc37a15ede0a7f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759227,
+            "locality_id":1225853713,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225853713,
+    "wof:lastmodified":1537001347,
+    "wof:name":"Velika Njiva",
+    "wof:parent_id":1108759227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94638,
+    44.34535,
+    18.94638,
+    44.34535
+],
+  "geometry": {"coordinates":[18.94638,44.34535],"type":"Point"}
+}

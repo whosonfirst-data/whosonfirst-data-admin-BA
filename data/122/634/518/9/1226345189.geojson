@@ -1,0 +1,67 @@
+{
+  "id": 1226345189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54119,43.77693,18.54119,43.77693",
+    "geom:latitude":43.77693,
+    "geom:longitude":18.54119,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cetiniste",
+    "gn:country_code":"BA",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3266071,
+    "gn:latitude":43.77693,
+    "gn:longitude":18.54119,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0106etini\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3266071
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"94f9d807889c37e58a2b54f52b8c8e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759201,
+            "locality_id":1226345189,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226345189,
+    "wof:lastmodified":1536790647,
+    "wof:name":"Cetiniste",
+    "wof:parent_id":1108759201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54119,
+    43.77693,
+    18.54119,
+    43.77693
+],
+  "geometry": {"coordinates":[18.54119,43.77693],"type":"Point"}
+}

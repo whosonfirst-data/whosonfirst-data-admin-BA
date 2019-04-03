@@ -1,0 +1,67 @@
+{
+  "id": 1310317971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11722,43.915,19.11722,43.915",
+    "geom:latitude":43.915,
+    "geom:longitude":19.11722,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kutezero",
+    "gn:country_code":"BA",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3268329,
+    "gn:latitude":43.915,
+    "gn:longitude":19.11722,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Kutezero",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268329
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b47b80c60feef15fd6888eabe1432695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1310317971,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310317971,
+    "wof:lastmodified":1536689976,
+    "wof:name":"Kutezero",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11722,
+    43.915,
+    19.11722,
+    43.915
+],
+  "geometry": {"coordinates":[19.11722,43.915],"type":"Point"}
+}

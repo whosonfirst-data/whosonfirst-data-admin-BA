@@ -1,0 +1,66 @@
+{
+  "id": 1209528449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39656,42.65604,18.39656,42.65604",
+    "geom:latitude":42.65604,
+    "geom:longitude":18.39656,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Turmenti",
+    "gn:country_code":"BA",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188609,
+    "gn:latitude":42.65604,
+    "gn:longitude":18.39656,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Turmenti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turmente",
+        "Turmenti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188609,
+        "wk:page":"Turmenti"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c9885206f5a135587fdb04ac22a0c4b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209528449
+        }
+    ],
+    "wof:id":1209528449,
+    "wof:lastmodified":1537585555,
+    "wof:name":"Turmenti",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39656,
+    42.65604,
+    18.39656,
+    42.65604
+],
+  "geometry": {"coordinates":[18.39656,42.65604],"type":"Point"}
+}

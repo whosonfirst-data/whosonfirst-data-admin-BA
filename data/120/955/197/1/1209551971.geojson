@@ -1,0 +1,61 @@
+{
+  "id": 1209551971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67386,44.85603,18.67386,44.85603",
+    "geom:latitude":44.85603,
+    "geom:longitude":18.67386,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Brezje",
+    "gn:country_code":"BA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256128,
+    "gn:latitude":44.85603,
+    "gn:longitude":18.67386,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Brezje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256128
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2c449995041728df4985c0377e4ab1b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209551971
+        }
+    ],
+    "wof:id":1209551971,
+    "wof:lastmodified":1536283665,
+    "wof:name":"Brezje",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67386,
+    44.85603,
+    18.67386,
+    44.85603
+],
+  "geometry": {"coordinates":[18.67386,44.85603],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243070801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.45444,43.97361,19.45444,43.97361",
+    "geom:latitude":43.97361,
+    "geom:longitude":19.45444,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Durici",
+    "gn:country_code":"BA",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299699,
+    "gn:latitude":43.97361,
+    "gn:longitude":19.45444,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"\u00d0uri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299699
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0e67f5e4f5eed323f8192c35e7955e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1243070801,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243070801,
+    "wof:lastmodified":1536848922,
+    "wof:name":"Durici",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.45444,
+    43.97361,
+    19.45444,
+    43.97361
+],
+  "geometry": {"coordinates":[19.45444,43.97361],"type":"Point"}
+}

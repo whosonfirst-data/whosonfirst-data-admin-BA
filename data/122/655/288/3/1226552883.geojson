@@ -1,0 +1,67 @@
+{
+  "id": 1226552883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19215,45.06947,18.19215,45.06947",
+    "geom:latitude":45.06947,
+    "geom:longitude":18.19215,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornji Begici",
+    "gn:country_code":"BA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295042,
+    "gn:latitude":45.06947,
+    "gn:longitude":18.19215,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornji Begi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295042
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"48e3855c3c2b3ec54c00782fce24f66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759009,
+            "locality_id":1226552883,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226552883,
+    "wof:lastmodified":1536986895,
+    "wof:name":"Gornji Begici",
+    "wof:parent_id":1108759009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19215,
+    45.06947,
+    18.19215,
+    45.06947
+],
+  "geometry": {"coordinates":[18.19215,45.06947],"type":"Point"}
+}

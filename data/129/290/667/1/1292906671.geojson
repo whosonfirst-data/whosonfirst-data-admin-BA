@@ -1,0 +1,67 @@
+{
+  "id": 1292906671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3722,45.01159,17.3722,45.01159",
+    "geom:latitude":45.01159,
+    "geom:longitude":17.3722,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bagrusa",
+    "gn:country_code":"BA",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285200,
+    "gn:latitude":45.01159,
+    "gn:longitude":17.3722,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bagru\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285200
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"75dd2ea06c26d40d931c33b6a1528568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1292906671,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1292906671,
+    "wof:lastmodified":1536628535,
+    "wof:name":"Bagrusa",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3722,
+    45.01159000000001,
+    17.3722,
+    45.01159000000001
+],
+  "geometry": {"coordinates":[17.3722,45.01159000000001],"type":"Point"}
+}

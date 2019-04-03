@@ -1,0 +1,71 @@
+{
+  "id": 1293505189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28136,44.11823,18.28136,44.11823",
+    "geom:latitude":44.11823,
+    "geom:longitude":18.28136,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Planinica",
+    "gn:country_code":"BA",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193248,
+    "gn:latitude":44.11823,
+    "gn:longitude":18.28136,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Planinica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Planinca",
+        "Planinica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193248
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"818ad40a5aea36e954ab6b446786d667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759279,
+            "locality_id":1293505189,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1293505189,
+    "wof:lastmodified":1537585573,
+    "wof:name":"Planinica",
+    "wof:parent_id":1108759279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28136,
+    44.11823,
+    18.28136,
+    44.11823
+],
+  "geometry": {"coordinates":[18.28136,44.11823],"type":"Point"}
+}

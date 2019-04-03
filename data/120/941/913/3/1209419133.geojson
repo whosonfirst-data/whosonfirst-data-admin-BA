@@ -1,0 +1,66 @@
+{
+  "id": 1209419133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71308,44.62329,16.71308,44.62329",
+    "geom:latitude":44.62329,
+    "geom:longitude":16.71308,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pistanica",
+    "gn:country_code":"BA",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3193309,
+    "gn:latitude":44.62329,
+    "gn:longitude":16.71308,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Pi\u0161tanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pi\u0161tenica",
+        "Pi\u0161tanica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193309,
+        "wk:page":"Pi%C5%A1tanica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5adcb2951e1b85e663c9ddbb90b3c3a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209419133
+        }
+    ],
+    "wof:id":1209419133,
+    "wof:lastmodified":1537585574,
+    "wof:name":"Pistanica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71308,
+    44.62329,
+    16.71308,
+    44.62329
+],
+  "geometry": {"coordinates":[16.71308,44.62329],"type":"Point"}
+}

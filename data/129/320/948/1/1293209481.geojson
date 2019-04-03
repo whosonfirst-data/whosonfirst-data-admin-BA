@@ -1,0 +1,67 @@
+{
+  "id": 1293209481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11156,44.73445,19.11156,44.73445",
+    "geom:latitude":44.73445,
+    "geom:longitude":19.11156,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lomigoric Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253680,
+    "gn:latitude":44.73445,
+    "gn:longitude":19.11156,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lomigori\u0107 Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253680
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bd4461742c847d2a7ef72a95d99f9259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1293209481,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293209481,
+    "wof:lastmodified":1536690902,
+    "wof:name":"Lomigoric Mahala",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11156,
+    44.73445,
+    19.11156,
+    44.73445
+],
+  "geometry": {"coordinates":[19.11156,44.73445],"type":"Point"}
+}

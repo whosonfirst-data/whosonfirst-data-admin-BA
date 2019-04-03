@@ -1,0 +1,67 @@
+{
+  "id": 1210029425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.92167,43.47722,18.92167,43.47722",
+    "geom:latitude":43.47722,
+    "geom:longitude":18.92167,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donje Papratno",
+    "gn:country_code":"BA",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3341520,
+    "gn:latitude":43.47722,
+    "gn:longitude":18.92167,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Donje Papratno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3341520
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f89e41fc78e28499774c9ca02a2934fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1210029425,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1210029425,
+    "wof:lastmodified":1536389250,
+    "wof:name":"Donje Papratno",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92167,
+    43.47722,
+    18.92167,
+    43.47722
+],
+  "geometry": {"coordinates":[18.92167,43.47722],"type":"Point"}
+}

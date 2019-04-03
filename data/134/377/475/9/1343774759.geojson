@@ -1,0 +1,71 @@
+{
+  "id": 1343774759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97695,44.20296,18.97695,44.20296",
+    "geom:latitude":44.20296,
+    "geom:longitude":18.97695,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dzemat",
+    "gn:country_code":"BA",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200900,
+    "gn:latitude":44.20296,
+    "gn:longitude":18.97695,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"D\u017eemat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muslimanski D\u017eemat",
+        "D\u017eemat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200900
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"44811d9511da532c9f4394a6bd7684db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759289,
+            "locality_id":1343774759,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343774759,
+    "wof:lastmodified":1537585606,
+    "wof:name":"Dzemat",
+    "wof:parent_id":1108759289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97695,
+    44.20296,
+    18.97695,
+    44.20296
+],
+  "geometry": {"coordinates":[18.97695,44.20296],"type":"Point"}
+}

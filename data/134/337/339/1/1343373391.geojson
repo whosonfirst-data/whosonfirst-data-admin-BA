@@ -1,0 +1,67 @@
+{
+  "id": 1343373391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01639,44.91167,17.01639,44.91167",
+    "geom:latitude":44.91167,
+    "geom:longitude":17.01639,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Frici",
+    "gn:country_code":"BA",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210545,
+    "gn:latitude":44.91167,
+    "gn:longitude":17.01639,
+    "gn:modification_date":"1995-11-21",
+    "gn:name":"Frici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210545
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ebfac5f303c9cf264de3f4815744e555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1343373391,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343373391,
+    "wof:lastmodified":1536870671,
+    "wof:name":"Frici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01639,
+    44.91167,
+    17.01639,
+    44.91167
+],
+  "geometry": {"coordinates":[17.01639,44.91167],"type":"Point"}
+}

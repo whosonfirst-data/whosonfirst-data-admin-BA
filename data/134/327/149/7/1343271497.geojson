@@ -1,0 +1,72 @@
+{
+  "id": 1343271497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26528,44.74083,18.26528,44.74083",
+    "geom:latitude":44.74083,
+    "geom:longitude":18.26528,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hamici",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210978,
+    "gn:latitude":44.74083,
+    "gn:longitude":18.26528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hami\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamzi\u0107i",
+        "Hami\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210978
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b724ffb2a16c3c911aaa30da3d9457a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1343271497,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1343271497,
+    "wof:lastmodified":1537585644,
+    "wof:name":"Hamici",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26528,
+    44.74083,
+    18.26528,
+    44.74083
+],
+  "geometry": {"coordinates":[18.26528,44.74083],"type":"Point"}
+}

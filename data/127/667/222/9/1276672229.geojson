@@ -1,0 +1,71 @@
+{
+  "id": 1276672229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15389,43.88389,18.15389,43.88389",
+    "geom:latitude":43.88389,
+    "geom:longitude":18.15389,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Boljkovici",
+    "gn:country_code":"BA",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203749,
+    "gn:latitude":43.88389,
+    "gn:longitude":18.15389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boljkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boljkovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203749,
+        "wk:page":"Boljkovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b2ba9b894b1d25ae44546d2a295b67ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759127,
+            "locality_id":1276672229,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1276672229,
+    "wof:lastmodified":1537585624,
+    "wof:name":"Boljkovici",
+    "wof:parent_id":1108759127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15389,
+    43.88389,
+    18.15389,
+    43.88389
+],
+  "geometry": {"coordinates":[18.15389,43.88389],"type":"Point"}
+}

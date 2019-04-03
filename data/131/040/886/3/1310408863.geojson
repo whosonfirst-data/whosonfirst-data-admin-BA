@@ -1,0 +1,67 @@
+{
+  "id": 1310408863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21035,44.74324,19.21035,44.74324",
+    "geom:latitude":44.74324,
+    "geom:longitude":19.21035,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nova Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255646,
+    "gn:latitude":44.74324,
+    "gn:longitude":19.21035,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nova Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255646
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"83f0e06584ac371df32ff76cec495c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1310408863,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310408863,
+    "wof:lastmodified":1537054064,
+    "wof:name":"Nova Mahala",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21035,
+    44.74324,
+    19.21035,
+    44.74324
+],
+  "geometry": {"coordinates":[19.21035,44.74324],"type":"Point"}
+}

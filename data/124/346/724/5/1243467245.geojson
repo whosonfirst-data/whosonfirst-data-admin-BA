@@ -1,0 +1,67 @@
+{
+  "id": 1243467245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.34594,44.81878,17.34594,44.81878",
+    "geom:latitude":44.81878,
+    "geom:longitude":17.34594,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jaruzani",
+    "gn:country_code":"BA",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248921,
+    "gn:latitude":44.81878,
+    "gn:longitude":17.34594,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jaru\u017eani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248921
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"878a8f43a3cc93704e131ffc2a874eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759151,
+            "locality_id":1243467245,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243467245,
+    "wof:lastmodified":1536776079,
+    "wof:name":"Jaruzani",
+    "wof:parent_id":1108759151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.34594,
+    44.81878,
+    17.34594,
+    44.81878
+],
+  "geometry": {"coordinates":[17.34594,44.81878],"type":"Point"}
+}

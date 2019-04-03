@@ -1,0 +1,65 @@
+{
+  "id": 890519131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87497,44.93593,15.87497,44.93593",
+    "geom:latitude":44.93593,
+    "geom:longitude":15.87497,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":332,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Medakova Glavica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212918,
+        "qs:id":581899
+    },
+    "wof:country":"BA",
+    "wof:created":1469056093,
+    "wof:geomhash":"7ac4e43b5a003106d57896d4aeefa763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":890519131,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890519131,
+    "wof:lastmodified":1505343912,
+    "wof:name":"Medakova Glavica",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:population":332,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87497,
+    44.93593,
+    15.87497,
+    44.93593
+],
+  "geometry": {"coordinates":[15.87497,44.93593],"type":"Point"}
+}

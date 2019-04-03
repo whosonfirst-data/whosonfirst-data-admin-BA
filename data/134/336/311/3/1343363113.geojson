@@ -1,0 +1,67 @@
+{
+  "id": 1343363113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.04729,43.56125,17.04729,43.56125",
+    "geom:latitude":43.56125,
+    "geom:longitude":17.04729,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Subasici",
+    "gn:country_code":"BA",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3285562,
+    "gn:latitude":43.56125,
+    "gn:longitude":17.04729,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Suba\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285562
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0c964d7ac3c330484d953a0183fb6af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1343363113,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1343363113,
+    "wof:lastmodified":1536886146,
+    "wof:name":"Subasici",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.04729,
+    43.56125,
+    17.04729,
+    43.56125
+],
+  "geometry": {"coordinates":[17.04729,43.56125],"type":"Point"}
+}

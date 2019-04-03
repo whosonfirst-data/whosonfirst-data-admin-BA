@@ -1,0 +1,67 @@
+{
+  "id": 1226660181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00396,43.65737,18.00396,43.65737",
+    "geom:latitude":43.65737,
+    "geom:longitude":18.00396,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zagorice",
+    "gn:country_code":"BA",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3344711,
+    "gn:latitude":43.65737,
+    "gn:longitude":18.00396,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zagorice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3344711
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"859935cc1afa4a38e085fcc8f07171f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1226660181,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1226660181,
+    "wof:lastmodified":1536837553,
+    "wof:name":"Zagorice",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00396,
+    43.65737,
+    18.00396,
+    43.65737
+],
+  "geometry": {"coordinates":[18.00396,43.65737],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276887463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38417,43.71111,18.38417,43.71111",
+    "geom:latitude":43.71111,
+    "geom:longitude":18.38417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ukelici",
+    "gn:country_code":"BA",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268294,
+    "gn:latitude":43.71111,
+    "gn:longitude":18.38417,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Ukeli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268294
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d2bca0d6f727bfb5244015990b535e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1276887463,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1276887463,
+    "wof:lastmodified":1537029610,
+    "wof:name":"Ukelici",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38417,
+    43.71111,
+    18.38417,
+    43.71111
+],
+  "geometry": {"coordinates":[18.38417,43.71111],"type":"Point"}
+}

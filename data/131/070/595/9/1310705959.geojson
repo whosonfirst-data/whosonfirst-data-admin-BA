@@ -1,0 +1,67 @@
+{
+  "id": 1310705959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5825,43.2475,17.5825,43.2475",
+    "geom:latitude":43.2475,
+    "geom:longitude":17.5825,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Drljajice",
+    "gn:country_code":"BA",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288793,
+    "gn:latitude":43.2475,
+    "gn:longitude":17.5825,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Drljajice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288793
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f52578b6749c340958012c19c66763f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759049,
+            "locality_id":1310705959,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1310705959,
+    "wof:lastmodified":1536625804,
+    "wof:name":"Drljajice",
+    "wof:parent_id":1108759049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5825,
+    43.2475,
+    17.5825,
+    43.2475
+],
+  "geometry": {"coordinates":[17.5825,43.2475],"type":"Point"}
+}

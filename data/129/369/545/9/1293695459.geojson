@@ -1,0 +1,72 @@
+{
+  "id": 1293695459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44917,44.12139,19.44917,44.12139",
+    "geom:latitude":44.12139,
+    "geom:longitude":19.44917,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Osnjak",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211652,
+    "gn:latitude":44.12139,
+    "gn:longitude":19.44917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"O\u0161njak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vo\u0161njak",
+        "O\u0161njak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211652
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4d618469df2029be6a98b9ade9fc28b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759021,
+            "locality_id":1293695459,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293695459,
+    "wof:lastmodified":1537585653,
+    "wof:name":"Osnjak",
+    "wof:parent_id":1108759021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44917,
+    44.12139000000001,
+    19.44917,
+    44.12139000000001
+],
+  "geometry": {"coordinates":[19.44917,44.12139000000001],"type":"Point"}
+}

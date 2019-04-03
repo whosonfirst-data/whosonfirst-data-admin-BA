@@ -1,0 +1,71 @@
+{
+  "id": 1259792439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73454,43.56786,18.73454,43.56786",
+    "geom:latitude":43.56786,
+    "geom:longitude":18.73454,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zeljevo",
+    "gn:country_code":"BA",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3268633,
+    "gn:latitude":43.56786,
+    "gn:longitude":18.73454,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u017deljevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u017deljevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268633,
+        "wk:page":"%C5%BDeljevo_%28Fo%C4%8Da%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8ff91f3b54510c3ac893d966c887bf4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1259792439,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259792439,
+    "wof:lastmodified":1537585668,
+    "wof:name":"Zeljevo",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73454,
+    43.56786,
+    18.73454,
+    43.56786
+],
+  "geometry": {"coordinates":[18.73454,43.56786],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327244389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08026,43.62631,19.08026,43.62631",
+    "geom:latitude":43.62631,
+    "geom:longitude":19.08026,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Barleta",
+    "gn:country_code":"BA",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3274116,
+    "gn:latitude":43.62631,
+    "gn:longitude":19.08026,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Barleta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3274116
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"17b37e5c73670893d7136b5d1e21d0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759035,
+            "locality_id":1327244389,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327244389,
+    "wof:lastmodified":1536952307,
+    "wof:name":"Barleta",
+    "wof:parent_id":1108759035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08026,
+    43.62631,
+    19.08026,
+    43.62631
+],
+  "geometry": {"coordinates":[19.08026,43.62631],"type":"Point"}
+}

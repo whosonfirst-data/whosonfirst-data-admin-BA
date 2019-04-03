@@ -1,0 +1,68 @@
+{
+  "id": 1360099059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32187,44.26131,17.32187,44.26131",
+    "geom:latitude":44.26131,
+    "geom:longitude":17.32187,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bavar",
+    "gn:country_code":"BA",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3204395,
+    "gn:latitude":44.26131,
+    "gn:longitude":17.32187,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bavar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204395,
+        "wk:page":"Bavar"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a9eed82ea1ba9ff2465e8968c7bed6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759115,
+            "locality_id":1360099059,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1360099059,
+    "wof:lastmodified":1537486801,
+    "wof:name":"Bavar",
+    "wof:parent_id":1108759115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32187,
+    44.26131,
+    17.32187,
+    44.26131
+],
+  "geometry": {"coordinates":[17.32187,44.26131],"type":"Point"}
+}

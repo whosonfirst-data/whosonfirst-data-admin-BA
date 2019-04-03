@@ -1,0 +1,96 @@
+{
+  "id": 890519065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32678,44.36682,17.32678,44.36682",
+    "geom:latitude":44.36682,
+    "geom:longitude":17.32678,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":7251,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Divi\u010dani"
+    ],
+    "name:dut_x_preferred":[
+        "Divi\u010dani"
+    ],
+    "name:eng_x_preferred":[
+        "Divi\u010dani"
+    ],
+    "name:fre_x_preferred":[
+        "Divi\u010dani"
+    ],
+    "name:hrv_x_preferred":[
+        "Divi\u010dani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0438\u0432\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Divi\u010dani"
+    ],
+    "qs:name":"Divi\u010dani",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202014,
+        "gp:id":941229,
+        "qs:id":181692,
+        "wd:id":"Q3032430",
+        "wk:page":"Divi\u010dani"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056090,
+    "wof:geomhash":"1e1cd3233d7b13bc8ce319ec64003fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759115,
+            "locality_id":890519065,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":890519065,
+    "wof:lastmodified":1527751221,
+    "wof:name":"Divi\u010dani",
+    "wof:parent_id":1108759115,
+    "wof:placetype":"locality",
+    "wof:population":7251,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32678,
+    44.36682,
+    17.32678,
+    44.36682
+],
+  "geometry": {"coordinates":[17.32678,44.36682],"type":"Point"}
+}

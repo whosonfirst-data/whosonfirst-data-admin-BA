@@ -1,0 +1,68 @@
+{
+  "id": 1327241119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13223,43.80103,18.13223,43.80103",
+    "geom:latitude":43.80103,
+    "geom:longitude":18.13223,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Urduk",
+    "gn:country_code":"BA",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295129,
+    "gn:latitude":43.80103,
+    "gn:longitude":18.13223,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Urduk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295129,
+        "wk:page":"Urduk"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6334d623590ffd734590324af3a8d43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1327241119,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1327241119,
+    "wof:lastmodified":1537486860,
+    "wof:name":"Urduk",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13223,
+    43.80103,
+    18.13223,
+    43.80103
+],
+  "geometry": {"coordinates":[18.13223,43.80103],"type":"Point"}
+}

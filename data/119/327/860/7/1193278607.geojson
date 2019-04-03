@@ -1,0 +1,67 @@
+{
+  "id": 1193278607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61335,44.9938,17.61335,44.9938",
+    "geom:latitude":44.9938,
+    "geom:longitude":17.61335,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rakici",
+    "gn:country_code":"BA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251628,
+    "gn:latitude":44.9938,
+    "gn:longitude":17.61335,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Raki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251628
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f3fcbb01b4b9f7b4037c4c65957ded48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759237,
+            "locality_id":1193278607,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193278607,
+    "wof:lastmodified":1536364195,
+    "wof:name":"Rakici",
+    "wof:parent_id":1108759237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61335,
+    44.9938,
+    17.61335,
+    44.9938
+],
+  "geometry": {"coordinates":[17.61335,44.9938],"type":"Point"}
+}

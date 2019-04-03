@@ -1,0 +1,67 @@
+{
+  "id": 1226157001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07434,44.59859,18.07434,44.59859",
+    "geom:latitude":44.59859,
+    "geom:longitude":18.07434,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cehaje",
+    "gn:country_code":"BA",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258448,
+    "gn:latitude":44.59859,
+    "gn:longitude":18.07434,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u010cehaje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258448
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"55bd974b320fd0fa0a37d2d8df588be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1226157001,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1226157001,
+    "wof:lastmodified":1537058836,
+    "wof:name":"Cehaje",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07434,
+    44.59859,
+    18.07434,
+    44.59859
+],
+  "geometry": {"coordinates":[18.07434,44.59859],"type":"Point"}
+}

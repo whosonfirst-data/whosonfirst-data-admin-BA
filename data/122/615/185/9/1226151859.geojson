@@ -1,0 +1,67 @@
+{
+  "id": 1226151859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88665,44.64284,17.88665,44.64284",
+    "geom:latitude":44.64284,
+    "geom:longitude":17.88665,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jorgici",
+    "gn:country_code":"BA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3251860,
+    "gn:latitude":44.64284,
+    "gn:longitude":17.88665,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Jorgi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3251860
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4ed5ee82431318fe7366eca9bfc163ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759255,
+            "locality_id":1226151859,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1226151859,
+    "wof:lastmodified":1537065909,
+    "wof:name":"Jorgici",
+    "wof:parent_id":1108759255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88665,
+    44.64284,
+    17.88665,
+    44.64284
+],
+  "geometry": {"coordinates":[17.88665,44.64284],"type":"Point"}
+}

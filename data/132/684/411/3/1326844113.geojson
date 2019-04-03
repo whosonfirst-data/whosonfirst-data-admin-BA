@@ -1,0 +1,68 @@
+{
+  "id": 1326844113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25478,44.4064,17.25478,44.4064",
+    "geom:latitude":44.4064,
+    "geom:longitude":17.25478,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Barevo",
+    "gn:country_code":"BA",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3204475,
+    "gn:latitude":44.4064,
+    "gn:longitude":17.25478,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Barevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204475,
+        "wk:page":"Barevo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7d49e67c0ec67cf50c2078885e80b921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759115,
+            "locality_id":1326844113,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1326844113,
+    "wof:lastmodified":1537486801,
+    "wof:name":"Barevo",
+    "wof:parent_id":1108759115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25478,
+    44.4064,
+    17.25478,
+    44.4064
+],
+  "geometry": {"coordinates":[17.25478,44.4064],"type":"Point"}
+}

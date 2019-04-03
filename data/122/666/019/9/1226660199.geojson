@@ -1,0 +1,68 @@
+{
+  "id": 1226660199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35753,44.24017,16.35753,44.24017",
+    "geom:latitude":44.24017,
+    "geom:longitude":16.35753,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Isjek",
+    "gn:country_code":"BA",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199099,
+    "gn:latitude":44.24017,
+    "gn:longitude":16.35753,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Isjek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199099,
+        "wk:page":"Isjek"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e8b8d91cf9d333e9fe05924b1a0017e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1226660199,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1226660199,
+    "wof:lastmodified":1537486765,
+    "wof:name":"Isjek",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35753,
+    44.24017,
+    16.35753,
+    44.24017
+],
+  "geometry": {"coordinates":[16.35753,44.24017],"type":"Point"}
+}

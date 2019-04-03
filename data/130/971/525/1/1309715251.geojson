@@ -1,0 +1,71 @@
+{
+  "id": 1309715251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96202,45.10272,17.96202,45.10272",
+    "geom:latitude":45.10272,
+    "geom:longitude":17.96202,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mocila Gornja",
+    "gn:country_code":"BA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194956,
+    "gn:latitude":45.10272,
+    "gn:longitude":17.96202,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mo\u010dila Gornja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Mo\u010dila",
+        "Mo\u010dila Gornja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194956
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b3599954a6e0385a39f248f4c46c6100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759009,
+            "locality_id":1309715251,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309715251,
+    "wof:lastmodified":1537585580,
+    "wof:name":"Mocila Gornja",
+    "wof:parent_id":1108759009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96202000000001,
+    45.10272,
+    17.96202000000001,
+    45.10272
+],
+  "geometry": {"coordinates":[17.96202000000001,45.10272],"type":"Point"}
+}

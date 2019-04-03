@@ -1,0 +1,73 @@
+{
+  "id": 1293203855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.24523,42.78757,18.24523,42.78757",
+    "geom:latitude":42.78757,
+    "geom:longitude":18.24523,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Begovic-Kula",
+    "gn:country_code":"BA",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3205361,
+    "gn:latitude":42.78757,
+    "gn:longitude":18.24523,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Begovi\u0107-Kula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ljubenci",
+        "Begovi\u0107a Kula",
+        "Begovi\u0107-Kula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3205361,
+        "wk:page":"Begovi%C4%87_Kula"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6df0861f43de9b34674c9ad5af2902e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759265,
+            "locality_id":1293203855,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293203855,
+    "wof:lastmodified":1537585632,
+    "wof:name":"Begovic-Kula",
+    "wof:parent_id":1108759265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.24523,
+    42.78757,
+    18.24523,
+    42.78757
+],
+  "geometry": {"coordinates":[18.24523,42.78757],"type":"Point"}
+}

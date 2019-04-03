@@ -1,0 +1,67 @@
+{
+  "id": 1260299119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61889,43.76972,17.61889,43.76972",
+    "geom:latitude":43.76972,
+    "geom:longitude":17.61889,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Stepen",
+    "gn:country_code":"BA",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3294698,
+    "gn:latitude":43.76972,
+    "gn:longitude":17.61889,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Stepen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294698
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"004c9a3d3437478e5ddb4e4270184973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1260299119,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1260299119,
+    "wof:lastmodified":1536691029,
+    "wof:name":"Stepen",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61889,
+    43.76972,
+    17.61889,
+    43.76972
+],
+  "geometry": {"coordinates":[17.61889,43.76972],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343473023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16563,43.71033,17.16563,43.71033",
+    "geom:latitude":43.71033,
+    "geom:longitude":17.16563,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Stipanjici",
+    "gn:country_code":"BA",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189869,
+    "gn:latitude":43.71033,
+    "gn:longitude":17.16563,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Stipanji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stipanji\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189869,
+        "wk:page":"Stipani%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a439baaeaf50d64a83db37bf4af03a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1343473023,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1343473023,
+    "wof:lastmodified":1537585559,
+    "wof:name":"Stipanjici",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16563,
+    43.71033,
+    17.16563,
+    43.71033
+],
+  "geometry": {"coordinates":[17.16563,43.71033],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259982687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51087,44.50178,17.51087,44.50178",
+    "geom:latitude":44.50178,
+    "geom:longitude":17.51087,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mirkovici",
+    "gn:country_code":"BA",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259215,
+    "gn:latitude":44.50178,
+    "gn:longitude":17.51087,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Mirkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259215
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ea8ad7a5b1e056bcb1b2a4ba96b3b5a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1259982687,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259982687,
+    "wof:lastmodified":1536634992,
+    "wof:name":"Mirkovici",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51087,
+    44.50178,
+    17.51087,
+    44.50178
+],
+  "geometry": {"coordinates":[17.51087,44.50178],"type":"Point"}
+}

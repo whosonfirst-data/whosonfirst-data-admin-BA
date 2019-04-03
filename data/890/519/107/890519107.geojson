@@ -1,0 +1,102 @@
+{
+  "id": 890519107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-30",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58333,44.0,17.58333,44.0",
+    "geom:latitude":44.0,
+    "geom:longitude":17.58333,
+    "gn:country":"BA",
+    "gn:fcode":"ADM1",
+    "gn:pop":0,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:bos_x_preferred":[
+        "Federacija Bosne i Hercegovine"
+    ],
+    "name:deu_x_preferred":[
+        "F\u00f6deration Bosnien und Herzegowina"
+    ],
+    "name:eng_x_preferred":[
+        "Federacija Bosne I Hercegovine"
+    ],
+    "name:eng_x_variant":[
+        "Federation of Bosnia and Herzegovina",
+        "Bosniak-Croat Federation",
+        "Federation of B&H"
+    ],
+    "name:fra_x_preferred":[
+        "F\u00e9d\u00e9ration de Bosnie-et-Herz\u00e9govine"
+    ],
+    "name:spa_x_preferred":[
+        "Federacion de Bosnia-Herzegovina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0458\u0430 \u0411\u043e\u0441\u043d\u0435 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Federacija Bosne i Hercegovine"
+    ],
+    "qs:name":"Federacija Bosne I Hercegovine",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos":1006,
+    "qs:photos_1k":204,
+    "qs:photos_9k":172,
+    "qs:photos_9r":23,
+    "qs:photos_all":38805,
+    "qs:photos_sr":11,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":1853,
+    "wof:belongsto":[
+        102191581,
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3229999,
+        "gp:id":24549661,
+        "qs:id":892955,
+        "wd:id":"Q11198",
+        "wk:page":"Federation of Bosnia and Herzegovina"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056092,
+    "wof:geomhash":"fa13fd9efb0adf637fac75c30f3ed340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "region_id":890519107
+        }
+    ],
+    "wof:id":890519107,
+    "wof:lastmodified":1529541201,
+    "wof:name":"Federacija Bosne I Hercegovine",
+    "wof:parent_id":85632609,
+    "wof:placetype":"region",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58333,
+    44.0,
+    17.58333,
+    44.0
+],
+  "geometry": {"coordinates":[17.58333,44.0],"type":"Point"}
+}

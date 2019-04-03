@@ -1,0 +1,71 @@
+{
+  "id": 1344260221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42259,44.80212,17.42259,44.80212",
+    "geom:latitude":44.80212,
+    "geom:longitude":17.42259,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Raicevci",
+    "gn:country_code":"BA",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210526,
+    "gn:latitude":44.80212,
+    "gn:longitude":17.42259,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Rai\u010devci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raj\u010devci",
+        "Rai\u010devci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210526
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"329d201be7513edfefacdde8d35f2929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759151,
+            "locality_id":1344260221,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344260221,
+    "wof:lastmodified":1537585639,
+    "wof:name":"Raicevci",
+    "wof:parent_id":1108759151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42259,
+    44.80212,
+    17.42259,
+    44.80212
+],
+  "geometry": {"coordinates":[17.42259,44.80212],"type":"Point"}
+}

@@ -1,0 +1,155 @@
+{
+  "id": 890519109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37782,45.04643,16.37782,45.04643",
+    "geom:latitude":45.04643,
+    "geom:longitude":16.37782,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":8920,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:bos_x_preferred":[
+        "Bosanski Novi"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0433\u0440\u0430\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:chi_x_preferred":[
+        "\u8afe\u7dad\u683c\u62c9\u5fb7"
+    ],
+    "name:cze_x_preferred":[
+        "Bosanski Novi"
+    ],
+    "name:dut_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:eng_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:fre_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:ger_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:hrv_x_preferred":[
+        "Bosanski Novi"
+    ],
+    "name:ita_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30f4\u30a3\u30fb\u30b0\u30e9\u30fc\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\ube44\uadf8\ub77c\ub4dc"
+    ],
+    "name:lat_x_preferred":[
+        "Novi"
+    ],
+    "name:lit_x_preferred":[
+        "Novi Gradas"
+    ],
+    "name:oci_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:pol_x_preferred":[
+        "Bosanski Novi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0438-\u0413\u0440\u0430\u0434"
+    ],
+    "name:slo_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:spa_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0413\u0440\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Novi Grad"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0438-\u041d\u043e\u0432\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Novi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0648\u06cc \u06af\u0631\u0627\u062f\u060c \u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627"
+    ],
+    "qs:name":"Bosanski Novi",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Republika Srpska",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":534,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203647,
+        "gp:id":940805,
+        "qs:id":1321997,
+        "wd:id":"Q194948",
+        "wk:page":"Novi Grad, Bosnia and Herzegovina"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056092,
+    "wof:geomhash":"3ba86ea4e5c317936e94e10b2eb45b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":890519109,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890519109,
+    "wof:lastmodified":1527751223,
+    "wof:name":"Bosanski Novi",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:population":8920,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37782,
+    45.04643,
+    16.37782,
+    45.04643
+],
+  "geometry": {"coordinates":[16.37782,45.04643],"type":"Point"}
+}

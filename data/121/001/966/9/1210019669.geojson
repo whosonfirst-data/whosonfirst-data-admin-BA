@@ -1,0 +1,67 @@
+{
+  "id": 1210019669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93616,43.41201,18.93616,43.41201",
+    "geom:latitude":43.41201,
+    "geom:longitude":18.93616,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dikanj",
+    "gn:country_code":"BA",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213006,
+    "gn:latitude":43.41201,
+    "gn:longitude":18.93616,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dikanj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213006
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1ee75b4f88a934d6429ec23663fc00c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1210019669,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1210019669,
+    "wof:lastmodified":1536393451,
+    "wof:name":"Dikanj",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93616,
+    43.41201,
+    18.93616,
+    43.41201
+],
+  "geometry": {"coordinates":[18.93616,43.41201],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310318273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3026,44.78875,18.3026,44.78875",
+    "geom:latitude":44.78875,
+    "geom:longitude":18.3026,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rosici",
+    "gn:country_code":"BA",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210916,
+    "gn:latitude":44.78875,
+    "gn:longitude":18.3026,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rosi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210916
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b1a73475592656deec01700b3a1e5c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1310318273,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310318273,
+    "wof:lastmodified":1536689528,
+    "wof:name":"Rosici",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3026,
+    44.78875,
+    18.3026,
+    44.78875
+],
+  "geometry": {"coordinates":[18.3026,44.78875],"type":"Point"}
+}

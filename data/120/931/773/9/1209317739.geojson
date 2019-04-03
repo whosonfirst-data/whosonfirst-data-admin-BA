@@ -1,0 +1,65 @@
+{
+  "id": 1209317739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46359,45.08832,16.46359,45.08832",
+    "geom:latitude":45.08832,
+    "geom:longitude":16.46359,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Velika Zuljevica",
+    "gn:country_code":"BA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3188137,
+    "gn:latitude":45.08832,
+    "gn:longitude":16.46359,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Velika \u017duljevica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Velika \u017duljevica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188137,
+        "wk:page":"Velika_%C5%BDuljevica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"571bfba294eeed0047601e8b1164c15b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209317739
+        }
+    ],
+    "wof:id":1209317739,
+    "wof:lastmodified":1537585554,
+    "wof:name":"Velika Zuljevica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46359,
+    45.08832,
+    16.46359,
+    45.08832
+],
+  "geometry": {"coordinates":[16.46359,45.08832],"type":"Point"}
+}

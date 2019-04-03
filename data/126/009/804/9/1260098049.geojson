@@ -1,0 +1,67 @@
+{
+  "id": 1260098049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25537,43.50074,17.25537,43.50074",
+    "geom:latitude":43.50074,
+    "geom:longitude":17.25537,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gornji Nenadici",
+    "gn:country_code":"BA",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283901,
+    "gn:latitude":43.50074,
+    "gn:longitude":17.25537,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornji Nenadi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283901
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"17cba853791f5947c64e69c1a730baa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759205,
+            "locality_id":1260098049,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1260098049,
+    "wof:lastmodified":1536966861,
+    "wof:name":"Gornji Nenadici",
+    "wof:parent_id":1108759205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25537000000001,
+    43.50074,
+    17.25537000000001,
+    43.50074
+],
+  "geometry": {"coordinates":[17.25537000000001,43.50074],"type":"Point"}
+}

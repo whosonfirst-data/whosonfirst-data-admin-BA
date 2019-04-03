@@ -1,0 +1,71 @@
+{
+  "id": 1326744249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.71068,44.47614,18.71068,44.47614",
+    "geom:latitude":44.47614,
+    "geom:longitude":18.71068,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krzevici",
+    "gn:country_code":"BA",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211285,
+    "gn:latitude":44.47614,
+    "gn:longitude":18.71068,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kr\u017eevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017eevci",
+        "Kr\u017eevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211285
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ba396e896fd59c6c8a6acbdb1417bcb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":1326744249,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1326744249,
+    "wof:lastmodified":1537585648,
+    "wof:name":"Krzevici",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71068,
+    44.47614,
+    18.71068,
+    44.47614
+],
+  "geometry": {"coordinates":[18.71068,44.47614],"type":"Point"}
+}

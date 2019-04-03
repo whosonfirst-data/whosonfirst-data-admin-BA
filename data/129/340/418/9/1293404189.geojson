@@ -1,0 +1,73 @@
+{
+  "id": 1293404189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46267,44.69296,18.46267,44.69296",
+    "geom:latitude":44.69296,
+    "geom:longitude":18.46267,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donji Moranjci",
+    "gn:country_code":"BA",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201429,
+    "gn:latitude":44.69296,
+    "gn:longitude":18.46267,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donji Moranjci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cifluk",
+        "Moranjci Donji",
+        "Donji Moranjci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201429,
+        "wk:page":"Donji_Moranjci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a1cda8c0c39718cd80730d476f2774b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759243,
+            "locality_id":1293404189,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1293404189,
+    "wof:lastmodified":1537585610,
+    "wof:name":"Donji Moranjci",
+    "wof:parent_id":1108759243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46267000000001,
+    44.69296,
+    18.46267000000001,
+    44.69296
+],
+  "geometry": {"coordinates":[18.46267000000001,44.69296],"type":"Point"}
+}

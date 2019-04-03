@@ -1,0 +1,71 @@
+{
+  "id": 1310208149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36889,44.05278,19.36889,44.05278",
+    "geom:latitude":44.05278,
+    "geom:longitude":19.36889,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Brezani",
+    "gn:country_code":"BA",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3203422,
+    "gn:latitude":44.05278,
+    "gn:longitude":19.36889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bre\u017eani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bre\u017eani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203422,
+        "wk:page":"Bre%C5%BEani_%28Srebrenica%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"756e873f08a78845fecc8c2e780de27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1310208149,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310208149,
+    "wof:lastmodified":1537585622,
+    "wof:name":"Brezani",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36889,
+    44.05278,
+    19.36889,
+    44.05278
+],
+  "geometry": {"coordinates":[19.36889,44.05278],"type":"Point"}
+}

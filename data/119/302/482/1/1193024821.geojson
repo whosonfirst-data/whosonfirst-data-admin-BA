@@ -1,0 +1,71 @@
+{
+  "id": 1193024821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.30744,44.83856,19.30744,44.83856",
+    "geom:latitude":44.83856,
+    "geom:longitude":19.30744,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lazica Mahala",
+    "gn:country_code":"BA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211532,
+    "gn:latitude":44.83856,
+    "gn:longitude":19.30744,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Lazi\u0107a Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Travnjak",
+        "Lazi\u0107a Mahala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211532
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e3b60d44d748092fd65f9482e664d5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":1193024821,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193024821,
+    "wof:lastmodified":1537585651,
+    "wof:name":"Lazica Mahala",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.30744,
+    44.83856,
+    19.30744,
+    44.83856
+],
+  "geometry": {"coordinates":[19.30744,44.83856],"type":"Point"}
+}

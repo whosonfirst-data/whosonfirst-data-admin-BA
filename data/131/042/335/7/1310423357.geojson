@@ -1,0 +1,67 @@
+{
+  "id": 1310423357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65598,44.24173,16.65598,44.24173",
+    "geom:latitude":44.24173,
+    "geom:longitude":16.65598,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cegari",
+    "gn:country_code":"BA",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3237173,
+    "gn:latitude":44.24173,
+    "gn:longitude":16.65598,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u010cegari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3237173
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1bbf9c785b16a0b5f20f0663b71d9960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759081,
+            "locality_id":1310423357,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1310423357,
+    "wof:lastmodified":1537034014,
+    "wof:name":"Cegari",
+    "wof:parent_id":1108759081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65598,
+    44.24173,
+    16.65598,
+    44.24173
+],
+  "geometry": {"coordinates":[16.65598,44.24173],"type":"Point"}
+}

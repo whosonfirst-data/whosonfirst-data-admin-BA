@@ -1,0 +1,67 @@
+{
+  "id": 1225859053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22759,44.06647,18.22759,44.06647",
+    "geom:latitude":44.06647,
+    "geom:longitude":18.22759,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Barice",
+    "gn:country_code":"BA",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298291,
+    "gn:latitude":44.06647,
+    "gn:longitude":18.22759,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Barice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298291
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5a597b779f288039e8a075e2efa7dd53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759285,
+            "locality_id":1225859053,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1225859053,
+    "wof:lastmodified":1536993560,
+    "wof:name":"Barice",
+    "wof:parent_id":1108759285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22759,
+    44.06647,
+    18.22759,
+    44.06647
+],
+  "geometry": {"coordinates":[18.22759,44.06647],"type":"Point"}
+}

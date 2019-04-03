@@ -1,0 +1,65 @@
+{
+  "id": 1209529983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75528,43.61,18.75528,43.61",
+    "geom:latitude":43.61,
+    "geom:longitude":18.75528,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mravljaca",
+    "gn:country_code":"BA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194758,
+    "gn:latitude":43.61,
+    "gn:longitude":18.75528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mravlja\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mravlja\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194758,
+        "wk:page":"Mravlja%C4%8Da"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"74e14f7b2151c3c7ae0f4df606cde4b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209529983
+        }
+    ],
+    "wof:id":1209529983,
+    "wof:lastmodified":1537585580,
+    "wof:name":"Mravljaca",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75528,
+    43.61,
+    18.75528,
+    43.61
+],
+  "geometry": {"coordinates":[18.75528,43.61],"type":"Point"}
+}

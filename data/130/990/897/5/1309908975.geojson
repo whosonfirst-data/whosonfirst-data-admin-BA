@@ -1,0 +1,67 @@
+{
+  "id": 1309908975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01357,43.05639,18.01357,43.05639",
+    "geom:latitude":43.05639,
+    "geom:longitude":18.01357,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donja Bitunja",
+    "gn:country_code":"BA",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3264287,
+    "gn:latitude":43.05639,
+    "gn:longitude":18.01357,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donja Bitunja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264287
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"abb0344b3f1211f4fbfcd69e415e610d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759251,
+            "locality_id":1309908975,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309908975,
+    "wof:lastmodified":1536782834,
+    "wof:name":"Donja Bitunja",
+    "wof:parent_id":1108759251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01357,
+    43.05639,
+    18.01357,
+    43.05639
+],
+  "geometry": {"coordinates":[18.01357,43.05639],"type":"Point"}
+}

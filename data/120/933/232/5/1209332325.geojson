@@ -1,0 +1,65 @@
+{
+  "id": 1209332325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89424,44.05045,16.89424,44.05045",
+    "geom:latitude":44.05045,
+    "geom:longitude":16.89424,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Malkocevci",
+    "gn:country_code":"BA",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195586,
+    "gn:latitude":44.05045,
+    "gn:longitude":16.89424,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Malko\u010devci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malko\u010devci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195586,
+        "wk:page":"Malko%C4%8Devci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7c333d3842847f7eb6eeaa3ac4ee407d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209332325
+        }
+    ],
+    "wof:id":1209332325,
+    "wof:lastmodified":1537585583,
+    "wof:name":"Malkocevci",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89424,
+    44.05045,
+    16.89424,
+    44.05045
+],
+  "geometry": {"coordinates":[16.89424,44.05045],"type":"Point"}
+}

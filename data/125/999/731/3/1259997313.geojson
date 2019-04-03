@@ -1,0 +1,71 @@
+{
+  "id": 1259997313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11176,44.23419,18.11176,44.23419",
+    "geom:latitude":44.23419,
+    "geom:longitude":18.11176,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Basici",
+    "gn:country_code":"BA",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295726,
+    "gn:latitude":44.23419,
+    "gn:longitude":18.11176,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Ba\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u0161i\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295726,
+        "wk:page":"Ba%C5%A1i%C4%87i_%28Kakanj%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"91f87fa960cd4963a23322ad101e214b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1259997313,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259997313,
+    "wof:lastmodified":1537585679,
+    "wof:name":"Basici",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11176,
+    44.23419000000001,
+    18.11176,
+    44.23419000000001
+],
+  "geometry": {"coordinates":[18.11176,44.23419000000001],"type":"Point"}
+}

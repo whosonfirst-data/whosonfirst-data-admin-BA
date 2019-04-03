@@ -1,0 +1,67 @@
+{
+  "id": 1327044291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89724,42.96156,17.89724,42.96156",
+    "geom:latitude":42.96156,
+    "geom:longitude":17.89724,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vlaka",
+    "gn:country_code":"BA",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3262482,
+    "gn:latitude":42.96156,
+    "gn:longitude":17.89724,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vlaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3262482
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b7a37928fe2d50ec35dc105f7c3c39ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759177,
+            "locality_id":1327044291,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1327044291,
+    "wof:lastmodified":1536742967,
+    "wof:name":"Vlaka",
+    "wof:parent_id":1108759177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89724,
+    42.96156,
+    17.89724,
+    42.96156
+],
+  "geometry": {"coordinates":[17.89724,42.96156],"type":"Point"}
+}

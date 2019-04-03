@@ -1,0 +1,71 @@
+{
+  "id": 1276888003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17163,44.20748,18.17163,44.20748",
+    "geom:latitude":44.20748,
+    "geom:longitude":18.17163,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vukanovici",
+    "gn:country_code":"BA",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187067,
+    "gn:latitude":44.20748,
+    "gn:longitude":18.17163,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Vukanovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vukanovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187067,
+        "wk:page":"Vukanovi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"541c6a9022b14be94873fca17a6eeb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1276888003,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1276888003,
+    "wof:lastmodified":1537585549,
+    "wof:name":"Vukanovici",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17163,
+    44.20748,
+    18.17163,
+    44.20748
+],
+  "geometry": {"coordinates":[18.17163,44.20748],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890518567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17859,44.68672,18.17859,44.68672",
+    "geom:latitude":44.68672,
+    "geom:longitude":18.17859,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Br\u0111ani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253420,
+        "qs:id":582289,
+        "wd:id":"Q1173253",
+        "wk:page":"Br\u0111ani"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056070,
+    "wof:geomhash":"2fdee680cb1e7a1f035b53d852bf9034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":890518567,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518567,
+    "wof:lastmodified":1527751229,
+    "wof:name":"Br\u0111ani",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17859,
+    44.68672,
+    18.17859,
+    44.68672
+],
+  "geometry": {"coordinates":[18.17859,44.68672],"type":"Point"}
+}

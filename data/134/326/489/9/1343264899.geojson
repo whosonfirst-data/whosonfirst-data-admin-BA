@@ -1,0 +1,67 @@
+{
+  "id": 1343264899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9403,44.14907,18.9403,44.14907",
+    "geom:latitude":44.14907,
+    "geom:longitude":18.9403,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ruzina Voda",
+    "gn:country_code":"BA",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3272408,
+    "gn:latitude":44.14907,
+    "gn:longitude":18.9403,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ru\u017eina Voda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3272408
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2123b7c518b9883196cba6a53c14422f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759289,
+            "locality_id":1343264899,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343264899,
+    "wof:lastmodified":1537027269,
+    "wof:name":"Ruzina Voda",
+    "wof:parent_id":1108759289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9403,
+    44.14907,
+    18.9403,
+    44.14907
+],
+  "geometry": {"coordinates":[18.9403,44.14907],"type":"Point"}
+}

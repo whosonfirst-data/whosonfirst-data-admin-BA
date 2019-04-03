@@ -1,0 +1,71 @@
+{
+  "id": 1259786683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.76726,44.47768,17.76726,44.47768",
+    "geom:latitude":44.47768,
+    "geom:longitude":17.76726,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donje Bijelo Bucje",
+    "gn:country_code":"BA",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210432,
+    "gn:latitude":44.47768,
+    "gn:longitude":17.76726,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donje Bijelo Bu\u010dje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bijelo Bu\u010dje",
+        "Donje Bijelo Bu\u010dje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210432
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"24c38edbdd478ea79ea5b55ef4bae330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1259786683,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259786683,
+    "wof:lastmodified":1537585638,
+    "wof:name":"Donje Bijelo Bucje",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.76726,
+    44.47768,
+    17.76726,
+    44.47768
+],
+  "geometry": {"coordinates":[17.76726,44.47768],"type":"Point"}
+}

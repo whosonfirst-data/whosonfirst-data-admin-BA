@@ -1,0 +1,67 @@
+{
+  "id": 1344059925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85954,44.33127,16.85954,44.33127",
+    "geom:latitude":44.33127,
+    "geom:longitude":16.85954,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Buljici",
+    "gn:country_code":"BA",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260985,
+    "gn:latitude":44.33127,
+    "gn:longitude":16.85954,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bulji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260985
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0be3f855c39df63c7a8dcafb49e4bc1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1344059925,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344059925,
+    "wof:lastmodified":1536875380,
+    "wof:name":"Buljici",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85954,
+    44.33127,
+    16.85954,
+    44.33127
+],
+  "geometry": {"coordinates":[16.85954,44.33127],"type":"Point"}
+}

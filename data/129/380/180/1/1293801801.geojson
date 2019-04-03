@@ -1,0 +1,67 @@
+{
+  "id": 1293801801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96434,44.51516,18.96434,44.51516",
+    "geom:latitude":44.51516,
+    "geom:longitude":18.96434,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Godus",
+    "gn:country_code":"BA",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200518,
+    "gn:latitude":44.51516,
+    "gn:longitude":18.96434,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Godu\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200518
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1cdae4d96b300ebaf78077ca70e0905f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759225,
+            "locality_id":1293801801,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1293801801,
+    "wof:lastmodified":1536830054,
+    "wof:name":"Godus",
+    "wof:parent_id":1108759225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96434,
+    44.51516,
+    18.96434,
+    44.51516
+],
+  "geometry": {"coordinates":[18.96434,44.51516],"type":"Point"}
+}

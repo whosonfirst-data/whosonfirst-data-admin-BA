@@ -1,0 +1,67 @@
+{
+  "id": 1226151655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.02214,44.54697,17.02214,44.54697",
+    "geom:latitude":44.54697,
+    "geom:longitude":17.02214,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Grujici",
+    "gn:country_code":"BA",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250878,
+    "gn:latitude":44.54697,
+    "gn:longitude":17.02214,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gruji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250878
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1565714070a090478d71aa35f72d6cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1226151655,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226151655,
+    "wof:lastmodified":1537066200,
+    "wof:name":"Grujici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02214,
+    44.54697,
+    17.02214,
+    44.54697
+],
+  "geometry": {"coordinates":[17.02214,44.54697],"type":"Point"}
+}

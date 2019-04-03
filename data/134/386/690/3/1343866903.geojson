@@ -1,0 +1,68 @@
+{
+  "id": 1343866903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.305,44.98243,16.305,44.98243",
+    "geom:latitude":44.98243,
+    "geom:longitude":16.305,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornji Rakani",
+    "gn:country_code":"BA",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199938,
+    "gn:latitude":44.98243,
+    "gn:longitude":16.305,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornji Rakani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199938,
+        "wk:page":"Gornji_Rakani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"afcd41d60ed5ff138b12ad938b9636c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1343866903,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343866903,
+    "wof:lastmodified":1537486770,
+    "wof:name":"Gornji Rakani",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.305,
+    44.98243,
+    16.305,
+    44.98243
+],
+  "geometry": {"coordinates":[16.305,44.98243],"type":"Point"}
+}

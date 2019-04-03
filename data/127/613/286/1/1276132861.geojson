@@ -1,0 +1,72 @@
+{
+  "id": 1276132861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01371,43.61078,17.01371,43.61078",
+    "geom:latitude":43.61078,
+    "geom:longitude":17.01371,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kazaginac",
+    "gn:country_code":"BA",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3198187,
+    "gn:latitude":43.61078,
+    "gn:longitude":17.01371,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kazaginac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kazaginec",
+        "Kazaginac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198187,
+        "wk:page":"Kazaginac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9c0abd64a9ade97c4e6b718593bde4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1276132861,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1276132861,
+    "wof:lastmodified":1537585592,
+    "wof:name":"Kazaginac",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01371,
+    43.61078,
+    17.01371,
+    43.61078
+],
+  "geometry": {"coordinates":[17.01371,43.61078],"type":"Point"}
+}

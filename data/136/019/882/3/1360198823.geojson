@@ -1,0 +1,67 @@
+{
+  "id": 1360198823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.79426,43.78217,17.79426,43.78217",
+    "geom:latitude":43.78217,
+    "geom:longitude":17.79426,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Baraci",
+    "gn:country_code":"BA",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288539,
+    "gn:latitude":43.78217,
+    "gn:longitude":17.79426,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Baraci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288539
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"61a2800bb150101eddcbc078dccb1cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759137,
+            "locality_id":1360198823,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1360198823,
+    "wof:lastmodified":1536781991,
+    "wof:name":"Baraci",
+    "wof:parent_id":1108759137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79426,
+    43.78217,
+    17.79426,
+    43.78217
+],
+  "geometry": {"coordinates":[17.79426,43.78217],"type":"Point"}
+}

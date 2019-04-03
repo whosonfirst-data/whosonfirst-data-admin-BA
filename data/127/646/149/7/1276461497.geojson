@@ -1,0 +1,67 @@
+{
+  "id": 1276461497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69308,44.63743,18.69308,44.63743",
+    "geom:latitude":44.63743,
+    "geom:longitude":18.69308,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Peric",
+    "gn:country_code":"BA",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257564,
+    "gn:latitude":44.63743,
+    "gn:longitude":18.69308,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Peri\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257564
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b0610d6551ed973b8faf645cedcc314a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759043,
+            "locality_id":1276461497,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1276461497,
+    "wof:lastmodified":1536603936,
+    "wof:name":"Peric",
+    "wof:parent_id":1108759043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69308,
+    44.63743,
+    18.69308,
+    44.63743
+],
+  "geometry": {"coordinates":[18.69308,44.63743],"type":"Point"}
+}

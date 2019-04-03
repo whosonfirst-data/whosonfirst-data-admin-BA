@@ -1,0 +1,68 @@
+{
+  "id": 1193146565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2069,43.78954,18.2069,43.78954",
+    "geom:latitude":43.78954,
+    "geom:longitude":18.2069,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Crepljani",
+    "gn:country_code":"BA",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3295001,
+    "gn:latitude":43.78954,
+    "gn:longitude":18.2069,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Crepljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295001,
+        "wk:page":"Crepljani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"056b5d0b32dedd01cfc0ae2850822fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":1193146565,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1193146565,
+    "wof:lastmodified":1537486860,
+    "wof:name":"Crepljani",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2069,
+    43.78954,
+    18.2069,
+    43.78954
+],
+  "geometry": {"coordinates":[18.2069,43.78954],"type":"Point"}
+}

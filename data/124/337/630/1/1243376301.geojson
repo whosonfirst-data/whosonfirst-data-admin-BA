@@ -1,0 +1,71 @@
+{
+  "id": 1243376301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79843,43.86524,18.79843,43.86524",
+    "geom:latitude":43.86524,
+    "geom:longitude":18.79843,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pavicici",
+    "gn:country_code":"BA",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193580,
+    "gn:latitude":43.86524,
+    "gn:longitude":18.79843,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pavi\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pavi\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193580,
+        "wk:page":"Pavi%C4%8Di%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"12df52219a123fd8b298fe6cce95cd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1243376301,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243376301,
+    "wof:lastmodified":1537585575,
+    "wof:name":"Pavicici",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79843,
+    43.86524,
+    18.79843,
+    43.86524
+],
+  "geometry": {"coordinates":[18.79843,43.86524],"type":"Point"}
+}

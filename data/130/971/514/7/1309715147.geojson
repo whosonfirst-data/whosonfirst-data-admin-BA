@@ -1,0 +1,71 @@
+{
+  "id": 1309715147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32544,45.05731,17.32544,45.05731",
+    "geom:latitude":45.05731,
+    "geom:longitude":17.32544,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Krajisnik",
+    "gn:country_code":"BA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284989,
+    "gn:latitude":45.05731,
+    "gn:longitude":17.32544,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kraji\u0161nik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kraji\u0161nik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284989,
+        "wk:page":"Kraji%C5%A1nik_%28Bosanska_Gradi%C5%A1ka%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e25735d5954f4c98be41f1d6fd956b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1309715147,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309715147,
+    "wof:lastmodified":1537585674,
+    "wof:name":"Krajisnik",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32544,
+    45.05731,
+    17.32544,
+    45.05731
+],
+  "geometry": {"coordinates":[17.32544,45.05731],"type":"Point"}
+}

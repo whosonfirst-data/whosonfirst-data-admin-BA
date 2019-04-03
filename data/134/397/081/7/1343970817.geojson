@@ -1,0 +1,71 @@
+{
+  "id": 1343970817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97639,43.43611,18.97639,43.43611",
+    "geom:latitude":43.43611,
+    "geom:longitude":18.97639,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Trtosevo",
+    "gn:country_code":"BA",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3188702,
+    "gn:latitude":43.43611,
+    "gn:longitude":18.97639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Trto\u0161evo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trto\u0161evo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188702,
+        "wk:page":"Trto%C5%A1evo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f34a4b642e486e86af0afb227e932af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1343970817,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343970817,
+    "wof:lastmodified":1537585556,
+    "wof:name":"Trtosevo",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97639,
+    43.43611,
+    18.97639,
+    43.43611
+],
+  "geometry": {"coordinates":[18.97639,43.43611],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 890519019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64062,44.61354,16.64062,44.61354",
+    "geom:latitude":44.61354,
+    "geom:longitude":16.64062,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":5666,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Sanica"
+    ],
+    "name:dut_x_preferred":[
+        "Sanica"
+    ],
+    "name:eng_x_preferred":[
+        "Sanica"
+    ],
+    "name:fre_x_preferred":[
+        "Sanica"
+    ],
+    "name:ger_x_preferred":[
+        "Sanica"
+    ],
+    "name:hrv_x_preferred":[
+        "Sanica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sanica"
+    ],
+    "name:unk_x_variant":[
+        "Pravoslavna Sanica"
+    ],
+    "qs:name":"Sanica",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191302,
+        "gp:id":943823,
+        "qs:id":909827,
+        "wd:id":"Q1020920",
+        "wk:page":"Sanica"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056088,
+    "wof:geomhash":"d3ef3aebced39931b9eccec722e27a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759133,
+            "locality_id":890519019,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":890519019,
+    "wof:lastmodified":1527751224,
+    "wof:name":"Sanica",
+    "wof:parent_id":1108759133,
+    "wof:placetype":"locality",
+    "wof:population":5666,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64062,
+    44.61354,
+    16.64062,
+    44.61354
+],
+  "geometry": {"coordinates":[16.64062,44.61354],"type":"Point"}
+}

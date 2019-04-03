@@ -1,0 +1,67 @@
+{
+  "id": 1225957093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66794,45.07374,16.66794,45.07374",
+    "geom:latitude":45.07374,
+    "geom:longitude":16.66794,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bec",
+    "gn:country_code":"BA",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282262,
+    "gn:latitude":45.07374,
+    "gn:longitude":16.66794,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Be\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282262
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d5c06abc2266499aa7705993fd3f3eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759207,
+            "locality_id":1225957093,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225957093,
+    "wof:lastmodified":1536851777,
+    "wof:name":"Bec",
+    "wof:parent_id":1108759207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66794,
+    45.07374,
+    16.66794,
+    45.07374
+],
+  "geometry": {"coordinates":[16.66794,45.07374],"type":"Point"}
+}

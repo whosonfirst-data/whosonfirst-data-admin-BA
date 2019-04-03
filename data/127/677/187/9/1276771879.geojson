@@ -1,0 +1,71 @@
+{
+  "id": 1276771879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99228,44.60943,16.99228,44.60943",
+    "geom:latitude":44.60943,
+    "geom:longitude":16.99228,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stricici",
+    "gn:country_code":"BA",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250891,
+    "gn:latitude":44.60943,
+    "gn:longitude":16.99228,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Stri\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stri\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250891,
+        "wk:page":"Stri%C4%8Di%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"54b5785124cfb8d45352889dbf319caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1276771879,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276771879,
+    "wof:lastmodified":1537585663,
+    "wof:name":"Stricici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99227999999999,
+    44.60943,
+    16.99227999999999,
+    44.60943
+],
+  "geometry": {"coordinates":[16.99227999999999,44.60943],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293496377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98563,44.26712,16.98563,44.26712",
+    "geom:latitude":44.26712,
+    "geom:longitude":16.98563,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bubnjevici",
+    "gn:country_code":"BA",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3262047,
+    "gn:latitude":44.26712,
+    "gn:longitude":16.98563,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bubnjevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3262047
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"55a44f04a254b6d9d7a8f725f16622d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759175,
+            "locality_id":1293496377,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293496377,
+    "wof:lastmodified":1536774818,
+    "wof:name":"Bubnjevici",
+    "wof:parent_id":1108759175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98563,
+    44.26712,
+    16.98563,
+    44.26712
+],
+  "geometry": {"coordinates":[16.98563,44.26712],"type":"Point"}
+}

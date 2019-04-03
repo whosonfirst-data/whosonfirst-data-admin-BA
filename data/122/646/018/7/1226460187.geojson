@@ -1,0 +1,67 @@
+{
+  "id": 1226460187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43361,44.38056,16.43361,44.38056",
+    "geom:latitude":44.38056,
+    "geom:longitude":16.43361,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sobinovac",
+    "gn:country_code":"BA",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260121,
+    "gn:latitude":44.38056,
+    "gn:longitude":16.43361,
+    "gn:modification_date":"2005-11-10",
+    "gn:name":"Sobinovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260121
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8a50c09ee5c9cb82fa7792e48dd9a37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759067,
+            "locality_id":1226460187,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1226460187,
+    "wof:lastmodified":1536622672,
+    "wof:name":"Sobinovac",
+    "wof:parent_id":1108759067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.43361,
+    44.38056,
+    16.43361,
+    44.38056
+],
+  "geometry": {"coordinates":[16.43361,44.38056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326538685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.465,45.09528,16.465,45.09528",
+    "geom:latitude":45.09528,
+    "geom:longitude":16.465,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Misirace",
+    "gn:country_code":"BA",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282639,
+    "gn:latitude":45.09528,
+    "gn:longitude":16.465,
+    "gn:modification_date":"2005-11-23",
+    "gn:name":"Misira\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282639
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"51751e32c60d65c26170d1e8ff92ae61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1326538685,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1326538685,
+    "wof:lastmodified":1536974202,
+    "wof:name":"Misirace",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.465,
+    45.09528,
+    16.465,
+    45.09528
+],
+  "geometry": {"coordinates":[16.465,45.09528],"type":"Point"}
+}

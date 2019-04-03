@@ -1,0 +1,67 @@
+{
+  "id": 1243189977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56345,43.1862,17.56345,43.1862",
+    "geom:latitude":43.1862,
+    "geom:longitude":17.56345,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Predgrade",
+    "gn:country_code":"BA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288870,
+    "gn:latitude":43.1862,
+    "gn:longitude":17.56345,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Predgra\u0111e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288870
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"eb5e3cd39d3abc8f18284bf1c7e330af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1243189977,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1243189977,
+    "wof:lastmodified":1536678303,
+    "wof:name":"Predgrade",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56345,
+    43.1862,
+    17.56345,
+    43.1862
+],
+  "geometry": {"coordinates":[17.56345,43.1862],"type":"Point"}
+}

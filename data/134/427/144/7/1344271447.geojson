@@ -1,0 +1,67 @@
+{
+  "id": 1344271447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.60569,44.14209,17.60569,44.14209",
+    "geom:latitude":44.14209,
+    "geom:longitude":17.60569,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kopila",
+    "gn:country_code":"BA",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3293125,
+    "gn:latitude":44.14209,
+    "gn:longitude":17.60569,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kopila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293125
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8ac4a6d099b0f36abf6fd2a2cd698b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759183,
+            "locality_id":1344271447,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1344271447,
+    "wof:lastmodified":1537065295,
+    "wof:name":"Kopila",
+    "wof:parent_id":1108759183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.60569,
+    44.14209,
+    17.60569,
+    44.14209
+],
+  "geometry": {"coordinates":[17.60569,44.14209],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 890518945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3477,43.7942,18.3477,43.7942",
+    "geom:latitude":43.7942,
+    "geom:longitude":18.3477,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vojkovi\u0107i"
+    ],
+    "name:eng_x_preferred":[
+        "Vojkovi\u0107i"
+    ],
+    "name:fre_x_preferred":[
+        "Vojkovi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0458\u043a\u043e\u0432\u0438\u045b\u0438"
+    ],
+    "qs:name":"Vojkovi\u0107i",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos":280,
+    "qs:photos_1k":57,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":280,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":9,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187453,
+        "gp:id":944552,
+        "qs:id":1083499,
+        "wd:id":"Q3057139",
+        "wk:page":"Vojkovi\u0107i"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056085,
+    "wof:geomhash":"4eb1af82e3942e6c586939c034f16f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759107,
+            "locality_id":890518945,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518945,
+    "wof:lastmodified":1527758438,
+    "wof:name":"Vojkovi\u0107i",
+    "wof:parent_id":1108759107,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3477,
+    43.7942,
+    18.3477,
+    43.7942
+],
+  "geometry": {"coordinates":[18.3477,43.7942],"type":"Point"}
+}

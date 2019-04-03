@@ -1,0 +1,61 @@
+{
+  "id": 1209008255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54839,43.6867,17.54839,43.6867",
+    "geom:latitude":43.6867,
+    "geom:longitude":17.54839,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donje Dragajice",
+    "gn:country_code":"BA",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292403,
+    "gn:latitude":43.6867,
+    "gn:longitude":17.54839,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Donje Dragajice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292403
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e5169ae1eb56769e7c55aaad718d25ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209008255
+        }
+    ],
+    "wof:id":1209008255,
+    "wof:lastmodified":1536300532,
+    "wof:name":"Donje Dragajice",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.548389999999998,
+    43.6867,
+    17.548389999999998,
+    43.6867
+],
+  "geometry": {"coordinates":[17.54839,43.6867],"type":"Point"}
+}

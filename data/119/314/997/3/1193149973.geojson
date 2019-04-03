@@ -1,0 +1,71 @@
+{
+  "id": 1193149973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47517,43.50461,18.47517,43.50461",
+    "geom:latitude":43.50461,
+    "geom:longitude":18.47517,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jazici",
+    "gn:country_code":"BA",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212729,
+    "gn:latitude":43.50461,
+    "gn:longitude":18.47517,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ja\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ja\u017ei\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212729,
+        "wk:page":"Ja%C5%BEi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"86a3520c9ae94343522c4574fc6a43f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759125,
+            "locality_id":1193149973,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193149973,
+    "wof:lastmodified":1537585656,
+    "wof:name":"Jazici",
+    "wof:parent_id":1108759125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47517,
+    43.50461,
+    18.47517,
+    43.50461
+],
+  "geometry": {"coordinates":[18.47517,43.50461],"type":"Point"}
+}

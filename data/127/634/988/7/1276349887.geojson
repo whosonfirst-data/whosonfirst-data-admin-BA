@@ -1,0 +1,67 @@
+{
+  "id": 1276349887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5859,43.16752,17.5859,43.16752",
+    "geom:latitude":43.16752,
+    "geom:longitude":17.5859,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Staje",
+    "gn:country_code":"BA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288883,
+    "gn:latitude":43.16752,
+    "gn:longitude":17.5859,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Staje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288883
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"589a489cd8306e871a4982130d470620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1276349887,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1276349887,
+    "wof:lastmodified":1536756289,
+    "wof:name":"Staje",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5859,
+    43.16752,
+    17.5859,
+    43.16752
+],
+  "geometry": {"coordinates":[17.5859,43.16752],"type":"Point"}
+}

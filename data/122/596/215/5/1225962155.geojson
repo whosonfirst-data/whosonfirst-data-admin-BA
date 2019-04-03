@@ -1,0 +1,67 @@
+{
+  "id": 1225962155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61778,44.58122,18.61778,44.58122",
+    "geom:latitude":44.58122,
+    "geom:longitude":18.61778,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hodici",
+    "gn:country_code":"BA",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3259550,
+    "gn:latitude":44.58122,
+    "gn:longitude":18.61778,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Hodi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259550
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"76cb9ce0d8b61885d8cd8b0e881658ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1225962155,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1225962155,
+    "wof:lastmodified":1536844545,
+    "wof:name":"Hodici",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61778,
+    44.58122,
+    18.61778,
+    44.58122
+],
+  "geometry": {"coordinates":[18.61778,44.58122],"type":"Point"}
+}

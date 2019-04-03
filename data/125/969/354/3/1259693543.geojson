@@ -1,0 +1,67 @@
+{
+  "id": 1259693543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1875,43.94667,18.1875,43.94667",
+    "geom:latitude":43.94667,
+    "geom:longitude":18.1875,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rezakovina",
+    "gn:country_code":"BA",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298231,
+    "gn:latitude":43.94667,
+    "gn:longitude":18.1875,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Rezakovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298231
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fc5a94b8e24b8ed29c026369cd3bde75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759285,
+            "locality_id":1259693543,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259693543,
+    "wof:lastmodified":1537050325,
+    "wof:name":"Rezakovina",
+    "wof:parent_id":1108759285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1875,
+    43.94667000000001,
+    18.1875,
+    43.94667000000001
+],
+  "geometry": {"coordinates":[18.1875,43.94667000000001],"type":"Point"}
+}

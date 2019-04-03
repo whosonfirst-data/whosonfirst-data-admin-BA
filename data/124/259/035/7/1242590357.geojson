@@ -1,0 +1,67 @@
+{
+  "id": 1242590357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.86191,44.85046,17.86191,44.85046",
+    "geom:latitude":44.85046,
+    "geom:longitude":17.86191,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gojici",
+    "gn:country_code":"BA",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3252118,
+    "gn:latitude":44.85046,
+    "gn:longitude":17.86191,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Goji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3252118
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"88488ae9a5fbeb88b7d4d875302121bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":1242590357,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242590357,
+    "wof:lastmodified":1537043398,
+    "wof:name":"Gojici",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.86191,
+    44.85046,
+    17.86191,
+    44.85046
+],
+  "geometry": {"coordinates":[17.86191,44.85046],"type":"Point"}
+}

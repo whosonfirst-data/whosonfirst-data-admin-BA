@@ -1,0 +1,67 @@
+{
+  "id": 1327240309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.09612,43.85564,19.09612,43.85564",
+    "geom:latitude":43.85564,
+    "geom:longitude":19.09612,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Crijetezi",
+    "gn:country_code":"BA",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269152,
+    "gn:latitude":43.85564,
+    "gn:longitude":19.09612,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Crijete\u017ei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269152
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1acdfc2bd16b946f27e91a3b6724c760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1327240309,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327240309,
+    "wof:lastmodified":1536958037,
+    "wof:name":"Crijetezi",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09612000000001,
+    43.85564,
+    19.09612000000001,
+    43.85564
+],
+  "geometry": {"coordinates":[19.09612000000001,43.85564],"type":"Point"}
+}

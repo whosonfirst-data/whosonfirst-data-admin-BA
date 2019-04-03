@@ -1,0 +1,67 @@
+{
+  "id": 1293393207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83433,44.61371,17.83433,44.61371",
+    "geom:latitude":44.61371,
+    "geom:longitude":17.83433,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jasarevici",
+    "gn:country_code":"BA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257009,
+    "gn:latitude":44.61371,
+    "gn:longitude":17.83433,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ja\u0161arevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257009
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bcef35a5a632a56d8ed5a019b134094e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1293393207,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293393207,
+    "wof:lastmodified":1536923611,
+    "wof:name":"Jasarevici",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83432999999999,
+    44.61371,
+    17.83432999999999,
+    44.61371
+],
+  "geometry": {"coordinates":[17.83432999999999,44.61371],"type":"Point"}
+}

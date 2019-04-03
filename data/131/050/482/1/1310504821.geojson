@@ -1,0 +1,67 @@
+{
+  "id": 1310504821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20196,43.57601,19.20196,43.57601",
+    "geom:latitude":43.57601,
+    "geom:longitude":19.20196,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Debela Meda",
+    "gn:country_code":"BA",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299943,
+    "gn:latitude":43.57601,
+    "gn:longitude":19.20196,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Debela Me\u0111a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299943
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6117949fb30f803e3f90cbd8dc4dcebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759035,
+            "locality_id":1310504821,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310504821,
+    "wof:lastmodified":1536918445,
+    "wof:name":"Debela Meda",
+    "wof:parent_id":1108759035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20196,
+    43.57601,
+    19.20196,
+    43.57601
+],
+  "geometry": {"coordinates":[19.20196,43.57601],"type":"Point"}
+}

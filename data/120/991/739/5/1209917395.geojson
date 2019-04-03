@@ -1,0 +1,71 @@
+{
+  "id": 1209917395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26119,44.88699,18.26119,44.88699",
+    "geom:latitude":44.88699,
+    "geom:longitude":18.26119,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rijecani Gornji",
+    "gn:country_code":"BA",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3210927,
+    "gn:latitude":44.88699,
+    "gn:longitude":18.26119,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rije\u010dani Gornji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rije\u010dani",
+        "Rije\u010dani Gornji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210927
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4a9a8c3728397cb7a7b7c0b075e3d73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759169,
+            "locality_id":1209917395,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209917395,
+    "wof:lastmodified":1537585643,
+    "wof:name":"Rijecani Gornji",
+    "wof:parent_id":1108759169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26119,
+    44.88699,
+    18.26119,
+    44.88699
+],
+  "geometry": {"coordinates":[18.26119,44.88699],"type":"Point"}
+}

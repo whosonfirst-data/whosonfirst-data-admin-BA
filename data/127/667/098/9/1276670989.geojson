@@ -1,0 +1,67 @@
+{
+  "id": 1276670989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.39722,43.97444,19.39722,43.97444",
+    "geom:latitude":43.97444,
+    "geom:longitude":19.39722,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ritosici",
+    "gn:country_code":"BA",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299891,
+    "gn:latitude":43.97444,
+    "gn:longitude":19.39722,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Rito\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299891
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"23a40ab9a4c0e5735bc1de58baa4cb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1276670989,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276670989,
+    "wof:lastmodified":1536822316,
+    "wof:name":"Ritosici",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.39722,
+    43.97444,
+    19.39722,
+    43.97444
+],
+  "geometry": {"coordinates":[19.39722,43.97444],"type":"Point"}
+}

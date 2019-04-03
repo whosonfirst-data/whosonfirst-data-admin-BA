@@ -1,0 +1,71 @@
+{
+  "id": 1209923089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.31657,44.66,17.31657,44.66",
+    "geom:latitude":44.66,
+    "geom:longitude":17.31657,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tovladic",
+    "gn:country_code":"BA",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3188943,
+    "gn:latitude":44.66,
+    "gn:longitude":17.31657,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tovladi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tovladi\u0107i",
+        "Tovladi\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188943
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"216bd8315d6e846ac4bdf129d1030dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759141,
+            "locality_id":1209923089,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1209923089,
+    "wof:lastmodified":1537585557,
+    "wof:name":"Tovladic",
+    "wof:parent_id":1108759141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.31657,
+    44.66,
+    17.31657,
+    44.66
+],
+  "geometry": {"coordinates":[17.31657,44.66],"type":"Point"}
+}

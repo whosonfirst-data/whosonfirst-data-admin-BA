@@ -1,0 +1,71 @@
+{
+  "id": 1243366919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.19079,43.92184,19.19079,43.92184",
+    "geom:latitude":43.92184,
+    "geom:longitude":19.19079,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornje Stitarevo",
+    "gn:country_code":"BA",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3200076,
+    "gn:latitude":43.92184,
+    "gn:longitude":19.19079,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gornje \u0160titarevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Gornje \u0160titarevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200076,
+        "wk:page":"Gornje_%C5%A0titarevo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"05020057ebec5d7a4fa1d7736efd9727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1243366919,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243366919,
+    "wof:lastmodified":1537585601,
+    "wof:name":"Gornje Stitarevo",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.19079,
+    43.92184,
+    19.19079,
+    43.92184
+],
+  "geometry": {"coordinates":[19.19079,43.92184],"type":"Point"}
+}

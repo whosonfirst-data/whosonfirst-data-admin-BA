@@ -1,0 +1,67 @@
+{
+  "id": 1327440437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83561,44.66975,18.83561,44.66975",
+    "geom:latitude":44.66975,
+    "geom:longitude":18.83561,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Savici",
+    "gn:country_code":"BA",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3256767,
+    "gn:latitude":44.66975,
+    "gn:longitude":18.83561,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Savi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3256767
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d7e878a85fabfe7044edbcac766806f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759159,
+            "locality_id":1327440437,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327440437,
+    "wof:lastmodified":1536669117,
+    "wof:name":"Savici",
+    "wof:parent_id":1108759159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83561,
+    44.66975,
+    18.83561,
+    44.66975
+],
+  "geometry": {"coordinates":[18.83561,44.66975],"type":"Point"}
+}

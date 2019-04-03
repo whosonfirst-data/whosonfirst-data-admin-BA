@@ -1,0 +1,71 @@
+{
+  "id": 1327148507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69597,44.56518,18.69597,44.56518",
+    "geom:latitude":44.56518,
+    "geom:longitude":18.69597,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dedici",
+    "gn:country_code":"BA",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211146,
+    "gn:latitude":44.56518,
+    "gn:longitude":18.69597,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Dedi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hod\u017ei\u0107i",
+        "Dedi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211146
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3e6a12084345c2b33c7586b29a216f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1327148507,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1327148507,
+    "wof:lastmodified":1537585646,
+    "wof:name":"Dedici",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69597000000001,
+    44.56518,
+    18.69597000000001,
+    44.56518
+],
+  "geometry": {"coordinates":[18.69597000000001,44.56518],"type":"Point"}
+}

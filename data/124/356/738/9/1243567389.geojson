@@ -1,0 +1,67 @@
+{
+  "id": 1243567389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33806,43.7925,19.33806,43.7925",
+    "geom:latitude":43.7925,
+    "geom:longitude":19.33806,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dubovik",
+    "gn:country_code":"BA",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3319212,
+    "gn:latitude":43.7925,
+    "gn:longitude":19.33806,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Dubovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3319212
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"f8c43b39556070dfe2eaa337998f8c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1243567389,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243567389,
+    "wof:lastmodified":1536629505,
+    "wof:name":"Dubovik",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33806,
+    43.7925,
+    19.33806,
+    43.7925
+],
+  "geometry": {"coordinates":[19.33806,43.7925],"type":"Point"}
+}

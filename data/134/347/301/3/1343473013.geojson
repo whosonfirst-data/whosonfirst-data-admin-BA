@@ -1,0 +1,71 @@
+{
+  "id": 1343473013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79618,43.75925,18.79618,43.75925",
+    "geom:latitude":43.75925,
+    "geom:longitude":18.79618,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sajinovici",
+    "gn:country_code":"BA",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3191349,
+    "gn:latitude":43.75925,
+    "gn:longitude":18.79618,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0160ajinovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ajnovi\u0107i",
+        "\u0160ajinovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191349
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7b24c403d324f8508de0c87915f4e2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759199,
+            "locality_id":1343473013,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1343473013,
+    "wof:lastmodified":1537585565,
+    "wof:name":"Sajinovici",
+    "wof:parent_id":1108759199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79618,
+    43.75925,
+    18.79618,
+    43.75925
+],
+  "geometry": {"coordinates":[18.79618,43.75925],"type":"Point"}
+}

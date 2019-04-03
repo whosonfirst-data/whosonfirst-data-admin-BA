@@ -1,0 +1,67 @@
+{
+  "id": 1242979761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95591,44.26942,18.95591,44.26942",
+    "geom:latitude":44.26942,
+    "geom:longitude":18.95591,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pesevina",
+    "gn:country_code":"BA",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3274446,
+    "gn:latitude":44.26942,
+    "gn:longitude":18.95591,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Pe\u0161evina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3274446
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7433f6b60bd25c228344f230c49bc7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759289,
+            "locality_id":1242979761,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242979761,
+    "wof:lastmodified":1536980620,
+    "wof:name":"Pesevina",
+    "wof:parent_id":1108759289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95591,
+    44.26942,
+    18.95591,
+    44.26942
+],
+  "geometry": {"coordinates":[18.95591,44.26942],"type":"Point"}
+}

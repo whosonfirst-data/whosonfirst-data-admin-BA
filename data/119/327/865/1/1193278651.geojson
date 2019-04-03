@@ -1,0 +1,67 @@
+{
+  "id": 1193278651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70829,43.90704,18.70829,43.90704",
+    "geom:latitude":43.90704,
+    "geom:longitude":18.70829,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Koprivice",
+    "gn:country_code":"BA",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212731,
+    "gn:latitude":43.90704,
+    "gn:longitude":18.70829,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Koprivice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212731
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8d79c684306452dc68c2db2d761d42d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1193278651,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193278651,
+    "wof:lastmodified":1536364165,
+    "wof:name":"Koprivice",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70829,
+    43.90704,
+    18.70829,
+    43.90704
+],
+  "geometry": {"coordinates":[18.70829,43.90704],"type":"Point"}
+}

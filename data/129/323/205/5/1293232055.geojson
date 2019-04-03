@@ -1,0 +1,67 @@
+{
+  "id": 1293232055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90221,44.82666,18.90221,44.82666",
+    "geom:latitude":44.82666,
+    "geom:longitude":18.90221,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Mitrovici",
+    "gn:country_code":"BA",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255029,
+    "gn:latitude":44.82666,
+    "gn:longitude":18.90221,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Mitrovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255029
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d020e5deb44037e121457b5619ba16ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1293232055,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1293232055,
+    "wof:lastmodified":1536658494,
+    "wof:name":"Mitrovici",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90221,
+    44.82666,
+    18.90221,
+    44.82666
+],
+  "geometry": {"coordinates":[18.90221,44.82666],"type":"Point"}
+}

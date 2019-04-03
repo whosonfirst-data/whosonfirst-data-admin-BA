@@ -1,0 +1,67 @@
+{
+  "id": 1310714565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37903,44.54328,17.37903,44.54328",
+    "geom:latitude":44.54328,
+    "geom:longitude":17.37903,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tepici",
+    "gn:country_code":"BA",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3250176,
+    "gn:latitude":44.54328,
+    "gn:longitude":17.37903,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tepi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3250176
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a94f37edcfc0759e9e90d10af0628265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759233,
+            "locality_id":1310714565,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310714565,
+    "wof:lastmodified":1536612798,
+    "wof:name":"Tepici",
+    "wof:parent_id":1108759233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37903,
+    44.54328,
+    17.37903,
+    44.54328
+],
+  "geometry": {"coordinates":[17.37903,44.54328],"type":"Point"}
+}

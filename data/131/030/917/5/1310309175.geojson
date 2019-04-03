@@ -1,0 +1,71 @@
+{
+  "id": 1310309175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09009,44.52037,18.09009,44.52037",
+    "geom:latitude":44.52037,
+    "geom:longitude":18.09009,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lijesnica",
+    "gn:country_code":"BA",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3259131,
+    "gn:latitude":44.52037,
+    "gn:longitude":18.09009,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Lije\u0161nica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lije\u0161nica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3259131,
+        "wk:page":"Lije%C5%A1nica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e9472a9e202519da5b220ad399815ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1310309175,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1310309175,
+    "wof:lastmodified":1537585664,
+    "wof:name":"Lijesnica",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09009,
+    44.52037,
+    18.09009,
+    44.52037
+],
+  "geometry": {"coordinates":[18.09009,44.52037],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243458677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.71318,44.14459,18.71318,44.14459",
+    "geom:latitude":44.14459,
+    "geom:longitude":18.71318,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Petrovici",
+    "gn:country_code":"BA",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193391,
+    "gn:latitude":44.14459,
+    "gn:longitude":18.71318,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Petrovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petrovi\u0107",
+        "Petrovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193391
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7a0725a8db5a75d0a66df66ffd8efdc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759193,
+            "locality_id":1243458677,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1243458677,
+    "wof:lastmodified":1537585574,
+    "wof:name":"Petrovici",
+    "wof:parent_id":1108759193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71318,
+    44.14459,
+    18.71318,
+    44.14459
+],
+  "geometry": {"coordinates":[18.71318,44.14459],"type":"Point"}
+}

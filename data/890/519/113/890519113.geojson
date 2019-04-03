@@ -1,0 +1,94 @@
+{
+  "id": 890519113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93894,44.06433,17.93894,44.06433",
+    "geom:latitude":44.06433,
+    "geom:longitude":17.93894,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":5042,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ka\u0107uni"
+    ],
+    "name:dut_x_preferred":[
+        "Ka\u0107uni"
+    ],
+    "name:eng_x_preferred":[
+        "Ka\u0107uni"
+    ],
+    "name:fre_x_preferred":[
+        "Ka\u0107uni"
+    ],
+    "name:hrv_x_preferred":[
+        "Ka\u0107uni"
+    ],
+    "name:swe_x_preferred":[
+        "Ka\u010duni"
+    ],
+    "name:unk_x_variant":[
+        "Ka\u010duni"
+    ],
+    "qs:name":"Kacuni",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289093,
+        "gp:id":22722287,
+        "qs:id":55935,
+        "wd:id":"Q3194540",
+        "wk:page":"Ka\u0107uni"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056092,
+    "wof:geomhash":"7a0a475684377301957a08f80dca1159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759031,
+            "locality_id":890519113,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":890519113,
+    "wof:lastmodified":1553816434,
+    "wof:name":"Kacuni",
+    "wof:parent_id":1108759031,
+    "wof:placetype":"locality",
+    "wof:population":5042,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93894,
+    44.06433,
+    17.93894,
+    44.06433
+],
+  "geometry": {"coordinates":[17.93894,44.06433],"type":"Point"}
+}

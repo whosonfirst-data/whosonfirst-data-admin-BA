@@ -1,0 +1,67 @@
+{
+  "id": 1259492291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79977,45.17408,16.79977,45.17408",
+    "geom:latitude":45.17408,
+    "geom:longitude":16.79977,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Krivdica Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278725,
+    "gn:latitude":45.17408,
+    "gn:longitude":16.79977,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Krivdi\u0107a Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278725
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7d38633bab7d5320cf12994c30c0cfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758999,
+            "locality_id":1259492291,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259492291,
+    "wof:lastmodified":1536844977,
+    "wof:name":"Krivdica Brdo",
+    "wof:parent_id":1108758999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79977,
+    45.17408,
+    16.79977,
+    45.17408
+],
+  "geometry": {"coordinates":[16.79977,45.17408],"type":"Point"}
+}

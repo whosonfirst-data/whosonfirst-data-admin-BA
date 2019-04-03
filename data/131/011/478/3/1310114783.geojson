@@ -1,0 +1,67 @@
+{
+  "id": 1310114783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43466,43.70031,19.43466,43.70031",
+    "geom:latitude":43.70031,
+    "geom:longitude":19.43466,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Popovici",
+    "gn:country_code":"BA",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299293,
+    "gn:latitude":43.70031,
+    "gn:longitude":19.43466,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Popovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299293
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"65be15c49cc6ece2bd4b81456f351321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759217,
+            "locality_id":1310114783,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310114783,
+    "wof:lastmodified":1536982294,
+    "wof:name":"Popovici",
+    "wof:parent_id":1108759217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43466,
+    43.70031,
+    19.43466,
+    43.70031
+],
+  "geometry": {"coordinates":[19.43466,43.70031],"type":"Point"}
+}

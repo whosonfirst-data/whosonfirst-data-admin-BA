@@ -1,0 +1,67 @@
+{
+  "id": 1343871247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.40574,43.60089,19.40574,43.60089",
+    "geom:latitude":43.60089,
+    "geom:longitude":19.40574,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donje Cikote",
+    "gn:country_code":"BA",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201576,
+    "gn:latitude":43.60089,
+    "gn:longitude":19.40574,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Donje Cikote",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201576
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a70ad7e1cdd53504e8e713010902fdf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759217,
+            "locality_id":1343871247,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343871247,
+    "wof:lastmodified":1536650781,
+    "wof:name":"Donje Cikote",
+    "wof:parent_id":1108759217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.40574,
+    43.60089,
+    19.40574,
+    43.60089
+],
+  "geometry": {"coordinates":[19.40574,43.60089],"type":"Point"}
+}

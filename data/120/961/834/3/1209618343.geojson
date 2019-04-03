@@ -1,0 +1,65 @@
+{
+  "id": 1209618343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13268,43.95354,19.13268,43.95354",
+    "geom:latitude":43.95354,
+    "geom:longitude":19.13268,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zepa",
+    "gn:country_code":"BA",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186568,
+    "gn:latitude":43.95354,
+    "gn:longitude":19.13268,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u017depa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017depa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186568,
+        "wk:page":"%C5%BDepa"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d8d2e68ae3af0441a8acd7a6d43b37fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209618343
+        }
+    ],
+    "wof:id":1209618343,
+    "wof:lastmodified":1537585547,
+    "wof:name":"Zepa",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13268,
+    43.95354,
+    19.13268,
+    43.95354
+],
+  "geometry": {"coordinates":[19.13268,43.95354],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343564369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95806,44.64295,18.95806,44.64295",
+    "geom:latitude":44.64295,
+    "geom:longitude":18.95806,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Arapovici",
+    "gn:country_code":"BA",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211459,
+    "gn:latitude":44.64295,
+    "gn:longitude":18.95806,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Arapovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211459
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"81a5f1cd262194e30b17a13d2a6e22cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759159,
+            "locality_id":1343564369,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343564369,
+    "wof:lastmodified":1537090584,
+    "wof:name":"Arapovici",
+    "wof:parent_id":1108759159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95806,
+    44.64295,
+    18.95806,
+    44.64295
+],
+  "geometry": {"coordinates":[18.95806,44.64295],"type":"Point"}
+}

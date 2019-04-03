@@ -1,0 +1,67 @@
+{
+  "id": 1225859583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58528,43.80306,18.58528,43.80306",
+    "geom:latitude":43.80306,
+    "geom:longitude":18.58528,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kremenito Brdo",
+    "gn:country_code":"BA",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206008,
+    "gn:latitude":43.80306,
+    "gn:longitude":18.58528,
+    "gn:modification_date":"1996-02-22",
+    "gn:name":"Kremenito Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206008
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"70f11c7cbd83f9abb457568d9f7d8a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759201,
+            "locality_id":1225859583,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1225859583,
+    "wof:lastmodified":1536992819,
+    "wof:name":"Kremenito Brdo",
+    "wof:parent_id":1108759201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58528,
+    43.80306,
+    18.58528,
+    43.80306
+],
+  "geometry": {"coordinates":[18.58528,43.80306],"type":"Point"}
+}

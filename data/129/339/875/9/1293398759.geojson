@@ -1,0 +1,68 @@
+{
+  "id": 1293398759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10771,45.1181,17.10771,45.1181",
+    "geom:latitude":45.1181,
+    "geom:longitude":17.10771,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Trebovljani",
+    "gn:country_code":"BA",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3188881,
+    "gn:latitude":45.1181,
+    "gn:longitude":17.10771,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Trebovljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188881,
+        "wk:page":"Trebovljani"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"20b23a378292ead1dd92ab3096ef24c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759001,
+            "locality_id":1293398759,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293398759,
+    "wof:lastmodified":1537486718,
+    "wof:name":"Trebovljani",
+    "wof:parent_id":1108759001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10771,
+    45.1181,
+    17.10771,
+    45.1181
+],
+  "geometry": {"coordinates":[17.10771,45.1181],"type":"Point"}
+}

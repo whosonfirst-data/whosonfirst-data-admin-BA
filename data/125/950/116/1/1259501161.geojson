@@ -1,0 +1,67 @@
+{
+  "id": 1259501161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66476,44.60849,18.66476,44.60849",
+    "geom:latitude":44.60849,
+    "geom:longitude":18.66476,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Breske",
+    "gn:country_code":"BA",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203453,
+    "gn:latitude":44.60849,
+    "gn:longitude":18.66476,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bre\u0161ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203453
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c0e1d5ffe0c43f7f4b694d34dd1d4daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":1259501161,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1259501161,
+    "wof:lastmodified":1536832378,
+    "wof:name":"Breske",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66476,
+    44.60849,
+    18.66476,
+    44.60849
+],
+  "geometry": {"coordinates":[18.66476,44.60849],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259893909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5053,44.06721,17.5053,44.06721",
+    "geom:latitude":44.06721,
+    "geom:longitude":17.5053,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gredine",
+    "gn:country_code":"BA",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292304,
+    "gn:latitude":44.06721,
+    "gn:longitude":17.5053,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gredine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292304,
+        "wk:page":"Gredine"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1d6a24f2c37973b0926ba448612a306a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759029,
+            "locality_id":1259893909,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1259893909,
+    "wof:lastmodified":1537486857,
+    "wof:name":"Gredine",
+    "wof:parent_id":1108759029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5053,
+    44.06721,
+    17.5053,
+    44.06721
+],
+  "geometry": {"coordinates":[17.5053,44.06721],"type":"Point"}
+}

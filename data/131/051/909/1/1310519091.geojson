@@ -1,0 +1,67 @@
+{
+  "id": 1310519091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.90413,44.66434,17.90413,44.66434",
+    "geom:latitude":44.66434,
+    "geom:longitude":17.90413,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bobare",
+    "gn:country_code":"BA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203894,
+    "gn:latitude":44.66434,
+    "gn:longitude":17.90413,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bobare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203894
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"742de3936a66a80d67c3ec2b2fb51195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759255,
+            "locality_id":1310519091,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1310519091,
+    "wof:lastmodified":1536897153,
+    "wof:name":"Bobare",
+    "wof:parent_id":1108759255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90413,
+    44.66434,
+    17.90413,
+    44.66434
+],
+  "geometry": {"coordinates":[17.90413,44.66434],"type":"Point"}
+}

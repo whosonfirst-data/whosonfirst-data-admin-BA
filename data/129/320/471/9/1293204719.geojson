@@ -1,0 +1,71 @@
+{
+  "id": 1293204719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81559,45.08351,15.81559,45.08351",
+    "geom:latitude":45.08351,
+    "geom:longitude":15.81559,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kudici",
+    "gn:country_code":"BA",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197016,
+    "gn:latitude":45.08351,
+    "gn:longitude":15.81559,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kudi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kudi\u0107 Selo",
+        "Kudi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197016
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7cd8ff353e0fc81f2ce57b647ef557e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1293204719,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293204719,
+    "wof:lastmodified":1537585588,
+    "wof:name":"Kudici",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81559,
+    45.08351,
+    15.81559,
+    45.08351
+],
+  "geometry": {"coordinates":[15.81559,45.08351],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209013411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36702,43.39687,18.36702,43.39687",
+    "geom:latitude":43.39687,
+    "geom:longitude":18.36702,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Klinja",
+    "gn:country_code":"BA",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198067,
+    "gn:latitude":43.39687,
+    "gn:longitude":18.36702,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Klinja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198067,
+        "wk:page":"Klinja"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"934ed93bb5cd47f44a17182c79f9d171",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209013411
+        }
+    ],
+    "wof:id":1209013411,
+    "wof:lastmodified":1537486760,
+    "wof:name":"Klinja",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36702,
+    43.39687,
+    18.36702,
+    43.39687
+],
+  "geometry": {"coordinates":[18.36702,43.39687],"type":"Point"}
+}

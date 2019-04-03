@@ -1,0 +1,62 @@
+{
+  "id": 1209115043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.74577,43.8283,18.74577,43.8283",
+    "geom:latitude":43.8283,
+    "geom:longitude":18.74577,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Podloznik",
+    "gn:country_code":"BA",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3192973,
+    "gn:latitude":43.8283,
+    "gn:longitude":18.74577,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Podloznik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192973,
+        "wk:page":"Podloznik"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"112d8bc7ee0b857232380f9d2a9a373b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209115043
+        }
+    ],
+    "wof:id":1209115043,
+    "wof:lastmodified":1537486737,
+    "wof:name":"Podloznik",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.74577,
+    43.8283,
+    18.74577,
+    43.8283
+],
+  "geometry": {"coordinates":[18.74577,43.8283],"type":"Point"}
+}

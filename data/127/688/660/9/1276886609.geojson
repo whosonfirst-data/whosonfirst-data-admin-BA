@@ -1,0 +1,68 @@
+{
+  "id": 1276886609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65655,43.527,18.65655,43.527",
+    "geom:latitude":43.527,
+    "geom:longitude":18.65655,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Budanj",
+    "gn:country_code":"BA",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203141,
+    "gn:latitude":43.527,
+    "gn:longitude":18.65655,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Budanj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203141,
+        "wk:page":"Budanj"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ea6f7c2861c80638b7d5a5cd61be7f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1276886609,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276886609,
+    "wof:lastmodified":1537486792,
+    "wof:name":"Budanj",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65655,
+    43.527,
+    18.65655,
+    43.527
+],
+  "geometry": {"coordinates":[18.65655,43.527],"type":"Point"}
+}

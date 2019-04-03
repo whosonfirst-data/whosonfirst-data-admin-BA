@@ -1,0 +1,67 @@
+{
+  "id": 1327337605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08347,44.44682,18.08347,44.44682",
+    "geom:latitude":44.44682,
+    "geom:longitude":18.08347,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Osova",
+    "gn:country_code":"BA",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193881,
+    "gn:latitude":44.44682,
+    "gn:longitude":18.08347,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Osova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193881
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a4e1adbe36d235ef2d055728b28a457b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759299,
+            "locality_id":1327337605,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1327337605,
+    "wof:lastmodified":1536816849,
+    "wof:name":"Osova",
+    "wof:parent_id":1108759299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08347,
+    44.44682,
+    18.08347,
+    44.44682
+],
+  "geometry": {"coordinates":[18.08347,44.44682],"type":"Point"}
+}

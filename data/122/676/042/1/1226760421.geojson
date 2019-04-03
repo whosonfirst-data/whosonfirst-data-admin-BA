@@ -1,0 +1,68 @@
+{
+  "id": 1226760421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77342,43.53805,18.77342,43.53805",
+    "geom:latitude":43.53805,
+    "geom:longitude":18.77342,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Patkovina",
+    "gn:country_code":"BA",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3272552,
+    "gn:latitude":43.53805,
+    "gn:longitude":18.77342,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Patkovina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3272552,
+        "wk:page":"Patkovina"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"03b4c168340b1bd9dc75bfb66a820de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1226760421,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1226760421,
+    "wof:lastmodified":1537486847,
+    "wof:name":"Patkovina",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77342,
+    43.53805,
+    18.77342,
+    43.53805
+],
+  "geometry": {"coordinates":[18.77342,43.53805],"type":"Point"}
+}

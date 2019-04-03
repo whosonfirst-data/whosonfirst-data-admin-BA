@@ -1,0 +1,71 @@
+{
+  "id": 1260092929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17039,43.59818,19.17039,43.59818",
+    "geom:latitude":43.59818,
+    "geom:longitude":19.17039,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Batkovici",
+    "gn:country_code":"BA",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269821,
+    "gn:latitude":43.59818,
+    "gn:longitude":19.17039,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Batkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batkovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269821,
+        "wk:page":"Batkovi%C4%87i_%28%C4%8Cajni%C4%8De%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"915d7e0b6af4b02c167a464f81950043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759035,
+            "locality_id":1260092929,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260092929,
+    "wof:lastmodified":1537585669,
+    "wof:name":"Batkovici",
+    "wof:parent_id":1108759035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17039,
+    43.59818,
+    19.17039,
+    43.59818
+],
+  "geometry": {"coordinates":[19.17039,43.59818],"type":"Point"}
+}

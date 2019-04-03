@@ -1,0 +1,68 @@
+{
+  "id": 1310219123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02272,44.0864,18.02272,44.0864",
+    "geom:latitude":44.0864,
+    "geom:longitude":18.02272,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sebinje",
+    "gn:country_code":"BA",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191191,
+    "gn:latitude":44.0864,
+    "gn:longitude":18.02272,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Sebinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191191,
+        "wk:page":"Sebinje"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"cc253e5e67eb4cd2a237bac925bae8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759119,
+            "locality_id":1310219123,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1310219123,
+    "wof:lastmodified":1537486727,
+    "wof:name":"Sebinje",
+    "wof:parent_id":1108759119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02272,
+    44.0864,
+    18.02272,
+    44.0864
+],
+  "geometry": {"coordinates":[18.02272,44.0864],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243563279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7397,44.10075,18.7397,44.10075",
+    "geom:latitude":44.10075,
+    "geom:longitude":18.7397,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rudine",
+    "gn:country_code":"BA",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204904,
+    "gn:latitude":44.10075,
+    "gn:longitude":18.7397,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Rudine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204904,
+        "wk:page":"Rudine_%28Sokolac%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0912cb596cd7b86618f151ba6aa150e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759235,
+            "locality_id":1243563279,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243563279,
+    "wof:lastmodified":1537486803,
+    "wof:name":"Rudine",
+    "wof:parent_id":1108759235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7397,
+    44.10075,
+    18.7397,
+    44.10075
+],
+  "geometry": {"coordinates":[18.7397,44.10075],"type":"Point"}
+}

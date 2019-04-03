@@ -1,0 +1,72 @@
+{
+  "id": 1259595917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13333,44.83944,18.13333,44.83944",
+    "geom:latitude":44.83944,
+    "geom:longitude":18.13333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Luzani",
+    "gn:cc2":"BA",
+    "gn:country_code":"BA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210836,
+    "gn:latitude":44.83944,
+    "gn:longitude":18.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lu\u017eani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lozani",
+        "Lu\u017eani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210836
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e39c9fbba4977c8f663180ccd7115445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1259595917,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259595917,
+    "wof:lastmodified":1537585641,
+    "wof:name":"Luzani",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13333,
+    44.83944,
+    18.13333,
+    44.83944
+],
+  "geometry": {"coordinates":[18.13333,44.83944],"type":"Point"}
+}

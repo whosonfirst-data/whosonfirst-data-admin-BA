@@ -1,0 +1,67 @@
+{
+  "id": 1293896531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07291,44.24697,17.07291,44.24697",
+    "geom:latitude":44.24697,
+    "geom:longitude":17.07291,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zanatuse",
+    "gn:country_code":"BA",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3260693,
+    "gn:latitude":44.24697,
+    "gn:longitude":17.07291,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zanatu\u0161e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3260693
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fe48fc8127f8d1b8857ba9e391b5aba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1293896531,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1293896531,
+    "wof:lastmodified":1536694712,
+    "wof:name":"Zanatuse",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07291,
+    44.24697000000001,
+    17.07291,
+    44.24697000000001
+],
+  "geometry": {"coordinates":[17.07291,44.24697000000001],"type":"Point"}
+}

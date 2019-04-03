@@ -1,0 +1,67 @@
+{
+  "id": 1193028875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99192,43.83685,18.99192,43.83685",
+    "geom:latitude":43.83685,
+    "geom:longitude":18.99192,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bukrici",
+    "gn:country_code":"BA",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267604,
+    "gn:latitude":43.83685,
+    "gn:longitude":18.99192,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bukri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267604
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"11b73e6ff0ec03d05a3b4641efd6234e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759215,
+            "locality_id":1193028875,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193028875,
+    "wof:lastmodified":1536365698,
+    "wof:name":"Bukrici",
+    "wof:parent_id":1108759215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99192,
+    43.83685,
+    18.99192,
+    43.83685
+],
+  "geometry": {"coordinates":[18.99192,43.83685],"type":"Point"}
+}

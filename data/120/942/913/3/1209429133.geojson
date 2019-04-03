@@ -1,0 +1,61 @@
+{
+  "id": 1209429133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.818,44.99087,15.818,44.99087",
+    "geom:latitude":44.99087,
+    "geom:longitude":15.818,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Suljici",
+    "gn:country_code":"BA",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3212963,
+    "gn:latitude":44.99087,
+    "gn:longitude":15.818,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sulji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3212963
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3d99914e68ef5ef3d56e0419fc8097d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209429133
+        }
+    ],
+    "wof:id":1209429133,
+    "wof:lastmodified":1536287287,
+    "wof:name":"Suljici",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.818,
+    44.99087,
+    15.818,
+    44.99087
+],
+  "geometry": {"coordinates":[15.818,44.99087],"type":"Point"}
+}

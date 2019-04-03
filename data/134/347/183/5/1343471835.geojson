@@ -1,0 +1,67 @@
+{
+  "id": 1343471835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08859,44.78118,18.08859,44.78118",
+    "geom:latitude":44.78118,
+    "geom:longitude":18.08859,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pranjkovac",
+    "gn:country_code":"BA",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3253157,
+    "gn:latitude":44.78118,
+    "gn:longitude":18.08859,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pranjkovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3253157
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a3854ad4aff2d458eefa81f75986504a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1343471835,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343471835,
+    "wof:lastmodified":1536730007,
+    "wof:name":"Pranjkovac",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08859,
+    44.78118,
+    18.08859,
+    44.78118
+],
+  "geometry": {"coordinates":[18.08859,44.78118],"type":"Point"}
+}

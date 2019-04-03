@@ -1,0 +1,68 @@
+{
+  "id": 1259501205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28333,44.01181,18.28333,44.01181",
+    "geom:latitude":44.01181,
+    "geom:longitude":18.28333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Koritnik",
+    "gn:country_code":"BA",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197672,
+    "gn:latitude":44.01181,
+    "gn:longitude":18.28333,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Koritnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197672,
+        "wk:page":"Koritnik_%28Breza%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"72342b453d211cef2ebeec7eadc94d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759027,
+            "locality_id":1259501205,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1259501205,
+    "wof:lastmodified":1537486758,
+    "wof:name":"Koritnik",
+    "wof:parent_id":1108759027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28333,
+    44.01181,
+    18.28333,
+    44.01181
+],
+  "geometry": {"coordinates":[18.28333,44.01181],"type":"Point"}
+}

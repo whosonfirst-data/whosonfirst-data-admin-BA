@@ -1,0 +1,61 @@
+{
+  "id": 1209318719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99259,43.28713,17.99259,43.28713",
+    "geom:latitude":43.28713,
+    "geom:longitude":17.99259,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Korita",
+    "gn:country_code":"BA",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263474,
+    "gn:latitude":43.28713,
+    "gn:longitude":17.99259,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Korita",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263474
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6b5186f9bc4ae82e8aee24b56eedf066",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209318719
+        }
+    ],
+    "wof:id":1209318719,
+    "wof:lastmodified":1536290773,
+    "wof:name":"Korita",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99259,
+    43.28713,
+    17.99259,
+    43.28713
+],
+  "geometry": {"coordinates":[17.99259,43.28713],"type":"Point"}
+}

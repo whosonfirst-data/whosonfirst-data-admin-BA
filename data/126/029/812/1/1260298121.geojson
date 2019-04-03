@@ -1,0 +1,67 @@
+{
+  "id": 1260298121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35777,43.29615,18.35777,43.29615",
+    "geom:latitude":43.29615,
+    "geom:longitude":18.35777,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Valje",
+    "gn:country_code":"BA",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3265826,
+    "gn:latitude":43.29615,
+    "gn:longitude":18.35777,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Valje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265826
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ed40c7153d5d78f700a015b41b68324b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759079,
+            "locality_id":1260298121,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260298121,
+    "wof:lastmodified":1536692419,
+    "wof:name":"Valje",
+    "wof:parent_id":1108759079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35777,
+    43.29615,
+    18.35777,
+    43.29615
+],
+  "geometry": {"coordinates":[18.35777,43.29615],"type":"Point"}
+}

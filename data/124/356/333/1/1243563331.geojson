@@ -1,0 +1,71 @@
+{
+  "id": 1243563331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48157,45.13094,16.48157,45.13094",
+    "geom:latitude":45.13094,
+    "geom:longitude":16.48157,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gornje Vodicevo",
+    "gn:country_code":"BA",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200070,
+    "gn:latitude":45.13094,
+    "gn:longitude":16.48157,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Gornje Vodi\u010devo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornje Vodi\u010devo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200070,
+        "wk:page":"Gornje_Vodi%C4%8Devo"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a6658900be74a06aabb4a144b9040274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759011,
+            "locality_id":1243563331,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243563331,
+    "wof:lastmodified":1537585601,
+    "wof:name":"Gornje Vodicevo",
+    "wof:parent_id":1108759011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48157,
+    45.13094,
+    16.48157,
+    45.13094
+],
+  "geometry": {"coordinates":[16.48157,45.13094],"type":"Point"}
+}

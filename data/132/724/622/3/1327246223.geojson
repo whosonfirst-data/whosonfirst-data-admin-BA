@@ -1,0 +1,67 @@
+{
+  "id": 1327246223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.07306,44.69667,19.07306,44.69667",
+    "geom:latitude":44.69667,
+    "geom:longitude":19.07306,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gurbet",
+    "gn:country_code":"BA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211563,
+    "gn:latitude":44.69667,
+    "gn:longitude":19.07306,
+    "gn:modification_date":"1995-12-08",
+    "gn:name":"Gurbet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211563
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fff40a93072c1aa295e52195d9c3f6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759273,
+            "locality_id":1327246223,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1327246223,
+    "wof:lastmodified":1536949762,
+    "wof:name":"Gurbet",
+    "wof:parent_id":1108759273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07306,
+    44.69667000000001,
+    19.07306,
+    44.69667000000001
+],
+  "geometry": {"coordinates":[19.07306,44.69667000000001],"type":"Point"}
+}

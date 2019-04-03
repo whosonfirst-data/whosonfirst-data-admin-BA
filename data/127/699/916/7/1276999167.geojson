@@ -1,0 +1,67 @@
+{
+  "id": 1276999167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29559,44.4503,18.29559,44.4503",
+    "geom:latitude":44.4503,
+    "geom:longitude":18.29559,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Svinjasnica",
+    "gn:country_code":"BA",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258318,
+    "gn:latitude":44.4503,
+    "gn:longitude":18.29559,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Svinja\u0161nica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258318
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8bb200fc082dd249ccc028c0b1844603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1276999167,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1276999167,
+    "wof:lastmodified":1536880478,
+    "wof:name":"Svinjasnica",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29559,
+    44.4503,
+    18.29559,
+    44.4503
+],
+  "geometry": {"coordinates":[18.29559,44.4503],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260195913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93581,43.46241,18.93581,43.46241",
+    "geom:latitude":43.46241,
+    "geom:longitude":18.93581,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Veselice",
+    "gn:country_code":"BA",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3296470,
+    "gn:latitude":43.46241,
+    "gn:longitude":18.93581,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Veselice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296470
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"42e3cc3c610e1d2a1714a9674565b7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1260195913,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1260195913,
+    "wof:lastmodified":1536829831,
+    "wof:name":"Veselice",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93581,
+    43.46241,
+    18.93581,
+    43.46241
+],
+  "geometry": {"coordinates":[18.93581,43.46241],"type":"Point"}
+}

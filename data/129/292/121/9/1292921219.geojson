@@ -1,0 +1,71 @@
+{
+  "id": 1292921219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35752,44.80258,18.35752,44.80258",
+    "geom:latitude":44.80258,
+    "geom:longitude":18.35752,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Imsirovici",
+    "gn:country_code":"BA",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210910,
+    "gn:latitude":44.80258,
+    "gn:longitude":18.35752,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Im\u0161irovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Im\u0161itovi\u0107i",
+        "Im\u0161irovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210910
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4869674cb2fedb4f06d5accb9fa38a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759093,
+            "locality_id":1292921219,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1292921219,
+    "wof:lastmodified":1537585643,
+    "wof:name":"Imsirovici",
+    "wof:parent_id":1108759093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35752,
+    44.80258,
+    18.35752,
+    44.80258
+],
+  "geometry": {"coordinates":[18.35752,44.80258],"type":"Point"}
+}

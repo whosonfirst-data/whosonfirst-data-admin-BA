@@ -1,0 +1,67 @@
+{
+  "id": 1310207981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99175,44.89213,16.99175,44.89213",
+    "geom:latitude":44.89213,
+    "geom:longitude":16.99175,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sutilovici",
+    "gn:country_code":"BA",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3248782,
+    "gn:latitude":44.89213,
+    "gn:longitude":16.99175,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0160utilovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3248782
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"81ffda1290c28458fce599c5ba3c9acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758989,
+            "locality_id":1310207981,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1310207981,
+    "wof:lastmodified":1536847570,
+    "wof:name":"Sutilovici",
+    "wof:parent_id":1108758989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99175,
+    44.89213,
+    16.99175,
+    44.89213
+],
+  "geometry": {"coordinates":[16.99175,44.89213],"type":"Point"}
+}

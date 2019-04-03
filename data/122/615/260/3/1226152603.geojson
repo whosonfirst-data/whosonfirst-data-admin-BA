@@ -1,0 +1,72 @@
+{
+  "id": 1226152603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0513,43.57218,17.0513,43.57218",
+    "geom:latitude":43.57218,
+    "geom:longitude":17.0513,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vinica",
+    "gn:country_code":"BA",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3187738,
+    "gn:latitude":43.57218,
+    "gn:longitude":17.0513,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vinica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinice",
+        "Vinica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187738,
+        "wk:page":"Vinica%2C_Tomislavgrad"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3272001407bee70d6d8630a4b757c8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759261,
+            "locality_id":1226152603,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1226152603,
+    "wof:lastmodified":1537585552,
+    "wof:name":"Vinica",
+    "wof:parent_id":1108759261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0513,
+    43.57218,
+    17.0513,
+    43.57218
+],
+  "geometry": {"coordinates":[17.0513,43.57218],"type":"Point"}
+}

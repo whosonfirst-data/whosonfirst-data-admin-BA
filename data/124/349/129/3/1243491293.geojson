@@ -1,0 +1,67 @@
+{
+  "id": 1243491293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8914,44.80944,18.8914,44.80944",
+    "geom:latitude":44.80944,
+    "geom:longitude":18.8914,
+    "gn:admin1_code":"BRC",
+    "gn:asciiname":"Joveljici",
+    "gn:country_code":"BA",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255416,
+    "gn:latitude":44.80944,
+    "gn:longitude":18.8914,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Jovelji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632279,
+        1108759025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255416
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1d8709f24061bf1c5dff774e6a624500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759025,
+            "locality_id":1243491293,
+            "region_id":85632279
+        }
+    ],
+    "wof:id":1243491293,
+    "wof:lastmodified":1536740619,
+    "wof:name":"Joveljici",
+    "wof:parent_id":1108759025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8914,
+    44.80944,
+    18.8914,
+    44.80944
+],
+  "geometry": {"coordinates":[18.8914,44.80944],"type":"Point"}
+}

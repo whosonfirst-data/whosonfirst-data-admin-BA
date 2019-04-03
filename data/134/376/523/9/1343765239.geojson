@@ -1,0 +1,71 @@
+{
+  "id": 1343765239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63161,43.53829,18.63161,43.53829",
+    "geom:latitude":43.53829,
+    "geom:longitude":18.63161,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Smajilov Do",
+    "gn:country_code":"BA",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3206547,
+    "gn:latitude":43.53829,
+    "gn:longitude":18.63161,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Smajilov Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smajlov Do",
+        "Smajilov Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3206547
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"0ce1709e71eb52b51c7e719a85f8f334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759073,
+            "locality_id":1343765239,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343765239,
+    "wof:lastmodified":1537585635,
+    "wof:name":"Smajilov Do",
+    "wof:parent_id":1108759073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63161,
+    43.53829,
+    18.63161,
+    43.53829
+],
+  "geometry": {"coordinates":[18.63161,43.53829],"type":"Point"}
+}

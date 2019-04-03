@@ -1,0 +1,67 @@
+{
+  "id": 1327241207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32474,44.2353,16.32474,44.2353",
+    "geom:latitude":44.2353,
+    "geom:longitude":16.32474,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Koturi",
+    "gn:country_code":"BA",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281780,
+    "gn:latitude":44.2353,
+    "gn:longitude":16.32474,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Koturi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281780
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"358be673ef90a0e57b1b05d42b93883c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1327241207,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1327241207,
+    "wof:lastmodified":1536956781,
+    "wof:name":"Koturi",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32474,
+    44.2353,
+    16.32474,
+    44.2353
+],
+  "geometry": {"coordinates":[16.32474,44.2353],"type":"Point"}
+}

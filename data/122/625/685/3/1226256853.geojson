@@ -1,0 +1,72 @@
+{
+  "id": 1226256853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39245,44.75748,18.39245,44.75748",
+    "geom:latitude":44.75748,
+    "geom:longitude":18.39245,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Doborovci",
+    "gn:country_code":"BA",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201981,
+    "gn:latitude":44.75748,
+    "gn:longitude":18.39245,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Doborovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobrovci",
+        "Doborovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201981,
+        "wk:page":"Doborovci"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c5fae43d90ce67e5ccb8a547558dbe07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1226256853,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1226256853,
+    "wof:lastmodified":1537585614,
+    "wof:name":"Doborovci",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39245,
+    44.75748,
+    18.39245,
+    44.75748
+],
+  "geometry": {"coordinates":[18.39245,44.75748],"type":"Point"}
+}

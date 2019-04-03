@@ -1,0 +1,67 @@
+{
+  "id": 1210020537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.276,44.44013,18.276,44.44013",
+    "geom:latitude":44.44013,
+    "geom:longitude":18.276,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tripunovici",
+    "gn:country_code":"BA",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3257390,
+    "gn:latitude":44.44013,
+    "gn:longitude":18.276,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tripunovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3257390
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c919e7485900b6bfba65187f327dddad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759295,
+            "locality_id":1210020537,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1210020537,
+    "wof:lastmodified":1536393069,
+    "wof:name":"Tripunovici",
+    "wof:parent_id":1108759295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.276,
+    44.44013,
+    18.276,
+    44.44013
+],
+  "geometry": {"coordinates":[18.276,44.44013],"type":"Point"}
+}

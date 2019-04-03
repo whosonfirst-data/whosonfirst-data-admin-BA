@@ -1,0 +1,67 @@
+{
+  "id": 1327343199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91917,45.04389,15.91917,45.04389",
+    "geom:latitude":45.04389,
+    "geom:longitude":15.91917,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hajdarovac",
+    "gn:country_code":"BA",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277999,
+    "gn:latitude":45.04389,
+    "gn:longitude":15.91917,
+    "gn:modification_date":"1997-12-17",
+    "gn:name":"Hajdarovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277999
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"56bc0a31c663fab915ce77154a0ccd7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1327343199,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1327343199,
+    "wof:lastmodified":1536809122,
+    "wof:name":"Hajdarovac",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91917,
+    45.04389000000001,
+    15.91917,
+    45.04389000000001
+],
+  "geometry": {"coordinates":[15.91917,45.04389000000001],"type":"Point"}
+}

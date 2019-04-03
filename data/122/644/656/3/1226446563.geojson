@@ -1,0 +1,67 @@
+{
+  "id": 1226446563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.79751,43.35625,17.79751,43.35625",
+    "geom:latitude":43.35625,
+    "geom:longitude":17.79751,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vihovici",
+    "gn:country_code":"BA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3265603,
+    "gn:latitude":43.35625,
+    "gn:longitude":17.79751,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Vihovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3265603
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"13a3062269c4fba410e8f48c82dfb75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1226446563,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1226446563,
+    "wof:lastmodified":1536643609,
+    "wof:name":"Vihovici",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79751,
+    43.35625,
+    17.79751,
+    43.35625
+],
+  "geometry": {"coordinates":[17.79751,43.35625],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243567137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19175,44.17905,17.19175,44.17905",
+    "geom:latitude":44.17905,
+    "geom:longitude":17.19175,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tesici",
+    "gn:country_code":"BA",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238362,
+    "gn:latitude":44.17905,
+    "gn:longitude":17.19175,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Te\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238362
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dabfa04a05a5451090b15fd93f381431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759229,
+            "locality_id":1243567137,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243567137,
+    "wof:lastmodified":1536629893,
+    "wof:name":"Tesici",
+    "wof:parent_id":1108759229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19175,
+    44.17905,
+    17.19175,
+    44.17905
+],
+  "geometry": {"coordinates":[17.19175,44.17905],"type":"Point"}
+}

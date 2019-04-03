@@ -1,0 +1,67 @@
+{
+  "id": 1242973987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.44934,43.64386,18.44934,43.64386",
+    "geom:latitude":43.64386,
+    "geom:longitude":18.44934,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sirokari",
+    "gn:country_code":"BA",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268716,
+    "gn:latitude":43.64386,
+    "gn:longitude":18.44934,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0160irokari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268716
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7ffa7280df5b23050f53e9d85132dd6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759269,
+            "locality_id":1242973987,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242973987,
+    "wof:lastmodified":1536988835,
+    "wof:name":"Sirokari",
+    "wof:parent_id":1108759269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44934,
+    43.64386,
+    18.44934,
+    43.64386
+],
+  "geometry": {"coordinates":[18.44934,43.64386],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209223597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.50997,43.66618,19.50997,43.66618",
+    "geom:latitude":43.66618,
+    "geom:longitude":19.50997,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Drazevina",
+    "gn:country_code":"BA",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302861,
+    "gn:latitude":43.66618,
+    "gn:longitude":19.50997,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dra\u017eevina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302861
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7405852b31bcdf8de16e8e5e676b540a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209223597
+        }
+    ],
+    "wof:id":1209223597,
+    "wof:lastmodified":1536293875,
+    "wof:name":"Drazevina",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.509970000000006,
+    43.66618,
+    19.509970000000006,
+    43.66618
+],
+  "geometry": {"coordinates":[19.50997000000001,43.66618],"type":"Point"}
+}

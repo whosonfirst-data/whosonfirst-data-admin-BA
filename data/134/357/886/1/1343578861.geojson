@@ -1,0 +1,67 @@
+{
+  "id": 1343578861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.90048,44.24326,17.90048,44.24326",
+    "geom:latitude":44.24326,
+    "geom:longitude":17.90048,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Heca",
+    "gn:country_code":"BA",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289960,
+    "gn:latitude":44.24326,
+    "gn:longitude":17.90048,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Heca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289960
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"2f627cbb4780a386ed978332b3214153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759297,
+            "locality_id":1343578861,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1343578861,
+    "wof:lastmodified":1537069849,
+    "wof:name":"Heca",
+    "wof:parent_id":1108759297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90047999999999,
+    44.24326,
+    17.90047999999999,
+    44.24326
+],
+  "geometry": {"coordinates":[17.90047999999999,44.24326],"type":"Point"}
+}

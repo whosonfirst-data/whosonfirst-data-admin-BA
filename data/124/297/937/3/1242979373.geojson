@@ -1,0 +1,67 @@
+{
+  "id": 1242979373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.88314,44.01772,18.88314,44.01772",
+    "geom:latitude":44.01772,
+    "geom:longitude":18.88314,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Han Hanic",
+    "gn:country_code":"BA",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269553,
+    "gn:latitude":44.01772,
+    "gn:longitude":18.88314,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Han Hani\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269553
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"6fe31a38e9d39250cd1153c382d2e7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759103,
+            "locality_id":1242979373,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1242979373,
+    "wof:lastmodified":1536981181,
+    "wof:name":"Han Hanic",
+    "wof:parent_id":1108759103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.88314,
+    44.01772,
+    18.88314,
+    44.01772
+],
+  "geometry": {"coordinates":[18.88314,44.01772],"type":"Point"}
+}

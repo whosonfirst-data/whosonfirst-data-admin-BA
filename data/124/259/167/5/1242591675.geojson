@@ -1,0 +1,71 @@
+{
+  "id": 1242591675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48172,43.69653,18.48172,43.69653",
+    "geom:latitude":43.69653,
+    "geom:longitude":18.48172,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Slavljevici",
+    "gn:country_code":"BA",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190593,
+    "gn:latitude":43.69653,
+    "gn:longitude":18.48172,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Slavljevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slavljevi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190593,
+        "wk:page":"Slavljevi%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1f046a4110befbd8bdba42bce8bf5ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759267,
+            "locality_id":1242591675,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1242591675,
+    "wof:lastmodified":1537585562,
+    "wof:name":"Slavljevici",
+    "wof:parent_id":1108759267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48172000000001,
+    43.69653,
+    18.48172000000001,
+    43.69653
+],
+  "geometry": {"coordinates":[18.48172000000001,43.69653],"type":"Point"}
+}

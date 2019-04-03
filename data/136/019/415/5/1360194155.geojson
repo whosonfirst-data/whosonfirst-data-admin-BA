@@ -1,0 +1,71 @@
+{
+  "id": 1360194155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23635,43.97446,18.23635,43.97446",
+    "geom:latitude":43.97446,
+    "geom:longitude":18.23635,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ljubnici",
+    "gn:country_code":"BA",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196340,
+    "gn:latitude":43.97446,
+    "gn:longitude":18.23635,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ljubni\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ljubni\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196340,
+        "wk:page":"Ljubni%C4%87i"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"04f37f912f9102f9a208d5934b1773c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759109,
+            "locality_id":1360194155,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1360194155,
+    "wof:lastmodified":1537585585,
+    "wof:name":"Ljubnici",
+    "wof:parent_id":1108759109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23635,
+    43.97446,
+    18.23635,
+    43.97446
+],
+  "geometry": {"coordinates":[18.23635,43.97446],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209224145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66016,44.21082,17.66016,44.21082",
+    "geom:latitude":44.21082,
+    "geom:longitude":17.66016,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vilenica",
+    "gn:country_code":"BA",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292776,
+    "gn:latitude":44.21082,
+    "gn:longitude":17.66016,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Vilenica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292776
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"82dc4f3beb3397e6267bc6cebc709675",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209224145
+        }
+    ],
+    "wof:id":1209224145,
+    "wof:lastmodified":1536293856,
+    "wof:name":"Vilenica",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66016,
+    44.21082,
+    17.66016,
+    44.21082
+],
+  "geometry": {"coordinates":[17.66016,44.21082],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326547807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1141,43.96055,18.1141,43.96055",
+    "geom:latitude":43.96055,
+    "geom:longitude":18.1141,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tusnjici",
+    "gn:country_code":"BA",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188592,
+    "gn:latitude":43.96055,
+    "gn:longitude":18.1141,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tu\u0161nji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu\u0161nici",
+        "Tu\u0161nji\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188592
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"89f4837211dd8d9cf12edf8b0505cd94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759285,
+            "locality_id":1326547807,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1326547807,
+    "wof:lastmodified":1537585555,
+    "wof:name":"Tusnjici",
+    "wof:parent_id":1108759285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1141,
+    43.96055,
+    18.1141,
+    43.96055
+],
+  "geometry": {"coordinates":[18.1141,43.96055],"type":"Point"}
+}

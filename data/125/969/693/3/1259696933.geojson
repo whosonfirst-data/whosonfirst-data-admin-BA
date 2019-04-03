@@ -1,0 +1,68 @@
+{
+  "id": 1259696933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.23015,43.5463,19.23015,43.5463",
+    "geom:latitude":43.5463,
+    "geom:longitude":19.23015,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kamen",
+    "gn:country_code":"BA",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299925,
+    "gn:latitude":43.5463,
+    "gn:longitude":19.23015,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kamen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299925,
+        "wk:page":"Kamen_%28%C4%8Cajni%C4%8De%29"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a84dfceac3e9e8db8c3d314fc5f73f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759035,
+            "locality_id":1259696933,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259696933,
+    "wof:lastmodified":1537486868,
+    "wof:name":"Kamen",
+    "wof:parent_id":1108759035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.23015,
+    43.5463,
+    19.23015,
+    43.5463
+],
+  "geometry": {"coordinates":[19.23015,43.5463],"type":"Point"}
+}

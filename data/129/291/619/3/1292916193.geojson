@@ -1,0 +1,67 @@
+{
+  "id": 1292916193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05372,44.87052,18.05372,44.87052",
+    "geom:latitude":44.87052,
+    "geom:longitude":18.05372,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stojakovici",
+    "gn:country_code":"BA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3255847,
+    "gn:latitude":44.87052,
+    "gn:longitude":18.05372,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Stojakovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3255847
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"ac660a74508083f29619a86c0845bb20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759053,
+            "locality_id":1292916193,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1292916193,
+    "wof:lastmodified":1536614128,
+    "wof:name":"Stojakovici",
+    "wof:parent_id":1108759053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05372,
+    44.87052,
+    18.05372,
+    44.87052
+],
+  "geometry": {"coordinates":[18.05372,44.87052],"type":"Point"}
+}

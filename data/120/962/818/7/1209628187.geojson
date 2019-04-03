@@ -1,0 +1,66 @@
+{
+  "id": 1209628187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.27288,44.79442,19.27288,44.79442",
+    "geom:latitude":44.79442,
+    "geom:longitude":19.27288,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stara Ljeskovaca",
+    "gn:country_code":"BA",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3211539,
+    "gn:latitude":44.79442,
+    "gn:longitude":19.27288,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Stara Ljeskova\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leskova\u010da",
+        "Stara Leskova\u010da",
+        "Stara Ljeskova\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211539
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5c572bd0edda216c2430c3d3ec2342ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632609,
+            "locality_id":1209628187
+        }
+    ],
+    "wof:id":1209628187,
+    "wof:lastmodified":1537585651,
+    "wof:name":"Stara Ljeskovaca",
+    "wof:parent_id":85632609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.27288,
+    44.79442,
+    19.27288,
+    44.79442
+],
+  "geometry": {"coordinates":[19.27288,44.79442],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260186465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9656,43.70942,16.9656,43.70942",
+    "geom:latitude":43.70942,
+    "geom:longitude":16.9656,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Podgradina",
+    "gn:country_code":"BA",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193018,
+    "gn:latitude":43.70942,
+    "gn:longitude":16.9656,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Podgradina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podgredine",
+        "Podgradine",
+        "Podgradina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193018
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e8692274ab37b24ce2c0fd145fdcd22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759153,
+            "locality_id":1260186465,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1260186465,
+    "wof:lastmodified":1537585573,
+    "wof:name":"Podgradina",
+    "wof:parent_id":1108759153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9656,
+    43.70942,
+    16.9656,
+    43.70942
+],
+  "geometry": {"coordinates":[16.9656,43.70942],"type":"Point"}
+}

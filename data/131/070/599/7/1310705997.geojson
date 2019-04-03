@@ -1,0 +1,71 @@
+{
+  "id": 1310705997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.30172,44.72957,18.30172,44.72957",
+    "geom:latitude":44.72957,
+    "geom:longitude":18.30172,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kahvedzije",
+    "gn:country_code":"BA",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210981,
+    "gn:latitude":44.72957,
+    "gn:longitude":18.30172,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kahved\u017eije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kohved\u017eije",
+        "Kahved\u017eije"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210981
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"bd8025f685e7e58c034bd20270840aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759089,
+            "locality_id":1310705997,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1310705997,
+    "wof:lastmodified":1537585644,
+    "wof:name":"Kahvedzije",
+    "wof:parent_id":1108759089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.30172,
+    44.72957,
+    18.30172,
+    44.72957
+],
+  "geometry": {"coordinates":[18.30172,44.72957],"type":"Point"}
+}

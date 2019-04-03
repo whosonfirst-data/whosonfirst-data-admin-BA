@@ -1,0 +1,71 @@
+{
+  "id": 1193030167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59747,44.10575,16.59747,44.10575",
+    "geom:latitude":44.10575,
+    "geom:longitude":16.59747,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nuglasica",
+    "gn:country_code":"BA",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3194313,
+    "gn:latitude":44.10575,
+    "gn:longitude":16.59747,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Nugla\u0161ica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nugla\u0161ica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669203,
+        1108759019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194313,
+        "wk:page":"Nugla%C5%A1ica"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"8830036559af90d3c4fec779ba31ccbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759019,
+            "locality_id":1193030167,
+            "region_id":85669203
+        }
+    ],
+    "wof:id":1193030167,
+    "wof:lastmodified":1537585578,
+    "wof:name":"Nuglasica",
+    "wof:parent_id":1108759019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59747,
+    44.10575,
+    16.59747,
+    44.10575
+],
+  "geometry": {"coordinates":[16.59747,44.10575],"type":"Point"}
+}

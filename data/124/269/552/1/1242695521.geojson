@@ -1,0 +1,67 @@
+{
+  "id": 1242695521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.62465,43.46241,17.62465,43.46241",
+    "geom:latitude":43.46241,
+    "geom:longitude":17.62465,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bogodolska Ladina",
+    "gn:country_code":"BA",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287751,
+    "gn:latitude":43.46241,
+    "gn:longitude":17.62465,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bogodolska Ladina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287751
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d2ca463ced99253a477a927f5346f7fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759171,
+            "locality_id":1242695521,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1242695521,
+    "wof:lastmodified":1536893650,
+    "wof:name":"Bogodolska Ladina",
+    "wof:parent_id":1108759171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62465,
+    43.46241,
+    17.62465,
+    43.46241
+],
+  "geometry": {"coordinates":[17.62465,43.46241],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243567127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2224,43.81036,19.2224,43.81036",
+    "geom:latitude":43.81036,
+    "geom:longitude":19.2224,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hranjevac",
+    "gn:country_code":"BA",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199322,
+    "gn:latitude":43.81036,
+    "gn:longitude":19.2224,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Hranjevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199322,
+        "wk:page":"Hranjevac"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"dde0bb5ee09686050ab51eeb129ea0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759283,
+            "locality_id":1243567127,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243567127,
+    "wof:lastmodified":1537486766,
+    "wof:name":"Hranjevac",
+    "wof:parent_id":1108759283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2224,
+    43.81036,
+    19.2224,
+    43.81036
+],
+  "geometry": {"coordinates":[19.2224,43.81036],"type":"Point"}
+}

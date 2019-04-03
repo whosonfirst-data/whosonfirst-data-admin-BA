@@ -1,0 +1,67 @@
+{
+  "id": 1309812411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26659,43.25708,18.26659,43.25708",
+    "geom:latitude":43.25708,
+    "geom:longitude":18.26659,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Knezak",
+    "gn:country_code":"BA",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264137,
+    "gn:latitude":43.25708,
+    "gn:longitude":18.26659,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Kne\u017eak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264137
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"408b6d76ff85e9d45a00a50d8fd230e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1309812411,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1309812411,
+    "wof:lastmodified":1536922096,
+    "wof:name":"Knezak",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26659,
+    43.25708,
+    18.26659,
+    43.25708
+],
+  "geometry": {"coordinates":[18.26659,43.25708],"type":"Point"}
+}

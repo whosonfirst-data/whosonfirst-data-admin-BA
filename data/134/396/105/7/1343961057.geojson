@@ -1,0 +1,67 @@
+{
+  "id": 1343961057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.74508,44.9465,17.74508,44.9465",
+    "geom:latitude":44.9465,
+    "geom:longitude":17.74508,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Milijasi",
+    "gn:country_code":"BA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3249743,
+    "gn:latitude":44.9465,
+    "gn:longitude":17.74508,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Milija\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3249743
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"191dc70c116078b2f7f763e46f6e6714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759209,
+            "locality_id":1343961057,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343961057,
+    "wof:lastmodified":1537018310,
+    "wof:name":"Milijasi",
+    "wof:parent_id":1108759209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.74507999999999,
+    44.9465,
+    17.74507999999999,
+    44.9465
+],
+  "geometry": {"coordinates":[17.74507999999999,44.9465],"type":"Point"}
+}

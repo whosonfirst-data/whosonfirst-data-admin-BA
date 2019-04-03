@@ -1,0 +1,73 @@
+{
+  "id": 1193028653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15868,43.3381,18.15868,43.3381",
+    "geom:latitude":43.3381,
+    "geom:longitude":18.15868,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Donja Bijenja",
+    "gn:country_code":"BA",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201720,
+    "gn:latitude":43.3381,
+    "gn:longitude":18.15868,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Donja Bijenja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bijenja",
+        "Donja Bjelina",
+        "Donja Bijenja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201720,
+        "wk:page":"Donja_Bijenja"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"3518b7cd0e3c0dd8995c82749005f7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759179,
+            "locality_id":1193028653,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1193028653,
+    "wof:lastmodified":1537585614,
+    "wof:name":"Donja Bijenja",
+    "wof:parent_id":1108759179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15868,
+    43.3381,
+    18.15868,
+    43.3381
+],
+  "geometry": {"coordinates":[18.15868,43.3381],"type":"Point"}
+}

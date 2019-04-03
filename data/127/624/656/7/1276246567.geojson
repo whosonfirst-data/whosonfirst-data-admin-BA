@@ -1,0 +1,67 @@
+{
+  "id": 1276246567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46533,44.92059,18.46533,44.92059",
+    "geom:latitude":44.92059,
+    "geom:longitude":18.46533,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Omeragici",
+    "gn:country_code":"BA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3254868,
+    "gn:latitude":44.92059,
+    "gn:longitude":18.46533,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Omeragi\u010di",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3254868
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d58361d67e4d1d50e5f92996bde5097d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759097,
+            "locality_id":1276246567,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1276246567,
+    "wof:lastmodified":1536894651,
+    "wof:name":"Omeragici",
+    "wof:parent_id":1108759097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46533,
+    44.92059,
+    18.46533,
+    44.92059
+],
+  "geometry": {"coordinates":[18.46533,44.92059],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310515511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42556,43.85083,18.42556,43.85083",
+    "geom:latitude":43.85083,
+    "geom:longitude":18.42556,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lipe",
+    "gn:country_code":"BA",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3267770,
+    "gn:latitude":43.85083,
+    "gn:longitude":18.42556,
+    "gn:modification_date":"2005-11-18",
+    "gn:name":"Lipe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669235,
+        1108759047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3267770
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"a6e15b1ab474567f4b868bbd9cbb0387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759047,
+            "locality_id":1310515511,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1310515511,
+    "wof:lastmodified":1536902482,
+    "wof:name":"Lipe",
+    "wof:parent_id":1108759047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42556,
+    43.85083,
+    18.42556,
+    43.85083
+],
+  "geometry": {"coordinates":[18.42556,43.85083],"type":"Point"}
+}

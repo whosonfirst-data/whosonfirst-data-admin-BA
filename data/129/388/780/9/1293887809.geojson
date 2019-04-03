@@ -1,0 +1,67 @@
+{
+  "id": 1293887809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96068,44.94565,15.96068,44.94565",
+    "geom:latitude":44.94565,
+    "geom:longitude":15.96068,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Redzici",
+    "gn:country_code":"BA",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258647,
+    "gn:latitude":44.94565,
+    "gn:longitude":15.96068,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Red\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258647
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"00f950f27cd57f279abffc4ccb5348b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1293887809,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1293887809,
+    "wof:lastmodified":1536707383,
+    "wof:name":"Redzici",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96068,
+    44.94565,
+    15.96068,
+    44.94565
+],
+  "geometry": {"coordinates":[15.96068,44.94565],"type":"Point"}
+}

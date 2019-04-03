@@ -1,0 +1,68 @@
+{
+  "id": 1344271263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95327,43.64125,18.95327,43.64125",
+    "geom:latitude":43.64125,
+    "geom:longitude":18.95327,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Donja Brda",
+    "gn:country_code":"BA",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269108,
+    "gn:latitude":43.64125,
+    "gn:longitude":18.95327,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Donja Brda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669239,
+        1108759083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269108,
+        "wk:page":"Donja_Brda"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"511ee0ac93b4876fd407ed36339076bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759083,
+            "locality_id":1344271263,
+            "region_id":85669239
+        }
+    ],
+    "wof:id":1344271263,
+    "wof:lastmodified":1537486841,
+    "wof:name":"Donja Brda",
+    "wof:parent_id":1108759083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95327,
+    43.64125,
+    18.95327,
+    43.64125
+],
+  "geometry": {"coordinates":[18.95327,43.64125],"type":"Point"}
+}

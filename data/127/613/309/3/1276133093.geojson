@@ -1,0 +1,67 @@
+{
+  "id": 1276133093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98283,44.69168,17.98283,44.69168",
+    "geom:latitude":44.69168,
+    "geom:longitude":17.98283,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sivsa",
+    "gn:country_code":"BA",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3190783,
+    "gn:latitude":44.69168,
+    "gn:longitude":17.98283,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Siv\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190783
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"fc204d36191b465b88abd5c9879f64fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759277,
+            "locality_id":1276133093,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1276133093,
+    "wof:lastmodified":1537045004,
+    "wof:name":"Sivsa",
+    "wof:parent_id":1108759277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98283,
+    44.69168,
+    17.98283,
+    44.69168
+],
+  "geometry": {"coordinates":[17.98283,44.69168],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343471525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44374,44.09695,19.44374,44.09695",
+    "geom:latitude":44.09695,
+    "geom:longitude":19.44374,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Magudovici",
+    "gn:country_code":"BA",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3211650,
+    "gn:latitude":44.09695,
+    "gn:longitude":19.44374,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Magudovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3211650
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4fe63c5c5f01595f6d5fcd9d38c05705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759241,
+            "locality_id":1343471525,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343471525,
+    "wof:lastmodified":1536730440,
+    "wof:name":"Magudovici",
+    "wof:parent_id":1108759241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44374,
+    44.09695,
+    19.44374,
+    44.09695
+],
+  "geometry": {"coordinates":[19.44374,44.09695],"type":"Point"}
+}

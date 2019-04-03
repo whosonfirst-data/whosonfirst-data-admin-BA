@@ -1,0 +1,67 @@
+{
+  "id": 1344165657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25148,44.9455,17.25148,44.9455",
+    "geom:latitude":44.9455,
+    "geom:longitude":17.25148,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bakinci",
+    "gn:country_code":"BA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204603,
+    "gn:latitude":44.9455,
+    "gn:longitude":17.25148,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bakinci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204603
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d2a18973699addcb505ed5f065b42ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759151,
+            "locality_id":1344165657,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1344165657,
+    "wof:lastmodified":1536724066,
+    "wof:name":"Bakinci",
+    "wof:parent_id":1108759151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25147999999999,
+    44.9455,
+    17.25147999999999,
+    44.9455
+],
+  "geometry": {"coordinates":[17.25147999999999,44.9455],"type":"Point"}
+}

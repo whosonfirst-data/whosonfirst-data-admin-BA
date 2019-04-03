@@ -1,0 +1,67 @@
+{
+  "id": 1259982919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.22103,44.19884,19.22103,44.19884",
+    "geom:latitude":44.19884,
+    "geom:longitude":19.22103,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jazbine",
+    "gn:country_code":"BA",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240252,
+    "gn:latitude":44.19884,
+    "gn:longitude":19.22103,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Jazbine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240252
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"d58ed70caa637864bc3779a0e94aceb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759021,
+            "locality_id":1259982919,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259982919,
+    "wof:lastmodified":1536634638,
+    "wof:name":"Jazbine",
+    "wof:parent_id":1108759021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.22103,
+    44.19884,
+    19.22103,
+    44.19884
+],
+  "geometry": {"coordinates":[19.22103,44.19884],"type":"Point"}
+}

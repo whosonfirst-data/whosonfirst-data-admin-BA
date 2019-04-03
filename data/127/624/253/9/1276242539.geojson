@@ -1,0 +1,67 @@
+{
+  "id": 1276242539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91861,43.95861,17.91861,43.95861",
+    "geom:latitude":43.95861,
+    "geom:longitude":17.91861,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gladno Polje",
+    "gn:country_code":"BA",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289635,
+    "gn:latitude":43.95861,
+    "gn:longitude":17.91861,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Gladno Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289635
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9419dca428cadc8fe7edd6a9c1d5388f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759075,
+            "locality_id":1276242539,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1276242539,
+    "wof:lastmodified":1536900292,
+    "wof:name":"Gladno Polje",
+    "wof:parent_id":1108759075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91861,
+    43.95861,
+    17.91861,
+    43.95861
+],
+  "geometry": {"coordinates":[17.91861,43.95861],"type":"Point"}
+}

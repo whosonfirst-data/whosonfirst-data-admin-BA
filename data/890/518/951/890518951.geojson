@@ -1,0 +1,96 @@
+{
+  "id": 890518951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76159,44.55659,18.76159,44.55659",
+    "geom:latitude":44.55659,
+    "geom:longitude":18.76159,
+    "gn:country":"BA",
+    "gn:fcode":"PPL",
+    "gn:pop":4864,
+    "gp:adm0":23424761,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Gornja Tuzla"
+    ],
+    "name:dut_x_preferred":[
+        "Gornja Tuzla"
+    ],
+    "name:eng_x_preferred":[
+        "Gornja Tuzla"
+    ],
+    "name:fre_x_preferred":[
+        "Gornja Tuzla"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornja Tuzla"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0422\u0443\u0437\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gornja Tuzla"
+    ],
+    "qs:name":"Gornja Tuzla",
+    "qs:name_adm0":"Bosna i Hercegovina",
+    "qs:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":185,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":231,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200167,
+        "gp:id":941783,
+        "qs:id":1085372,
+        "wd:id":"Q3026538",
+        "wk:page":"Gornja Tuzla"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056085,
+    "wof:geomhash":"37a3574a5781183013b02daf64d14053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759271,
+            "locality_id":890518951,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":890518951,
+    "wof:lastmodified":1527751235,
+    "wof:name":"Gornja Tuzla",
+    "wof:parent_id":1108759271,
+    "wof:placetype":"locality",
+    "wof:population":4864,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76159,
+    44.55659,
+    18.76159,
+    44.55659
+],
+  "geometry": {"coordinates":[18.76159,44.55659],"type":"Point"}
+}

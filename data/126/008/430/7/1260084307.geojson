@@ -1,0 +1,67 @@
+{
+  "id": 1260084307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46491,43.80024,17.46491,43.80024",
+    "geom:latitude":43.80024,
+    "geom:longitude":17.46491,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Beganovici",
+    "gn:country_code":"BA",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292417,
+    "gn:latitude":43.80024,
+    "gn:longitude":17.46491,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Beganovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669221,
+        1108759211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292417
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"4a09adfb546e8b271293409b3a39a880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759211,
+            "locality_id":1260084307,
+            "region_id":85669221
+        }
+    ],
+    "wof:id":1260084307,
+    "wof:lastmodified":1536985980,
+    "wof:name":"Beganovici",
+    "wof:parent_id":1108759211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46491,
+    43.80024,
+    17.46491,
+    43.80024
+],
+  "geometry": {"coordinates":[17.46491,43.80024],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259492327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88389,44.55201,17.88389,44.55201",
+    "geom:latitude":44.55201,
+    "geom:longitude":17.88389,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pranjici",
+    "gn:country_code":"BA",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258509,
+    "gn:latitude":44.55201,
+    "gn:longitude":17.88389,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pranji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258509
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"1917dbec5f7f4b588a7cabb603a08654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759259,
+            "locality_id":1259492327,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1259492327,
+    "wof:lastmodified":1536844925,
+    "wof:name":"Pranjici",
+    "wof:parent_id":1108759259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88389,
+    44.55201,
+    17.88389,
+    44.55201
+],
+  "geometry": {"coordinates":[17.88389,44.55201],"type":"Point"}
+}

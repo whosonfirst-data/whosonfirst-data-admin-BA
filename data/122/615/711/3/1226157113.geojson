@@ -1,0 +1,67 @@
+{
+  "id": 1226157113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6098,44.44354,18.6098,44.44354",
+    "geom:latitude":44.44354,
+    "geom:longitude":18.6098,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tadici",
+    "gn:country_code":"BA",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275437,
+    "gn:latitude":44.44354,
+    "gn:longitude":18.6098,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Tadi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669225,
+        1108759301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275437
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"07fa279e4978ff31253e65df16c5efb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759301,
+            "locality_id":1226157113,
+            "region_id":85669225
+        }
+    ],
+    "wof:id":1226157113,
+    "wof:lastmodified":1537058683,
+    "wof:name":"Tadici",
+    "wof:parent_id":1108759301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6098,
+    44.44354000000001,
+    18.6098,
+    44.44354000000001
+],
+  "geometry": {"coordinates":[18.6098,44.44354000000001],"type":"Point"}
+}

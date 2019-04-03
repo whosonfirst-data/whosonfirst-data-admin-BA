@@ -1,0 +1,67 @@
+{
+  "id": 1343664829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97584,43.17388,17.97584,43.17388",
+    "geom:latitude":43.17388,
+    "geom:longitude":17.97584,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Scepan Krst",
+    "gn:country_code":"BA",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3262208,
+    "gn:latitude":43.17388,
+    "gn:longitude":17.97584,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u0160\u0107epan Krst",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3262208
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"01a9c2af3c6948372ca6c8a989595190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759251,
+            "locality_id":1343664829,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1343664829,
+    "wof:lastmodified":1536949040,
+    "wof:name":"Scepan Krst",
+    "wof:parent_id":1108759251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97583999999999,
+    43.17388,
+    17.97583999999999,
+    43.17388
+],
+  "geometry": {"coordinates":[17.97583999999999,43.17388],"type":"Point"}
+}

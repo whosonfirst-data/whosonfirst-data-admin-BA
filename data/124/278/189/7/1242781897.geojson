@@ -1,0 +1,67 @@
+{
+  "id": 1242781897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.6675,43.88472,17.6675,43.88472",
+    "geom:latitude":43.88472,
+    "geom:longitude":17.6675,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Seferovici",
+    "gn:country_code":"BA",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3293222,
+    "gn:latitude":43.88472,
+    "gn:longitude":17.6675,
+    "gn:modification_date":"2005-11-28",
+    "gn:name":"Seferovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669213,
+        1108759087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293222
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"9954eaf79259d20971f4dcb4e8a04e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759087,
+            "locality_id":1242781897,
+            "region_id":85669213
+        }
+    ],
+    "wof:id":1242781897,
+    "wof:lastmodified":1536769861,
+    "wof:name":"Seferovici",
+    "wof:parent_id":1108759087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6675,
+    43.88472,
+    17.6675,
+    43.88472
+],
+  "geometry": {"coordinates":[17.6675,43.88472],"type":"Point"}
+}

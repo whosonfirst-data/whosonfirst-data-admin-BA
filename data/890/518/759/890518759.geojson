@@ -1,0 +1,101 @@
+{
+  "id": 890518759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16183,44.80461,19.16183,44.80461",
+    "geom:latitude":44.80461,
+    "geom:longitude":19.16183,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":5142,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Velika Obarska"
+    ],
+    "name:dut_x_preferred":[
+        "Velika Obarska"
+    ],
+    "name:eng_x_preferred":[
+        "Velika Obarska"
+    ],
+    "name:fre_x_preferred":[
+        "Velika Obarska"
+    ],
+    "name:ger_x_preferred":[
+        "Velika Obarska"
+    ],
+    "name:hrv_x_preferred":[
+        "Velika Obarska"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430-\u041e\u0431\u0430\u0440\u0441\u043a\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Velika Obarska"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041e\u0431\u0430\u0440\u0441\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Velika Obarska"
+    ],
+    "name:unk_x_variant":[
+        "Obarska Velika"
+    ],
+    "qs:name":"Velika Obarska",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108758995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188199,
+        "qs:id":1043889,
+        "wd:id":"Q1018636",
+        "wk:page":"Velika Obarska"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056078,
+    "wof:geomhash":"e5c77123debe58879a9e8fe6bc45df08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108758995,
+            "locality_id":890518759,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518759,
+    "wof:lastmodified":1527751235,
+    "wof:name":"Velika Obarska",
+    "wof:parent_id":1108758995,
+    "wof:placetype":"locality",
+    "wof:population":5142,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16183,
+    44.80461,
+    19.16183,
+    44.80461
+],
+  "geometry": {"coordinates":[19.16183,44.80461],"type":"Point"}
+}

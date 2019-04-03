@@ -1,0 +1,80 @@
+{
+  "id": 1243376439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.44593,43.6658,18.44593,43.6658",
+    "geom:latitude":43.6658,
+    "geom:longitude":18.44593,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Trnovo",
+    "gn:country_code":"BA",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3188773,
+    "gn:latitude":43.6658,
+    "gn:longitude":18.44593,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Trnovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30c8\u30eb\u30ce\u30f4\u30a9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u5c14\u8bfa\u6c83"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188773,
+        "wk:page":"Trnovo%2C_Republika_Srpska"
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7fdfbaedb9b2d7832605775bb8e677fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759269,
+            "locality_id":1243376439,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":1243376439,
+    "wof:lastmodified":1537585556,
+    "wof:name":"Trnovo",
+    "wof:parent_id":1108759269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44593,
+    43.6658,
+    18.44593,
+    43.6658
+],
+  "geometry": {"coordinates":[18.44593,43.6658],"type":"Point"}
+}

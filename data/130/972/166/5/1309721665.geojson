@@ -1,0 +1,67 @@
+{
+  "id": 1309721665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08219,44.53178,18.08219,44.53178",
+    "geom:latitude":44.53178,
+    "geom:longitude":18.08219,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Krbesevici",
+    "gn:country_code":"BA",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3258950,
+    "gn:latitude":44.53178,
+    "gn:longitude":18.08219,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Krbe\u0161evi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sarajevo",
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669231,
+        1108759163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3258950
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"c9c013bcaf70fe783381ac6a03e5b673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759163,
+            "locality_id":1309721665,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":1309721665,
+    "wof:lastmodified":1537050188,
+    "wof:name":"Krbesevici",
+    "wof:parent_id":1108759163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08219,
+    44.53178,
+    18.08219,
+    44.53178
+],
+  "geometry": {"coordinates":[18.08219,44.53178],"type":"Point"}
+}

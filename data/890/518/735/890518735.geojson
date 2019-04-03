@@ -1,0 +1,95 @@
+{
+  "id": 890518735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87443,44.84772,17.87443,44.84772",
+    "geom:latitude":44.84772,
+    "geom:longitude":17.87443,
+    "gn:country":"BA",
+    "gn:fcode":"PPLL",
+    "gn:pop":4,
+    "iso:country":"BA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Osinja"
+    ],
+    "name:dut_x_preferred":[
+        "Osinja"
+    ],
+    "name:eng_x_preferred":[
+        "Osinja"
+    ],
+    "name:fre_x_preferred":[
+        "Osinja"
+    ],
+    "name:ger_x_preferred":[
+        "Osinja"
+    ],
+    "name:hrv_x_preferred":[
+        "Osinja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0438\u043d\u044c\u044f"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0438\u045a\u0430"
+    ],
+    "qs:name":"Osinja",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:latitude":"44.833333333",
+    "wd:longitude":"17.883333333",
+    "wd:wordcount":238,
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85632267,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193927,
+        "gp:id":943209,
+        "qs:id":581635,
+        "wd:id":"Q182340",
+        "wk:page":"Osinja"
+    },
+    "wof:country":"BA",
+    "wof:created":1469056077,
+    "wof:geomhash":"abe4b7f1c0425de39f520683ee5ac2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":890518735,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":890518735,
+    "wof:lastmodified":1527751234,
+    "wof:name":"Osinja",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87443,
+    44.84772,
+    17.87443,
+    44.84772
+],
+  "geometry": {"coordinates":[17.87443,44.84772],"type":"Point"}
+}
