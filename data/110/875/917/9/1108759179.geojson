@@ -10,6 +10,12 @@
     "geom:latitude":43.270994,
     "geom:longitude":18.183551,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Nevesinje Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.260781,
     "lbl:longitude":18.180052,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759179,
-    "wof:lastmodified":1536615741,
+    "wof:lastmodified":1553718710,
     "wof:name":"Nevesinje",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

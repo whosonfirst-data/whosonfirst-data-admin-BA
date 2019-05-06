@@ -10,6 +10,12 @@
     "geom:latitude":45.072545,
     "geom:longitude":18.32474,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Odzak Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":45.054734,
     "lbl:longitude":18.337959,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759191,
-    "wof:lastmodified":1536615741,
+    "wof:lastmodified":1553718709,
     "wof:name":"Odzak",
     "wof:parent_id":85669243,
     "wof:placetype":"county",

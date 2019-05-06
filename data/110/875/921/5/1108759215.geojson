@@ -10,6 +10,12 @@
     "geom:latitude":43.842473,
     "geom:longitude":19.053673,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Rogatica Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.853319,
     "lbl:longitude":19.073217,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759215,
-    "wof:lastmodified":1536615741,
+    "wof:lastmodified":1553718710,
     "wof:name":"Rogatica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

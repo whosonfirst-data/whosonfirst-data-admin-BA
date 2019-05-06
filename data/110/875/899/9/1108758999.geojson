@@ -10,6 +10,12 @@
     "geom:latitude":45.143434,
     "geom:longitude":16.812164,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bosanska Dubica / Kozarska Dubica Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":45.12814,
     "lbl:longitude":16.883281,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108758999,
-    "wof:lastmodified":1536615736,
+    "wof:lastmodified":1553718705,
     "wof:name":"Bosanska Dubica / Kozarska Dubica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

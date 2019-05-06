@@ -10,6 +10,12 @@
     "geom:latitude":44.590274,
     "geom:longitude":16.730858,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Kljuc Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.576103,
     "lbl:longitude":16.746091,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759133,
-    "wof:lastmodified":1536615739,
+    "wof:lastmodified":1553718708,
     "wof:name":"Kljuc",
     "wof:parent_id":85669207,
     "wof:placetype":"county",

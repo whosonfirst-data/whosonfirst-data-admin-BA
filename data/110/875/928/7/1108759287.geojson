@@ -10,6 +10,12 @@
     "geom:latitude":44.129106,
     "geom:longitude":17.781416,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Vitez Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.128457,
     "lbl:longitude":17.765408,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759287,
-    "wof:lastmodified":1536615743,
+    "wof:lastmodified":1553718712,
     "wof:name":"Vitez",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

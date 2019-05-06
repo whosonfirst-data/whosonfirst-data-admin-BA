@@ -10,6 +10,12 @@
     "geom:latitude":43.199259,
     "geom:longitude":18.522449,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Gacko Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.204315,
     "lbl:longitude":18.538065,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759079,
-    "wof:lastmodified":1536615738,
+    "wof:lastmodified":1553718707,
     "wof:name":"Gacko",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

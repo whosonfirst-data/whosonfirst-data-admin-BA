@@ -10,6 +10,12 @@
     "geom:latitude":43.523921,
     "geom:longitude":17.372927,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Posusje Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.494364,
     "lbl:longitude":17.376728,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759205,
-    "wof:lastmodified":1536615741,
+    "wof:lastmodified":1553718710,
     "wof:name":"Posusje",
     "wof:parent_id":85669217,
     "wof:placetype":"county",

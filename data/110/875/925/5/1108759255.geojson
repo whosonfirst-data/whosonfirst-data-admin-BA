@@ -10,6 +10,12 @@
     "geom:latitude":44.627603,
     "geom:longitude":17.98287,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Tesanj Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.614673,
     "lbl:longitude":17.972307,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759255,
-    "wof:lastmodified":1536615742,
+    "wof:lastmodified":1553718711,
     "wof:name":"Tesanj",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

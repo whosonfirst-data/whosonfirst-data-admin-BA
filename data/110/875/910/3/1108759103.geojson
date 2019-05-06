@@ -10,6 +10,12 @@
     "geom:latitude":44.068386,
     "geom:longitude":18.948089,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Han Pijesak Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.070383,
     "lbl:longitude":18.94511,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759103,
-    "wof:lastmodified":1536615738,
+    "wof:lastmodified":1553718707,
     "wof:name":"Han Pijesak",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

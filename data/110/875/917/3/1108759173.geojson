@@ -10,6 +10,12 @@
     "geom:latitude":43.411488,
     "geom:longitude":18.010664,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Mostar / Srpski Mostar Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.411578,
     "lbl:longitude":18.014149,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759173,
-    "wof:lastmodified":1536615740,
+    "wof:lastmodified":1553718709,
     "wof:name":"Mostar / Srpski Mostar",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

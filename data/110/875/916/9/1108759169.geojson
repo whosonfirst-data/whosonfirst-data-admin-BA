@@ -10,6 +10,12 @@
     "geom:latitude":44.939213,
     "geom:longitude":18.261545,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Modrica Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.925999,
     "lbl:longitude":18.223217,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759169,
-    "wof:lastmodified":1536615740,
+    "wof:lastmodified":1553718709,
     "wof:name":"Modrica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

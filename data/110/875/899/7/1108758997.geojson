@@ -10,6 +10,12 @@
     "geom:latitude":42.970972,
     "geom:longitude":18.368153,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bileca Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":42.975338,
     "lbl:longitude":18.370914,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108758997,
-    "wof:lastmodified":1536615736,
+    "wof:lastmodified":1553718705,
     "wof:name":"Bileca",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

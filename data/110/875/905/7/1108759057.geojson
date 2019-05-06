@@ -10,6 +10,12 @@
     "geom:latitude":44.676198,
     "geom:longitude":18.063427,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Doboj - Jug Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.673813,
     "lbl:longitude":18.065612,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759057,
-    "wof:lastmodified":1536615737,
+    "wof:lastmodified":1553718706,
     "wof:name":"Doboj - Jug",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

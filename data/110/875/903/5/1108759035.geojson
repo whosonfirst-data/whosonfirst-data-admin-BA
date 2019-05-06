@@ -10,6 +10,12 @@
     "geom:latitude":43.58321,
     "geom:longitude":19.119112,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Cajnice Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.59364,
     "lbl:longitude":19.107329,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759035,
-    "wof:lastmodified":1536615737,
+    "wof:lastmodified":1553718706,
     "wof:name":"Cajnice",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

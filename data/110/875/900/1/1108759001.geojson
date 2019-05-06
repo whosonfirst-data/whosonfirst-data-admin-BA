@@ -10,6 +10,12 @@
     "geom:latitude":45.071264,
     "geom:longitude":17.178411,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bosanska Gradiska / Gradiska Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":45.052791,
     "lbl:longitude":17.205241,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759001,
-    "wof:lastmodified":1536615736,
+    "wof:lastmodified":1553718706,
     "wof:name":"Bosanska Gradiska / Gradiska",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

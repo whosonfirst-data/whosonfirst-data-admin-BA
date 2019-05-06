@@ -10,6 +10,12 @@
     "geom:latitude":44.487781,
     "geom:longitude":16.568373,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bosanski Petrovac / Petrovac Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.487712,
     "lbl:longitude":16.569998,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759015,
-    "wof:lastmodified":1536615736,
+    "wof:lastmodified":1553718706,
     "wof:name":"Bosanski Petrovac / Petrovac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

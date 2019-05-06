@@ -10,6 +10,12 @@
     "geom:latitude":44.397037,
     "geom:longitude":18.471864,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Banovici Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.393413,
     "lbl:longitude":18.501948,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108758991,
-    "wof:lastmodified":1536615735,
+    "wof:lastmodified":1553718705,
     "wof:name":"Banovici",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.903016,
     "geom:longitude":16.296048,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bosanska Krupa / Krupa Na Uni Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.875458,
     "lbl:longitude":16.337844,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759007,
-    "wof:lastmodified":1536615736,
+    "wof:lastmodified":1553718705,
     "wof:name":"Bosanska Krupa / Krupa Na Uni",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.084312,
     "geom:longitude":17.176052,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Kupres / Srpski Kupres Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.083971,
     "lbl:longitude":17.184338,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759147,
-    "wof:lastmodified":1536615740,
+    "wof:lastmodified":1553718708,
     "wof:name":"Kupres / Srpski Kupres",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.333427,
     "geom:longitude":17.185315,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Jajce / Jezero Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.332948,
     "lbl:longitude":17.184346,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759117,
-    "wof:lastmodified":1536615739,
+    "wof:lastmodified":1553718708,
     "wof:name":"Jajce / Jezero",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.803251,
     "geom:longitude":16.682867,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Sanski Most / Srpski Sanski Most Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.853274,
     "lbl:longitude":16.664335,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759223,
-    "wof:lastmodified":1536615742,
+    "wof:lastmodified":1553718710,
     "wof:name":"Sanski Most / Srpski Sanski Most",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

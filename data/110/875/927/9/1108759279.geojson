@@ -10,6 +10,12 @@
     "geom:latitude":44.15581,
     "geom:longitude":18.360192,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Vares Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.141922,
     "lbl:longitude":18.349794,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759279,
-    "wof:lastmodified":1536615743,
+    "wof:lastmodified":1553718711,
     "wof:name":"Vares",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

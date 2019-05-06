@@ -10,6 +10,12 @@
     "geom:latitude":43.104883,
     "geom:longitude":18.066822,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Stolac / Berkovici Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.110138,
     "lbl:longitude":18.082317,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759251,
-    "wof:lastmodified":1536615742,
+    "wof:lastmodified":1553718711,
     "wof:name":"Stolac / Berkovici",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

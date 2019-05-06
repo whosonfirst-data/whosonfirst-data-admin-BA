@@ -10,6 +10,12 @@
     "geom:latitude":43.848561,
     "geom:longitude":16.875307,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Livno Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.847793,
     "lbl:longitude":16.870561,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759153,
-    "wof:lastmodified":1536615740,
+    "wof:lastmodified":1553718709,
     "wof:name":"Livno",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

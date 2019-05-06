@@ -10,6 +10,12 @@
     "geom:latitude":43.69219,
     "geom:longitude":18.456412,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Trnovo (rs) Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.646258,
     "lbl:longitude":18.455614,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759269,
-    "wof:lastmodified":1536615743,
+    "wof:lastmodified":1553718711,
     "wof:name":"Trnovo (rs)",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

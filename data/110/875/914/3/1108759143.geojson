@@ -10,6 +10,12 @@
     "geom:latitude":43.858058,
     "geom:longitude":18.024604,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Kresevo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.865414,
     "lbl:longitude":18.043008,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759143,
-    "wof:lastmodified":1536615740,
+    "wof:lastmodified":1553718708,
     "wof:name":"Kresevo",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

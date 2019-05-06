@@ -10,6 +10,12 @@
     "geom:latitude":44.411487,
     "geom:longitude":18.009329,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Zepce Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.404182,
     "lbl:longitude":18.021043,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759299,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718712,
     "wof:name":"Zepce",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

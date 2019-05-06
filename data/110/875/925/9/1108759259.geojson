@@ -10,6 +10,12 @@
     "geom:latitude":44.570387,
     "geom:longitude":17.758782,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Teslic Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.56381,
     "lbl:longitude":17.762595,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759259,
-    "wof:lastmodified":1536615742,
+    "wof:lastmodified":1553718711,
     "wof:name":"Teslic",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

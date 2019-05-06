@@ -10,6 +10,12 @@
     "geom:latitude":43.23678,
     "geom:longitude":17.688017,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Citluk Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.236836,
     "lbl:longitude":17.680131,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759049,
-    "wof:lastmodified":1536615737,
+    "wof:lastmodified":1553718706,
     "wof:name":"Citluk",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.153122,
     "geom:longitude":16.462647,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bosansko Grahovo / Grahovo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.166603,
     "lbl:longitude":16.458855,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759019,
-    "wof:lastmodified":1536615736,
+    "wof:lastmodified":1553718706,
     "wof:name":"Bosansko Grahovo / Grahovo",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

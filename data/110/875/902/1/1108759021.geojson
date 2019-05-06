@@ -10,6 +10,12 @@
     "geom:latitude":44.177769,
     "geom:longitude":19.323375,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bratunac Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.224624,
     "lbl:longitude":19.284415,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759021,
-    "wof:lastmodified":1536615737,
+    "wof:lastmodified":1553718706,
     "wof:name":"Bratunac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

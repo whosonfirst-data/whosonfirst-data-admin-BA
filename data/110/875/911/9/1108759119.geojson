@@ -10,6 +10,12 @@
     "geom:latitude":44.164208,
     "geom:longitude":18.136684,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Kakanj Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.146918,
     "lbl:longitude":18.147663,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759119,
-    "wof:lastmodified":1536615739,
+    "wof:lastmodified":1553718708,
     "wof:name":"Kakanj",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

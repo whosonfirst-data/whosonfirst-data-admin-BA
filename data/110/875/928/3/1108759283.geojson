@@ -10,6 +10,12 @@
     "geom:latitude":43.794308,
     "geom:longitude":19.289717,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Visegrad Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.797835,
     "lbl:longitude":19.29257,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759283,
-    "wof:lastmodified":1536615743,
+    "wof:lastmodified":1553718712,
     "wof:name":"Visegrad",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

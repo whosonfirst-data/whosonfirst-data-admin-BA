@@ -10,6 +10,12 @@
     "geom:latitude":44.722849,
     "geom:longitude":17.430053,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Celinac Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.719305,
     "lbl:longitude":17.473,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759045,
-    "wof:lastmodified":1536615737,
+    "wof:lastmodified":1553718707,
     "wof:name":"Celinac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

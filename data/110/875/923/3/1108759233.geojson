@@ -10,6 +10,12 @@
     "geom:latitude":44.486987,
     "geom:longitude":17.376623,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Skender Vakuf / Knezevo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.506585,
     "lbl:longitude":17.363438,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759233,
-    "wof:lastmodified":1536615742,
+    "wof:lastmodified":1553718711,
     "wof:name":"Skender Vakuf / Knezevo",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

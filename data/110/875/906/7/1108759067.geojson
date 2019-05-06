@@ -10,6 +10,12 @@
     "geom:latitude":44.360262,
     "geom:longitude":16.454468,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Drvar Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.363337,
     "lbl:longitude":16.451117,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759067,
-    "wof:lastmodified":1536615738,
+    "wof:lastmodified":1553718707,
     "wof:name":"Drvar",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

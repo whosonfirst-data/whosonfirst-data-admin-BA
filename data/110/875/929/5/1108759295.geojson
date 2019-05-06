@@ -10,6 +10,12 @@
     "geom:latitude":44.376108,
     "geom:longitude":18.247276,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Zavidovici Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.377728,
     "lbl:longitude":18.229948,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759295,
-    "wof:lastmodified":1536615743,
+    "wof:lastmodified":1553718712,
     "wof:name":"Zavidovici",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

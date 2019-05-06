@@ -10,6 +10,12 @@
     "geom:latitude":43.925699,
     "geom:longitude":18.363548,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Vogosca Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.926823,
     "lbl:longitude":18.364743,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759291,
-    "wof:lastmodified":1536615743,
+    "wof:lastmodified":1553718712,
     "wof:name":"Vogosca",
     "wof:parent_id":85669235,
     "wof:placetype":"county",

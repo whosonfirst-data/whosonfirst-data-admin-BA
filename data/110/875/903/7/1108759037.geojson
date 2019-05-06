@@ -10,6 +10,12 @@
     "geom:latitude":43.103177,
     "geom:longitude":17.738502,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Capljina Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.113318,
     "lbl:longitude":17.736177,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759037,
-    "wof:lastmodified":1536615737,
+    "wof:lastmodified":1553718706,
     "wof:name":"Capljina",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

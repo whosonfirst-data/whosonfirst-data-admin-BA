@@ -10,6 +10,12 @@
     "geom:latitude":43.792185,
     "geom:longitude":17.582943,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Prozor /  Prozor-rama Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.798285,
     "lbl:longitude":17.566354,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759211,
-    "wof:lastmodified":1536615741,
+    "wof:lastmodified":1553718710,
     "wof:name":"Prozor /  Prozor-rama",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

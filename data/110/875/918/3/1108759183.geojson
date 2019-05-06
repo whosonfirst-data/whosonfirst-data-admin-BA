@@ -10,6 +10,12 @@
     "geom:latitude":44.099267,
     "geom:longitude":17.669431,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Novi Travnik Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.119245,
     "lbl:longitude":17.651141,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759183,
-    "wof:lastmodified":1536615741,
+    "wof:lastmodified":1553718709,
     "wof:name":"Novi Travnik",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.27842,
     "geom:longitude":17.926644,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Zenica Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.257434,
     "lbl:longitude":17.938698,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759297,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718712,
     "wof:name":"Zenica",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

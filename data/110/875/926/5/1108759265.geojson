@@ -10,6 +10,12 @@
     "geom:latitude":42.745607,
     "geom:longitude":18.300283,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Trebinje Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":42.761964,
     "lbl:longitude":18.27909,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759265,
-    "wof:lastmodified":1536615743,
+    "wof:lastmodified":1553718711,
     "wof:name":"Trebinje",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

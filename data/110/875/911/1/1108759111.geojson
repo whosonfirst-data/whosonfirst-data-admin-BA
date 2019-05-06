@@ -10,6 +10,12 @@
     "geom:latitude":43.658554,
     "geom:longitude":17.70961,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Jablanica Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.651146,
     "lbl:longitude":17.784153,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759111,
-    "wof:lastmodified":1536615739,
+    "wof:lastmodified":1553718708,
     "wof:name":"Jablanica",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.39072,
     "geom:longitude":18.942443,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Kalesija / Osmaci Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.4025,
     "lbl:longitude":18.971026,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759123,
-    "wof:lastmodified":1536615739,
+    "wof:lastmodified":1553718708,
     "wof:name":"Kalesija / Osmaci",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

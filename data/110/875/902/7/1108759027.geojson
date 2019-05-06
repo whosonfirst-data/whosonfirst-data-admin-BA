@@ -10,6 +10,12 @@
     "geom:latitude":44.020279,
     "geom:longitude":18.298408,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Breza Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.015733,
     "lbl:longitude":18.284761,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759027,
-    "wof:lastmodified":1536615737,
+    "wof:lastmodified":1553718706,
     "wof:name":"Breza",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

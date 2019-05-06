@@ -10,6 +10,12 @@
     "geom:latitude":44.206093,
     "geom:longitude":17.123904,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Sipovo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.209883,
     "lbl:longitude":17.110484,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759229,
-    "wof:lastmodified":1536615742,
+    "wof:lastmodified":1553718710,
     "wof:name":"Sipovo",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

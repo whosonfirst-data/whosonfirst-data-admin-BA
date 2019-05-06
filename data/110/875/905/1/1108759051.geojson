@@ -10,6 +10,12 @@
     "geom:latitude":44.943047,
     "geom:longitude":17.914959,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Derventa Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.934714,
     "lbl:longitude":17.902322,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759051,
-    "wof:lastmodified":1536615737,
+    "wof:lastmodified":1553718707,
     "wof:name":"Derventa",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

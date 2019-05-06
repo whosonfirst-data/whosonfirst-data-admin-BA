@@ -10,6 +10,12 @@
     "geom:latitude":44.99361,
     "geom:longitude":18.505084,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bosanski Samac / Samac Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":45.0063,
     "lbl:longitude":18.494978,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759017,
-    "wof:lastmodified":1536615736,
+    "wof:lastmodified":1553718706,
     "wof:name":"Bosanski Samac / Samac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

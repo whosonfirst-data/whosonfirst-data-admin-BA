@@ -10,6 +10,12 @@
     "geom:latitude":44.442397,
     "geom:longitude":19.082663,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Zvornik Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.454741,
     "lbl:longitude":19.071674,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759303,
-    "wof:lastmodified":1536615744,
+    "wof:lastmodified":1553718712,
     "wof:name":"Zvornik",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.536123,
     "geom:longitude":18.119024,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Maglaj Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.531361,
     "lbl:longitude":18.146414,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759163,
-    "wof:lastmodified":1536615740,
+    "wof:lastmodified":1553718709,
     "wof:name":"Maglaj",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.05505,
     "geom:longitude":19.346659,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Srebrenica Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.074202,
     "lbl:longitude":19.327152,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759241,
-    "wof:lastmodified":1536615742,
+    "wof:lastmodified":1553718711,
     "wof:name":"Srebrenica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

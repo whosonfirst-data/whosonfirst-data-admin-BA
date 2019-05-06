@@ -10,6 +10,12 @@
     "geom:latitude":44.840212,
     "geom:longitude":18.443888,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Gradacac Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.846853,
     "lbl:longitude":18.446451,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759093,
-    "wof:lastmodified":1536615738,
+    "wof:lastmodified":1553718707,
     "wof:name":"Gradacac",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

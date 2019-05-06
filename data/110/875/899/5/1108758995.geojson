@@ -10,6 +10,12 @@
     "geom:latitude":44.774198,
     "geom:longitude":19.174504,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bijeljina Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.784303,
     "lbl:longitude":19.177843,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108758995,
-    "wof:lastmodified":1536615736,
+    "wof:lastmodified":1553718705,
     "wof:name":"Bijeljina",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

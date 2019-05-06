@@ -10,6 +10,12 @@
     "geom:latitude":43.969331,
     "geom:longitude":18.777527,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Sokolac Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.962654,
     "lbl:longitude":18.781393,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759235,
-    "wof:lastmodified":1536615742,
+    "wof:lastmodified":1553718711,
     "wof:name":"Sokolac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

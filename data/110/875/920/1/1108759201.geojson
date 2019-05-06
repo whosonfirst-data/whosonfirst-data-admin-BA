@@ -10,6 +10,12 @@
     "geom:latitude":43.808368,
     "geom:longitude":18.643704,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Pale (rs) Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.792007,
     "lbl:longitude":18.646664,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759201,
-    "wof:lastmodified":1536615741,
+    "wof:lastmodified":1553718710,
     "wof:name":"Pale (rs)",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

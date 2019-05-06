@@ -10,6 +10,12 @@
     "geom:latitude":43.92922,
     "geom:longitude":17.635137,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Gornji Vakuf Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.93669,
     "lbl:longitude":17.632101,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759087,
-    "wof:lastmodified":1536615738,
+    "wof:lastmodified":1553718707,
     "wof:name":"Gornji Vakuf",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

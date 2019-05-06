@@ -10,6 +10,12 @@
     "geom:latitude":42.950242,
     "geom:longitude":18.120026,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Ljubinje Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":42.97523,
     "lbl:longitude":18.117448,
     "meso:admin_1":"Republika Srpska",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759155,
-    "wof:lastmodified":1536615740,
+    "wof:lastmodified":1553718709,
     "wof:name":"Ljubinje",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":43.216116,
     "geom:longitude":17.515078,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Ljubuski Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.225739,
     "lbl:longitude":17.503754,
     "meso:admin_1":"Federacija Bih",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108759157,
-    "wof:lastmodified":1536615740,
+    "wof:lastmodified":1553718708,
     "wof:name":"Ljubuski",
     "wof:parent_id":85669217,
     "wof:placetype":"county",
