@@ -18,16 +18,16 @@
     "name:bos_x_preferred":[
         "Vukovije Donje"
     ],
-    "name:dut_x_preferred":[
-        "Vukovije Donje"
-    ],
     "name:eng_x_preferred":[
         "Vukovije Donje"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vukovije Donje"
     ],
     "name:hrv_x_preferred":[
+        "Vukovije Donje"
+    ],
+    "name:nld_x_preferred":[
         "Vukovije Donje"
     ],
     "name:srp_x_preferred":[
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":890518693,
-    "wof:lastmodified":1527751232,
+    "wof:lastmodified":1561830465,
     "wof:name":"Vukovije Donje",
     "wof:parent_id":1108759121,
     "wof:placetype":"locality",

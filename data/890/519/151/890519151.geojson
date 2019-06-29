@@ -19,16 +19,16 @@
     "name:bos_x_preferred":[
         "Novi \u0160eher"
     ],
-    "name:dut_x_preferred":[
-        "Novi \u0160eher"
-    ],
     "name:eng_x_preferred":[
         "Novi \u0160eher"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Novi \u0160eher"
     ],
     "name:hrv_x_preferred":[
+        "Novi \u0160eher"
+    ],
+    "name:nld_x_preferred":[
         "Novi \u0160eher"
     ],
     "name:swe_x_preferred":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":890519151,
-    "wof:lastmodified":1513898841,
+    "wof:lastmodified":1561830461,
     "wof:name":"Novi \u00c5 eher",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

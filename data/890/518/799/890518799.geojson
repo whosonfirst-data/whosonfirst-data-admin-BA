@@ -18,19 +18,19 @@
     "name:bos_x_preferred":[
         "Obudovac"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Obudovac"
     ],
     "name:eng_x_preferred":[
         "Obudovac"
     ],
-    "name:fre_x_preferred":[
-        "Obudovac"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Obudovac"
     ],
     "name:hrv_x_preferred":[
+        "Obudovac"
+    ],
+    "name:nld_x_preferred":[
         "Obudovac"
     ],
     "name:rus_x_preferred":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":890518799,
-    "wof:lastmodified":1527751228,
+    "wof:lastmodified":1561830463,
     "wof:name":"Obudovac",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",

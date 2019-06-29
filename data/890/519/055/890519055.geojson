@@ -16,19 +16,13 @@
     "name:bos_x_preferred":[
         "Ustipra\u010da"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u6208\u62c9\u65e5\u4ee3"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ustipra\u010da"
     ],
     "name:eng_x_preferred":[
         "Ustipra\u010da"
     ],
-    "name:fre_x_preferred":[
-        "Ustipra\u010da"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ustipra\u010da"
     ],
     "name:hrv_x_preferred":[
@@ -39,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ce\u30f4\u30a9\u30fb\u30b4\u30e9\u30b8\u30e5\u30c7"
+    ],
+    "name:nld_x_preferred":[
+        "Ustipra\u010da"
     ],
     "name:pol_x_preferred":[
         "Novo Gora\u017ede"
@@ -60,6 +57,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0648\u0648 \u06af\u0648\u0631\u0634\u062f\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u6208\u62c9\u65e5\u4ee3"
     ],
     "qs:name":"Ustipra\u010da",
     "qs:name_adm0":"Bosna i Hercegovina",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":890519055,
-    "wof:lastmodified":1513898879,
+    "wof:lastmodified":1561830461,
     "wof:name":"Ustipra\u010da",
     "wof:parent_id":1108759085,
     "wof:placetype":"locality",

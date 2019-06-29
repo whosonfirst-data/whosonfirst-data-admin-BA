@@ -21,9 +21,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Kantoni Bosnja-Podrinje"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u0628\u0648\u062f\u0631\u064a\u0646\u064a \u0627\u0644\u0628\u0648\u0633\u0646\u064a"
     ],
@@ -45,20 +42,14 @@
     "name:ces_x_preferred":[
         "Bosensko-podrinsk\u00fd kanton"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u65af\u5c3c\u4e9e-\u6ce2\u5fb7\u91cc\u6d85\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Bosensko-podrinsk\u00fd kanton"
-    ],
     "name:dan_x_preferred":[
         "Bosnian Podrinje Canton"
     ],
     "name:deu_x_preferred":[
         "Kanton Bosnisches Podrinje"
     ],
-    "name:dut_x_preferred":[
-        "Bosnisch Podrinje"
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c3\u03bd\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a0\u03cc\u03bd\u03c4\u03c1\u03b9\u03bd\u03b9\u03b5"
     ],
     "name:eng_x_preferred":[
         "Bosnian Podrinje"
@@ -69,17 +60,8 @@
     "name:fin_x_preferred":[
         "Bosnian Podrinjen kantoni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "canton du Podrinje bosnien"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10e1\u10dc\u10d8\u10d0-\u10de\u10dd\u10d3\u10e0\u10d8\u10dc\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kanton Bosnisches Podrinje"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03bf\u03c3\u03bd\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a0\u03cc\u03bd\u03c4\u03c1\u03b9\u03bd\u03b9\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab8\u0acd\u0aa8\u0abf\u0aaf\u0aa8 \u0aaa\u0acb\u0aa1\u0ab0\u0abf\u0a82\u0a9c\u0ac7 \u0a95\u0ac7\u0aa8\u0acd\u0a9f\u0acb\u0aa8"
@@ -105,6 +87,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ccb\u0cb8\u0ccd\u0ca8\u0cbf\u0caf\u0ca8\u0ccd \u0caa\u0cca\u0ca1\u0cbf\u0cb0\u0cbf\u0c82\u0c9c \u0c95\u0ccd\u0caf\u0cbe\u0c82\u0c9f\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10e1\u10dc\u10d8\u10d0-\u10de\u10dd\u10d3\u10e0\u10d8\u10dc\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubcf4\uc2a4\ub2c8\uc544\ud3ec\ub4dc\ub9ac\ub124 \uc8fc"
     ],
@@ -114,20 +99,20 @@
     "name:lit_x_preferred":[
         "Bosnijos-Podrind\u017e\u0117s kantonas Gorad\u017e\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e\u043f\u043e\u0434\u0440\u0438\u045a\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094b\u0938\u094d\u0928\u093f\u092f\u093e\u0928 \u092a\u0949\u0921\u094d\u0930\u093f\u0928\u0947\u091c\u0947 \u0915\u0945\u0928\u0901\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e\u043f\u043e\u0434\u0440\u0438\u045a\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Bosnian Podrinje Canton"
+    ],
+    "name:nld_x_preferred":[
+        "Bosnisch Podrinje"
     ],
     "name:nob_x_preferred":[
         "Bosna-Podrinje kanton"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0633\u0646\u06cc\u0627\u0646-\u067e\u0648\u062f\u0631\u06cc\u0646\u06cc\u0647"
     ],
     "name:pol_x_preferred":[
         "Kanton Bo\u015bnia Podrinje"
@@ -135,7 +120,7 @@
     "name:por_x_preferred":[
         "Bosna-Podrinje kanton"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cantonul Podrinje Bosniac"
     ],
     "name:rus_x_preferred":[
@@ -146,6 +131,9 @@
     ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Podrinje Bosnio"
+    ],
+    "name:sqi_x_preferred":[
+        "Kantoni Bosnja-Podrinje"
     ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e-\u041f\u043e\u0434\u0440\u0438\u045a\u0441\u043a\u0438 \u041a\u0430\u043d\u0442\u043e\u043d \u0413\u043e\u0440\u0430\u0436\u0434\u0435"
@@ -182,6 +170,9 @@
     ],
     "name:vie_x_preferred":[
         "Podrinje Bosnia"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u65af\u5c3c\u4e9e-\u6ce2\u5fb7\u91cc\u6d85\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BIH",
@@ -296,7 +287,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1553550327,
+    "wof:lastmodified":1561830404,
     "wof:name":"Bosnian Podrinje",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

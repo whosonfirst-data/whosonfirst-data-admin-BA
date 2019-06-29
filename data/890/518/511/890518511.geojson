@@ -18,16 +18,16 @@
     "name:bos_x_preferred":[
         "Crni\u0107i"
     ],
-    "name:dut_x_preferred":[
-        "Crni\u0107i"
-    ],
     "name:eng_x_preferred":[
         "Crni\u0107i"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Crni\u0107i"
     ],
     "name:hrv_x_preferred":[
+        "Crni\u0107i"
+    ],
+    "name:nld_x_preferred":[
         "Crni\u0107i"
     ],
     "name:srp_x_preferred":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":890518511,
-    "wof:lastmodified":1513898812,
+    "wof:lastmodified":1561830466,
     "wof:name":"Crni\u0107i",
     "wof:parent_id":1108759249,
     "wof:placetype":"locality",

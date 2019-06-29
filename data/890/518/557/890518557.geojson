@@ -21,7 +21,7 @@
     "name:eng_x_preferred":[
         "Bijela"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bijela"
     ],
     "name:hrv_x_preferred":[
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":890518557,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1561830464,
     "wof:name":"Bijela",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

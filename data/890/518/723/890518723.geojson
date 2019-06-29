@@ -22,19 +22,13 @@
     "name:bos_x_preferred":[
         "Me\u0111ugorje"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u4e45\u6208\u8036"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Me\u0111ugorje"
     ],
     "name:dan_x_preferred":[
         "Me\u0111ugorje"
     ],
     "name:deu_x_preferred":[
-        "Me\u0111ugorje"
-    ],
-    "name:dut_x_preferred":[
         "Me\u0111ugorje"
     ],
     "name:eng_x_preferred":[
@@ -46,13 +40,7 @@
     "name:fra_x_preferred":[
         "Medjugorje"
     ],
-    "name:fre_x_preferred":[
-        "Me\u0111ugorje"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10ef\u10e3\u10d2\u10dd\u10e0\u10d8\u10d4"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Me\u0111ugorje"
     ],
     "name:gle_x_preferred":[
@@ -88,7 +76,7 @@
     "name:lit_x_preferred":[
         "Med\u017eiugorj\u0117"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u0435\u0453\u0443\u0433\u043e\u0440\u0458\u0435"
     ],
     "name:mlt_x_preferred":[
@@ -100,6 +88,9 @@
     "name:nld_x_preferred":[
         "Medjugorje"
     ],
+    "name:nld_x_variant":[
+        "Me\u0111ugorje"
+    ],
     "name:nob_x_preferred":[
         "Me\u0111ugorje"
     ],
@@ -109,16 +100,13 @@
     "name:por_x_preferred":[
         "Me\u0111ugorje"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Me\u0111ugorje"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0434\u0436\u0443\u0433\u043e\u0440\u044c\u0435"
     ],
     "name:slk_x_preferred":[
-        "Med\u017eugorie"
-    ],
-    "name:slo_x_preferred":[
         "Med\u017eugorie"
     ],
     "name:slv_x_preferred":[
@@ -186,7 +174,7 @@
         }
     ],
     "wof:id":890518723,
-    "wof:lastmodified":1513898838,
+    "wof:lastmodified":1561830466,
     "wof:name":"Me\u00f0ugorje",
     "wof:parent_id":1108759049,
     "wof:placetype":"locality",

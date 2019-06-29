@@ -21,7 +21,7 @@
     "name:eng_x_preferred":[
         "Grabovica Donja"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Grabovica Donja"
     ],
     "name:hrv_x_preferred":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890518999,
-    "wof:lastmodified":1513898819,
+    "wof:lastmodified":1561830464,
     "wof:name":"Grabovica Donja",
     "wof:parent_id":1108759271,
     "wof:placetype":"locality",

@@ -19,19 +19,19 @@
     "name:bos_x_preferred":[
         "Sanica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sanica"
     ],
     "name:eng_x_preferred":[
         "Sanica"
     ],
-    "name:fre_x_preferred":[
-        "Sanica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sanica"
     ],
     "name:hrv_x_preferred":[
+        "Sanica"
+    ],
+    "name:nld_x_preferred":[
         "Sanica"
     ],
     "name:srp_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":890519019,
-    "wof:lastmodified":1527751224,
+    "wof:lastmodified":1561830462,
     "wof:name":"Sanica",
     "wof:parent_id":1108759133,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "name:eng_x_preferred":[
         "Zbori\u0161te"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zbori\u0161te"
     ],
     "name:hrv_x_preferred":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":890518685,
-    "wof:lastmodified":1527751236,
+    "wof:lastmodified":1561830468,
     "wof:name":"Zbori\u0161te",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

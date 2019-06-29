@@ -21,9 +21,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Kantoni Hercegovina-Neretva"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u0627\u0644\u0647\u0631\u0633\u0643-\u0646\u064a\u0631\u064a\u062a\u0641\u0627"
     ],
@@ -54,20 +51,14 @@
     "name:ces_x_preferred":[
         "Hercegovsko-neretvansk\u00fd kanton"
     ],
-    "name:chi_x_preferred":[
-        "\u9ed1\u585e\u54e5\u7dad\u90a3-\u6d85\u96f7\u7279\u74e6\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Hercegovsko-neretvansk\u00fd kanton"
-    ],
     "name:dan_x_preferred":[
         "Herzegovina-Neretva Canton"
     ],
     "name:deu_x_preferred":[
         "Kanton Herzegowina-Neretva"
     ],
-    "name:dut_x_preferred":[
-        "Herzegovina-Neretva"
+    "name:ell_x_preferred":[
+        "\u0395\u03c1\u03b6\u03b5\u03b3\u03bf\u03b2\u03af\u03bd\u03b7-\u039d\u03ad\u03c1\u03b5\u03c4\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Herzegovina-Neretva"
@@ -84,17 +75,8 @@
     "name:fra_x_preferred":[
         "Canton d'Herz\u00e9govine-Neretva"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "canton d'Herz\u00e9govine-Neretva"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d4\u10e0\u10ea\u10d4\u10d2\u10dd\u10d5\u10d8\u10dc\u10d0-\u10dc\u10d4\u10e0\u10d4\u10e2\u10d5\u10d0\u10dc\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kanton Herzegowina-Neretva"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c1\u03b6\u03b5\u03b3\u03bf\u03b2\u03af\u03bd\u03b7-\u039d\u03ad\u03c1\u03b5\u03c4\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ab0\u0acd\u0a9d\u0ac7\u0a97\u0acb\u0ab5\u0abf\u0aa8\u0abe-\u0aa8\u0ac7\u0ab0\u0ac7\u0aa4\u0acd\u0ab5\u0abe \u0a95\u0ac7\u0aa8\u0acd\u0a9f\u0acb\u0aa8"
@@ -138,14 +120,8 @@
     "name:lit_x_preferred":[
         "Hercegovinos-Neretvos kantonas"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0441\u043a\u043e-\u043d\u0435\u0440\u0435\u0442\u0432\u0430\u043d\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u0930\u094d\u091c\u0947\u0917\u094b\u0935\u093f\u0928\u093e-\u0928\u0947\u0930\u0947\u0935\u094d\u0939\u093e \u0915\u0947\u0902\u091f\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Herzegovina-Neretva"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0441\u043a\u043e-\u043d\u0435\u0440\u0435\u0442\u0432\u0430\u043d\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
@@ -162,9 +138,6 @@
     "name:nor_x_preferred":[
         "Hercegovina-Neretva kanton"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646-\u0646\u0631\u062a\u0648\u0627"
-    ],
     "name:pol_x_preferred":[
         "Kanton hercegowi\u0144sko-neretwia\u0144ski"
     ],
@@ -172,9 +145,6 @@
         "Herzegovina-Neretva"
     ],
     "name:ron_x_preferred":[
-        "Cantonul Her\u021begovina-Neretva"
-    ],
-    "name:rum_x_preferred":[
         "Cantonul Her\u021begovina-Neretva"
     ],
     "name:rus_x_preferred":[
@@ -185,6 +155,9 @@
     ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Herzegovina-Neretva"
+    ],
+    "name:sqi_x_preferred":[
+        "Kantoni Hercegovina-Neretva"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0430\u0447\u043a\u043e-\u043d\u0435\u0440\u0435\u0442\u0432\u0430\u043d\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
@@ -342,7 +315,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1553550330,
+    "wof:lastmodified":1561830404,
     "wof:name":"Herzegovina-Neretva",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

@@ -15,34 +15,31 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Kozaru\u0161a"
-    ],
     "name:bos_x_preferred":[
         "Kozaru\u0161a"
     ],
     "name:cat_x_preferred":[
         "Kozaru\u0161a"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kozaru\u0161a"
     ],
     "name:dan_x_preferred":[
         "Kozaru\u0161a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kozaru\u0161a"
     ],
     "name:eng_x_preferred":[
         "Kozaru\u0161a"
     ],
+    "name:eus_x_preferred":[
+        "Kozaru\u0161a"
+    ],
     "name:fin_x_preferred":[
         "Kozaru\u0161a"
     ],
-    "name:fre_x_preferred":[
-        "Kozaru\u0161a"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kozaru\u0161a"
     ],
     "name:hrv_x_preferred":[
@@ -52,6 +49,9 @@
         "Kozaru\u0161a"
     ],
     "name:ita_x_preferred":[
+        "Kozaru\u0161a"
+    ],
+    "name:nld_x_preferred":[
         "Kozaru\u0161a"
     ],
     "name:nno_x_preferred":[
@@ -69,13 +69,13 @@
     "name:por_x_preferred":[
         "Kozaru\u0161a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kozaru\u0161a"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0437\u0430\u0440\u0443\u0448\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kozaru\u0161a"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":890518885,
-    "wof:lastmodified":1513898835,
+    "wof:lastmodified":1561830468,
     "wof:name":"Kozaru\u0161a",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

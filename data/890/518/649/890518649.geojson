@@ -15,25 +15,16 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Shipovo"
-    ],
     "name:bos_x_preferred":[
         "\u0160ipovo"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u6ce2\u6c83"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u0160ipovo"
     ],
     "name:eng_x_preferred":[
         "\u0160ipovo"
     ],
-    "name:fre_x_preferred":[
-        "\u0160ipovo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0160ipovo"
     ],
     "name:hrv_x_preferred":[
@@ -45,6 +36,9 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30dd\u30f4\u30a9"
     ],
+    "name:nld_x_preferred":[
+        "\u0160ipovo"
+    ],
     "name:pol_x_preferred":[
         "\u0160ipovo"
     ],
@@ -53,6 +47,9 @@
     ],
     "name:spa_x_preferred":[
         "\u0160ipovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Shipovo"
     ],
     "name:srp_x_preferred":[
         "\u0428\u0438\u043f\u043e\u0432\u043e"
@@ -65,6 +62,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u067e\u0648\u0648\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u6ce2\u6c83"
     ],
     "qs:name":"\u0160ipovo",
     "qs:photos_9r":0,
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":890518649,
-    "wof:lastmodified":1527751235,
+    "wof:lastmodified":1561830467,
     "wof:name":"\u0160ipovo",
     "wof:parent_id":1108759229,
     "wof:placetype":"locality",

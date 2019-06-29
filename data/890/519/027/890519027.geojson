@@ -16,9 +16,6 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Neumi"
-    ],
     "name:bos_x_preferred":[
         "Neum"
     ],
@@ -31,19 +28,10 @@
     "name:ces_x_preferred":[
         "Neum"
     ],
-    "name:chi_x_preferred":[
-        "\u6d85\u59c6"
-    ],
-    "name:cze_x_preferred":[
-        "Neum"
-    ],
     "name:dan_x_preferred":[
         "Neum"
     ],
     "name:deu_x_preferred":[
-        "Neum"
-    ],
-    "name:dut_x_preferred":[
         "Neum"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +44,6 @@
         "Neum"
     ],
     "name:fra_x_preferred":[
-        "Neum"
-    ],
-    "name:fre_x_preferred":[
-        "Neum"
-    ],
-    "name:ger_x_preferred":[
         "Neum"
     ],
     "name:hbs_x_preferred":[
@@ -88,9 +70,6 @@
     "name:lat_x_preferred":[
         "Portus Noumensis"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0435\u0443\u043c"
-    ],
     "name:mkd_x_preferred":[
         "\u041d\u0435\u0443\u043c"
     ],
@@ -106,13 +85,13 @@
     "name:por_x_preferred":[
         "Neum"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Neum"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0443\u043c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Neum"
     ],
     "name:slv_x_preferred":[
@@ -120,6 +99,9 @@
     ],
     "name:spa_x_preferred":[
         "Neum"
+    ],
+    "name:sqi_x_preferred":[
+        "Neumi"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0435\u0443\u043c"
@@ -182,7 +164,7 @@
         }
     ],
     "wof:id":890519027,
-    "wof:lastmodified":1527751224,
+    "wof:lastmodified":1561830462,
     "wof:name":"Neum",
     "wof:parent_id":1108759177,
     "wof:placetype":"locality",

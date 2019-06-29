@@ -24,7 +24,7 @@
     "name:eng_x_preferred":[
         "Lokvine"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lokvine"
     ],
     "name:swe_x_preferred":[
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":890518551,
-    "wof:lastmodified":1513898837,
+    "wof:lastmodified":1561830463,
     "wof:name":"Lokvine",
     "wof:parent_id":1108759297,
     "wof:placetype":"locality",

@@ -18,19 +18,19 @@
     "name:bos_x_preferred":[
         "Velika Obarska"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Velika Obarska"
     ],
     "name:eng_x_preferred":[
         "Velika Obarska"
     ],
-    "name:fre_x_preferred":[
-        "Velika Obarska"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Velika Obarska"
     ],
     "name:hrv_x_preferred":[
+        "Velika Obarska"
+    ],
+    "name:nld_x_preferred":[
         "Velika Obarska"
     ],
     "name:rus_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":890518759,
-    "wof:lastmodified":1527751235,
+    "wof:lastmodified":1561830467,
     "wof:name":"Velika Obarska",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

@@ -15,22 +15,13 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Derventa"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u0565\u0580\u057e\u0565\u0576\u057f\u0561"
-    ],
     "name:bos_x_preferred":[
         "Derventa"
     ],
     "name:bul_x_preferred":[
         "\u0414\u0435\u0440\u0432\u0435\u043d\u0442\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u4ee3\u723e\u6587\u5854"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Derventa"
     ],
     "name:dan_x_preferred":[
@@ -39,20 +30,17 @@
     "name:deu_x_preferred":[
         "Derventa"
     ],
-    "name:dut_x_preferred":[
-        "Derventa"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5\u03c1\u03b2\u03ad\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Derventa"
     ],
-    "name:fre_x_preferred":[
-        "Derventa"
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0648\u0646\u062a\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Derventa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b5\u03c1\u03b2\u03ad\u03bd\u03c4\u03b1"
     ],
     "name:hbs_x_preferred":[
         "Derventa"
@@ -63,6 +51,9 @@
     "name:hrv_x_preferred":[
         "Derventa"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0580\u057e\u0565\u0576\u057f\u0561"
+    ],
     "name:ita_x_preferred":[
         "Derventa"
     ],
@@ -72,14 +63,14 @@
     "name:lit_x_preferred":[
         "Derventa"
     ],
+    "name:nld_x_preferred":[
+        "Derventa"
+    ],
     "name:nob_x_preferred":[
         "Derventa"
     ],
     "name:ota_x_preferred":[
         "\u062f\u0631\u0628\u0646\u062f"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u0648\u0646\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Derventa"
@@ -94,6 +85,9 @@
         "Derventa"
     ],
     "name:spa_x_preferred":[
+        "Derventa"
+    ],
+    "name:sqi_x_preferred":[
         "Derventa"
     ],
     "name:srp_x_preferred":[
@@ -152,7 +146,7 @@
         }
     ],
     "wof:id":890518631,
-    "wof:lastmodified":1527758437,
+    "wof:lastmodified":1561830469,
     "wof:name":"Derventa",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

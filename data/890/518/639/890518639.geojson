@@ -15,12 +15,6 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Bosansko Grahovo"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u057d\u0561\u0576\u057d\u056f\u0578 \u0533\u0580\u0561\u056d\u0578\u057e\u0578"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430-\u0413\u0440\u0430\u0445\u0430\u0432\u0430"
     ],
@@ -30,22 +24,16 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e \u0413\u0440\u0430\u0445\u043e\u0432\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u65af\u5c3c\u4e9a\u683c\u62c9\u970d\u6c83"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bosansko Grahovo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bosansko Grahovo"
     ],
     "name:eng_x_preferred":[
         "Bosansko Grahovo"
     ],
-    "name:fre_x_preferred":[
-        "Bosansko Grahovo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bosansko Grahovo"
     ],
     "name:hrv_x_preferred":[
@@ -66,8 +54,11 @@
     "name:kor_x_preferred":[
         "\ubcf4\uc0b0\uc2a4\ucf54\uadf8\ub77c\ud638\ubcf4"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e \u0413\u0440\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Bosansko Grahovo"
     ],
     "name:nob_x_preferred":[
         "Bosansko Grahovo"
@@ -81,10 +72,13 @@
     "name:rus_x_variant":[
         "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e-\u0413\u0440\u0430\u0445\u043e\u0432\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bosansko Grahovo"
     ],
     "name:spa_x_preferred":[
+        "Bosansko Grahovo"
+    ],
+    "name:sqi_x_preferred":[
         "Bosansko Grahovo"
     ],
     "name:srp_x_preferred":[
@@ -107,6 +101,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0633\u0627\u0646\u0633\u06a9\u0648 \u06af\u0631\u0627\u06c1\u0648\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u65af\u5c3c\u4e9a\u683c\u62c9\u970d\u6c83"
     ],
     "qs:name":"Bosansko Grahovo",
     "qs:photos_9r":0,
@@ -141,7 +138,7 @@
         }
     ],
     "wof:id":890518639,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1561830468,
     "wof:name":"Bosansko Grahovo",
     "wof:parent_id":1108759019,
     "wof:placetype":"locality",

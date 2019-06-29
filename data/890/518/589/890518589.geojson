@@ -15,15 +15,6 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Visoko"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u057d\u0578\u056f\u0578"
-    ],
-    "name:baq_x_preferred":[
-        "Visoko"
-    ],
     "name:bos_x_preferred":[
         "Visoko"
     ],
@@ -36,19 +27,10 @@
     "name:ces_x_preferred":[
         "Visoko"
     ],
-    "name:chi_x_preferred":[
-        "\u7ef4\u7d22\u79d1"
-    ],
-    "name:cze_x_preferred":[
-        "Visoko"
-    ],
     "name:dan_x_preferred":[
         "Visoko"
     ],
     "name:deu_x_preferred":[
-        "Visoko"
-    ],
-    "name:dut_x_preferred":[
         "Visoko"
     ],
     "name:eng_x_preferred":[
@@ -69,12 +51,6 @@
     "name:fra_x_preferred":[
         "Visoko"
     ],
-    "name:fre_x_preferred":[
-        "Visoko"
-    ],
-    "name:ger_x_preferred":[
-        "Visoko"
-    ],
     "name:hbs_x_preferred":[
         "Visoko"
     ],
@@ -86,6 +62,9 @@
     ],
     "name:hun_x_preferred":[
         "Visoko"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u057d\u0578\u056f\u0578"
     ],
     "name:ido_x_preferred":[
         "Visoko"
@@ -108,11 +87,8 @@
     "name:lit_x_preferred":[
         "Visokas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0412\u0438\u0441\u043e\u043a\u043e"
-    ],
-    "name:may_x_preferred":[
-        "Visoko"
     ],
     "name:msa_x_preferred":[
         "Visoko"
@@ -142,9 +118,6 @@
         "Visoko"
     ],
     "name:slk_x_preferred":[
-        "Visoko"
-    ],
-    "name:slo_x_preferred":[
         "Visoko"
     ],
     "name:slv_x_preferred":[
@@ -210,7 +183,7 @@
         }
     ],
     "wof:id":890518589,
-    "wof:lastmodified":1527751233,
+    "wof:lastmodified":1561830466,
     "wof:name":"Visoko",
     "wof:parent_id":1108759285,
     "wof:placetype":"locality",

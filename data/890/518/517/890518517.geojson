@@ -18,16 +18,16 @@
     "name:bos_x_preferred":[
         "Koj\u010dinovac"
     ],
-    "name:dut_x_preferred":[
-        "Koj\u010dinovac"
-    ],
     "name:eng_x_preferred":[
         "Koj\u010dinovac"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Koj\u010dinovac"
     ],
     "name:hrv_x_preferred":[
+        "Koj\u010dinovac"
+    ],
+    "name:nld_x_preferred":[
         "Koj\u010dinovac"
     ],
     "name:rus_x_preferred":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":890518517,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1561830466,
     "wof:name":"Koj\u010dinovac",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

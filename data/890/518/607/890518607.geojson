@@ -18,19 +18,19 @@
     "name:bos_x_preferred":[
         "Ostro\u017eac"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ostro\u017eac"
     ],
     "name:eng_x_preferred":[
         "Ostro\u017eac"
     ],
-    "name:fre_x_preferred":[
-        "Ostro\u017eac"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ostro\u017eac"
     ],
     "name:hrv_x_preferred":[
+        "Ostro\u017eac"
+    ],
+    "name:nld_x_preferred":[
         "Ostro\u017eac"
     ],
     "name:rus_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":890518607,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1561830469,
     "wof:name":"Ostro\u017eac",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

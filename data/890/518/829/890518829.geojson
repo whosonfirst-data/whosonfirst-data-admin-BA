@@ -22,16 +22,16 @@
     "name:bul_x_preferred":[
         "\u0414\u0432\u043e\u0440\u043e\u0432\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Dvorovi"
-    ],
     "name:eng_x_preferred":[
         "Dvorovi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dvorovi"
     ],
     "name:hrv_x_preferred":[
+        "Dvorovi"
+    ],
+    "name:nld_x_preferred":[
         "Dvorovi"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":890518829,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1561830464,
     "wof:name":"Dvorovi",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",
