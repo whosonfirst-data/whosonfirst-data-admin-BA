@@ -21,16 +21,16 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Popovi"
-    ],
     "name:eng_x_preferred":[
         "Popovi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Popovi"
     ],
     "name:hrv_x_preferred":[
+        "Popovi"
+    ],
+    "name:nld_x_preferred":[
         "Popovi"
     ],
     "name:rus_x_preferred":[
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":890518669,
-    "wof:lastmodified":1527751232,
+    "wof:lastmodified":1561830465,
     "wof:name":"Popovi",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

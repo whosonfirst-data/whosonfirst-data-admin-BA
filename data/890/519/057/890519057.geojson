@@ -19,19 +19,19 @@
     "name:bos_x_preferred":[
         "Brka"
     ],
-    "name:dut_x_preferred":[
-        "Brka"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Brka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Brka"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03ba\u03b1"
-    ],
     "name:hrv_x_preferred":[
+        "Brka"
+    ],
+    "name:nld_x_preferred":[
         "Brka"
     ],
     "name:srp_x_preferred":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":890519057,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1561830462,
     "wof:name":"Brka",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

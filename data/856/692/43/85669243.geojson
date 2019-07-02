@@ -24,9 +24,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Kantoni Posavina"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u0628\u0648\u0633\u0627\u0641\u064a\u0646\u0627"
     ],
@@ -42,10 +39,7 @@
     "name:cat_x_preferred":[
         "Cant\u00f3 de Posavina"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u85a9\u7dad\u7d0d\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Posavsk\u00fd kanton"
     ],
     "name:dan_x_preferred":[
@@ -54,8 +48,8 @@
     "name:deu_x_preferred":[
         "Kanton Posavina"
     ],
-    "name:dut_x_preferred":[
-        "Posavina"
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c3\u03b1\u03b2\u03af\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Posavina"
@@ -67,20 +61,14 @@
     "name:epo_x_preferred":[
         "Posavina"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0648\u0633\u0627\u0648\u06cc\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Posavina"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "canton de la Posavina"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e1\u10d0\u10d5\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kanton Posavina"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c3\u03b1\u03b2\u03af\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab8\u0abe\u0ab5\u0abf\u0aa8\u0abe \u0a95\u0ac7\u0aa8\u0acd\u0a9f\u0aa8"
@@ -109,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cca\u0cb8\u0cb5\u0cbf\u0ca8\u0cbe \u0c95\u0ccd\u0caf\u0cbe\u0c82\u0c9f\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e1\u10d0\u10d5\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud3ec\uc0ac\ube44\ub098 \uc8fc"
     ],
@@ -118,13 +109,13 @@
     "name:lit_x_preferred":[
         "Posavinos kantonas"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u043e\u0441\u0430\u0432\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0938\u0935\u093f\u0928\u093e \u0915\u0902\u091f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0441\u0430\u0432\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Posavina"
     ],
     "name:nld_x_preferred":[
@@ -133,16 +124,13 @@
     "name:nob_x_preferred":[
         "Posavina kanton"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0648\u0633\u0627\u0648\u06cc\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Kanton Posawina"
     ],
     "name:por_x_preferred":[
         "Posavina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cantonul Posavina"
     ],
     "name:rus_x_preferred":[
@@ -151,11 +139,14 @@
     "name:sin_x_preferred":[
         "\u0db4\u0ddc\u0dc3\u0dc0\u0dd2\u0db1\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bosanska Posavina"
     ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Posavina"
+    ],
+    "name:sqi_x_preferred":[
+        "Kantoni Posavina"
     ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0441\u0430\u0432\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
@@ -326,7 +317,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1553550327,
+    "wof:lastmodified":1561830404,
     "wof:name":"Posavina",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

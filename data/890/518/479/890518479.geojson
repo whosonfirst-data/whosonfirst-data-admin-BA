@@ -15,34 +15,31 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Gomjenica"
-    ],
     "name:bos_x_preferred":[
         "Gomjenica"
     ],
     "name:cat_x_preferred":[
         "Gomjenica"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Gomjenica"
     ],
     "name:dan_x_preferred":[
         "Gomjenica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gomjenica"
     ],
     "name:eng_x_preferred":[
         "Gomjenica"
     ],
+    "name:eus_x_preferred":[
+        "Gomjenica"
+    ],
     "name:fin_x_preferred":[
         "Gomjenica"
     ],
-    "name:fre_x_preferred":[
-        "Gomjenica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gomjenica"
     ],
     "name:hrv_x_preferred":[
@@ -52,6 +49,9 @@
         "Gomjenica"
     ],
     "name:ita_x_preferred":[
+        "Gomjenica"
+    ],
+    "name:nld_x_preferred":[
         "Gomjenica"
     ],
     "name:nno_x_preferred":[
@@ -69,13 +69,13 @@
     "name:por_x_preferred":[
         "Gomjenica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gomjenica"
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u043c\u0435\u043d\u0438\u0446\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gomjenica"
     ],
     "name:slv_x_preferred":[
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":890518479,
-    "wof:lastmodified":1513898817,
+    "wof:lastmodified":1561830465,
     "wof:name":"Gomjenica",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

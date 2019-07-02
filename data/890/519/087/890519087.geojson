@@ -19,16 +19,16 @@
     "name:bos_x_preferred":[
         "Dobrljin"
     ],
-    "name:dut_x_preferred":[
-        "Dobrljin"
-    ],
     "name:eng_x_preferred":[
         "Dobrljin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dobrljin"
     ],
     "name:hrv_x_preferred":[
+        "Dobrljin"
+    ],
+    "name:nld_x_preferred":[
         "Dobrljin"
     ],
     "name:srp_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":890519087,
-    "wof:lastmodified":1527751223,
+    "wof:lastmodified":1561830462,
     "wof:name":"Dobrljin",
     "wof:parent_id":1108759011,
     "wof:placetype":"locality",

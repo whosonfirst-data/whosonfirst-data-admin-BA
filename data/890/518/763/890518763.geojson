@@ -21,7 +21,7 @@
     "name:eng_x_preferred":[
         "Trn"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Trn"
     ],
     "name:hrv_x_preferred":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":890518763,
-    "wof:lastmodified":1513898864,
+    "wof:lastmodified":1561830463,
     "wof:name":"Trn",
     "wof:parent_id":1108759151,
     "wof:placetype":"locality",

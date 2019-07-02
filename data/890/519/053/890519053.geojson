@@ -19,16 +19,16 @@
     "name:bos_x_preferred":[
         "Vrnogra\u010d"
     ],
-    "name:dut_x_preferred":[
-        "Vrnogra\u010d"
-    ],
     "name:eng_x_preferred":[
         "Vrnogra\u010d"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vrnogra\u010d"
     ],
     "name:hrv_x_preferred":[
+        "Vrnogra\u010d"
+    ],
+    "name:nld_x_preferred":[
         "Vrnogra\u010d"
     ],
     "name:sco_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":890519053,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1561830461,
     "wof:name":"Vrnogra\u010d",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

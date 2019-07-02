@@ -18,16 +18,16 @@
     "name:bos_x_preferred":[
         "Hotonj"
     ],
-    "name:dut_x_preferred":[
-        "Hotonj"
-    ],
     "name:eng_x_preferred":[
         "Hotonj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hotonj"
     ],
     "name:hrv_x_preferred":[
+        "Hotonj"
+    ],
+    "name:nld_x_preferred":[
         "Hotonj"
     ],
     "name:srp_x_preferred":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890518645,
-    "wof:lastmodified":1527751230,
+    "wof:lastmodified":1561830465,
     "wof:name":"Hotonj",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

@@ -18,16 +18,16 @@
     "name:bos_x_preferred":[
         "Radi\u0161i\u0107i"
     ],
-    "name:dut_x_preferred":[
-        "Radi\u0161i\u0107i"
-    ],
     "name:eng_x_preferred":[
         "Radi\u0161i\u0107i"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Radi\u0161i\u0107i"
     ],
     "name:hrv_x_preferred":[
+        "Radi\u0161i\u0107i"
+    ],
+    "name:nld_x_preferred":[
         "Radi\u0161i\u0107i"
     ],
     "name:srp_x_preferred":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890518777,
-    "wof:lastmodified":1527751233,
+    "wof:lastmodified":1561830466,
     "wof:name":"Radi\u0161i\u0107i",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

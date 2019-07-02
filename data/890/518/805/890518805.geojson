@@ -15,9 +15,6 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Livno"
-    ],
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u0646\u0648"
     ],
@@ -36,28 +33,19 @@
     "name:ces_x_preferred":[
         "Livno"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u592b\u8afe"
-    ],
-    "name:cze_x_preferred":[
-        "Livno"
-    ],
     "name:dan_x_preferred":[
         "Livno"
     ],
     "name:deu_x_preferred":[
         "Livno"
     ],
-    "name:dut_x_preferred":[
-        "Livno"
-    ],
     "name:eng_x_preferred":[
         "Livno"
     ],
-    "name:fre_x_preferred":[
-        "Livno"
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0648\u0646\u0648"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Livno"
     ],
     "name:glg_x_preferred":[
@@ -96,11 +84,11 @@
     "name:lit_x_preferred":[
         "Livnas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041b\u0438\u0432\u043d\u043e"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0648\u0646\u0648"
+    "name:nld_x_preferred":[
+        "Livno"
     ],
     "name:pol_x_preferred":[
         "Livno"
@@ -112,6 +100,9 @@
         "Livno"
     ],
     "name:spa_x_preferred":[
+        "Livno"
+    ],
+    "name:sqi_x_preferred":[
         "Livno"
     ],
     "name:srp_x_preferred":[
@@ -168,7 +159,7 @@
         }
     ],
     "wof:id":890518805,
-    "wof:lastmodified":1527751232,
+    "wof:lastmodified":1561830465,
     "wof:name":"Livno",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

@@ -18,14 +18,8 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:alb_x_preferred":[
-        "\u00c7aplina"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0644\u062e\u064a\u0646\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0549\u0561\u057a\u056c\u056b\u0576\u0561"
     ],
     "name:bel_x_preferred":[
         "\u0427\u0430\u043f\u043b\u0456\u043d\u0430"
@@ -36,22 +30,16 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u043f\u043b\u0438\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u666e\u5229\u7eb3"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010capljina"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u010capljina"
     ],
     "name:eng_x_preferred":[
         "\u010capljina"
     ],
-    "name:fre_x_preferred":[
-        "\u010capljina"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u010capljina"
     ],
     "name:heb_x_preferred":[
@@ -59,6 +47,9 @@
     ],
     "name:hrv_x_preferred":[
         "\u010capljina"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u057a\u056c\u056b\u0576\u0561"
     ],
     "name:ita_x_preferred":[
         "\u010capljina"
@@ -68,6 +59,9 @@
     ],
     "name:lit_x_preferred":[
         "\u010caplina"
+    ],
+    "name:nld_x_preferred":[
+        "\u010capljina"
     ],
     "name:nob_x_preferred":[
         "\u010capljina"
@@ -87,6 +81,9 @@
     "name:spa_x_preferred":[
         "\u010capljina"
     ],
+    "name:sqi_x_preferred":[
+        "\u00c7aplina"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0430\u043f\u0459\u0438\u043d\u0430"
     ],
@@ -104,6 +101,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u067e\u0644\u06cc\u0646\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u666e\u5229\u7eb3"
     ],
     "qs:name":"\u010capljina",
     "qs:name_adm0":"Bosna i Hercegovina",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":890518969,
-    "wof:lastmodified":1534379234,
+    "wof:lastmodified":1561830467,
     "wof:name":"\u010capljina",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

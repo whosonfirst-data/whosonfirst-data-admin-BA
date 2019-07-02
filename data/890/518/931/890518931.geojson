@@ -19,16 +19,16 @@
     "name:bos_x_preferred":[
         "Paji\u0107 Polje"
     ],
-    "name:dut_x_preferred":[
-        "Paji\u0107 Polje"
-    ],
     "name:eng_x_preferred":[
         "Paji\u0107 Polje"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Paji\u0107 Polje"
     ],
     "name:hrv_x_preferred":[
+        "Paji\u0107 Polje"
+    ],
+    "name:nld_x_preferred":[
         "Paji\u0107 Polje"
     ],
     "name:srp_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":890518931,
-    "wof:lastmodified":1527751228,
+    "wof:lastmodified":1561830463,
     "wof:name":"Pajic Polje",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

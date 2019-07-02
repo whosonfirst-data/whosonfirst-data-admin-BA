@@ -18,16 +18,16 @@
     "name:bos_x_preferred":[
         "Lije\u0161nica"
     ],
-    "name:dut_x_preferred":[
-        "Lije\u0161nica"
-    ],
     "name:eng_x_preferred":[
         "Lije\u0161nica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lije\u0161nica"
     ],
     "name:hrv_x_preferred":[
+        "Lije\u0161nica"
+    ],
+    "name:nld_x_preferred":[
         "Lije\u0161nica"
     ],
     "name:swe_x_preferred":[
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":890518575,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1561830466,
     "wof:name":"Lije\u0161nica",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

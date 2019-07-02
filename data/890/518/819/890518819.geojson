@@ -18,16 +18,16 @@
     "name:bos_x_preferred":[
         "Donja Mahala"
     ],
-    "name:dut_x_preferred":[
-        "Donja Mahala"
-    ],
     "name:eng_x_preferred":[
         "Donja Mahala"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Donja Mahala"
     ],
     "name:hrv_x_preferred":[
+        "Donja Mahala"
+    ],
+    "name:nld_x_preferred":[
         "Donja Mahala"
     ],
     "name:srp_x_preferred":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890518819,
-    "wof:lastmodified":1527751231,
+    "wof:lastmodified":1561830465,
     "wof:name":"Donja Mahala",
     "wof:parent_id":1108759195,
     "wof:placetype":"locality",

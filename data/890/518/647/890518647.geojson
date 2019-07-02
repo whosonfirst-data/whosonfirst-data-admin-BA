@@ -18,16 +18,16 @@
     "name:bos_x_preferred":[
         "Rodo\u010d"
     ],
-    "name:dut_x_preferred":[
-        "Rodo\u010d"
-    ],
     "name:eng_x_preferred":[
         "Rodo\u010d"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rodo\u010d"
     ],
     "name:hrv_x_preferred":[
+        "Rodo\u010d"
+    ],
+    "name:nld_x_preferred":[
         "Rodo\u010d"
     ],
     "name:srp_x_preferred":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890518647,
-    "wof:lastmodified":1527751236,
+    "wof:lastmodified":1561830468,
     "wof:name":"Rodo\u010d",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

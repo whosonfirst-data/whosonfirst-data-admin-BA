@@ -16,9 +16,6 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "B\u00ebr\u00e7ka"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0631\u062a\u0634\u0643\u0648"
     ],
@@ -28,13 +25,10 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u044a\u0447\u043a\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u723e\u5947\u79d1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Br\u010dko"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Br\u010dko"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +44,6 @@
         "\u0628\u0631\u0686\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
-        "Br\u010dko"
-    ],
-    "name:fre_x_preferred":[
-        "Br\u010dko"
-    ],
-    "name:ger_x_preferred":[
         "Br\u010dko"
     ],
     "name:glg_x_preferred":[
@@ -91,20 +79,17 @@
     "name:lit_x_preferred":[
         "Br\u010dkas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0440\u0447\u043a\u043e"
-    ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0447\u043a\u043e"
     ],
     "name:nap_x_preferred":[
         "Br\u010dko"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Br\u010dko"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0686\u06a9\u0648"
+    "name:nob_x_preferred":[
+        "Br\u010dko"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0631\u06a9\u0648"
@@ -157,6 +142,9 @@
     "name:zho_x_preferred":[
         "\u5e03\u5c14\u5947\u79d1"
     ],
+    "name:zho_x_variant":[
+        "\u5e03\u723e\u5947\u79d1"
+    ],
     "qs:name":"Br\u010dko",
     "qs:name_adm0":"Bosna i Hercegovina",
     "qs:name_adm1":"Br\u010dko Distrikt",
@@ -197,7 +185,7 @@
         }
     ],
     "wof:id":890519123,
-    "wof:lastmodified":1527751225,
+    "wof:lastmodified":1561830463,
     "wof:name":"Br\u010dko",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

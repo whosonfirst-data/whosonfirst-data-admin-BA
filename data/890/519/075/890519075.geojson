@@ -19,14 +19,14 @@
     "name:bos_x_preferred":[
         "Bijela"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03b3\u03b9\u03ad\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Bijela"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bijela"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03b3\u03b9\u03ad\u03bb\u03b1"
     ],
     "name:hrv_x_preferred":[
         "Bijela"
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":890519075,
-    "wof:lastmodified":1553816434,
+    "wof:lastmodified":1561830462,
     "wof:name":"Bijela",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

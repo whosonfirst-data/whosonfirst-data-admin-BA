@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Vojkovi\u0107i"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vojkovi\u0107i"
     ],
     "name:srp_x_preferred":[
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":890518945,
-    "wof:lastmodified":1527758438,
+    "wof:lastmodified":1561830469,
     "wof:name":"Vojkovi\u0107i",
     "wof:parent_id":1108759107,
     "wof:placetype":"locality",

@@ -24,7 +24,7 @@
     "name:eng_x_preferred":[
         "\u200ePodzvizd"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Podzvizd"
     ],
     "name:hrv_x_preferred":[
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":890518697,
-    "wof:lastmodified":1513898844,
+    "wof:lastmodified":1561830468,
     "wof:name":"Podzvizd",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

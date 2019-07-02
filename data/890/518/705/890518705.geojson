@@ -25,22 +25,16 @@
     "name:cat_x_preferred":[
         "\u010cajni\u010de"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u4f0a\u5c3c\u5207"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010cajni\u010de"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u010cajni\u010de"
     ],
     "name:eng_x_preferred":[
         "\u010cajni\u010de"
     ],
-    "name:fre_x_preferred":[
-        "\u010cajni\u010de"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u010cajni\u010de"
     ],
     "name:hrv_x_preferred":[
@@ -51,6 +45,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30a4\u30cb\u30c1\u30a7"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cajni\u010de"
     ],
     "name:pol_x_preferred":[
         "\u010cajni\u010de"
@@ -75,6 +72,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u06cc\u0646\u06cc\u0686\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u4f0a\u5c3c\u5207"
     ],
     "qs:name":"\u010cajni\u010de",
     "qs:name_adm0":"Bosna i Hercegovina",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":890518705,
-    "wof:lastmodified":1527751234,
+    "wof:lastmodified":1561830466,
     "wof:name":"\u010cajni\u010de",
     "wof:parent_id":1108759035,
     "wof:placetype":"locality",

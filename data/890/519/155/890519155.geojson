@@ -16,34 +16,31 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Vidovice"
-    ],
     "name:bos_x_preferred":[
         "Vidovice"
     ],
     "name:cat_x_preferred":[
         "Vidovice"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Vidovice"
     ],
     "name:dan_x_preferred":[
         "Vidovice"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vidovice"
     ],
     "name:eng_x_preferred":[
         "Vidovice"
     ],
+    "name:eus_x_preferred":[
+        "Vidovice"
+    ],
     "name:fin_x_preferred":[
         "Vidovice"
     ],
-    "name:fre_x_preferred":[
-        "Vidovice"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vidovice"
     ],
     "name:hrv_x_preferred":[
@@ -53,6 +50,9 @@
         "Vidovice"
     ],
     "name:ita_x_preferred":[
+        "Vidovice"
+    ],
+    "name:nld_x_preferred":[
         "Vidovice"
     ],
     "name:nno_x_preferred":[
@@ -70,10 +70,10 @@
     "name:por_x_preferred":[
         "Vidovice"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vidovice"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vidovice"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":890519155,
-    "wof:lastmodified":1513898880,
+    "wof:lastmodified":1561830462,
     "wof:name":"Vidovice",
     "wof:parent_id":1108759195,
     "wof:placetype":"locality",

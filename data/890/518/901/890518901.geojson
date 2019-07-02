@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Donji Vija\u010dani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Donji Vija\u010dani"
     ],
     "name:hrv_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":890518901,
-    "wof:lastmodified":1534379234,
+    "wof:lastmodified":1561830464,
     "wof:name":"Donji Vija\u010dani",
     "wof:parent_id":1108759209,
     "wof:placetype":"locality",
