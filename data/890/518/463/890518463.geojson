@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Orahovica Gornja"
     ],
+    "name:ceb_x_preferred":[
+        "Orahovi\u0107a Gornja"
+    ],
     "name:eng_x_preferred":[
         "Orahovica Gornja"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890518463,
-    "wof:lastmodified":1561830465,
+    "wof:lastmodified":1563287584,
     "wof:name":"Orahovi\u0107a Gornja",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

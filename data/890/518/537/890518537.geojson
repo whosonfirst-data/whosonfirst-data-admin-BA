@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Gornja Koprivna"
     ],
+    "name:ceb_x_preferred":[
+        "Gornja Koprivna"
+    ],
     "name:eng_x_preferred":[
         "Gornja Koprivna"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890518537,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287604,
     "wof:name":"Gornja Koprivna",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

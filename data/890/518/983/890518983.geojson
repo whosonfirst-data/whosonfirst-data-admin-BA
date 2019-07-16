@@ -16,6 +16,9 @@
     "name:bos_x_preferred":[
         "Jagare"
     ],
+    "name:ceb_x_preferred":[
+        "Jagare"
+    ],
     "name:eng_x_preferred":[
         "Jagare"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890518983,
-    "wof:lastmodified":1561830465,
+    "wof:lastmodified":1563287592,
     "wof:name":"Jagare",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

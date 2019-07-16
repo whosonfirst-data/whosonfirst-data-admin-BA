@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Stijena"
     ],
+    "name:ceb_x_preferred":[
+        "Stijena"
+    ],
     "name:ces_x_preferred":[
         "Stijena"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890518665,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1563287636,
     "wof:name":"Stijena",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

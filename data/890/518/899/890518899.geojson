@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Vi\u0161i\u0107i"
     ],
+    "name:ceb_x_preferred":[
+        "Vi\u0161i\u0107i"
+    ],
     "name:eng_x_preferred":[
         "Vi\u0161i\u0107i"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890518899,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1563287638,
     "wof:name":"Vi\u0161i\u0107i",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

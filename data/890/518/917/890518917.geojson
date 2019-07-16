@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Janja"
     ],
+    "name:ceb_x_preferred":[
+        "Janja"
+    ],
     "name:deu_x_preferred":[
         "Janja"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:hrv_x_preferred":[
         "Janja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30cb\u30e3"
+    ],
+    "name:lit_x_preferred":[
+        "Jania"
     ],
     "name:nld_x_preferred":[
         "Janja"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890518917,
-    "wof:lastmodified":1561830470,
+    "wof:lastmodified":1563287652,
     "wof:name":"Janja",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

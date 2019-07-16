@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00046,
-    "geom:area_square_m":4016151.459061,
+    "geom:area_square_m":4016151.459065,
     "geom:bbox":"18.4485917972,45.0301051728,18.4991129986,45.0700930928",
     "geom:latitude":45.053654,
     "geom:longitude":18.476359,
@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "name:bos_x_preferred":[
+        "Slavonski \u0160amac"
+    ],
+    "name:eng_x_preferred":[
         "Slavonski \u0160amac"
     ],
     "name:fra_x_preferred":[
@@ -34,6 +37,9 @@
     "name:ita_x_preferred":[
         "Slavonski \u0160amac"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30e9\u30f4\u30a9\u30f3\u30b9\u30ad\u30fb\u30b7\u30e3\u30de\u30c4"
+    ],
     "name:nld_x_preferred":[
         "Slavonski \u0160amac"
     ],
@@ -43,11 +49,26 @@
     "name:ron_x_preferred":[
         "Comuna Slavonski \u0160amac"
     ],
+    "name:ron_x_variant":[
+        "Slavonski \u0160amac"
+    ],
+    "name:spa_x_preferred":[
+        "Slavonski \u0160amac"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u043b\u0430\u0432\u043e\u043d\u0441\u043a\u0438 \u0428\u0430\u043c\u0430\u0446"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u043e\u043d\u0441\u044c\u043a\u0438\u0439 \u0428\u0430\u043c\u0430\u0446\u044c"
+    ],
     "name:unk_x_variant":[
         "\u0160amac"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0644\u0627\u0648\u0646\u0633\u06a9\u06cc \u0634\u0627\u0645\u0627\u062a\u0633"
+    ],
+    "name:war_x_preferred":[
+        "Slavonski \u0160amac"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Brodsko-posavska \u017eupanija",
@@ -91,7 +112,7 @@
         }
     ],
     "wof:id":101836451,
-    "wof:lastmodified":1527715157,
+    "wof:lastmodified":1563287418,
     "wof:name":"Slavonski \u0160amac",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",

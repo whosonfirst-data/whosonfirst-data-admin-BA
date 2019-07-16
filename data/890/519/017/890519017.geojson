@@ -16,6 +16,9 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u0633\u0643\u064a \u0645\u0648\u0633\u062a"
+    ],
     "name:bos_x_preferred":[
         "Sanski Most"
     ],
@@ -40,14 +43,26 @@
     "name:fao_x_preferred":[
         "Sanski Most"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u0633\u06a9\u06cc \u0645\u0648\u0633\u062a"
+    ],
     "name:fra_x_preferred":[
         "Sanski Most"
     ],
     "name:hbs_x_preferred":[
         "Sanski Most"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05e0\u05e1\u05e7\u05d9 \u05de\u05d5\u05e1\u05d8"
+    ],
     "name:hrv_x_preferred":[
         "Sanski Most"
+    ],
+    "name:hsb_x_preferred":[
+        "Sanski Most"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057d\u056f\u056b \u0544\u0578\u057d\u057f"
     ],
     "name:ile_x_preferred":[
         "Sanski Most"
@@ -100,6 +115,9 @@
     "name:tur_x_preferred":[
         "Sanski Most"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u041c\u043e\u0441\u0442"
+    ],
     "name:unk_x_variant":[
         "Sana"
     ],
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":890519017,
-    "wof:lastmodified":1561830462,
+    "wof:lastmodified":1563287548,
     "wof:name":"Sanski Most",
     "wof:parent_id":1108759219,
     "wof:placetype":"locality",

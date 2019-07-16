@@ -28,10 +28,16 @@
     "name:eng_x_preferred":[
         "Glamo\u010d"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u0627\u0645\u0648\u0686"
+    ],
     "name:fra_x_preferred":[
         "Glamo\u010d"
     ],
     "name:hrv_x_preferred":[
+        "Glamo\u010d"
+    ],
+    "name:hsb_x_preferred":[
         "Glamo\u010d"
     ],
     "name:hye_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30e2\u30c1"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043b\u0430\u043c\u043e\u0447"
     ],
     "name:nld_x_preferred":[
         "Glamo\u010d"
@@ -70,11 +79,17 @@
     "name:tat_x_preferred":[
         "\u0413\u043b\u0430\u043c\u043e\u0447"
     ],
+    "name:tur_x_preferred":[
+        "Gulamu\u00e7"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0430\u043c\u043e\u0447"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0644\u0627\u0645\u0648\u0686"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u83ab\u5947"
     ],
     "qs:name":"Glamo\u010d",
     "qs:name_adm0":"Bosna i Hercegovina",
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":890519071,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287533,
     "wof:name":"Glamo\u010d",
     "wof:parent_id":1108759081,
     "wof:placetype":"locality",

@@ -28,8 +28,17 @@
     "name:cat_x_preferred":[
         "Tesli\u0107"
     ],
+    "name:ceb_x_preferred":[
+        "Tesli\u0107"
+    ],
+    "name:ces_x_preferred":[
+        "Tesli\u0107"
+    ],
     "name:deu_x_preferred":[
         "Tesli\u0107"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ad\u03c3\u03bb\u03b9\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Tesli\u0107"
@@ -81,6 +90,9 @@
     ],
     "name:tur_x_preferred":[
         "Tesli\u0107"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u0441\u043b\u0438\u0447"
     ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0633\u0644\u0686"
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":890519081,
-    "wof:lastmodified":1561830462,
+    "wof:lastmodified":1563287546,
     "wof:name":"Tesli\u0107",
     "wof:parent_id":1108759259,
     "wof:placetype":"locality",

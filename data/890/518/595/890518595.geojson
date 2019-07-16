@@ -15,6 +15,99 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Prozor"
+    ],
+    "name:cat_x_preferred":[
+        "Prozor"
+    ],
+    "name:ceb_x_preferred":[
+        "Prozor"
+    ],
+    "name:ces_x_preferred":[
+        "Prozor"
+    ],
+    "name:dan_x_preferred":[
+        "Prozor"
+    ],
+    "name:deu_x_preferred":[
+        "Prozor"
+    ],
+    "name:eng_x_preferred":[
+        "Prozor"
+    ],
+    "name:epo_x_preferred":[
+        "Prozor"
+    ],
+    "name:fin_x_preferred":[
+        "Prozor"
+    ],
+    "name:fit_x_preferred":[
+        "Prozor"
+    ],
+    "name:fra_x_preferred":[
+        "Prozor"
+    ],
+    "name:glg_x_preferred":[
+        "Prozor"
+    ],
+    "name:hun_x_preferred":[
+        "Prozor"
+    ],
+    "name:ind_x_preferred":[
+        "Prozor"
+    ],
+    "name:isl_x_preferred":[
+        "Prozor"
+    ],
+    "name:ita_x_preferred":[
+        "Prozor"
+    ],
+    "name:min_x_preferred":[
+        "Prozor"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u043e\u0437\u043e\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Prozor"
+    ],
+    "name:nds_x_preferred":[
+        "Prozor"
+    ],
+    "name:nld_x_preferred":[
+        "Prozor"
+    ],
+    "name:nno_x_preferred":[
+        "Prozor"
+    ],
+    "name:nob_x_preferred":[
+        "Prozor"
+    ],
+    "name:pol_x_preferred":[
+        "Prozor"
+    ],
+    "name:por_x_preferred":[
+        "Prozor"
+    ],
+    "name:slk_x_preferred":[
+        "Prozor"
+    ],
+    "name:slv_x_preferred":[
+        "Prozor"
+    ],
+    "name:spa_x_preferred":[
+        "Prozor"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u043e\u0437\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Prozor"
+    ],
+    "name:zho_x_preferred":[
+        "Prozor"
+    ],
     "qs:name":"Prozor",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +141,7 @@
         }
     ],
     "wof:id":890518595,
-    "wof:lastmodified":1527751229,
+    "wof:lastmodified":1563287563,
     "wof:name":"Prozor",
     "wof:parent_id":1108759211,
     "wof:placetype":"locality",

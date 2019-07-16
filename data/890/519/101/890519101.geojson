@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Tr\u017ea\u010dka Ra\u0161tela"
     ],
+    "name:ceb_x_preferred":[
+        "Tr\u017ea\u010dka Ra\u0161tela"
+    ],
     "name:eng_x_preferred":[
         "Tr\u017ea\u010dka Ra\u0161tela"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:swe_x_preferred":[
         "Tr\u017ea\u010dka Ra\u0161tela"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u723e\u8cc8\u5947\u5361\u62c9\u5e0c\u7279\u96f7"
     ],
     "qs:name":"Tr\u017ea\u010dka Ra\u0161tela",
     "qs:name_adm0":"Bosna i Hercegovina",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890519101,
-    "wof:lastmodified":1561830462,
+    "wof:lastmodified":1563287542,
     "wof:name":"Tr\u017ea\u010dka Ra\u0161tela",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

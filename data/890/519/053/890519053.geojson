@@ -16,7 +16,13 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0646\u0648\u063a\u0631\u0627\u062a\u0634"
+    ],
     "name:bos_x_preferred":[
+        "Vrnogra\u010d"
+    ],
+    "name:ceb_x_preferred":[
         "Vrnogra\u010d"
     ],
     "name:eng_x_preferred":[
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890519053,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287535,
     "wof:name":"Vrnogra\u010d",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

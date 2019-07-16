@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Prnjavor"
     ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Prnjavor"
+    ],
     "name:ces_x_preferred":[
         "Prnjavor"
     ],
@@ -60,6 +63,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u043d\u044f\u0432\u043e\u0440"
     ],
+    "name:slv_x_preferred":[
+        "Prnjavor"
+    ],
     "name:spa_x_preferred":[
         "Prnjavor"
     ],
@@ -80,6 +86,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043d\u044f\u0432\u043e\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u0646\u0626\u0627\u0648\u0631"
     ],
     "name:zho_x_preferred":[
         "\u666e\u5c14\u5c3c\u4e9a\u6c83\u5c14"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":890518785,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287596,
     "wof:name":"Prnjavor",
     "wof:parent_id":1108759209,
     "wof:placetype":"locality",

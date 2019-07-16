@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Ljubija"
     ],
+    "name:ceb_x_preferred":[
+        "Ljubija"
+    ],
     "name:ces_x_preferred":[
         "Ljubija"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890519145,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287538,
     "wof:name":"Ljubija",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

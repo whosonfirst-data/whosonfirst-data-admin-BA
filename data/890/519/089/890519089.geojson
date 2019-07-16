@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Gnojnica"
     ],
+    "name:ceb_x_preferred":[
+        "Gnojnica"
+    ],
     "name:ces_x_preferred":[
         "Gnojnica"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":890519089,
-    "wof:lastmodified":1561830462,
+    "wof:lastmodified":1563287542,
     "wof:name":"Gnojnica",
     "wof:parent_id":1108759161,
     "wof:placetype":"locality",

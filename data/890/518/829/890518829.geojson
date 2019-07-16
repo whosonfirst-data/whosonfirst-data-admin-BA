@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0432\u043e\u0440\u043e\u0432\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Dvorovi"
+    ],
     "name:eng_x_preferred":[
         "Dvorovi"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890518829,
-    "wof:lastmodified":1561830464,
+    "wof:lastmodified":1563287570,
     "wof:name":"Dvorovi",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

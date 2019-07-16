@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Brodac Gornji"
     ],
+    "name:ceb_x_preferred":[
+        "Brodac Gornji"
+    ],
     "name:cos_x_preferred":[
         "Brodac Gornji"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890518481,
-    "wof:lastmodified":1561830468,
+    "wof:lastmodified":1563287622,
     "wof:name":"Brodac-Gornji",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

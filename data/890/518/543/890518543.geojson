@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Batkovi\u0107"
     ],
+    "name:ceb_x_preferred":[
+        "Batkovi\u0107"
+    ],
     "name:eng_x_preferred":[
         "Batkovi\u0107"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890518543,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287597,
     "wof:name":"Batkovi\u0107",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

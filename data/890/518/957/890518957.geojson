@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Pazari\u0107"
     ],
+    "name:ceb_x_preferred":[
+        "Pazari\u0107"
+    ],
     "name:eng_x_preferred":[
         "Pazari\u0107"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890518957,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287605,
     "wof:name":"Pazari\u0107",
     "wof:parent_id":1108759101,
     "wof:placetype":"locality",

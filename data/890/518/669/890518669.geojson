@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Popovi"
+    ],
     "name:eng_x_preferred":[
         "Popovi"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890518669,
-    "wof:lastmodified":1561830465,
+    "wof:lastmodified":1563287585,
     "wof:name":"Popovi",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

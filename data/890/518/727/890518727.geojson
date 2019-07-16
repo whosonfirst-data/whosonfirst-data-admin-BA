@@ -47,6 +47,9 @@
     "name:cat_x_preferred":[
         "Mostar"
     ],
+    "name:ceb_x_preferred":[
+        "Mostar"
+    ],
     "name:ces_x_preferred":[
         "Mostar"
     ],
@@ -83,6 +86,9 @@
     "name:fra_x_preferred":[
         "Mostar"
     ],
+    "name:gag_x_preferred":[
+        "Mostar"
+    ],
     "name:gle_x_preferred":[
         "Mostar"
     ],
@@ -101,7 +107,13 @@
     "name:hin_x_preferred":[
         "\u092e\u093e\u0938\u094d\u091f\u0930"
     ],
+    "name:hin_x_variant":[
+        "\u092e\u094b\u0938\u094d\u091f\u0930"
+    ],
     "name:hrv_x_preferred":[
+        "Mostar"
+    ],
+    "name:hsb_x_preferred":[
         "Mostar"
     ],
     "name:hun_x_preferred":[
@@ -142,6 +154,9 @@
     ],
     "name:lat_x_preferred":[
         "Mandetrium"
+    ],
+    "name:lat_x_variant":[
+        "Mostar"
     ],
     "name:lav_x_preferred":[
         "Mostara"
@@ -407,7 +422,7 @@
         }
     ],
     "wof:id":890518727,
-    "wof:lastmodified":1561830470,
+    "wof:lastmodified":1563287658,
     "wof:name":"Mostar",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Toj\u0161i\u0107i"
     ],
+    "name:ceb_x_preferred":[
+        "Toj\u0161i\u0107i"
+    ],
     "name:eng_x_preferred":[
         "Toj\u0161i\u0107i"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890519129,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287539,
     "wof:name":"Toj\u0161i\u0107i",
     "wof:parent_id":1108759121,
     "wof:placetype":"locality",

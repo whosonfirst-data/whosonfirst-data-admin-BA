@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "\u0106orali\u0107i"
     ],
+    "name:ceb_x_preferred":[
+        "\u0106orali\u0107i"
+    ],
     "name:eng_x_preferred":[
         "\u0106orali\u0107i"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890518897,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1563287640,
     "wof:name":"\u0106orali\u0107i",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

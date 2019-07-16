@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Potoci"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03c4\u03bf\u03c4\u03c3\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Potoci"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890518789,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1563287652,
     "wof:name":"Potoci",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

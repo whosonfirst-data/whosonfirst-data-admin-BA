@@ -31,13 +31,22 @@
     "name:deu_x_preferred":[
         "\u010cajni\u010de"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ac\u03b9\u03bd\u03b9\u03c4\u03c3\u03b5"
+    ],
     "name:eng_x_preferred":[
         "\u010cajni\u010de"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u06cc\u0646\u06cc\u0686\u0647"
     ],
     "name:fra_x_preferred":[
         "\u010cajni\u010de"
     ],
     "name:hrv_x_preferred":[
+        "\u010cajni\u010de"
+    ],
+    "name:hsb_x_preferred":[
         "\u010cajni\u010de"
     ],
     "name:ita_x_preferred":[
@@ -69,6 +78,12 @@
     ],
     "name:tat_x_preferred":[
         "\u0427\u0430\u0439\u043d\u0438\u0442\u0441\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7ayni\u00e7e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0439\u043d\u0438\u0447\u0435"
     ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u06cc\u0646\u06cc\u0686\u06d2"
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":890518705,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287605,
     "wof:name":"\u010cajni\u010de",
     "wof:parent_id":1108759035,
     "wof:placetype":"locality",

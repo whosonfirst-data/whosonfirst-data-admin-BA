@@ -42,6 +42,9 @@
     "name:eng_x_preferred":[
         "Konjic"
     ],
+    "name:eus_x_preferred":[
+        "Konjic"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0646\u06cc\u06cc\u062a\u0633"
     ],
@@ -50,6 +53,12 @@
     ],
     "name:hrv_x_preferred":[
         "Konjic"
+    ],
+    "name:hsb_x_preferred":[
+        "Konjic"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0576\u056b\u0581"
     ],
     "name:ile_x_preferred":[
         "Konjic"
@@ -62,6 +71,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\ub2c8\uce20"
+    ],
+    "name:lit_x_preferred":[
+        "Konicas"
     ],
     "name:nld_x_preferred":[
         "Konjic"
@@ -89,6 +101,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041a\u043e\u043d\u0438\u0442\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Koni\u00e7e"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0456\u0446"
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":890518555,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287608,
     "wof:name":"Konjic",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

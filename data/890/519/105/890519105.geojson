@@ -16,6 +16,9 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0633\u0627\u0646\u0633\u0643\u0627 \u0643\u0631\u0648\u0628\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430-\u041a\u0440\u0443\u043f\u0430"
     ],
@@ -37,6 +40,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c3\u03ac\u03bd\u03c3\u03ba\u03b1 \u039a\u03c1\u03bf\u03cd\u03c0\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03cc\u03c3\u03b1\u03bd\u03c3\u03ba\u03b1 \u039a\u03c1\u03bf\u03cd\u03c0\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Bosanska Krupa"
     ],
@@ -49,8 +55,14 @@
     "name:hrv_x_preferred":[
         "Bosanska Krupa"
     ],
+    "name:hsb_x_preferred":[
+        "Bosanska Krupa"
+    ],
     "name:hun_x_preferred":[
         "Bosanska Krupa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u057d\u0561\u0576\u057d\u056f\u0561 \u053f\u0580\u0578\u0582\u057a\u0561"
     ],
     "name:ita_x_preferred":[
         "Bosanska Krupa"
@@ -79,6 +91,9 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430 \u041a\u0440\u0443\u043f\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430-\u041a\u0440\u0443\u043f\u0430"
+    ],
     "name:slv_x_preferred":[
         "Bosanska Krupa"
     ],
@@ -99,6 +114,9 @@
     ],
     "name:tur_x_preferred":[
         "Bosanska Krupa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0441\u0430\u043d\u0441\u044c\u043a\u0430 \u041a\u0440\u0443\u043f\u0430"
     ],
     "name:unk_x_variant":[
         "Krupa"
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":890519105,
-    "wof:lastmodified":1561830460,
+    "wof:lastmodified":1563287527,
     "wof:name":"Bosanska Krupa",
     "wof:parent_id":1108759003,
     "wof:placetype":"locality",

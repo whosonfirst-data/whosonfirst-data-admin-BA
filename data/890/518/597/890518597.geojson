@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Petkovci"
     ],
+    "name:ceb_x_preferred":[
+        "Petkovci"
+    ],
     "name:ces_x_preferred":[
         "Petkovci"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":890518597,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287611,
     "wof:name":"Petkovci",
     "wof:parent_id":1108759303,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "\u017divinice Gornje"
     ],
+    "name:ceb_x_preferred":[
+        "\u017divinice Gornje"
+    ],
     "name:ces_x_preferred":[
         "\u017divinice Gornje"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890518625,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287619,
     "wof:name":"Gornje \u017divinice",
     "wof:parent_id":1108759301,
     "wof:placetype":"locality",

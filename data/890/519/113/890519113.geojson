@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Ka\u0107uni"
     ],
+    "name:ceb_x_preferred":[
+        "Ka\u010duni"
+    ],
     "name:eng_x_preferred":[
         "Ka\u0107uni"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890519113,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1563287554,
     "wof:name":"Kacuni",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

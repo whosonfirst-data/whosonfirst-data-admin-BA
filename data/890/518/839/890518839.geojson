@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Pe\u0107igrad"
     ],
+    "name:ceb_x_preferred":[
+        "Pe\u0107igrad"
+    ],
     "name:eng_x_preferred":[
         "Pe\u0107igrad"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890518839,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1563287637,
     "wof:name":"Pe\u0107igrad",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

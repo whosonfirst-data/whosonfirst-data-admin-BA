@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Semizovac"
     ],
+    "name:ceb_x_preferred":[
+        "Semizovac"
+    ],
     "name:eng_x_preferred":[
         "Semizovac"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890518989,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1563287649,
     "wof:name":"Semizovac",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

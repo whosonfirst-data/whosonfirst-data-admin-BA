@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u043b\u0435\u0447\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Bile\u0107a"
+    ],
     "name:ces_x_preferred":[
         "Bile\u0107a"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:eng_x_preferred":[
         "Bile\u0107a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644\u0686\u0627"
     ],
     "name:fra_x_preferred":[
         "Bile\u0107a"
@@ -40,7 +46,13 @@
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05dc\u05e6\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05dc\u05e6'\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Bile\u0107a"
+    ],
+    "name:hsb_x_preferred":[
         "Bile\u0107a"
     ],
     "name:hye_x_preferred":[
@@ -54,6 +66,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30ec\u30c1\u30e3"
+    ],
+    "name:lit_x_preferred":[
+        "Bile\u010dia"
     ],
     "name:nld_x_preferred":[
         "Bile\u0107a"
@@ -84,6 +99,12 @@
     ],
     "name:tat_x_preferred":[
         "\u0411\u0438\u043b\u0435\u0447\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Bileka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u0435\u0447\u0430"
     ],
     "name:unk_x_variant":[
         "Bilegja"
@@ -134,7 +155,7 @@
         }
     ],
     "wof:id":890519039,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287538,
     "wof:name":"Bile\u0107a",
     "wof:parent_id":1108758997,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Li\u0161tani"
     ],
+    "name:ceb_x_preferred":[
+        "Li\u0161tani"
+    ],
     "name:eng_x_preferred":[
         "Li\u0161tani"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890518933,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287617,
     "wof:name":"Li\u00b5tani",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Jelah"
     ],
+    "name:ceb_x_preferred":[
+        "Jelah"
+    ],
     "name:eng_x_preferred":[
         "Jelah"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890518971,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287598,
     "wof:name":"Jelah",
     "wof:parent_id":1108759255,
     "wof:placetype":"locality",

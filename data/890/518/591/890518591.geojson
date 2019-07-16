@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Turbe"
     ],
+    "name:ceb_x_preferred":[
+        "Turbe"
+    ],
     "name:deu_x_preferred":[
         "Turbe"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890518591,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287616,
     "wof:name":"Turbe",
     "wof:parent_id":1108759263,
     "wof:placetype":"locality",

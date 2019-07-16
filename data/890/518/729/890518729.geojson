@@ -19,6 +19,15 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062e\u0627\u062a\u0634"
     ],
+    "name:aze_x_preferred":[
+        "Bixa\u00e7"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0445\u0430\u0447"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u09b9\u09be\u0995"
+    ],
     "name:bos_x_preferred":[
         "Biha\u0107"
     ],
@@ -28,17 +37,32 @@
     "name:cat_x_preferred":[
         "Biha\u0107"
     ],
+    "name:ceb_x_preferred":[
+        "Biha\u0107"
+    ],
     "name:ces_x_preferred":[
+        "Biha\u0107"
+    ],
+    "name:dan_x_preferred":[
         "Biha\u0107"
     ],
     "name:deu_x_preferred":[
         "Biha\u0107"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03c7\u03b1\u03c4\u03c2"
+    ],
     "name:eng_x_preferred":[
+        "Biha\u0107"
+    ],
+    "name:epo_x_preferred":[
         "Biha\u0107"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0647\u0627\u0686"
+    ],
+    "name:fin_x_preferred":[
+        "Biha\u0107"
     ],
     "name:fra_x_preferred":[
         "Biha\u0107"
@@ -46,20 +70,50 @@
     "name:glg_x_preferred":[
         "Biha\u0107"
     ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abf\u0ab9\u0a95"
+    ],
     "name:hbs_x_preferred":[
         "Biha\u0107"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d7\u05d0\u05e5"
     ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05d7\u05d0\u05e5'"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093f\u0939\u093e\u0915"
+    ],
     "name:hrv_x_preferred":[
+        "Biha\u0107"
+    ],
+    "name:hsb_x_preferred":[
         "Biha\u0107"
     ],
     "name:hun_x_preferred":[
         "Bih\u00e1cs"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u056d\u0561\u0579"
+    ],
+    "name:ile_x_preferred":[
+        "Biha\u0107"
+    ],
+    "name:ind_x_preferred":[
+        "Biha\u0107"
+    ],
+    "name:ita_x_preferred":[
+        "Biha\u0107"
+    ],
+    "name:jav_x_preferred":[
+        "Biha\u0107"
+    ],
     "name:jpn_x_preferred":[
         "\u30d3\u30cf\u30c1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cbf\u0cb9\u0cbe\u0c95\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ube44\ud558\uce58"
@@ -67,16 +121,31 @@
     "name:lat_x_preferred":[
         "Bihacium"
     ],
+    "name:lat_x_variant":[
+        "Raetinium"
+    ],
+    "name:lav_x_preferred":[
+        "Biha\u010da"
+    ],
     "name:lit_x_preferred":[
         "Bicha\u010das"
     ],
+    "name:mar_x_preferred":[
+        "\u092c\u093f\u0939\u093e\u0915"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0438\u0445\u0430\u045c"
+    ],
+    "name:msa_x_preferred":[
+        "Bihac"
     ],
     "name:nld_x_preferred":[
         "Bihac"
     ],
     "name:nld_x_variant":[
+        "Biha\u0107"
+    ],
+    "name:nob_x_preferred":[
         "Biha\u0107"
     ],
     "name:pnb_x_preferred":[
@@ -85,11 +154,29 @@
     "name:pol_x_preferred":[
         "Biha\u0107"
     ],
+    "name:por_x_preferred":[
+        "Biha\u0107"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u0445\u0430\u0447"
     ],
+    "name:sco_x_preferred":[
+        "Biha\u0107"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd2\u0dc4\u0dd0\u0d9a\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Biha\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Biha\u0107"
+    ],
     "name:spa_x_preferred":[
         "Biha\u0107"
+    ],
+    "name:sqi_x_preferred":[
+        "Bihaqi"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0438\u0445\u0430\u045b"
@@ -97,20 +184,44 @@
     "name:swe_x_preferred":[
         "Biha\u0107"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb9\u0bbe\u0b95\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0411\u0438\u0445\u0430\u0447"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3f\u0c39\u0c3e\u0c15\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e35\u0e2e\u0e32\u0e0a"
     ],
+    "name:tum_x_preferred":[
+        "Biha\u0107"
+    ],
     "name:tur_x_preferred":[
         "Biha\u00e7"
+    ],
+    "name:tur_x_variant":[
+        "Biha\u0107"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0445\u0430\u0447"
     ],
+    "name:ukr_x_variant":[
+        "\u0411\u0438\u0445\u0430\u0447"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u062e\u0627\u0686"
+    ],
+    "name:vie_x_preferred":[
+        "Bihac"
+    ],
+    "name:vol_x_preferred":[
+        "Biha\u0107"
+    ],
+    "name:war_x_preferred":[
+        "Biha\u0107"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u54c8\u5947"
@@ -155,7 +266,7 @@
         }
     ],
     "wof:id":890518729,
-    "wof:lastmodified":1527758439,
+    "wof:lastmodified":1563287656,
     "wof:name":"Biha\u0107",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

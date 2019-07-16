@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Johovac"
     ],
+    "name:ceb_x_preferred":[
+        "Johovac"
+    ],
     "name:eng_x_preferred":[
         "Johovac"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890518487,
-    "wof:lastmodified":1561830468,
+    "wof:lastmodified":1563287626,
     "wof:name":"Johovac",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

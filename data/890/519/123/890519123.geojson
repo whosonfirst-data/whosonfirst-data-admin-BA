@@ -25,11 +25,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u044a\u0447\u043a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Br\u010dko"
+    ],
     "name:ces_x_preferred":[
         "Br\u010dko"
     ],
     "name:deu_x_preferred":[
         "Br\u010dko"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03c4\u03c3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Br\u010dko"
@@ -51,6 +57,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05e6\u05e7\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e8\u05e6'\u05e7\u05d5"
     ],
     "name:hrv_x_preferred":[
         "Br\u010dko"
@@ -75,6 +84,9 @@
     ],
     "name:lat_x_preferred":[
         "Breucus"
+    ],
+    "name:lav_x_preferred":[
+        "Br\u010dko"
     ],
     "name:lit_x_preferred":[
         "Br\u010dkas"
@@ -185,7 +197,7 @@
         }
     ],
     "wof:id":890519123,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1563287553,
     "wof:name":"Br\u010dko",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

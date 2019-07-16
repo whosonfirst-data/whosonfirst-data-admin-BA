@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u0646\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u045e\u043d\u0430"
+    ],
     "name:bos_x_preferred":[
         "livno"
     ],
@@ -39,11 +42,17 @@
     "name:deu_x_preferred":[
         "Livno"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03b2\u03bd\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Livno"
     ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0648\u0646\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Livno"
     ],
     "name:fra_x_preferred":[
         "Livno"
@@ -65,6 +74,12 @@
     ],
     "name:hrv_x_variant":[
         "Livno"
+    ],
+    "name:hsb_x_preferred":[
+        "Livno"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u057e\u0576\u0578"
     ],
     "name:ile_x_preferred":[
         "Livno"
@@ -93,6 +108,9 @@
     "name:pol_x_preferred":[
         "Livno"
     ],
+    "name:ron_x_preferred":[
+        "Livno"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0432\u043d\u043e"
     ],
@@ -119,6 +137,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0432\u043d\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0438\u0432\u043d\u043e"
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0648\u0646\u0648"
@@ -159,7 +180,7 @@
         }
     ],
     "wof:id":890518805,
-    "wof:lastmodified":1561830465,
+    "wof:lastmodified":1563287592,
     "wof:name":"Livno",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

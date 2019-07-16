@@ -18,8 +18,14 @@
     "name:bos_x_preferred":[
         "Vido\u0161i"
     ],
+    "name:ceb_x_preferred":[
+        "Vido\u0161i"
+    ],
     "name:deu_x_preferred":[
         "Vido\u0161i"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bd\u03c4\u03bf\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Vido\u0161i"
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890518757,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287615,
     "wof:name":"Vido\u0161i",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Trnopolje"
     ],
+    "name:ceb_x_preferred":[
+        "Trnopolje"
+    ],
     "name:ces_x_preferred":[
         "Trnopolje"
     ],
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":890519127,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287539,
     "wof:name":"Trnopolje",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

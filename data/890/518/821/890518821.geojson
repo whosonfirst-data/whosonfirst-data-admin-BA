@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "\u010ce\u010dava"
     ],
+    "name:ceb_x_preferred":[
+        "\u010ce\u010dava"
+    ],
     "name:eng_x_preferred":[
         "\u010ce\u010dava"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890518821,
-    "wof:lastmodified":1561830465,
+    "wof:lastmodified":1563287576,
     "wof:name":"\u010ce\u010dava",
     "wof:parent_id":1108759259,
     "wof:placetype":"locality",

@@ -16,17 +16,83 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0107ina \u010citluk"
+    ],
+    "name:ces_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:deu_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:eng_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:fin_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:fra_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:ita_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30c8\u30eb\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\ud2c0\ub8e8\ud06c"
+    ],
     "name:lat_x_preferred":[
         "Aequum"
     ],
     "name:lit_x_preferred":[
         "\u010citlukas"
     ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0438\u0442\u043b\u0443\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:pol_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:por_x_preferred":[
+        "\u010citluk"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0438\u0442\u043b\u0443\u043a"
     ],
+    "name:spa_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7itlluku"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0438\u0442\u043b\u0443\u043a"
+    ],
+    "name:srp_x_variant":[
+        "\u0427\u0438\u0442\u043b\u0443\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u0442\u043b\u0443\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7itlik"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u062a\u0644\u0648\u06a9"
     ],
     "name:zho_x_preferred":[
         "\u5951\u7279\u5362\u514b"
@@ -71,7 +137,7 @@
         }
     ],
     "wof:id":890518877,
-    "wof:lastmodified":1527751235,
+    "wof:lastmodified":1563287620,
     "wof:name":"\u010citluk",
     "wof:parent_id":1108759049,
     "wof:placetype":"locality",

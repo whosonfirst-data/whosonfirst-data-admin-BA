@@ -33,11 +33,17 @@
     "name:cat_x_preferred":[
         "Cant\u00f3 10"
     ],
+    "name:ceb_x_preferred":[
+        "Hercegova\u010dko-Bosanski Kanton"
+    ],
     "name:ces_x_preferred":[
         "Kanton 10"
     ],
     "name:deu_x_preferred":[
         "Kanton 10"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf \u03c4\u03b7\u03c2 \u03a7\u03ad\u03c1\u03c4\u03c3\u03b5\u03b3\u03ba-\u039c\u03c0\u03cc\u03c3\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "West Bosnia"
@@ -56,6 +62,9 @@
     ],
     "name:hrv_x_preferred":[
         "\u017dupanija 10"
+    ],
+    "name:hrv_x_variant":[
+        "Hercegbosanska \u017eupanija"
     ],
     "name:ile_x_preferred":[
         "Canton Livno"
@@ -241,7 +250,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1561830403,
+    "wof:lastmodified":1563285714,
     "wof:name":"West Bosnia",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

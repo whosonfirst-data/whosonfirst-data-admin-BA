@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Obudovac"
     ],
+    "name:ceb_x_preferred":[
+        "Obudovac"
+    ],
     "name:deu_x_preferred":[
         "Obudovac"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890518799,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1563287557,
     "wof:name":"Obudovac",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",

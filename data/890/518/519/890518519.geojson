@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Bogutovo Selo"
     ],
+    "name:ceb_x_preferred":[
+        "Bogutovo Selo"
+    ],
     "name:ces_x_preferred":[
         "Bogutovo Selo"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890518519,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287594,
     "wof:name":"Bogutovo Selo",
     "wof:parent_id":1108759273,
     "wof:placetype":"locality",

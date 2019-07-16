@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Gromiljak"
     ],
+    "name:ceb_x_preferred":[
+        "Gromiljak"
+    ],
     "name:eng_x_preferred":[
         "Gromiljak"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890518915,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287594,
     "wof:name":"Gromiljak",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Stjepan Polje"
     ],
+    "name:ceb_x_preferred":[
+        "Stjepan-Polje"
+    ],
     "name:eng_x_preferred":[
         "Stjepan Polje"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890518675,
-    "wof:lastmodified":1561830464,
+    "wof:lastmodified":1563287569,
     "wof:name":"Stjepan-Polje",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

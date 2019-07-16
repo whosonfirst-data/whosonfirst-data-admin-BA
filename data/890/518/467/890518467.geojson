@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Domaljevac"
     ],
+    "name:ceb_x_preferred":[
+        "Domaljevac"
+    ],
     "name:ces_x_preferred":[
         "Domaljevac"
     ],
@@ -43,6 +46,9 @@
         "Domaljevac"
     ],
     "name:hrv_x_preferred":[
+        "Domaljevac"
+    ],
+    "name:hsb_x_preferred":[
         "Domaljevac"
     ],
     "name:ind_x_preferred":[
@@ -96,6 +102,9 @@
     "name:tur_x_preferred":[
         "Domaljevac"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u043b\u0454\u0432\u0430\u0446"
+    ],
     "name:unk_x_variant":[
         "Gornji Domaljevac"
     ],
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":890518467,
-    "wof:lastmodified":1561830468,
+    "wof:lastmodified":1563287630,
     "wof:name":"Domaljevac",
     "wof:parent_id":1108759063,
     "wof:placetype":"locality",

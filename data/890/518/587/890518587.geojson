@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Vozu\u0107a"
     ],
+    "name:ceb_x_preferred":[
+        "Vozu\u0107a"
+    ],
     "name:eng_x_preferred":[
         "Vozu\u0107a"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u043e\u0437\u0443\u045b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vozu\u0107a"
     ],
     "qs:name":"Vozu\u0107a",
     "qs:photos_9r":0,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":890518587,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287603,
     "wof:name":"Vozu\u0107a",
     "wof:parent_id":1108759295,
     "wof:placetype":"locality",

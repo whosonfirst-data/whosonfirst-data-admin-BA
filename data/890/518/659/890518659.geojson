@@ -15,11 +15,23 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0627\u063a\u0627\u064a"
+    ],
     "name:bos_x_preferred":[
+        "Blagaj"
+    ],
+    "name:ceb_x_preferred":[
+        "Blagaj"
+    ],
+    "name:ces_x_preferred":[
         "Blagaj"
     ],
     "name:deu_x_preferred":[
         "Blagaj"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bb\u03ac\u03b3\u03ba\u03b1\u03ca"
     ],
     "name:eng_x_preferred":[
         "Blagaj"
@@ -28,6 +40,9 @@
         "Blagaj"
     ],
     "name:hrv_x_preferred":[
+        "Blagaj"
+    ],
+    "name:ind_x_preferred":[
         "Blagaj"
     ],
     "name:ita_x_preferred":[
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":890518659,
-    "wof:lastmodified":1561830465,
+    "wof:lastmodified":1563287589,
     "wof:name":"Blagaj",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

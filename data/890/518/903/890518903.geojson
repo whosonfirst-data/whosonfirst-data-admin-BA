@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Mramor"
     ],
+    "name:ceb_x_preferred":[
+        "Mramor"
+    ],
     "name:ces_x_preferred":[
         "Mramor"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890518903,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287609,
     "wof:name":"Mramor",
     "wof:parent_id":1108759271,
     "wof:placetype":"locality",

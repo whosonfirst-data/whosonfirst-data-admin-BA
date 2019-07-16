@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "\u010carakovo"
     ],
+    "name:ceb_x_preferred":[
+        "\u010carakovo"
+    ],
     "name:ces_x_preferred":[
         "\u010carakovo"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890518489,
-    "wof:lastmodified":1561830468,
+    "wof:lastmodified":1563287628,
     "wof:name":"\u010carakovo",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

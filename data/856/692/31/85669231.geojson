@@ -69,6 +69,9 @@
     "name:fin_x_preferred":[
         "Zenica-Doboj\u2019n kantoni"
     ],
+    "name:fin_x_variant":[
+        "Zenica-Doboj"
+    ],
     "name:fra_x_preferred":[
         "Canton de Zenica-Doboj"
     ],
@@ -80,6 +83,9 @@
     ],
     "name:hbs_x_preferred":[
         "Zeni\u010dko-dobojski kanton"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d0\u05e0\u05d9\u05e1\u05d4-\u05d3\u05d5\u05d1\u05d5\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0947\u0928\u093f\u0915\u093e-\u0926\u092c\u094b\u0939 \u091b\u093e\u0935\u0928\u0940"
@@ -158,6 +164,9 @@
     ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Zenica-Doboj"
+    ],
+    "name:spa_x_variant":[
+        "Zenica-Doboj"
     ],
     "name:sqi_x_preferred":[
         "Kantoni Zenica-Doboj"
@@ -326,7 +335,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1561830404,
+    "wof:lastmodified":1563285720,
     "wof:name":"Zenica-Doboj",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

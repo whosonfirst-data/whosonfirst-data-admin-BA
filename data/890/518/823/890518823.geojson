@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0644\u062e\u064a\u0646\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u0627\u0628\u0644\u064a\u0646\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0427\u0430\u043f\u043b\u0456\u043d\u0430"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0427\u0430\u043f\u043b\u0438\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010capljina"
     ],
     "name:ces_x_preferred":[
         "\u010capljina"
@@ -45,14 +51,23 @@
     "name:hrv_x_preferred":[
         "\u010capljina"
     ],
+    "name:hsb_x_preferred":[
+        "\u010capljina"
+    ],
     "name:hye_x_preferred":[
         "\u0549\u0561\u057a\u056c\u056b\u0576\u0561"
     ],
     "name:ita_x_preferred":[
         "\u010capljina"
     ],
+    "name:jav_x_preferred":[
+        "\u010capljina"
+    ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30d7\u30ea\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc28\ud50c\ub9ac\ub098"
     ],
     "name:lit_x_preferred":[
         "\u010caplina"
@@ -85,6 +100,9 @@
         "\u0427\u0430\u043f\u0459\u0438\u043d\u0430"
     ],
     "name:swe_x_preferred":[
+        "\u010capljina"
+    ],
+    "name:szl_x_preferred":[
         "\u010capljina"
     ],
     "name:tat_x_preferred":[
@@ -139,7 +157,7 @@
         }
     ],
     "wof:id":890518823,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287621,
     "wof:name":"\u010capljina",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

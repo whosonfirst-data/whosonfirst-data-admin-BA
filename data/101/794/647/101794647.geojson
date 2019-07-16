@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Davor"
     ],
+    "name:ceb_x_preferred":[
+        "Davor"
+    ],
     "name:ces_x_preferred":[
         "Davor"
     ],
@@ -143,6 +146,9 @@
     "name:tur_x_preferred":[
         "Davor"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0432\u043e\u0440"
+    ],
     "name:und_x_preferred":[
         "Davor"
     ],
@@ -198,7 +204,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561830458,
+    "wof:lastmodified":1563287418,
     "wof:name":"Davor",
     "wof:parent_id":1108759237,
     "wof:placetype":"locality",

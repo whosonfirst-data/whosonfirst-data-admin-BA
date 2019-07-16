@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Nevesinje"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0633\u06cc\u0646\u06cc\u0647"
+    ],
     "name:fra_x_preferred":[
         "Nevesinje"
     ],
@@ -72,6 +75,12 @@
     ],
     "name:tat_x_preferred":[
         "\u041d\u0435\u0432\u0435\u0441\u0438\u043d\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Nevesin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0432\u0435\u0441\u0438\u043d\u0454"
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0648\u06cc\u0633\u06cc\u0646\u06cc\u0626\u06d2"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":890518979,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287593,
     "wof:name":"Nevesinje",
     "wof:parent_id":1108759179,
     "wof:placetype":"locality",

@@ -19,6 +19,12 @@
     "name:bos_x_preferred":[
         "Donja Me\u0111i\u0111a"
     ],
+    "name:cat_x_preferred":[
+        "Donja Me\u0111i\u0111a"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Me\u0111i\u0111a"
+    ],
     "name:eng_x_preferred":[
         "Donja Me\u0111i\u0111a"
     ],
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890519083,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287532,
     "wof:name":"Donja Me\u00f0i\u00f0a",
     "wof:parent_id":1108759093,
     "wof:placetype":"locality",
