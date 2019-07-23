@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Kne\u017eica"
     ],
+    "name:ceb_x_preferred":[
+        "Kne\u017eica"
+    ],
     "name:eng_x_preferred":[
         "Kne\u017eica"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890519093,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1563287552,
     "wof:name":"Kne\u017eica",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

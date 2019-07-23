@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Vukovije Donje"
     ],
+    "name:ceb_x_preferred":[
+        "Vukovije Donje"
+    ],
     "name:eng_x_preferred":[
         "Vukovije Donje"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890518693,
-    "wof:lastmodified":1561830465,
+    "wof:lastmodified":1563287587,
     "wof:name":"Vukovije Donje",
     "wof:parent_id":1108759121,
     "wof:placetype":"locality",

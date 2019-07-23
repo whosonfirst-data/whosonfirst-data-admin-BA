@@ -18,6 +18,12 @@
     "name:bos_x_preferred":[
         "\u0160ipovo"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160ipovo"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160ipovo"
+    ],
     "name:deu_x_preferred":[
         "\u0160ipovo"
     ],
@@ -29,6 +35,9 @@
     ],
     "name:hrv_x_preferred":[
         "\u0160ipovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u056b\u057a\u0578\u057e\u0578"
     ],
     "name:ita_x_preferred":[
         "\u0160ipovo"
@@ -59,6 +68,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0428\u0438\u043f\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "\u0160ipovo"
     ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u067e\u0648\u0648\u0648"
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":890518649,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287621,
     "wof:name":"\u0160ipovo",
     "wof:parent_id":1108759229,
     "wof:placetype":"locality",

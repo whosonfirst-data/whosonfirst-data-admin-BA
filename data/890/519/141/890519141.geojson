@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Kami\u010dani"
     ],
+    "name:ceb_x_preferred":[
+        "Kami\u010dani"
+    ],
     "name:ces_x_preferred":[
         "Kami\u010dani"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890519141,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1563287554,
     "wof:name":"Kami\u010dani",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

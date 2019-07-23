@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Kozaru\u0161a"
     ],
+    "name:ceb_x_preferred":[
+        "Kozaru\u0161a"
+    ],
     "name:ces_x_preferred":[
         "Kozaru\u0161a"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":890518885,
-    "wof:lastmodified":1561830468,
+    "wof:lastmodified":1563287625,
     "wof:name":"Kozaru\u0161a",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

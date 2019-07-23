@@ -28,7 +28,13 @@
     "name:cat_x_preferred":[
         "Gora\u017ede"
     ],
+    "name:ceb_x_preferred":[
+        "Gora\u017ede"
+    ],
     "name:ces_x_preferred":[
+        "Gora\u017ede"
+    ],
+    "name:dan_x_preferred":[
         "Gora\u017ede"
     ],
     "name:deu_x_preferred":[
@@ -49,6 +55,12 @@
     "name:fra_x_preferred":[
         "Gora\u017ede"
     ],
+    "name:gag_x_preferred":[
+        "Gora\u017ede"
+    ],
+    "name:glg_x_preferred":[
+        "Gora\u017ede"
+    ],
     "name:hbs_x_preferred":[
         "Gora\u017ede"
     ],
@@ -56,6 +68,12 @@
         "\u05d2\u05d5\u05e8\u05d6'\u05d3\u05d4"
     ],
     "name:hrv_x_preferred":[
+        "Gora\u017ede"
+    ],
+    "name:hsb_x_preferred":[
+        "Gora\u017ede"
+    ],
+    "name:hun_x_preferred":[
         "Gora\u017ede"
     ],
     "name:hye_x_preferred":[
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":890519023,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287529,
     "wof:name":"Gora\u017ede",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

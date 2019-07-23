@@ -18,6 +18,12 @@
     "name:bos_x_preferred":[
         "Ustikolina"
     ],
+    "name:ceb_x_preferred":[
+        "Ustikolina"
+    ],
+    "name:deu_x_preferred":[
+        "Ustikolina"
+    ],
     "name:eng_x_preferred":[
         "Ustikolina"
     ],
@@ -25,6 +31,9 @@
         "Ustikolina"
     ],
     "name:hrv_x_preferred":[
+        "Ustikolina"
+    ],
+    "name:hsb_x_preferred":[
         "Ustikolina"
     ],
     "name:nld_x_preferred":[
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":890518495,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1563287636,
     "wof:name":"Ustikolina",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

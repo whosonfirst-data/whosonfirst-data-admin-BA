@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Mari\u0107ka"
     ],
+    "name:ceb_x_preferred":[
+        "Mari\u0107ka"
+    ],
     "name:ces_x_preferred":[
         "Mari\u0107ka"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890518651,
-    "wof:lastmodified":1561830465,
+    "wof:lastmodified":1563287584,
     "wof:name":"Mari\u0107ka",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

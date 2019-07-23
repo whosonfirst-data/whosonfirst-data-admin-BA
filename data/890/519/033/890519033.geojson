@@ -16,6 +16,9 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0643\u062a\u0627\u0634\u064a"
+    ],
     "name:bar_x_preferred":[
         "Lakta\u0161i"
     ],
@@ -25,11 +28,17 @@
     "name:cat_x_preferred":[
         "Lakta\u0161i"
     ],
+    "name:ceb_x_preferred":[
+        "Lakta\u0161i"
+    ],
     "name:ces_x_preferred":[
         "Lakta\u0161i"
     ],
     "name:deu_x_preferred":[
         "Lakta\u0161i"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03ba\u03c4\u03b1\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Lakta\u0161i"
@@ -42,6 +51,9 @@
     ],
     "name:hun_x_preferred":[
         "Laktasi"
+    ],
+    "name:hun_x_variant":[
+        "Lakta\u0161i"
     ],
     "name:ile_x_preferred":[
         "Lakta\u0161i"
@@ -81,6 +93,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041b\u0430\u043a\u0442\u0430\u0448\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Lakta\u0161i"
     ],
     "name:unk_x_variant":[
         "Banja Lakta\u0161i"
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":890519033,
-    "wof:lastmodified":1561830462,
+    "wof:lastmodified":1563287551,
     "wof:name":"Lakta\u00b5i",
     "wof:parent_id":1108759151,
     "wof:placetype":"locality",

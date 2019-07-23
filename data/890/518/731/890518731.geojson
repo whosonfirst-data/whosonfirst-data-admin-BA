@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Lamovita"
     ],
+    "name:ceb_x_preferred":[
+        "Lamovita"
+    ],
     "name:ces_x_preferred":[
         "Lamovita"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890518731,
-    "wof:lastmodified":1561830464,
+    "wof:lastmodified":1563287567,
     "wof:name":"Lamovita",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

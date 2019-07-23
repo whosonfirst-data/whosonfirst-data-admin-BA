@@ -37,6 +37,9 @@
     "name:srp_x_preferred":[
         "\u0411\u0440\u043a\u0430"
     ],
+    "name:zho_x_preferred":[
+        "Dubrave Gornje"
+    ],
     "qs:name":"Brka",
     "qs:name_adm0":"Bosna i Hercegovina",
     "qs:name_adm1":"Br\u010dko Distrikt",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890519057,
-    "wof:lastmodified":1561830462,
+    "wof:lastmodified":1563287551,
     "wof:name":"Brka",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

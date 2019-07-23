@@ -27,6 +27,9 @@
     "name:hrv_x_preferred":[
         "Trn"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30eb\u30f3"
+    ],
     "name:pol_x_preferred":[
         "Trn"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890518763,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1563287555,
     "wof:name":"Trn",
     "wof:parent_id":1108759151,
     "wof:placetype":"locality",

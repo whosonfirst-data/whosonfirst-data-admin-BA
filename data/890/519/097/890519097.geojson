@@ -16,14 +16,41 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Od\u017eak"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0434\u0436\u0430\u043a"
     ],
     "name:ceb_x_preferred":[
         "Op\u0107ina Od\u017eak"
     ],
+    "name:ces_x_preferred":[
+        "Od\u017eak"
+    ],
+    "name:deu_x_preferred":[
+        "Od\u017eak"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03bd\u03c4\u03b6\u03b1\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Od\u017eak"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0698\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Od\u017eak"
+    ],
+    "name:hrv_x_preferred":[
+        "Od\u017eak"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u057b\u0561\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Od\u017eak"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30b8\u30e3\u30af"
@@ -31,17 +58,44 @@
     "name:lit_x_preferred":[
         "Od\u017eakas"
     ],
+    "name:mkd_x_preferred":[
+        "\u041e\u045f\u0430\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Od\u017eak"
+    ],
+    "name:pol_x_preferred":[
+        "Od\u017eak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0434\u0436\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Od\u017eak"
+    ],
+    "name:sqi_x_preferred":[
+        "Oxhaku"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u045f\u0430\u043a"
     ],
     "name:swe_x_preferred":[
         "Op\u0107ina Od\u017eak"
     ],
+    "name:tat_x_preferred":[
+        "\u041e\u0497\u0430\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Ocak"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0434\u0436\u0430\u043a"
     ],
     "name:unk_x_variant":[
         "Vukosavlje"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u062c\u0627\u06a9"
     ],
     "qs:name":"Od\u017eak",
     "qs:name_adm0":"Bosna i Hercegovina",
@@ -79,7 +133,7 @@
         }
     ],
     "wof:id":890519097,
-    "wof:lastmodified":1527751221,
+    "wof:lastmodified":1563287537,
     "wof:name":"Od\u017eak",
     "wof:parent_id":1108759191,
     "wof:placetype":"locality",

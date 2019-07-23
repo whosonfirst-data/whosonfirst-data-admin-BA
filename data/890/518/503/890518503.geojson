@@ -18,11 +18,17 @@
     "name:bos_x_preferred":[
         "Maglaj"
     ],
+    "name:ceb_x_preferred":[
+        "Maglaj"
+    ],
     "name:deu_x_preferred":[
         "Maglaj"
     ],
     "name:eng_x_preferred":[
         "Maglaj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06af\u0644\u0627\u06cc"
     ],
     "name:fra_x_preferred":[
         "Maglaj"
@@ -31,6 +37,9 @@
         "Maglaj"
     ],
     "name:hrv_x_preferred":[
+        "Maglaj"
+    ],
+    "name:hsb_x_preferred":[
         "Maglaj"
     ],
     "name:hun_x_preferred":[
@@ -44,6 +53,9 @@
     ],
     "name:lit_x_preferred":[
         "Maglajus"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0433\u043b\u0430\u0458"
     ],
     "name:nld_x_preferred":[
         "Maglaj"
@@ -59,6 +71,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0433\u043b\u0430\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Maglaj"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u0433\u043b\u0430\u0439"
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":890518503,
-    "wof:lastmodified":1561830464,
+    "wof:lastmodified":1563287567,
     "wof:name":"Maglaj",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

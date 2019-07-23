@@ -37,6 +37,9 @@
     "name:aka_x_preferred":[
         "Bosnia ne H\u025bzegovina"
     ],
+    "name:aka_x_variant":[
+        "Bosnia and Herzegovina"
+    ],
     "name:als_x_preferred":[
         "Bosnien und Herzegowina"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ang_x_preferred":[
         "Bosnia and Herzegofina"
+    ],
+    "name:ang_x_variant":[
+        "Bosnia and Herzegovina"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0648\u0633\u0646\u0629 \u0648\u0627\u0644\u0647\u0631\u0633\u0643"
@@ -67,11 +73,20 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u0648\u0633\u0646\u0647 \u0648 \u0627\u0644\u0647\u0631\u0633\u0643"
     ],
+    "name:asm_x_preferred":[
+        "\u09ac\u099a\u09a8\u09bf\u09af\u09bc\u09be \u0986\u09f0\u09c1 \u09b9\u09be\u09f0\u099c\u09c7\u0997\u2019\u09ad\u09bf\u09a8\u09be"
+    ],
     "name:ast_x_preferred":[
         "Bosnia y Hercegovina"
     ],
+    "name:ast_x_variant":[
+        "Bosnia y Herzegovina"
+    ],
     "name:ava_x_preferred":[
         "\u0411\u043e\u0441\u043d\u0438\u044f \u0432\u0430 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:aym_x_preferred":[
+        "Bus\u00f1a Hirsikuwina"
     ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u0642\u0648\u0648\u06cc\u0646"
@@ -145,6 +160,9 @@
     "name:bxr_x_preferred":[
         "\u0411\u043e\u0441\u043d\u0438 \u0431\u0430 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
     ],
+    "name:bxr_x_variant":[
+        "\u0411\u043e\u0441\u043d\u0438 \u0431\u0430 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
     "name:cat_x_preferred":[
         "B\u00f2snia i Hercegovina"
     ],
@@ -160,6 +178,9 @@
     "name:che_x_preferred":[
         "\u0411\u043e\u0441\u043d\u0438 \u0430, \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430 \u0430",
         "\u0411\u043e\u0441\u043d\u0438 \u0430"
+    ],
+    "name:che_x_variant":[
+        "\u0411\u043e\u0441\u043d\u0438 \u0430 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
     ],
     "name:chr_x_preferred":[
         "\u13c9\u13cf\u13c2\u13a0 \u13a0\u13b4 \u13b2\u13e4\u13aa\u13eb"
@@ -209,6 +230,9 @@
     ],
     "name:diq_x_preferred":[
         "Bosna u Hersek"
+    ],
+    "name:diq_x_variant":[
+        "Bosna-Hersek"
     ],
     "name:div_x_preferred":[
         "\u0784\u07ae\u0790\u07b0\u0782\u07a8\u0794\u07a7 \u0787\u07ac\u0782\u07b0\u0791\u07b0 \u0780\u07ac\u0783\u07b0\u0792\u07a8\u078e\u07ae\u0788\u07a9\u0782\u07a7"
@@ -347,6 +371,9 @@
     "name:hau_x_preferred":[
         "Bosniya Harzagobina"
     ],
+    "name:hau_x_variant":[
+        "Herzegovina"
+    ],
     "name:haw_x_preferred":[
         "Bosenia me Hesegowina"
     ],
@@ -421,6 +448,9 @@
     "name:jav_x_preferred":[
         "Bosnia lan H\u00e9rcegovina"
     ],
+    "name:jav_x_variant":[
+        "Bosnia-Herzegovina"
+    ],
     "name:jpn_x_preferred":[
         "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca"
     ],
@@ -467,6 +497,9 @@
     "name:kik_x_preferred":[
         "Bosnia na Hezegovina"
     ],
+    "name:kik_x_variant":[
+        "Mbocinia na Hecengobina"
+    ],
     "name:kin_x_preferred":[
         "Bosiniya na Herizegovina"
     ],
@@ -496,6 +529,9 @@
     "name:ksh_x_preferred":[
         "Bosnien-Herzegovina"
     ],
+    "name:ksh_x_variant":[
+        "Bo\u00dfnije-H\u00e4zzejovina"
+    ],
     "name:kur_x_preferred":[
         "Bosniya \u00fb Herzegov\u00eena"
     ],
@@ -517,11 +553,17 @@
     "name:lav_x_preferred":[
         "Bosnija un Hercegovina"
     ],
+    "name:lfn_x_preferred":[
+        "Bosnia e Hersegovina"
+    ],
     "name:lij_x_preferred":[
         "B\u00f2snia-Er\u00e7eg\u00f2vina"
     ],
     "name:lim_x_preferred":[
         "Bosni\u00eb en Herzegovina"
+    ],
+    "name:lim_x_variant":[
+        "Bosni\u00eb en Hercegovina"
     ],
     "name:lin_x_preferred":[
         "Bosnia na Erzegovina"
@@ -550,6 +592,9 @@
     "name:ltz_x_preferred":[
         "Bosnien an Herzegowina"
     ],
+    "name:ltz_x_variant":[
+        "Bosnien-Herzegowina"
+    ],
     "name:lub_x_preferred":[
         "Mbosini ne Hezegovine"
     ],
@@ -558,6 +603,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u6ce2\u58eb\u5c3c\u4e9e\u8d6b\u585e\u54e5\u7dad\u7d0d"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u094b\u0938\u094d\u0928\u093f\u092f\u093e \u0906 \u0939\u0930\u094d\u091c\u0917\u094b\u092d\u093f\u0928\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d4b\u0d38\u0d4d\u0d28\u0d3f\u0d2f \u0d39\u0d46\u0d7c\u0d38\u0d46\u0d17\u0d4b\u0d35\u0d3f\u0d28"
@@ -613,8 +661,14 @@
     "name:nah_x_preferred":[
         "Bosnia ihuan Hertzegovina"
     ],
+    "name:nah_x_variant":[
+        "Bosnia \u012bhu\u0101n Hertzegovina"
+    ],
     "name:nan_x_preferred":[
         "Bosna kap Hercegovina"
+    ],
+    "name:nan_x_variant":[
+        "Bosnia kap Herzegovina"
     ],
     "name:nap_x_preferred":[
         "Bosnia-Erzegovina"
@@ -809,6 +863,9 @@
     "name:sna_x_variant":[
         "Boznia ne Herzegovina"
     ],
+    "name:snd_x_preferred":[
+        "\u0628\u0648\u0633\u064a\u0646\u064a\u0627 \u06fd \u06be\u0631\u0632\u06af\u0648\u064a\u0646\u064a\u06c1"
+    ],
     "name:som_x_preferred":[
         "Bosniya"
     ],
@@ -827,6 +884,9 @@
     ],
     "name:srd_x_preferred":[
         "B\u00f2snia Erzegovina"
+    ],
+    "name:srd_x_variant":[
+        "B\u00f2snia e Erzeg\u00f2vina"
     ],
     "name:srn_x_preferred":[
         "Bosnikondre"
@@ -869,6 +929,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0411\u043e\u0441\u043d\u0438\u044f \u04bb\u04d9\u043c \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:tat_x_variant":[
+        "\u0411\u04af\u0441\u043d\u04d9-\u04ba\u04d9\u0440\u0441\u04d9\u043a"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c38\u0c4d\u0c28\u0c3f\u0c2f\u0c3e \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c39\u0c46\u0c30\u0c4d\u0c1c\u0c46\u0c17\u0c4a\u0c35\u0c40\u0c28\u0c3e"
@@ -997,6 +1060,9 @@
     "name:wuu_x_preferred":[
         "\u6ce2\u9ed1"
     ],
+    "name:wuu_x_variant":[
+        "\u6ce2\u65af\u5c3c\u4e9a"
+    ],
     "name:xal_x_preferred":[
         "\u0411\u043e\u0441\u043c\u0443\u0434\u0438\u043d \u0431\u043e\u043b\u043d \u0425\u0435\u0440\u0446\u0435\u0433\u0443\u0434\u0438\u043d \u041e\u0440\u043d"
     ],
@@ -1017,6 +1083,9 @@
     ],
     "name:zea_x_preferred":[
         "Bosni\u00eb-Hercegovina"
+    ],
+    "name:zha_x_preferred":[
+        "Bosnia caeuq Herzegovina"
     ],
     "name:zho_min_nan_x_preferred":[
         "Bosna kap Hercegovina"
@@ -1188,7 +1257,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1561830405,
+    "wof:lastmodified":1563285728,
     "wof:name":"Bosnia and Herzegovina",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

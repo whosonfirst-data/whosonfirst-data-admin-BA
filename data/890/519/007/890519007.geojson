@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Skokovi"
     ],
+    "name:ceb_x_preferred":[
+        "Skokovi"
+    ],
     "name:eng_x_preferred":[
         "Skokovi"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890519007,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287535,
     "wof:name":"Skokovi",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

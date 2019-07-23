@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041e\u043c\u0430\u0440\u0441\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Omarska"
+    ],
     "name:deu_x_preferred":[
         "Omarska"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890518733,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287606,
     "wof:name":"Omarska",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

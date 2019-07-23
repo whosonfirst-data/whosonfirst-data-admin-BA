@@ -28,10 +28,16 @@
     "name:eng_x_preferred":[
         "Han Pijesak"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0646 \u067e\u06cc\u06cc\u0633\u0627\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Han Pijesak"
     ],
     "name:hrv_x_preferred":[
+        "Han Pijesak"
+    ],
+    "name:hsb_x_preferred":[
         "Han Pijesak"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +60,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u043d \u041f\u0438\u0458\u0435\u0441\u0430\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Pisakhan"
     ],
     "name:unk_x_variant":[
         "Han Pijesak"
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":890518925,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287601,
     "wof:name":"Han-Pijesak",
     "wof:parent_id":1108759103,
     "wof:placetype":"locality",

@@ -18,8 +18,14 @@
     "name:bos_x_preferred":[
         "Gornji Vakuf"
     ],
+    "name:bos_x_variant":[
+        "Gornji Vakuf-Uskoplje"
+    ],
     "name:bre_x_preferred":[
         "Gornji Vakuf-Uskoplje"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornji Vakuf"
     ],
     "name:ces_x_preferred":[
         "Gornji Vakuf"
@@ -30,6 +36,9 @@
     "name:eng_x_preferred":[
         "Gornji Vakuf-Uskoplje"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0646\u06cc\u06cc \u0648\u0627\u06a9\u0648\u0641-\u0627\u0648\u0633\u06a9\u0648\u067e\u0644\u06cc\u0647"
+    ],
     "name:fra_x_preferred":[
         "Gornji Vakuf-Uskoplje"
     ],
@@ -38,6 +47,12 @@
     ],
     "name:hrv_x_preferred":[
         "Uskoplje"
+    ],
+    "name:hrv_x_variant":[
+        "Gornji Vakuf-Uskoplje"
+    ],
+    "name:hsb_x_preferred":[
+        "Gornji Vakuf-Uskoplje"
     ],
     "name:hye_x_preferred":[
         "\u0533\u0578\u057c\u0576\u056b \u054e\u0561\u056f\u0578\u0582\u0586 \u0548\u0582\u057d\u056f\u0578\u057a\u056c\u0565"
@@ -115,7 +130,7 @@
         }
     ],
     "wof:id":890518623,
-    "wof:lastmodified":1561830468,
+    "wof:lastmodified":1563287623,
     "wof:name":"Gornji Vakuf",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

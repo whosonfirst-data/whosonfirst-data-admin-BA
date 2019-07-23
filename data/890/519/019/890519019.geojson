@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Sanica"
     ],
+    "name:ceb_x_preferred":[
+        "Sanica"
+    ],
     "name:deu_x_preferred":[
         "Sanica"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Pravoslavna Sanica"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u65af\u57fa\u83ab\u65af\u7279"
     ],
     "qs:name":"Sanica",
     "qs:name_adm0":"Bosna i Hercegovina",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890519019,
-    "wof:lastmodified":1561830462,
+    "wof:lastmodified":1563287548,
     "wof:name":"Sanica",
     "wof:parent_id":1108759133,
     "wof:placetype":"locality",

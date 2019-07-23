@@ -15,6 +15,9 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u064a"
+    ],
     "name:bos_x_preferred":[
         "Pale"
     ],
@@ -22,6 +25,9 @@
         "\u041f\u0430\u043b\u0435"
     ],
     "name:cat_x_preferred":[
+        "Pale"
+    ],
+    "name:ceb_x_preferred":[
         "Pale"
     ],
     "name:ces_x_preferred":[
@@ -32,6 +38,9 @@
     ],
     "name:deu_x_preferred":[
         "Pale"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Pale"
@@ -47,6 +56,12 @@
     ],
     "name:hrv_x_preferred":[
         "Pale"
+    ],
+    "name:hsb_x_preferred":[
+        "Pale"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u056c\u0565"
     ],
     "name:ita_x_preferred":[
         "Pale"
@@ -111,6 +126,9 @@
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u06d2\u060c \u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u067e\u0627\u0644\u06d2"
+    ],
     "name:zho_x_preferred":[
         "\u5e15\u83b1"
     ],
@@ -146,7 +164,7 @@
         }
     ],
     "wof:id":890518603,
-    "wof:lastmodified":1561830465,
+    "wof:lastmodified":1563287588,
     "wof:name":"Pale",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

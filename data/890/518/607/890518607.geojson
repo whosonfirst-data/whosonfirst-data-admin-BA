@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Ostro\u017eac"
     ],
+    "name:ceb_x_preferred":[
+        "Ostro\u017eac"
+    ],
     "name:deu_x_preferred":[
         "Ostro\u017eac"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890518607,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1563287638,
     "wof:name":"Ostro\u017eac",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

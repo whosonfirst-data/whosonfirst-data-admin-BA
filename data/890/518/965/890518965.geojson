@@ -16,6 +16,9 @@
     "name:bos_x_preferred":[
         "Zalu\u017eani"
     ],
+    "name:ceb_x_preferred":[
+        "Zalu\u017eani"
+    ],
     "name:eng_x_preferred":[
         "Zalu\u017eani"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890518965,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1563287560,
     "wof:name":"Zalu\u017eani",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

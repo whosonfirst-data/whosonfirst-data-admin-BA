@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Cant\u00f3 de Tuzla"
     ],
+    "name:ceb_x_preferred":[
+        "Tuzlanski Kanton"
+    ],
     "name:ces_x_preferred":[
         "Tuzlansk\u00fd kanton"
     ],
@@ -302,7 +305,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1561830404,
+    "wof:lastmodified":1563285723,
     "wof:name":"Tuzla",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0438\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Trebinje"
+    ],
     "name:ces_x_preferred":[
         "Trebinje"
     ],
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890518765,
-    "wof:lastmodified":1561830464,
+    "wof:lastmodified":1563287565,
     "wof:name":"Trebinje",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Crnjelovo Donje"
     ],
+    "name:ceb_x_preferred":[
+        "Crnjelovo Donje"
+    ],
     "name:eng_x_preferred":[
         "Crnjelovo Donje"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890518921,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1563287652,
     "wof:name":"Crnjelovo Donje",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

@@ -16,11 +16,17 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0441\u043b\u0430\u0432\u0430\u0440\u044d"
+    ],
     "name:bos_x_preferred":[
         "Maslovare"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u043b\u043e\u0432\u0430\u0440\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Maslovare"
     ],
     "name:eng_x_preferred":[
         "Maslovare"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890519095,
-    "wof:lastmodified":1561830462,
+    "wof:lastmodified":1563287550,
     "wof:name":"Maslovare",
     "wof:parent_id":1108759141,
     "wof:placetype":"locality",

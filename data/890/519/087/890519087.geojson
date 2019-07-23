@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Dobrljin"
     ],
+    "name:ceb_x_preferred":[
+        "Dobrljin"
+    ],
     "name:eng_x_preferred":[
         "Dobrljin"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890519087,
-    "wof:lastmodified":1561830462,
+    "wof:lastmodified":1563287543,
     "wof:name":"Dobrljin",
     "wof:parent_id":1108759011,
     "wof:placetype":"locality",

@@ -21,11 +21,20 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u043a\u0432\u0438\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Lokvine"
+    ],
     "name:eng_x_preferred":[
         "Lokvine"
     ],
     "name:fra_x_preferred":[
         "Lokvine"
+    ],
+    "name:hrv_x_preferred":[
+        "Lokvine"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043a\u0432\u0438\u043d\u0435"
     ],
     "name:swe_x_preferred":[
         "Lokvine"
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":890518551,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1563287556,
     "wof:name":"Lokvine",
     "wof:parent_id":1108759297,
     "wof:placetype":"locality",

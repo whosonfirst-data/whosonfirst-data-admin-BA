@@ -33,6 +33,9 @@
     "name:hrv_x_preferred":[
         "Pelagi\u0107evo"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u056c\u0561\u0563\u056b\u0579\u0587\u0578"
+    ],
     "name:ita_x_preferred":[
         "Pelagi\u0107evo"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0435\u043b\u0430\u0433\u0438\u045b\u0435\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Pelagi\u0107evo"
     ],
     "name:unk_x_variant":[
         "Gornji \u017dabar"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890519137,
-    "wof:lastmodified":1561830462,
+    "wof:lastmodified":1563287542,
     "wof:name":"Pelagi\u0107evo",
     "wof:parent_id":1108759097,
     "wof:placetype":"locality",

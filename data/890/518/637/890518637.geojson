@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Bronzani Majdan"
     ],
+    "name:ceb_x_preferred":[
+        "Bronzani Majdan"
+    ],
     "name:eng_x_preferred":[
         "Bronzani Majdan"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890518637,
-    "wof:lastmodified":1561830468,
+    "wof:lastmodified":1563287633,
     "wof:name":"Bronzani Majdan",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Dobrinje"
     ],
+    "name:ceb_x_preferred":[
+        "Dobrinje"
+    ],
     "name:ces_x_preferred":[
         "Dobrinje"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890519063,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287536,
     "wof:name":"Dobrinje",
     "wof:parent_id":1108759285,
     "wof:placetype":"locality",

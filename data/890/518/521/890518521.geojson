@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Podbrdo"
     ],
+    "name:ceb_x_preferred":[
+        "Podbrdo"
+    ],
     "name:ces_x_preferred":[
         "Podbrdo"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890518521,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287593,
     "wof:name":"Podbrdo",
     "wof:parent_id":1108759175,
     "wof:placetype":"locality",

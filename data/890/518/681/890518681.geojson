@@ -15,14 +15,83 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0628\u0634\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:cat_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:deu_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03ad\u03c0\u03c4\u03c3\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05e4\u05e6'\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:hsb_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:ita_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30a7\u30d7\u30c1\u30a7"
+    ],
     "name:lit_x_preferred":[
         "\u017dep\u010d\u0117"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0416\u0435\u043f\u0447\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:pol_x_preferred":[
+        "\u017dep\u010de"
     ],
     "name:rus_x_preferred":[
         "\u0416\u0435\u043f\u0447\u0435"
     ],
+    "name:sco_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:spa_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:sqi_x_preferred":[
+        "Zhep\u00e7e"
+    ],
     "name:srp_x_preferred":[
         "\u0416\u0435\u043f\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:tat_x_preferred":[
+        "\u0416\u0435\u043f\u0447\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:urd_x_preferred":[
+        "\u0698\u0627\u067e\u0686\u06d2"
     ],
     "name:zho_x_preferred":[
         "\u70ed\u666e\u5207"
@@ -60,7 +129,7 @@
         }
     ],
     "wof:id":890518681,
-    "wof:lastmodified":1527751230,
+    "wof:lastmodified":1563287570,
     "wof:name":"\u017dep\u010de",
     "wof:parent_id":1108759299,
     "wof:placetype":"locality",

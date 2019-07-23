@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Novi \u0160eher"
     ],
+    "name:ceb_x_preferred":[
+        "Novi \u0160eher"
+    ],
     "name:eng_x_preferred":[
         "Novi \u0160eher"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890519151,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287528,
     "wof:name":"Novi \u00c5 eher",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

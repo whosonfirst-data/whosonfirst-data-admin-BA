@@ -85,6 +85,9 @@
     "name:urd_x_preferred":[
         "\u0641\u0648\u06cc\u0646\u06cc\u062a\u0633\u0627"
     ],
+    "name:zho_x_preferred":[
+        "\u798f\u4f0a\u5c3c\u5bdf"
+    ],
     "qs:name":"Fojnica",
     "qs:name_adm0":"Bosna i Hercegovina",
     "qs:name_adm1":"Federacija Bosne I Hercegovine",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890519025,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287533,
     "wof:name":"Fojnica",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

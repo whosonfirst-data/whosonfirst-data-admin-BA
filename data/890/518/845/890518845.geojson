@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Vitina"
     ],
+    "name:ceb_x_preferred":[
+        "Vitina"
+    ],
     "name:eng_x_preferred":[
         "Vitina"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890518845,
-    "wof:lastmodified":1561830464,
+    "wof:lastmodified":1563287573,
     "wof:name":"Vitina",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

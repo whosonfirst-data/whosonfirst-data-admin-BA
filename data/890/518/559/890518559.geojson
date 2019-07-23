@@ -18,8 +18,14 @@
     "name:bos_x_preferred":[
         "Drinovci"
     ],
+    "name:ceb_x_preferred":[
+        "Drinovci"
+    ],
     "name:deu_x_preferred":[
         "Drinovci"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03c1\u03af\u03bd\u03bf\u03b2\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Drinovci"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890518559,
-    "wof:lastmodified":1561830464,
+    "wof:lastmodified":1563287562,
     "wof:name":"Drinovci",
     "wof:parent_id":1108759099,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Radi\u0161i\u0107i"
     ],
+    "name:ceb_x_preferred":[
+        "Radi\u0161i\u0107i"
+    ],
     "name:eng_x_preferred":[
         "Radi\u0161i\u0107i"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890518777,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287601,
     "wof:name":"Radi\u0161i\u0107i",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

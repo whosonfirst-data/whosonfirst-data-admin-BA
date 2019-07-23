@@ -18,6 +18,12 @@
     "name:bos_x_preferred":[
         "Rodo\u010d"
     ],
+    "name:ceb_x_preferred":[
+        "Rodo\u010d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03bd\u03c4\u03bf\u03c4\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Rodo\u010d"
     ],
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890518647,
-    "wof:lastmodified":1561830468,
+    "wof:lastmodified":1563287623,
     "wof:name":"Rodo\u010d",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

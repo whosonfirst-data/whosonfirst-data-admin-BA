@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Paji\u0107 Polje"
     ],
+    "name:ceb_x_preferred":[
+        "Paji\u0107 Polje"
+    ],
     "name:eng_x_preferred":[
         "Paji\u0107 Polje"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890518931,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1563287556,
     "wof:name":"Pajic Polje",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

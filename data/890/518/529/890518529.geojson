@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Pjani\u0107i"
     ],
+    "name:ceb_x_preferred":[
+        "Pjani\u0107i"
+    ],
     "name:eng_x_preferred":[
         "Pjani\u0107i"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890518529,
-    "wof:lastmodified":1561830466,
+    "wof:lastmodified":1563287598,
     "wof:name":"Pjani\u0107i",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

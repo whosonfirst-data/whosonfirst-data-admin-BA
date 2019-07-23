@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0442\u0443\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Balatun"
+    ],
     "name:deu_x_preferred":[
         "Balatun"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890518507,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287612,
     "wof:name":"Balatun",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

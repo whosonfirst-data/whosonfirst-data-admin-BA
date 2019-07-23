@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Pura\u010di\u0107"
     ],
+    "name:ceb_x_preferred":[
+        "Pura\u010di\u0107"
+    ],
     "name:eng_x_preferred":[
         "Pura\u010di\u0107"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890518781,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1563287646,
     "wof:name":"Pura\u010di\u0107",
     "wof:parent_id":1108759161,
     "wof:placetype":"locality",

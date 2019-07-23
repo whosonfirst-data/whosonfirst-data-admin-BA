@@ -18,6 +18,9 @@
     "name:bos_x_preferred":[
         "Hotonj"
     ],
+    "name:ceb_x_preferred":[
+        "Hotonj"
+    ],
     "name:eng_x_preferred":[
         "Hotonj"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890518645,
-    "wof:lastmodified":1561830465,
+    "wof:lastmodified":1563287575,
     "wof:name":"Hotonj",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

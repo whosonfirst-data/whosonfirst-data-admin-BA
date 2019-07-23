@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28612941.477755,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.429411,43.859436,18.429411,43.859436",
     "geom:latitude":43.859436,
     "geom:longitude":18.429411,
@@ -30,6 +30,9 @@
     "name:deu_x_preferred":[
         "Novo Sarajevo"
     ],
+    "name:eng_x_preferred":[
+        "Novo Sarajevo"
+    ],
     "name:fra_x_preferred":[
         "Novo Sarajevo"
     ],
@@ -39,11 +42,23 @@
     "name:hrv_x_preferred":[
         "Novo Sarajevo"
     ],
+    "name:hsb_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:hun_x_preferred":[
+        "Novo Sarajevo"
+    ],
     "name:ita_x_preferred":[
         "Novo Sarajevo"
     ],
     "name:jpn_x_preferred":[
         "\u30ce\u30f4\u30a9\u30fb\u30b5\u30e9\u30a8\u30f4\u30a9"
+    ],
+    "name:lit_x_preferred":[
+        "Novo Sarajevas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0430\u0440\u0430\u0435\u0432\u043e"
     ],
     "name:nld_x_preferred":[
         "Novo Sarajevo"
@@ -54,11 +69,17 @@
     "name:spa_x_preferred":[
         "Novo Sarajevo"
     ],
+    "name:sqi_x_preferred":[
+        "Novo Sarajevo"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u043e \u0421\u0430\u0440\u0430\u0458\u0435\u0432\u043e"
     ],
     "name:tur_x_preferred":[
         "Novo Sarajevo"
+    ],
+    "name:tur_x_variant":[
+        "Novo Saraybosna"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e-\u0421\u0430\u0440\u0430\u0454\u0432\u043e"
@@ -99,10 +120,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":394,
     "wof:belongsto":[
+        85669235,
         102191581,
         85632609,
-        1108759047,
-        85669235
+        1108759047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939160,
+    "wof:lastmodified":1563285714,
     "wof:name":"Novo Sarajevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

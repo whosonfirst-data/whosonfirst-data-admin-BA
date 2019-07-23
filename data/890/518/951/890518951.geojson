@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Gornja Tuzla"
     ],
+    "name:ceb_x_preferred":[
+        "Gornja Tuzla"
+    ],
     "name:eng_x_preferred":[
         "Gornja Tuzla"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890518951,
-    "wof:lastmodified":1561830467,
+    "wof:lastmodified":1563287614,
     "wof:name":"Gornja Tuzla",
     "wof:parent_id":1108759271,
     "wof:placetype":"locality",

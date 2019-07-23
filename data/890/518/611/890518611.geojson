@@ -15,11 +15,20 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0643\u0627\u0646\u064a"
+    ],
     "name:bos_x_preferred":[
+        "Kakanj"
+    ],
+    "name:ceb_x_preferred":[
         "Kakanj"
     ],
     "name:deu_x_preferred":[
         "Kakanj"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03ba\u03b1\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kakanj"
@@ -51,6 +60,9 @@
     "name:pol_x_preferred":[
         "Kakanj"
     ],
+    "name:slv_x_preferred":[
+        "Kakanj"
+    ],
     "name:spa_x_preferred":[
         "Kakanj"
     ],
@@ -64,6 +76,12 @@
         "Kakanj"
     ],
     "name:tat_x_preferred":[
+        "\u041a\u0430\u043a\u0430\u043d\u044c"
+    ],
+    "name:tur_x_preferred":[
+        "Kakan"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u0430\u043a\u0430\u043d\u044c"
     ],
     "name:urd_x_preferred":[
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":890518611,
-    "wof:lastmodified":1561830465,
+    "wof:lastmodified":1563287581,
     "wof:name":"Kakanj",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

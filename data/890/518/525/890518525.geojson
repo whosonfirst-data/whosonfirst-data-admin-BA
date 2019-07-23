@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Svojat"
     ],
+    "name:ceb_x_preferred":[
+        "Svojat"
+    ],
     "name:ces_x_preferred":[
         "Svojat"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":890518525,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1563287649,
     "wof:name":"Svojat",
     "wof:parent_id":1108759301,
     "wof:placetype":"locality",

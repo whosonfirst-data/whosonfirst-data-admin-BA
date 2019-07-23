@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Donji Vakuf"
     ],
+    "name:ceb_x_preferred":[
+        "Donji Vakuf"
+    ],
     "name:ces_x_preferred":[
         "Donji Vakuf"
     ],
@@ -28,11 +31,20 @@
     "name:eng_x_preferred":[
         "Donji Vakuf"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u06cc\u06cc \u0648\u0627\u06a9\u0648\u0641"
+    ],
     "name:fra_x_preferred":[
         "Donji Vakuf"
     ],
     "name:hrv_x_preferred":[
         "Donji Vakuf"
+    ],
+    "name:hsb_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0576\u056b \u054e\u0561\u056f\u0578\u0582\u0586"
     ],
     "name:ita_x_preferred":[
         "Donji Vakuf"
@@ -69,6 +81,9 @@
     ],
     "name:tur_x_preferred":[
         "Donji Vakuf"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0456-\u0412\u0430\u043a\u0443\u0444"
     ],
     "name:unk_x_variant":[
         "Srbobran"
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":890519079,
-    "wof:lastmodified":1561830461,
+    "wof:lastmodified":1563287530,
     "wof:name":"Donji Vakuf",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

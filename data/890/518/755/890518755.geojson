@@ -21,6 +21,9 @@
     "name:bos_x_preferred":[
         "\u017divinice"
     ],
+    "name:ceb_x_preferred":[
+        "\u017divinice"
+    ],
     "name:ces_x_preferred":[
         "\u017divinice"
     ],
@@ -40,6 +43,9 @@
         "\u05d6'\u05d9\u05d1\u05d9\u05e0\u05d9\u05e6\u05d4"
     ],
     "name:hrv_x_preferred":[
+        "\u017divinice"
+    ],
+    "name:hsb_x_preferred":[
         "\u017divinice"
     ],
     "name:ita_x_preferred":[
@@ -75,6 +81,9 @@
     "name:srp_x_preferred":[
         "\u0416\u0438\u0432\u0438\u043d\u0438\u0446\u0435 \u0413\u0440\u0430\u0434"
     ],
+    "name:srp_x_variant":[
+        "\u0416\u0438\u0432\u0438\u043d\u0438\u0446\u0435"
+    ],
     "name:swe_x_preferred":[
         "\u017divinice"
     ],
@@ -83,6 +92,9 @@
     ],
     "name:tur_x_preferred":[
         "\u017divinice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0438\u0432\u0438\u043d\u0438\u0446\u0435"
     ],
     "name:urd_x_preferred":[
         "\u0634\u0648\u06cc\u0646\u0633\u06d2"
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":890518755,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1563287558,
     "wof:name":"\u017divinice",
     "wof:parent_id":1108759301,
     "wof:placetype":"locality",

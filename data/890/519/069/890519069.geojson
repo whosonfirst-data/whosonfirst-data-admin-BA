@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Donja Dubica"
     ],
+    "name:ceb_x_preferred":[
+        "Donja Dubica"
+    ],
     "name:eng_x_preferred":[
         "Donja Dubica"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890519069,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1563287552,
     "wof:name":"Donja Dubica",
     "wof:parent_id":1108759191,
     "wof:placetype":"locality",
