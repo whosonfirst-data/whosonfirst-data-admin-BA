@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zvirnja\u010da"
+    ],
+    "name:ceb_x_preferred":[
+        "Zvirnja\u010da"
+    ],
+    "name:deu_x_preferred":[
+        "Zvirnja\u010da"
+    ],
+    "name:fra_x_preferred":[
+        "Zvirnja\u010da"
+    ],
+    "name:hrv_x_preferred":[
+        "Zvirnja\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0432\u0438\u0440\u045a\u0430\u0447\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Zvirnja\u010da"
+    ],
     "name:und_x_variant":[
         "Zvirnja\u010da"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1293505123,
-    "wof:lastmodified":1537585545,
+    "wof:lastmodified":1564146252,
     "wof:name":"Zvirnjaca",
     "wof:parent_id":1108759145,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ba\u010dvani"
+    ],
+    "name:ceb_x_preferred":[
+        "Ba\u010dvani"
+    ],
+    "name:fra_x_preferred":[
+        "Ba\u010dvani"
+    ],
+    "name:hrv_x_preferred":[
+        "Ba\u010dvani"
+    ],
+    "name:slv_x_preferred":[
+        "Ba\u010dvani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0447\u0432\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ba\u010dvani"
+    ],
     "name:und_x_variant":[
         "Ba\u010dani",
         "Ba\u010dvani"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1310014571,
-    "wof:lastmodified":1537585629,
+    "wof:lastmodified":1564147775,
     "wof:name":"Bacvani",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

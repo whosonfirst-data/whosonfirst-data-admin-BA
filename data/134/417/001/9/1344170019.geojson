@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Podgradci"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornji Podgradci"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Podgradci"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Podgradci"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Podgradci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u041f\u043e\u0434\u0433\u0440\u0430\u0434\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Gornji Podgradci"
+    ],
     "name:und_x_variant":[
         "Pilana",
         "Gornji Podgradci"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1344170019,
-    "wof:lastmodified":1537585600,
+    "wof:lastmodified":1564145878,
     "wof:name":"Gornji Podgradci",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

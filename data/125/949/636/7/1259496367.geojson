@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Hasi\u0107"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornji Hasi\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Hasi\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Hasi\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0425\u0430\u0441\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Gornji Hasi\u0107"
+    ],
     "name:und_x_variant":[
         "Hasi\u0107",
         "Gornji Hasi\u0107"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1259496367,
-    "wof:lastmodified":1537585601,
+    "wof:lastmodified":1564148848,
     "wof:name":"Gornji Hasic",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Je\u010dmi\u0161ta"
+    ],
+    "name:fra_x_preferred":[
+        "Je\u010dmi\u0161ta"
+    ],
+    "name:hrv_x_preferred":[
+        "Je\u010dmi\u0161ta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0435\u0447\u043c\u0438\u0448\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Je\u010dmi\u0161te",
         "Je\u010dmi\u0161ta"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1326939009,
-    "wof:lastmodified":1537585594,
+    "wof:lastmodified":1564145230,
     "wof:name":"Jecmista",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Krep\u0161i\u0107"
+    ],
+    "name:ceb_x_preferred":[
+        "Krep\u0161i\u0107"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03ad\u03c0\u03c3\u03b9\u03c4\u03c2"
+    ],
+    "name:fra_x_preferred":[
+        "Krep\u0161i\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Krep\u0161i\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0435\u043f\u0448\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Krep\u0161i\u0107"
+    ],
     "name:und_x_variant":[
         "Krep\u0161i\u0107"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1259412019,
-    "wof:lastmodified":1537585589,
+    "wof:lastmodified":1564148812,
     "wof:name":"Krepsic",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

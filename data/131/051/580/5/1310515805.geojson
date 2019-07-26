@@ -25,6 +25,45 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:ceb_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:fra_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:hrv_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:hun_x_preferred":[
+        "Bukolya"
+    ],
+    "name:ita_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:nld_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Bukovlje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Bukovlje"
+    ],
+    "name:slv_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0459\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u043b\u0454"
+    ],
+    "name:war_x_preferred":[
+        "Bukovlje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1310515805,
-    "wof:lastmodified":1536902034,
+    "wof:lastmodified":1564147921,
     "wof:name":"Bukovlje",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

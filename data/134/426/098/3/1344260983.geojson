@@ -25,6 +25,39 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Slatine"
+    ],
+    "name:ceb_x_preferred":[
+        "Slatine"
+    ],
+    "name:deu_x_preferred":[
+        "Slatine"
+    ],
+    "name:hrv_x_preferred":[
+        "Slatine"
+    ],
+    "name:hun_x_preferred":[
+        "Slatine"
+    ],
+    "name:nld_x_preferred":[
+        "Slatine"
+    ],
+    "name:pol_x_preferred":[
+        "Slatine"
+    ],
+    "name:slv_x_preferred":[
+        "Slatine"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Slatine"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1344260983,
-    "wof:lastmodified":1537080216,
+    "wof:lastmodified":1564145858,
     "wof:name":"Slatine",
     "wof:parent_id":1108759287,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Poljice \u010ci\u010devo"
+    ],
+    "name:fra_x_preferred":[
+        "Poljice \u010ci\u010devo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0459\u0438\u0446\u0435 \u0427\u0438\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Poljice \u010ci\u010devo",
         "Poljice"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343569791,
-    "wof:lastmodified":1537585666,
+    "wof:lastmodified":1564145812,
     "wof:name":"Poljice",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

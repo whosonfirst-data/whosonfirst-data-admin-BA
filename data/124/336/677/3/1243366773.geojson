@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sase"
+    ],
+    "name:fra_x_preferred":[
+        "Sase"
+    ],
+    "name:hrv_x_preferred":[
+        "Sase"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0441\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1243366773,
-    "wof:lastmodified":1537486866,
+    "wof:lastmodified":1564148270,
     "wof:name":"Sase",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

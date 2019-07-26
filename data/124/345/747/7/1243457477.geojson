@@ -26,6 +26,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jelah"
+    ],
+    "name:ceb_x_preferred":[
+        "Jelah"
+    ],
+    "name:fra_x_preferred":[
+        "Jelah"
+    ],
+    "name:hrv_x_preferred":[
+        "Jelah"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0435\u043b\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Jelah"
+    ],
     "name:und_x_variant":[
         "Jelav"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1243457477,
-    "wof:lastmodified":1537585673,
+    "wof:lastmodified":1564148662,
     "wof:name":"Jelah",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

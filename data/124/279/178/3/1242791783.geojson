@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:ceb_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:fra_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:hrv_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:slv_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0458\u0435\u043b\u043e \u0411\u0440\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bijelo Brdo"
+    ],
     "name:und_x_variant":[
         "Bijela Voda",
         "Bijelo Brdo"
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1242791783,
-    "wof:lastmodified":1537585655,
+    "wof:lastmodified":1564148538,
     "wof:name":"Bijelo Brdo",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

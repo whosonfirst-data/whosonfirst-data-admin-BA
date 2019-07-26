@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rajski Do"
+    ],
+    "name:fra_x_preferred":[
+        "Rajski Do"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0458\u0441\u043a\u0438 \u0414\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1344060123,
-    "wof:lastmodified":1537486836,
+    "wof:lastmodified":1564145655,
     "wof:name":"Rajski Do",
     "wof:parent_id":1108759269,
     "wof:placetype":"locality",

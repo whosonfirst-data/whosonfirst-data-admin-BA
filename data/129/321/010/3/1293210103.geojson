@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Struge"
+    ],
+    "name:ceb_x_preferred":[
+        "Struge"
+    ],
+    "name:fra_x_preferred":[
+        "Struge"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u0433\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Struge"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1293210103,
-    "wof:lastmodified":1537486721,
+    "wof:lastmodified":1564146459,
     "wof:name":"Struge",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

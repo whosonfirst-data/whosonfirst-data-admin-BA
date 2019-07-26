@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brnji\u010dani"
+    ],
+    "name:ceb_x_preferred":[
+        "Brni\u010dani"
+    ],
+    "name:fra_x_preferred":[
+        "Brnji\u010dani"
+    ],
+    "name:hrv_x_preferred":[
+        "Brnji\u010dani"
+    ],
+    "name:swe_x_preferred":[
+        "Brni\u010dani"
+    ],
     "name:und_x_variant":[
         "Brnji\u010dani",
         "Brni\u010dani"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1326734437,
-    "wof:lastmodified":1537585622,
+    "wof:lastmodified":1564145205,
     "wof:name":"Brnicani",
     "wof:parent_id":1108759243,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0646\u064a\u064a \u0634\u0627\u0632\u0627\u0646\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Donji \u010ca\u017eanj"
+    ],
+    "name:fra_x_preferred":[
+        "Donji \u010ca\u017eanj"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji \u010ca\u017eanj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u0427\u0430\u0436\u0430\u045a"
+    ],
     "name:und_x_variant":[
         "Donji \u010ca\u017eanj"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1242791751,
-    "wof:lastmodified":1537585675,
+    "wof:lastmodified":1564148529,
     "wof:name":"Donji Cazanj",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

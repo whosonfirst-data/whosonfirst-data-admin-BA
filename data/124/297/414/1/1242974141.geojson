@@ -25,6 +25,33 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ljuba\u010devo"
+    ],
+    "name:ceb_x_preferred":[
+        "Ljuba\u010devo"
+    ],
+    "name:deu_x_preferred":[
+        "Ljuba\u010devo"
+    ],
+    "name:fra_x_preferred":[
+        "Ljuba\u010devo"
+    ],
+    "name:hrv_x_preferred":[
+        "Ljuba\u010devo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Ljuba\u010devo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0443\u0431\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Ljuba\u010devo"
+    ],
     "name:und_x_variant":[
         "Ljuba\u010devo"
     ],
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1242974141,
-    "wof:lastmodified":1537585585,
+    "wof:lastmodified":1564148589,
     "wof:name":"Ljubacevo",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

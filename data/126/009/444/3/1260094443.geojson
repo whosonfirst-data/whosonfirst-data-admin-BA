@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brezik"
+    ],
+    "name:ceb_x_preferred":[
+        "Brezik"
+    ],
+    "name:fra_x_preferred":[
+        "Brezik"
+    ],
+    "name:hrv_x_preferred":[
+        "Brezik"
+    ],
+    "name:swe_x_preferred":[
+        "Brezik"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1260094443,
-    "wof:lastmodified":1537486813,
+    "wof:lastmodified":1564147441,
     "wof:name":"Brezik",
     "wof:parent_id":1108759243,
     "wof:placetype":"locality",

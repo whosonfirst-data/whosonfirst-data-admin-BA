@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Skela"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03ad\u03bb\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Skela"
+    ],
+    "name:msa_x_preferred":[
+        "Skela"
+    ],
+    "name:por_x_preferred":[
+        "Skela"
+    ],
+    "name:slv_x_preferred":[
+        "Skela"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u0435\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1293310465,
-    "wof:lastmodified":1537040537,
+    "wof:lastmodified":1564146031,
     "wof:name":"Skela",
     "wof:parent_id":1108759115,
     "wof:placetype":"locality",

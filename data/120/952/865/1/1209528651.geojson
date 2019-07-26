@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Platice"
+    ],
+    "name:fra_x_preferred":[
+        "Platice"
+    ],
+    "name:hrv_x_preferred":[
+        "Platice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0430\u0442\u0438\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Donja Platica",
         "Platice"
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209528651,
-    "wof:lastmodified":1537585634,
+    "wof:lastmodified":1564146994,
     "wof:name":"Platice",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

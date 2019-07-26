@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160tivor"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160tivor"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160tivor"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160tivor"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0442\u0438\u0432\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160tivor"
+    ],
     "name:und_x_variant":[
         "\u0160tivor"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1326833345,
-    "wof:lastmodified":1537585559,
+    "wof:lastmodified":1564145454,
     "wof:name":"Stivor",
     "wof:parent_id":1108759209,
     "wof:placetype":"locality",

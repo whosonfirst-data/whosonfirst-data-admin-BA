@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010cemernica"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cemernica"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010cemernica"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cemernica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u043c\u0435\u0440\u043d\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Durdi\u0107i",
         "\u010cemernica"
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1209432651,
-    "wof:lastmodified":1537585631,
+    "wof:lastmodified":1564147269,
     "wof:name":"Cemernica",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

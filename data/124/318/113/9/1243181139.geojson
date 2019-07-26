@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Go\u0111evi\u0107i"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0434\u0436\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Go\u0111evi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Go\u0111evi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0452\u0435\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Donji Go\u0111evi\u0107i",
         "Go\u0111evi\u0107",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243181139,
-    "wof:lastmodified":1537585605,
+    "wof:lastmodified":1564148628,
     "wof:name":"Godevici",
     "wof:parent_id":1108759241,
     "wof:placetype":"locality",

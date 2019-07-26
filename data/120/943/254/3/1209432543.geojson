@@ -25,6 +25,42 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:ceb_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:deu_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:fra_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:ita_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:nld_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:pol_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:ron_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0430\u0439\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0430\u0458\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kostajnica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +70,7 @@
         "gn:id":3344319
     },
     "wof:country":"BA",
-    "wof:geomhash":"0693b919390ecf682d1e4d68b3433c25",
+    "wof:geomhash":"79e8f0e60ff9fe8fad30002daa26b69b",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +78,7 @@
         }
     ],
     "wof:id":1209432543,
-    "wof:lastmodified":1536287197,
+    "wof:lastmodified":1564147268,
     "wof:name":"Kostajnica",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +88,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.809070000000006,
+    17.80907000000001,
     43.71664000000001,
-    17.809070000000006,
+    17.80907000000001,
     43.71664000000001
 ],
   "geometry": {"coordinates":[17.80907000000001,43.71664000000001],"type":"Point"}

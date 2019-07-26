@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ra\u0161kovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Ra\u0161kovci"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u0161kovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Ra\u0161kovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0448\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ra\u0161kovci"
+    ],
     "name:und_x_variant":[
         "Ra\u0161kovci"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1293602171,
-    "wof:lastmodified":1537585663,
+    "wof:lastmodified":1564146283,
     "wof:name":"Raskovci",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

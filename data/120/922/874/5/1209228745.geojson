@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mr\u0111ebare"
+    ],
+    "name:fra_x_preferred":[
+        "Mr\u0111ebare"
+    ],
+    "name:hrv_x_preferred":[
+        "Mr\u0111ebare"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0440\u0452\u0435\u0431\u0430\u0440\u0435"
+    ],
     "name:und_x_variant":[
         "Mr\u0111ebare"
     ],
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209228745,
-    "wof:lastmodified":1537585579,
+    "wof:lastmodified":1564147076,
     "wof:name":"Mrdebare",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Vraca"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Vraca"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Vraca"
+    ],
     "name:und_x_variant":[
         "Vra\u010da",
         "Donja Vraca"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1242795373,
-    "wof:lastmodified":1537585612,
+    "wof:lastmodified":1564148530,
     "wof:name":"Donja Vraca",
     "wof:parent_id":1108759297,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Stani\u0161evac"
+    ],
+    "name:fra_x_preferred":[
+        "Stani\u0161evac"
+    ],
+    "name:hrv_x_preferred":[
+        "Stani\u0161evac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0438\u0448\u0435\u0432\u0430\u0446"
+    ],
     "name:und_x_variant":[
         "Stani\u0161evac"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1259496137,
-    "wof:lastmodified":1537585559,
+    "wof:lastmodified":1564148841,
     "wof:name":"Stanisevac",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

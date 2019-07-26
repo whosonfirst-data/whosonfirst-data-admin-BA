@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Velika \u017duljevica"
+    ],
+    "name:ceb_x_preferred":[
+        "Velika \u017duljevica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0627 \u0698\u0648\u0644\u06cc\u0626\u0648\u06cc\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Velika \u017duljevica"
+    ],
+    "name:hrv_x_preferred":[
+        "Velika \u017duljevica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0416\u0443\u0459\u0435\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Velika \u017duljevica"
+    ],
     "name:und_x_variant":[
         "Velika \u017duljevica"
     ],
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1209317739,
-    "wof:lastmodified":1537585554,
+    "wof:lastmodified":1564146893,
     "wof:name":"Velika Zuljevica",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

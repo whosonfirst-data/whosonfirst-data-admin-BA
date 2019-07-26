@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sebinje"
+    ],
+    "name:fra_x_preferred":[
+        "Sebinje"
+    ],
+    "name:hrv_x_preferred":[
+        "Sebinje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0431\u0438\u045a\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1310219123,
-    "wof:lastmodified":1537486727,
+    "wof:lastmodified":1564147842,
     "wof:name":"Sebinje",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

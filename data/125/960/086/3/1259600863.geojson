@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zabus"
+    ],
+    "name:fra_x_preferred":[
+        "Zabus"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0628\u0633"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259600863,
-    "wof:lastmodified":1537486845,
+    "wof:lastmodified":1564148902,
     "wof:name":"Zabus",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

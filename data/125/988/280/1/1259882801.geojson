@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kra\u010dule"
+    ],
+    "name:fra_x_preferred":[
+        "Kra\u010dule"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0447\u0443\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Kra\u010dule"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259882801,
-    "wof:lastmodified":1537585589,
+    "wof:lastmodified":1564148955,
     "wof:name":"Kracule",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

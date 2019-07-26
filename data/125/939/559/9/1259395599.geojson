@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Beleni"
+    ],
+    "name:fra_x_preferred":[
+        "Beleni"
+    ],
+    "name:hrv_x_preferred":[
+        "Beleni"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1259395599,
-    "wof:lastmodified":1537486800,
+    "wof:lastmodified":1564148732,
     "wof:name":"Beleni",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

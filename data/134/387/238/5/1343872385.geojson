@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Dzanani"
+    ],
+    "name:est_x_preferred":[
+        "Dzanani"
+    ],
+    "name:nso_x_preferred":[
+        "Dzanani"
+    ],
+    "name:ven_x_preferred":[
+        "Dzanani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343872385,
-    "wof:lastmodified":1536649022,
+    "wof:lastmodified":1564145974,
     "wof:name":"Dzanani",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

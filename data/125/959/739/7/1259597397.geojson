@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010custo Brdo"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010custo Brdo"
+    ],
+    "name:fra_x_preferred":[
+        "\u010custo Brdo"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010custo Brdo"
+    ],
+    "name:swe_x_preferred":[
+        "\u010custo Brdo"
+    ],
     "name:und_x_variant":[
         "\u010custo Brdo"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1259597397,
-    "wof:lastmodified":1537585664,
+    "wof:lastmodified":1564148868,
     "wof:name":"Custo Brdo",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

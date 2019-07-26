@@ -34,11 +34,140 @@
     "mps:longitude":18.156627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0633\u0648\u0643\u0648"
+    ],
+    "name:bos_x_preferred":[
+        "Visoko"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Visoko"
+    ],
+    "name:ceb_x_preferred":[
+        "Visoko"
+    ],
+    "name:ces_x_preferred":[
+        "Visoko"
+    ],
+    "name:dan_x_preferred":[
+        "Visoko"
+    ],
+    "name:deu_x_preferred":[
+        "Visoko"
+    ],
     "name:eng_x_preferred":[
         "Visoko"
     ],
+    "name:epo_x_preferred":[
+        "Visoko"
+    ],
+    "name:est_x_preferred":[
+        "Visoko"
+    ],
+    "name:eus_x_preferred":[
+        "Visoko"
+    ],
+    "name:fin_x_preferred":[
+        "Visoko"
+    ],
+    "name:fra_x_preferred":[
+        "Visoko"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e1\u05d5\u05e7\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Visoko"
+    ],
+    "name:hun_x_preferred":[
+        "Visoko"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u057d\u0578\u056f\u0578"
+    ],
+    "name:ido_x_preferred":[
+        "Visoko"
+    ],
+    "name:ind_x_preferred":[
+        "Visoko"
+    ],
+    "name:ita_x_preferred":[
+        "Visoko"
+    ],
+    "name:jav_x_preferred":[
+        "Visoko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30bd\u30b3"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc18c\ucf54"
+    ],
+    "name:lit_x_preferred":[
+        "Visokas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Visoko"
+    ],
+    "name:nld_x_preferred":[
+        "Visoko"
+    ],
+    "name:nor_x_preferred":[
+        "Visoko"
+    ],
+    "name:pol_x_preferred":[
+        "Visoko"
+    ],
+    "name:por_x_preferred":[
+        "Visoko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Visoko"
+    ],
+    "name:slk_x_preferred":[
+        "Visoko"
+    ],
+    "name:slv_x_preferred":[
+        "Visoko"
+    ],
+    "name:spa_x_preferred":[
+        "Visoko"
+    ],
+    "name:sqi_x_preferred":[
+        "Visoko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Visoko"
+    ],
+    "name:tur_x_preferred":[
+        "Visoko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Visoko"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0633\u0648\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Visoko"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u7d22\u79d1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -75,7 +204,7 @@
         }
     ],
     "wof:id":1108759285,
-    "wof:lastmodified":1553718712,
+    "wof:lastmodified":1564147615,
     "wof:name":"Visoko",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

@@ -25,6 +25,54 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Vrelo Bosne"
+    ],
+    "name:bos_x_preferred":[
+        "Vrelo Bosne"
+    ],
+    "name:ceb_x_preferred":[
+        "Vrelo Bosne"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrelo Bosne"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0580\u0565\u056c\u0578 \u0532\u0578\u057d\u0576\u0565"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30ec\u30ed\u30fb\u30dc\u30b9\u30cd"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub810\ub85c\ubcf4\uc2a4\ub124"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0440\u0443\u0442\u043e\u043a \u043d\u0430 \u0411\u043e\u0441\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Vrelo Bosne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0435\u043b\u043e-\u0411\u043e\u0441\u043d\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Izvir Bosne"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0435\u043b\u043e \u0411\u043e\u0441\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vrelo Bosne"
+    ],
+    "name:tur_x_preferred":[
+        "Vrelo Bosne"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0435\u043b\u043e-\u0411\u043e\u0441\u043d\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u58eb\u5c3c\u4e9e\u4e4b\u6cc9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +96,7 @@
         }
     ],
     "wof:id":1259883923,
-    "wof:lastmodified":1536778986,
+    "wof:lastmodified":1564148963,
     "wof:name":"Vrelo Bosne",
     "wof:parent_id":1108759105,
     "wof:placetype":"locality",

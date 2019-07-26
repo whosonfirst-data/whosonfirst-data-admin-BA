@@ -25,8 +25,38 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Krupa na Vrbasu"
+    ],
+    "name:ceb_x_preferred":[
+        "Krupa na Vrbasu"
+    ],
+    "name:deu_x_preferred":[
+        "Krupa na Vrbasu"
+    ],
+    "name:fra_x_preferred":[
+        "Krupa na Vrbasu"
+    ],
+    "name:hrv_x_preferred":[
+        "Krupa na Vrbasu"
+    ],
+    "name:lit_x_preferred":[
+        "Krupa prie Vrbaso"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u043f\u0430-\u041d\u0430-\u0412\u0440\u0431\u0430\u0441\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0443\u043f\u0430-\u043d\u0430-\u0412\u0440\u0431\u0430\u0441\u0443"
+    ],
+    "name:slv_x_preferred":[
+        "Krupa na Vrbasu"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0443\u043f\u0430 \u043d\u0430 \u0412\u0440\u0431\u0430\u0441\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Krupa na Vrbasu"
     ],
     "name:und_x_variant":[
         "Krupa",
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1276776509,
-    "wof:lastmodified":1537585588,
+    "wof:lastmodified":1564146806,
     "wof:name":"Krupa na Vrbasu",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

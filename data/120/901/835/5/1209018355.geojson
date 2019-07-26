@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podcitonja"
+    ],
+    "name:ceb_x_preferred":[
+        "Podcitonja"
+    ],
+    "name:fra_x_preferred":[
+        "Podcitonja"
+    ],
+    "name:hrv_x_preferred":[
+        "Podcitonja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0446\u0438\u0442\u043e\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Podcitonja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209018355,
-    "wof:lastmodified":1537486856,
+    "wof:lastmodified":1564146947,
     "wof:name":"Podcitonja",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kadi\u0107a Brdo"
+    ],
+    "name:fra_x_preferred":[
+        "Kadi\u0107a Brdo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0434\u0438\u045b\u0430 \u0411\u0440\u0434\u043e"
+    ],
     "name:und_x_variant":[
         "Kadi\u0107a Brdo"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310014457,
-    "wof:lastmodified":1537585661,
+    "wof:lastmodified":1564147772,
     "wof:name":"Kadica Brdo",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

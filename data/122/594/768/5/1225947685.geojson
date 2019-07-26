@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Suho Polje"
+    ],
+    "name:ceb_x_preferred":[
+        "Suvo Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Suho Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Suho Polje"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0445\u043e-\u041f\u043e\u043b\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Suho Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0432\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Suvo Polje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1225947685,
-    "wof:lastmodified":1537486720,
+    "wof:lastmodified":1564148983,
     "wof:name":"Suho Polje",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

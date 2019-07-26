@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bioci"
+    ],
+    "name:fra_x_preferred":[
+        "Bioci"
+    ],
+    "name:ita_x_preferred":[
+        "Bioci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043e\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Bioci",
         "Bijoci"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1260089237,
-    "wof:lastmodified":1537585627,
+    "wof:lastmodified":1564147462,
     "wof:name":"Bijoci",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zagorac"
+    ],
+    "name:fra_x_preferred":[
+        "Zagorac"
+    ],
+    "name:hrv_x_preferred":[
+        "Zagorac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0430\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0430\u0446"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06af\u0648\u0631\u06a9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1327244639,
-    "wof:lastmodified":1537486868,
+    "wof:lastmodified":1564145297,
     "wof:name":"Zagorac",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

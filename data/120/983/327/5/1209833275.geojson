@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pavice"
+    ],
+    "name:ceb_x_preferred":[
+        "Pavice"
+    ],
+    "name:fra_x_preferred":[
+        "Pavice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Pavice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209833275,
-    "wof:lastmodified":1537486740,
+    "wof:lastmodified":1564147004,
     "wof:name":"Pavice",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Radmani\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Radmani\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Radmani\u0107i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u043c\u0430\u043d\u0438\u0447\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Radmani\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u043c\u0430\u043d\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Radmani\u0107i"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1293896285,
-    "wof:lastmodified":1537585568,
+    "wof:lastmodified":1564146399,
     "wof:name":"Radmanici",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

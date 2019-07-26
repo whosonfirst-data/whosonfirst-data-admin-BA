@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rotilj"
+    ],
+    "name:ceb_x_preferred":[
+        "Rotilj"
+    ],
+    "name:fra_x_preferred":[
+        "Rotilj"
+    ],
+    "name:hrv_x_preferred":[
+        "Rotilj"
+    ],
+    "name:swe_x_preferred":[
+        "Rotilj"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1276999423,
-    "wof:lastmodified":1537486863,
+    "wof:lastmodified":1564146865,
     "wof:name":"Rotilj",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

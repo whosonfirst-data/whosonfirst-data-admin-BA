@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jablan"
+    ],
+    "name:ceb_x_preferred":[
+        "Jablan"
+    ],
+    "name:fra_x_preferred":[
+        "Jablan"
+    ],
+    "name:hrv_x_preferred":[
+        "Jablan"
+    ],
+    "name:hun_x_preferred":[
+        "Jablan"
+    ],
+    "name:slv_x_preferred":[
+        "Jablan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0431\u043b\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Jablan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1277083991,
-    "wof:lastmodified":1536766129,
+    "wof:lastmodified":1564146476,
     "wof:name":"Jablan",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

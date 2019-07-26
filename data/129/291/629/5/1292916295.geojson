@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kaliman"
+    ],
+    "name:fra_x_preferred":[
+        "Kaliman"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ea\u30de\u30f3"
+    ],
     "name:und_x_variant":[
         "Lalovina",
         "Kaliman"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1292916295,
-    "wof:lastmodified":1537585635,
+    "wof:lastmodified":1564146309,
     "wof:name":"Kaliman",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

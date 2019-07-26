@@ -25,6 +25,9 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cos_x_preferred":[
+        "Tomasi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259687059,
-    "wof:lastmodified":1537059240,
+    "wof:lastmodified":1564148861,
     "wof:name":"Tomasi",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

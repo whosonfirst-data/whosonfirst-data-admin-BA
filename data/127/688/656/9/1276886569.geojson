@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010cavarine"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cavarine"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u0432\u0430\u0440\u0438\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "\u0106avarine"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276886569,
-    "wof:lastmodified":1537585656,
+    "wof:lastmodified":1564146519,
     "wof:name":"Cavarine",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

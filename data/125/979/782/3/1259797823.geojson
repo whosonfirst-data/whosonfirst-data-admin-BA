@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Gradac"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Gradac"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Gradac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0413\u0440\u0430\u0434\u0430\u0446"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259797823,
-    "wof:lastmodified":1536902567,
+    "wof:lastmodified":1564148798,
     "wof:name":"Gornji Gradac",
     "wof:parent_id":1108759231,
     "wof:placetype":"locality",

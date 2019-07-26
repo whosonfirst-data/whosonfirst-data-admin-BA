@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u064a\u062f\u0646\u064a\u064a \u0628\u0648\u0634\u064a\u0641\u064a\u062a\u0634"
+    ],
+    "name:bos_x_preferred":[
+        "Srednji Bu\u0161evi\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Srednji Bu\u0161evi\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0435\u0434\u045a\u0438 \u0411\u0443\u0448\u0435\u0432\u0438\u045b"
+    ],
     "name:und_x_variant":[
         "Srednji Bu\u0161evi\u0107"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242586319,
-    "wof:lastmodified":1537585560,
+    "wof:lastmodified":1564148429,
     "wof:name":"Srednji Busevic",
     "wof:parent_id":1108759007,
     "wof:placetype":"locality",

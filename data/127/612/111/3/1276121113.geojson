@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zidine"
+    ],
+    "name:fra_x_preferred":[
+        "Zidine"
+    ],
+    "name:hrv_x_preferred":[
+        "Zidine"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0438\u0434\u0438\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276121113,
-    "wof:lastmodified":1537060261,
+    "wof:lastmodified":1564146777,
     "wof:name":"Zidine",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Tuhobi\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Tuhobi\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0445\u043e\u0431\u0438\u045b"
+    ],
     "name:und_x_variant":[
         "Tuhobi\u0107"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276875781,
-    "wof:lastmodified":1537585667,
+    "wof:lastmodified":1564146592,
     "wof:name":"Tuhobic",
     "wof:parent_id":1108759125,
     "wof:placetype":"locality",

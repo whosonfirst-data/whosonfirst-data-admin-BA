@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Blju\u0161tevac"
+    ],
+    "name:ceb_x_preferred":[
+        "Blju\u0161tevac"
+    ],
+    "name:fra_x_preferred":[
+        "Blju\u0161tevac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0459\u0443\u0448\u0442\u0435\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Blju\u0161tevac"
+    ],
     "name:und_x_variant":[
         "Bljustavac",
         "Blju\u0161tevac"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1344160043,
-    "wof:lastmodified":1537585636,
+    "wof:lastmodified":1564145906,
     "wof:name":"Bljustevac",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

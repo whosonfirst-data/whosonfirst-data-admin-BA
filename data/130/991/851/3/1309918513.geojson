@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "So\u010dkovac"
+    ],
+    "name:ceb_x_preferred":[
+        "So\u010dkovac"
+    ],
+    "name:fra_x_preferred":[
+        "So\u010dkovac"
+    ],
+    "name:hrv_x_preferred":[
+        "So\u010dkovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u0447\u043a\u043e\u0432\u0430\u0446"
+    ],
     "name:und_x_variant":[
         "So\u010dkovac"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309918513,
-    "wof:lastmodified":1537585561,
+    "wof:lastmodified":1564148093,
     "wof:name":"Sockovac",
     "wof:parent_id":1108759091,
     "wof:placetype":"locality",

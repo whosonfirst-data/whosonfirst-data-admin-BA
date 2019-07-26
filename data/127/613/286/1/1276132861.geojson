@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kazaginac"
+    ],
+    "name:ceb_x_preferred":[
+        "Kazaginac"
+    ],
+    "name:fra_x_preferred":[
+        "Kazaginac"
+    ],
+    "name:hrv_x_preferred":[
+        "Kazaginac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0433\u0438\u043d\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Kazaginac"
+    ],
     "name:und_x_variant":[
         "Kazaginec",
         "Kazaginac"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1276132861,
-    "wof:lastmodified":1537585592,
+    "wof:lastmodified":1564146699,
     "wof:name":"Kazaginac",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

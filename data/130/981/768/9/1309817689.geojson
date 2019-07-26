@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gare\u017e"
+    ],
+    "name:fra_x_preferred":[
+        "Gare\u017e"
+    ],
     "name:und_x_variant":[
         "Gare\u017e"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1309817689,
-    "wof:lastmodified":1537585667,
+    "wof:lastmodified":1564148177,
     "wof:name":"Garez",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

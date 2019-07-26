@@ -25,9 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Turmenti"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0645\u0646\u062a\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Turmenti"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0440\u043c\u0435\u043d\u0442\u0438"
+    ],
     "name:und_x_variant":[
         "Turmente",
         "Turmenti"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u0645\u06cc\u0646\u062a\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1209528449,
-    "wof:lastmodified":1537585555,
+    "wof:lastmodified":1564146978,
     "wof:name":"Turmenti",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

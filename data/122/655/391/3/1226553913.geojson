@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bukova Gora"
+    ],
+    "name:ceb_x_preferred":[
+        "Bukova Gora"
+    ],
+    "name:fra_x_preferred":[
+        "Bukova Gora"
+    ],
+    "name:hrv_x_preferred":[
+        "Bukova Gora"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bukova Gora"
+    ],
     "name:und_x_variant":[
         "Bukova",
         "Bukova Gora"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1226553913,
-    "wof:lastmodified":1537585621,
+    "wof:lastmodified":1564149288,
     "wof:name":"Bukova Gora",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

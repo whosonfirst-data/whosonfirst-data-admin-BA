@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Petri\u0107evac"
+    ],
+    "name:pol_x_preferred":[
+        "Petri\u0107evac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u045b\u0435\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Petri\u0107evac"
+    ],
     "name:und_x_variant":[
         "Petri\u010devac"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1309918795,
-    "wof:lastmodified":1537585574,
+    "wof:lastmodified":1564148100,
     "wof:name":"Petricevac",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

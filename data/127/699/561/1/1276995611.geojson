@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Banloz"
+    ],
+    "name:fra_x_preferred":[
+        "Banloz"
+    ],
+    "name:hrv_x_preferred":[
+        "Banloz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276995611,
-    "wof:lastmodified":1536885354,
+    "wof:lastmodified":1564146847,
     "wof:name":"Banloz",
     "wof:parent_id":1108759297,
     "wof:placetype":"locality",

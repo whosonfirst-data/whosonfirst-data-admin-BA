@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kostre\u0161a"
+    ],
+    "name:fra_x_preferred":[
+        "Kostre\u0161a"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0440\u0435\u0448\u0430"
+    ],
     "name:und_x_variant":[
         "Kostre\u0161a"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1326938945,
-    "wof:lastmodified":1537585637,
+    "wof:lastmodified":1564145236,
     "wof:name":"Kostresa",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

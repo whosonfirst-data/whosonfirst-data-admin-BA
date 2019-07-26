@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brnjica"
+    ],
+    "name:fra_x_preferred":[
+        "Brnjica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u045a\u0438\u0446\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209109291,
-    "wof:lastmodified":1537486793,
+    "wof:lastmodified":1564147261,
     "wof:name":"Brnjica",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

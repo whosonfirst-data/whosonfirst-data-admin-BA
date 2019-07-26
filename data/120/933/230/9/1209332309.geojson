@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podmila\u010dje"
+    ],
+    "name:ceb_x_preferred":[
+        "Podmila\u010dje"
+    ],
+    "name:fra_x_preferred":[
+        "Podmila\u010dje"
+    ],
+    "name:hrv_x_preferred":[
+        "Podmila\u010dje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u043c\u0438\u043b\u0430\u0447\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Podmila\u010dje"
+    ],
     "name:und_x_variant":[
         "Podmila\u010dje"
     ],
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1209332309,
-    "wof:lastmodified":1537585659,
+    "wof:lastmodified":1564147196,
     "wof:name":"Podmilacje",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

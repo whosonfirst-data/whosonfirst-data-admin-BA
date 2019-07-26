@@ -26,6 +26,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Slavi\u0107ka"
+    ],
+    "name:ceb_x_preferred":[
+        "Slavi\u0107ka"
+    ],
+    "name:fra_x_preferred":[
+        "Slavi\u0107ka"
+    ],
+    "name:hrv_x_preferred":[
+        "Slavi\u0107ka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0438\u0447\u043a\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Slavi\u0107ka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0438\u045b\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Slavi\u0107ka"
+    ],
     "name:und_x_variant":[
         "Slavi\u0107i"
     ],
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1193278889,
-    "wof:lastmodified":1537585562,
+    "wof:lastmodified":1564147422,
     "wof:name":"Slavicka",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

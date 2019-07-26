@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160iljkovi\u0107i"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0438\u043b\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160iljkovi\u0107i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043b\u044c\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0438\u0459\u043a\u043e\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "\u0160iljkovi\u0107i"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209828371,
-    "wof:lastmodified":1537585672,
+    "wof:lastmodified":1564147069,
     "wof:name":"Siljkovici",
     "wof:parent_id":1108759289,
     "wof:placetype":"locality",

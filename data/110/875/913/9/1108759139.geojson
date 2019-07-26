@@ -34,8 +34,44 @@
     "mps:longitude":16.563725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:ceb_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:deu_x_preferred":[
+        "Kostajnica"
+    ],
     "name:eng_x_preferred":[
         "Bosanski Novi"
+    ],
+    "name:fra_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:ita_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:nld_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:pol_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:ron_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0430\u0439\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0430\u0458\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kostajnica"
     ],
     "name:und_x_variant":[
         "Kostajnica"
@@ -75,7 +111,7 @@
         }
     ],
     "wof:id":1108759139,
-    "wof:lastmodified":1553718708,
+    "wof:lastmodified":1564147581,
     "wof:name":"Kostajnica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Skipovac Gornji"
+    ],
+    "name:fra_x_preferred":[
+        "Skipovac Gornji"
+    ],
+    "name:hrv_x_preferred":[
+        "Skipovac Gornji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u0438\u043f\u043e\u0432\u0430\u0446 \u0413\u043e\u0440\u045a\u0438"
+    ],
     "name:und_x_variant":[
         "Skipovac",
         "Skipovac Gornji"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293402691,
-    "wof:lastmodified":1537585643,
+    "wof:lastmodified":1564146190,
     "wof:name":"Skipovac Gornji",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

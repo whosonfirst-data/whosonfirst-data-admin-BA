@@ -25,6 +25,39 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Obrovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Obrovac"
+    ],
+    "name:deu_x_preferred":[
+        "Obrovac"
+    ],
+    "name:fra_x_preferred":[
+        "Obrovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Obrovac"
+    ],
+    "name:hun_x_preferred":[
+        "Obrovac"
+    ],
+    "name:ita_x_preferred":[
+        "Obrovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Obrovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0431\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Obrovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1226552785,
-    "wof:lastmodified":1536987035,
+    "wof:lastmodified":1564149300,
     "wof:name":"Obrovac",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

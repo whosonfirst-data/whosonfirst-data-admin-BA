@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Be\u0161pelj"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornji Be\u0161pelj"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Be\u0161pelj"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Be\u0161pelj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0411\u0435\u0448\u043f\u0435\u0459"
+    ],
+    "name:swe_x_preferred":[
+        "Gornji Be\u0161pelj"
+    ],
     "name:und_x_variant":[
         "Gornji Be\u0161pelj"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276990709,
-    "wof:lastmodified":1537585601,
+    "wof:lastmodified":1564146848,
     "wof:name":"Gornji Bespelj",
     "wof:parent_id":1108759115,
     "wof:placetype":"locality",

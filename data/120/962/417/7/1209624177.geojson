@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornje Dubovo"
+    ],
+    "name:fra_x_preferred":[
+        "Gornje Dubovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornje Dubovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0435-\u0414\u0443\u0431\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0414\u0443\u0431\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1209624177,
-    "wof:lastmodified":1537486772,
+    "wof:lastmodified":1564146928,
     "wof:name":"Gornje Dubovo",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

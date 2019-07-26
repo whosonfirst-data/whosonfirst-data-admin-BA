@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "D\u017eakule"
+    ],
+    "name:ceb_x_preferred":[
+        "D\u017eakule"
+    ],
+    "name:fra_x_preferred":[
+        "D\u017eakule"
+    ],
+    "name:hrv_x_preferred":[
+        "D\u017eakule"
+    ],
+    "name:swe_x_preferred":[
+        "D\u017eakule"
+    ],
     "name:und_x_variant":[
         "D\u017eakule"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1259587241,
-    "wof:lastmodified":1537585643,
+    "wof:lastmodified":1564148893,
     "wof:name":"Dzakule",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

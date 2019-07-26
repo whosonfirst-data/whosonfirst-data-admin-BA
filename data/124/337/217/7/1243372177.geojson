@@ -26,6 +26,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vranduk"
+    ],
+    "name:ceb_x_preferred":[
+        "Vranduk"
+    ],
+    "name:fra_x_preferred":[
+        "Vranduk"
+    ],
+    "name:hrv_x_preferred":[
+        "Vranduk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u0434\u0443\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Vranduk"
+    ],
     "name:und_x_variant":[
         "Vrandik",
         "Vranluk"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1243372177,
-    "wof:lastmodified":1537585551,
+    "wof:lastmodified":1564148280,
     "wof:name":"Vranduk",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

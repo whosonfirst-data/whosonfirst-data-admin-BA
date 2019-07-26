@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sr\u0111ani"
+    ],
+    "name:ceb_x_preferred":[
+        "Sr\u0111ani"
+    ],
+    "name:fra_x_preferred":[
+        "Sr\u0111ani"
+    ],
+    "name:hrv_x_preferred":[
+        "Sr\u0111ani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0452\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sr\u0111ani"
+    ],
     "name:und_x_variant":[
         "Sr\u0111ani"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1243472061,
-    "wof:lastmodified":1537585560,
+    "wof:lastmodified":1564148483,
     "wof:name":"Srdani",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

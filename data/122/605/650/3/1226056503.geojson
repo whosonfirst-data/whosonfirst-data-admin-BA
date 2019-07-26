@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kukavice"
+    ],
+    "name:fra_x_preferred":[
+        "Kukavice"
+    ],
+    "name:hrv_x_preferred":[
+        "Kukavice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043a\u0430\u0432\u0438\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Kukavica",
         "Kukavice"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226056503,
-    "wof:lastmodified":1537585587,
+    "wof:lastmodified":1564149107,
     "wof:name":"Kukavice",
     "wof:parent_id":1108759145,
     "wof:placetype":"locality",

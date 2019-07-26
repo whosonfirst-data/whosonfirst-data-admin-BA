@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Tjenti\u0161te"
+    ],
+    "name:ces_x_preferred":[
+        "Tjenti\u0161te"
+    ],
+    "name:fra_x_preferred":[
+        "Tjenti\u0161te"
+    ],
+    "name:hrv_x_preferred":[
+        "Tjenti\u0161te"
+    ],
+    "name:ita_x_preferred":[
+        "Tjenti\u0161te"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0458\u0435\u043d\u0442\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Tjenti\u0161te"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1310418623,
-    "wof:lastmodified":1537585557,
+    "wof:lastmodified":1564147646,
     "wof:name":"Tjentiste",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

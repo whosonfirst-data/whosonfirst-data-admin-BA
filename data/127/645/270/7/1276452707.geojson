@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Otigo\u0161\u0107e"
+    ],
+    "name:ceb_x_preferred":[
+        "Otigo\u0161\u0107e"
+    ],
+    "name:fra_x_preferred":[
+        "Otigo\u0161\u0107e"
+    ],
+    "name:hrv_x_preferred":[
+        "Otigo\u0161\u0107e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0442\u0438\u0433\u043e\u0448\u045b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Otigo\u0161\u0107e"
+    ],
     "name:und_x_variant":[
         "Otigo\u0161\u0107e"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276452707,
-    "wof:lastmodified":1537585576,
+    "wof:lastmodified":1564146567,
     "wof:name":"Otigosce",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

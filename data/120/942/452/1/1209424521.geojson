@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zolje"
+    ],
+    "name:ceb_x_preferred":[
+        "Zolje"
+    ],
+    "name:fra_x_preferred":[
+        "Zolje"
+    ],
+    "name:hrv_x_preferred":[
+        "Zolje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Zolje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209424521,
-    "wof:lastmodified":1537486815,
+    "wof:lastmodified":1564147228,
     "wof:name":"Zolje",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Loma\u010di"
+    ],
+    "name:fra_x_preferred":[
+        "Loma\u010di"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043c\u0430\u0447\u0438"
+    ],
     "name:und_x_variant":[
         "Loma\u010di"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226345429,
-    "wof:lastmodified":1537585667,
+    "wof:lastmodified":1564149089,
     "wof:name":"Lomaci",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

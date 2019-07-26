@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sandi\u0107i"
+    ],
+    "name:cat_x_preferred":[
+        "Sandi\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Sandi\u0107i"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b9\u03c4\u03c3\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Sandi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Sandi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0434\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sandi\u0107i"
+    ],
     "name:und_x_variant":[
         "Sandi\u0107i"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1226079085,
-    "wof:lastmodified":1537585565,
+    "wof:lastmodified":1564149353,
     "wof:name":"Sandici",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

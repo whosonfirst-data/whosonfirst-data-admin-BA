@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ledi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Ledi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0434\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Ledi\u0107i"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343975655,
-    "wof:lastmodified":1537585586,
+    "wof:lastmodified":1564145642,
     "wof:name":"Ledici",
     "wof:parent_id":1108759267,
     "wof:placetype":"locality",

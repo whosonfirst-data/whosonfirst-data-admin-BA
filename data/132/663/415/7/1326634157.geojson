@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0627\u0644\u0648\u0628\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Kralupi"
+    ],
+    "name:ceb_x_preferred":[
+        "Kralupi"
+    ],
+    "name:fra_x_preferred":[
+        "Kralupi"
+    ],
+    "name:hrv_x_preferred":[
+        "Kralupi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u043b\u0443\u043f\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kralupi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1326634157,
-    "wof:lastmodified":1536835939,
+    "wof:lastmodified":1564145486,
     "wof:name":"Kralupi",
     "wof:parent_id":1108759279,
     "wof:placetype":"locality",

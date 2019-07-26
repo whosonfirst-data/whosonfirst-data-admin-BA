@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0631\u062c\u0627\u0631"
+    ],
+    "name:bos_x_preferred":[
+        "Hrgar"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03c1\u03b3\u03ba\u03b1\u03c1"
+    ],
+    "name:fra_x_preferred":[
+        "Hrgar"
+    ],
+    "name:hrv_x_preferred":[
+        "Hrgar"
+    ],
+    "name:slv_x_preferred":[
+        "Hrgar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0433\u0430\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1310618923,
-    "wof:lastmodified":1536753308,
+    "wof:lastmodified":1564147867,
     "wof:name":"Hrgar",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

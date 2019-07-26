@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Porje\u010dina"
+    ],
+    "name:ceb_x_preferred":[
+        "Porje\u010dina"
+    ],
+    "name:fra_x_preferred":[
+        "Porje\u010dina"
+    ],
+    "name:hrv_x_preferred":[
+        "Porje\u010dina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0440\u0458\u0435\u0447\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Porje\u010dina"
+    ],
     "name:und_x_variant":[
         "Porje\u010dani",
         "Porje\u010dina"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1343775117,
-    "wof:lastmodified":1537585571,
+    "wof:lastmodified":1564145721,
     "wof:name":"Porjecina",
     "wof:parent_id":1108759091,
     "wof:placetype":"locality",

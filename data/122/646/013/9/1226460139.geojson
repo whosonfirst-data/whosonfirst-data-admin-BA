@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podstijena"
+    ],
+    "name:ceb_x_preferred":[
+        "Podstijena"
+    ],
+    "name:fra_x_preferred":[
+        "Podstijena"
+    ],
+    "name:swe_x_preferred":[
+        "Podstijena"
+    ],
     "name:und_x_variant":[
         "Bio\u010di\u0107i",
         "Podstijena"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226460139,
-    "wof:lastmodified":1537585572,
+    "wof:lastmodified":1564149282,
     "wof:name":"Podstijena",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

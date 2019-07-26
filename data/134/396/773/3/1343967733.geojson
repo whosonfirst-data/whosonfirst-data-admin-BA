@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hotkovci"
+    ],
+    "name:fra_x_preferred":[
+        "Hotkovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Hotkovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0442\u043a\u043e\u0432\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Potkovci",
         "Hotkovci"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1343967733,
-    "wof:lastmodified":1537585596,
+    "wof:lastmodified":1564145611,
     "wof:name":"Hotkovci",
     "wof:parent_id":1108759081,
     "wof:placetype":"locality",

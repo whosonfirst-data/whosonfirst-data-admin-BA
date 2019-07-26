@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Branilovi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Branilovi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Branilovi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0438\u043b\u043e\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Branilovi\u0107i"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226251483,
-    "wof:lastmodified":1537585623,
+    "wof:lastmodified":1564149220,
     "wof:name":"Branilovici",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

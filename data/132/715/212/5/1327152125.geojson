@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gabela"
+    ],
+    "name:ceb_x_preferred":[
+        "Gabela"
+    ],
+    "name:fra_x_preferred":[
+        "Gabela"
+    ],
+    "name:hrv_x_preferred":[
+        "Gabela"
+    ],
+    "name:ita_x_preferred":[
+        "Gabela"
+    ],
+    "name:lit_x_preferred":[
+        "Gabela"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u0431\u0435\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gabela"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1327152125,
-    "wof:lastmodified":1537486776,
+    "wof:lastmodified":1564145287,
     "wof:name":"Gabela",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

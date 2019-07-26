@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Konjbaba"
+    ],
+    "name:fra_x_preferred":[
+        "Konjbaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293497241,
-    "wof:lastmodified":1537486846,
+    "wof:lastmodified":1564146169,
     "wof:name":"Konjbaba",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

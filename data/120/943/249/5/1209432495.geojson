@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Solakovi\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Solakovi\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Solakovi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Solakovi\u0107i"
+    ],
+    "name:swe_x_preferred":[
+        "Solakovi\u0107"
+    ],
     "name:und_x_variant":[
         "Solakovi\u0107i",
         "Solakovi\u0107"
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1209432495,
-    "wof:lastmodified":1537585560,
+    "wof:lastmodified":1564147267,
     "wof:name":"Solakovic",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

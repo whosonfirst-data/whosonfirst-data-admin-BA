@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Tar\u010din"
+    ],
+    "name:ceb_x_preferred":[
+        "Tar\u010din"
+    ],
+    "name:fra_x_preferred":[
+        "Tar\u010din"
+    ],
+    "name:hrv_x_preferred":[
+        "Tar\u010din"
+    ],
+    "name:swe_x_preferred":[
+        "Tar\u010din"
+    ],
     "name:und_x_variant":[
         "Tar\u010din"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1259501277,
-    "wof:lastmodified":1537585558,
+    "wof:lastmodified":1564148852,
     "wof:name":"Tarcin",
     "wof:parent_id":1108759101,
     "wof:placetype":"locality",

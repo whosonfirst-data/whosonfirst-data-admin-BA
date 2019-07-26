@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rasti\u010devo"
+    ],
+    "name:fra_x_preferred":[
+        "Rasti\u010devo"
+    ],
+    "name:hrv_x_preferred":[
+        "Rasti\u010devo"
+    ],
+    "name:hun_x_preferred":[
+        "Rasti\u010devo"
+    ],
+    "name:slv_x_preferred":[
+        "Rasti\u010devo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0441\u0442\u0438\u0447\u0435\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1243085293,
-    "wof:lastmodified":1536828153,
+    "wof:lastmodified":1564148308,
     "wof:name":"Rasticevo",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Blagovac"
+    ],
+    "name:fra_x_preferred":[
+        "Blagovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Blagovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276887875,
-    "wof:lastmodified":1537486820,
+    "wof:lastmodified":1564146534,
     "wof:name":"Blagovac",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

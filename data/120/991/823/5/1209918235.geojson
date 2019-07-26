@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Stijena"
+    ],
+    "name:ceb_x_preferred":[
+        "Stijena"
+    ],
+    "name:deu_x_preferred":[
+        "Stijena"
+    ],
+    "name:fra_x_preferred":[
+        "Stijena"
+    ],
+    "name:hrv_x_preferred":[
+        "Stijena"
+    ],
+    "name:slv_x_preferred":[
+        "Stijena"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0438\u0458\u0435\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Stijena"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1209918235,
-    "wof:lastmodified":1537486833,
+    "wof:lastmodified":1564146909,
     "wof:name":"Stijena",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

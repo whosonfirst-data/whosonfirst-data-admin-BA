@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Crveni Grm"
+    ],
+    "name:ceb_x_preferred":[
+        "Crveni Grm"
+    ],
+    "name:fra_x_preferred":[
+        "Crveni Grm"
+    ],
+    "name:hrv_x_preferred":[
+        "Crveni Grm"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0440\u0432\u0435\u043d\u0438 \u0413\u0440\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Crveni Grm"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293218351,
-    "wof:lastmodified":1537486787,
+    "wof:lastmodified":1564146451,
     "wof:name":"Crveni Grm",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

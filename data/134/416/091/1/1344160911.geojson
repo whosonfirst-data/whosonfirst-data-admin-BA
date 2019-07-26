@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bi\u0161trani"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornji Bi\u0161trani"
+    ],
+    "name:fra_x_preferred":[
+        "Bi\u0161trani"
+    ],
+    "name:hrv_x_preferred":[
+        "Bi\u0161trani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0448\u0442\u0440\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Gornji Bi\u0161trani"
+    ],
     "name:und_x_variant":[
         "Bi\u0161trani",
         "Gornji Bi\u0161trani"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1344160911,
-    "wof:lastmodified":1537585626,
+    "wof:lastmodified":1564145893,
     "wof:name":"Gornji Bistrani",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

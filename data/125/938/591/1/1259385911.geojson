@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Susje\u0161no"
+    ],
+    "name:ceb_x_preferred":[
+        "Susje\u0161no"
+    ],
+    "name:fra_x_preferred":[
+        "Susje\u0161no"
+    ],
+    "name:hrv_x_preferred":[
+        "Susje\u0161no"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0441\u0458\u0435\u0448\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Susje\u0161no"
+    ],
     "name:und_x_variant":[
         "Susje\u0161no"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1259385911,
-    "wof:lastmodified":1537585668,
+    "wof:lastmodified":1564148703,
     "wof:name":"Susjesno",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010caprazlije"
+    ],
+    "name:fra_x_preferred":[
+        "\u010caprazlije"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010caprazlije"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u043f\u0440\u0430\u0437\u043b\u0438\u0458\u0435"
+    ],
     "name:und_x_variant":[
         "\u010caprazlije"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226660335,
-    "wof:lastmodified":1537585619,
+    "wof:lastmodified":1564149172,
     "wof:name":"Caprazlije",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

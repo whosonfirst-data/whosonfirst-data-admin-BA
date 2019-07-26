@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Imljani"
+    ],
+    "name:ceb_x_preferred":[
+        "Imljani"
+    ],
+    "name:fra_x_preferred":[
+        "Imljani"
+    ],
+    "name:hrv_x_preferred":[
+        "Imljani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u043c\u0459\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Imljani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1242786657,
-    "wof:lastmodified":1537486765,
+    "wof:lastmodified":1564148558,
     "wof:name":"Imljani",
     "wof:parent_id":1108759233,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0634\u064a\u062a\u0634"
+    ],
+    "name:bos_x_preferred":[
+        "Ra\u010di\u0107"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03c4\u03c3\u03b9\u03c4\u03c2"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u010di\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Ra\u010di\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Ra\u010di\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0447\u0438\u045b"
+    ],
     "name:und_x_variant":[
         "Veliki Ra\u010di\u0107",
         "Mali Ra\u010di\u0107",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1360102641,
-    "wof:lastmodified":1537585568,
+    "wof:lastmodified":1564148055,
     "wof:name":"Racic",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

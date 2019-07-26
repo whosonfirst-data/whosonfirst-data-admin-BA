@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160kobalji"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160kobalji"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160kobalji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043a\u043e\u0431\u0430\u0459\u0438"
+    ],
     "name:und_x_variant":[
         "\u0160kobalji",
         "\u0160kobalj",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310314007,
-    "wof:lastmodified":1537585562,
+    "wof:lastmodified":1564147727,
     "wof:name":"Skobalti",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

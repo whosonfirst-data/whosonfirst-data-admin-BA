@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ri\u010dica"
+    ],
+    "name:ceb_x_preferred":[
+        "Ri\u010dica"
+    ],
+    "name:fra_x_preferred":[
+        "Ri\u010dica"
+    ],
+    "name:hrv_x_preferred":[
+        "Ri\u010dica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u0447\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ri\u010dica"
+    ],
     "name:und_x_variant":[
         "Ri\u010dica"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1326847947,
-    "wof:lastmodified":1537585631,
+    "wof:lastmodified":1564145433,
     "wof:name":"Ricica",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

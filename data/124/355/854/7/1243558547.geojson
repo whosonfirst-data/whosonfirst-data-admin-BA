@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bradi\u0107i Donji"
+    ],
+    "name:ceb_x_preferred":[
+        "Bradi\u0107i Donji"
+    ],
+    "name:fra_x_preferred":[
+        "Bradi\u0107i Donji"
+    ],
+    "name:hrv_x_preferred":[
+        "Bradi\u0107i Donji"
+    ],
+    "name:swe_x_preferred":[
+        "Bradi\u0107i Donji"
+    ],
     "name:und_x_variant":[
         "Muslimanski Bradi\u0107i",
         "Bradi\u0107i Muslimanski",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243558547,
-    "wof:lastmodified":1537585624,
+    "wof:lastmodified":1564148330,
     "wof:name":"Bradici Donji",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

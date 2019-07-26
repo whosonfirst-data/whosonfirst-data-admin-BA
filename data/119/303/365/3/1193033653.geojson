@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017daovine"
+    ],
+    "name:fra_x_preferred":[
+        "\u017daovine"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017daovine"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0430\u043e\u0432\u0438\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1193033653,
-    "wof:lastmodified":1537486707,
+    "wof:lastmodified":1564147386,
     "wof:name":"Zaovine",
     "wof:parent_id":1108759117,
     "wof:placetype":"locality",

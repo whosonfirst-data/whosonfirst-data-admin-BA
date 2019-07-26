@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dobro"
+    ],
+    "name:ceb_x_preferred":[
+        "Dobro"
+    ],
+    "name:fra_x_preferred":[
+        "Dobro"
+    ],
+    "name:hrv_x_preferred":[
+        "Dobro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1242888079,
-    "wof:lastmodified":1537486785,
+    "wof:lastmodified":1564148365,
     "wof:name":"Dobro",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

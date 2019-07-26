@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podkozara Gornja"
+    ],
+    "name:fra_x_preferred":[
+        "Podkozara Gornja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u043a\u043e\u0437\u0430\u0440\u0430 \u0413\u043e\u0440\u045a\u0430"
+    ],
     "name:und_x_variant":[
         "Podkozara Gornja",
         "Gornja Podkozara"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243376557,
-    "wof:lastmodified":1537585572,
+    "wof:lastmodified":1564148291,
     "wof:name":"Gornja Podkozara",
     "wof:parent_id":1108759085,
     "wof:placetype":"locality",

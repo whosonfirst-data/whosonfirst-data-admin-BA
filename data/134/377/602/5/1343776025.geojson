@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u06a9\u0648\u0641\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10e3\u10d9\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Vukovo"
+    ],
+    "name:ron_x_preferred":[
+        "Vukovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1343776025,
-    "wof:lastmodified":1536788866,
+    "wof:lastmodified":1564145715,
     "wof:name":"Vukovo",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

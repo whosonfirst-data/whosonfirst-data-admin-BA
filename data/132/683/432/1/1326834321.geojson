@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrilo"
+    ],
+    "name:ceb_x_preferred":[
+        "Vrilo"
+    ],
+    "name:fra_x_preferred":[
+        "Vrilo"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrilo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0438\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Vrilo"
+    ],
     "name:und_x_variant":[
         "Vrelo",
         "Vrilo"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1326834321,
-    "wof:lastmodified":1537585550,
+    "wof:lastmodified":1564145458,
     "wof:name":"Vrilo",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017darkovina"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017darkovina"
+    ],
+    "name:fra_x_preferred":[
+        "\u017darkovina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0430\u0440\u043a\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u017darkovina"
+    ],
     "name:und_x_variant":[
         "\u017darkovina"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293699621,
-    "wof:lastmodified":1537585548,
+    "wof:lastmodified":1564146258,
     "wof:name":"Zarkovina",
     "wof:parent_id":1108759259,
     "wof:placetype":"locality",

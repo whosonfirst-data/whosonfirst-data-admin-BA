@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0627\u0641\u0648\u0632\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Plavuzi"
+    ],
+    "name:fra_x_preferred":[
+        "Plavuzi"
+    ],
+    "name:hrv_x_preferred":[
+        "Plavuzi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0430\u0432\u0443\u0437\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1360194253,
-    "wof:lastmodified":1537486855,
+    "wof:lastmodified":1564148061,
     "wof:name":"Plavuzi",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

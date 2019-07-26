@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Boljkovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Boljkovac"
+    ],
+    "name:fra_x_preferred":[
+        "Boljkovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0459\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Boljkovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1310505531,
-    "wof:lastmodified":1537486796,
+    "wof:lastmodified":1564147892,
     "wof:name":"Boljkovac",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

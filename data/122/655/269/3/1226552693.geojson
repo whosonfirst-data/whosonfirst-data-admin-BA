@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dobrun"
+    ],
+    "name:hrv_x_preferred":[
+        "Dobrun"
+    ],
+    "name:swe_x_preferred":[
+        "Dobrun"
+    ],
+    "name:vie_x_preferred":[
+        "Dobrun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226552693,
-    "wof:lastmodified":1536987168,
+    "wof:lastmodified":1564149294,
     "wof:name":"Dobrun",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

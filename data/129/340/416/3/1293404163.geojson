@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Gradina"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornja Gradina"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Gradina"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornja Gradina"
+    ],
+    "name:slv_x_preferred":[
+        "Gornja Gradina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0413\u0440\u0430\u0434\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gornja Gradina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1293404163,
-    "wof:lastmodified":1536907325,
+    "wof:lastmodified":1564146197,
     "wof:name":"Gornja Gradina",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

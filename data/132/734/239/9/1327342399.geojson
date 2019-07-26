@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Nebogovine"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03bc\u03c0\u03bf\u03b3\u03ba\u03bf\u03b2\u03af\u03bd\u03b5"
+    ],
+    "name:fra_x_preferred":[
+        "Nebogovine"
+    ],
+    "name:hrv_x_preferred":[
+        "Nebogovine"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0431\u043e\u0433\u043e\u0432\u0438\u043d\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0431\u043e\u0433\u043e\u0432\u0438\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1327342399,
-    "wof:lastmodified":1537486867,
+    "wof:lastmodified":1564145353,
     "wof:name":"Nebogovine",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

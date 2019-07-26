@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jehovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Jehovac"
+    ],
+    "name:fra_x_preferred":[
+        "Jehovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Jehovac"
+    ],
+    "name:swe_x_preferred":[
+        "Jehovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1260294587,
-    "wof:lastmodified":1536697149,
+    "wof:lastmodified":1564147511,
     "wof:name":"Jehovac",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

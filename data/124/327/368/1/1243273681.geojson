@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0641\u0644\u064a\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Prevlje"
+    ],
+    "name:fra_x_preferred":[
+        "Prevlje"
+    ],
+    "name:hrv_x_preferred":[
+        "Prevlje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u0432\u0459\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1243273681,
-    "wof:lastmodified":1537486871,
+    "wof:lastmodified":1564148645,
     "wof:name":"Prevlje",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

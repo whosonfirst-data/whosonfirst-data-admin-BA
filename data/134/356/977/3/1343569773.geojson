@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kokori"
+    ],
+    "name:ceb_x_preferred":[
+        "Kokori"
+    ],
+    "name:fra_x_preferred":[
+        "Kokori"
+    ],
+    "name:hrv_x_preferred":[
+        "Kokori"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0440\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343569773,
-    "wof:lastmodified":1537486759,
+    "wof:lastmodified":1564145811,
     "wof:name":"Kokori",
     "wof:parent_id":1108759209,
     "wof:placetype":"locality",

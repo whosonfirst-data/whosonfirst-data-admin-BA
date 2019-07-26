@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Berkovica"
+    ],
+    "name:ceb_x_preferred":[
+        "Berkovica"
+    ],
+    "name:fra_x_preferred":[
+        "Berkovica"
+    ],
+    "name:hrv_x_preferred":[
+        "Berkovica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276246479,
-    "wof:lastmodified":1537486812,
+    "wof:lastmodified":1564146764,
     "wof:name":"Berkovica",
     "wof:parent_id":1108759161,
     "wof:placetype":"locality",

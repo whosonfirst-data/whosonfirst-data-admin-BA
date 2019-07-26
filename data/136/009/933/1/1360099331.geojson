@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0648\u0628\u064a\u0644\u0648\u0641\u064a\u0646\u0627"
+    ],
+    "name:bos_x_preferred":[
+        "Gobelovina"
+    ],
+    "name:fra_x_preferred":[
+        "Gobelovina"
+    ],
+    "name:hrv_x_preferred":[
+        "Gobelovina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0431\u0435\u043b\u043e\u0432\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1360099331,
-    "wof:lastmodified":1537486775,
+    "wof:lastmodified":1564147970,
     "wof:name":"Gobelovina",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

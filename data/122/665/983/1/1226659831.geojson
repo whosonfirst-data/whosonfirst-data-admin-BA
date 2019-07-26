@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrbica"
+    ],
+    "name:fra_x_preferred":[
+        "Vrbica"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrbica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1226659831,
-    "wof:lastmodified":1537486845,
+    "wof:lastmodified":1564149324,
     "wof:name":"Vrbica",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

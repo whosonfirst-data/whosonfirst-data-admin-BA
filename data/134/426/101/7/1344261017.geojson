@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vo\u0111enica"
+    ],
+    "name:ceb_x_preferred":[
+        "Vo\u0111enica"
+    ],
+    "name:fra_x_preferred":[
+        "Vo\u0111enica"
+    ],
+    "name:hrv_x_preferred":[
+        "Vo\u0111enica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0452\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vo\u0111enica"
+    ],
     "name:und_x_variant":[
         "Vodjenica",
         "Vodenica",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1344261017,
-    "wof:lastmodified":1537585551,
+    "wof:lastmodified":1564145865,
     "wof:name":"Vodenica",
     "wof:parent_id":1108759013,
     "wof:placetype":"locality",

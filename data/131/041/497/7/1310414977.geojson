@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Prozor"
+    ],
+    "name:ceb_x_preferred":[
+        "Prozor"
+    ],
+    "name:deu_x_preferred":[
+        "Prozor"
+    ],
+    "name:hun_x_preferred":[
+        "Prozor"
+    ],
+    "name:slv_x_preferred":[
+        "Prozor"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u043e\u0437\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Prozor"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1310414977,
-    "wof:lastmodified":1537045644,
+    "wof:lastmodified":1564147634,
     "wof:name":"Prozor",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

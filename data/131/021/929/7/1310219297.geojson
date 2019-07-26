@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podvrani\u0107"
+    ],
+    "name:ceb_x_preferred":[
+        "Podvrani\u0107 Podkraj"
+    ],
+    "name:fra_x_preferred":[
+        "Podvrani\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Podvrani\u0107"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0440\u0430\u043d\u0438\u045c"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0440\u0430\u043d\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Podvrani\u0107 Podkraj"
+    ],
     "name:und_x_variant":[
         "Podorani\u0107",
         "Podvrani\u0107",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1310219297,
-    "wof:lastmodified":1537585658,
+    "wof:lastmodified":1564147852,
     "wof:name":"Podvranic Podkraj",
     "wof:parent_id":1108759231,
     "wof:placetype":"locality",

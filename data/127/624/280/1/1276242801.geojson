@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Torlakovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Torlakovac"
+    ],
+    "name:fra_x_preferred":[
+        "Torlakovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Torlakovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0440\u043b\u0430\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Torlakovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1276242801,
-    "wof:lastmodified":1537486718,
+    "wof:lastmodified":1564146754,
     "wof:name":"Torlakovac",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

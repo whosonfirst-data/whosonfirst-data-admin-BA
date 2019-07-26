@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Klekovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Klekovci"
+    ],
+    "name:fra_x_preferred":[
+        "Klekovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Klekovci"
+    ],
+    "name:slv_x_preferred":[
+        "Klekovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0435\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Klekovci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1193278719,
-    "wof:lastmodified":1537486760,
+    "wof:lastmodified":1564147427,
     "wof:name":"Klekovci",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

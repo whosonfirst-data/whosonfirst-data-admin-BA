@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Lu\u010dka"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Lu\u010dka"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Lu\u010dka"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Lu\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u041b\u0443\u0447\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Donja Lu\u010dka"
+    ],
     "name:und_x_variant":[
         "Donja Lu\u010dka"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1292917541,
-    "wof:lastmodified":1537585673,
+    "wof:lastmodified":1564146302,
     "wof:name":"Donja Lucka",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

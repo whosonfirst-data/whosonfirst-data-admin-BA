@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Agarovi\u0107i"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03ba\u03b1\u03c1\u03cc\u03b2\u03b9\u03c4\u03c3\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Agarovi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0433\u0430\u0440\u043e\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Agarovi\u0107i"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276451801,
-    "wof:lastmodified":1537585668,
+    "wof:lastmodified":1564146559,
     "wof:name":"Agarovici",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

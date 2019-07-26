@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pjenovac"
+    ],
+    "name:fra_x_preferred":[
+        "Pjenovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0458\u0435\u043d\u043e\u0432\u0430\u0446"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1260293507,
-    "wof:lastmodified":1537486739,
+    "wof:lastmodified":1564147507,
     "wof:name":"Pjenovac",
     "wof:parent_id":1108759103,
     "wof:placetype":"locality",

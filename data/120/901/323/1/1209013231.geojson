@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Paklenica"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Paklenica"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornja Paklenica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0430 \u041f\u0430\u043a\u043b\u0435\u043d\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Paklenica Gornja",
         "Paklenica",
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209013231,
-    "wof:lastmodified":1537585603,
+    "wof:lastmodified":1564146950,
     "wof:name":"Gornja Paklenica",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

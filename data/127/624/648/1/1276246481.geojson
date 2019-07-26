@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Plamenice"
+    ],
+    "name:ceb_x_preferred":[
+        "Plamenice"
+    ],
+    "name:fra_x_preferred":[
+        "Plamenice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0430\u043c\u0435\u043d\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Plamenice"
+    ],
     "name:und_x_variant":[
         "Plamenica",
         "Plamenice"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276246481,
-    "wof:lastmodified":1537585573,
+    "wof:lastmodified":1564146766,
     "wof:name":"Plamenice",
     "wof:parent_id":1108759133,
     "wof:placetype":"locality",

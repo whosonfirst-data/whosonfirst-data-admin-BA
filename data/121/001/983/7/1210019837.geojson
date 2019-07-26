@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Srednja Slatina"
+    ],
+    "name:ceb_x_preferred":[
+        "Srednja Slatina"
+    ],
+    "name:fra_x_preferred":[
+        "Srednja Slatina"
+    ],
+    "name:hrv_x_preferred":[
+        "Srednja Slatina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0435\u0434\u045a\u0430 \u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Srednja Slatina"
+    ],
     "name:und_x_variant":[
         "Slatina Srednja",
         "Srednja Slatina"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1210019837,
-    "wof:lastmodified":1537585560,
+    "wof:lastmodified":1564147305,
     "wof:name":"Srednja Slatina",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",

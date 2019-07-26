@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10da\u10d4\u10dc\u10ea\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Zelenci"
+    ],
+    "name:nno_x_preferred":[
+        "Zelenci"
+    ],
+    "name:sco_x_preferred":[
+        "Zelenci"
+    ],
+    "name:slv_x_preferred":[
+        "Zelenci"
+    ],
+    "name:spa_x_preferred":[
+        "Zelenci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1360187755,
-    "wof:lastmodified":1536797650,
+    "wof:lastmodified":1564148010,
     "wof:name":"Zelenci",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

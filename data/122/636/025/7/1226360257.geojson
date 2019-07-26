@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donje Bare"
+    ],
+    "name:ceb_x_preferred":[
+        "Donje Bare"
+    ],
+    "name:hrv_x_preferred":[
+        "Donje Bare"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0435 \u0411\u0430\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Donje Bare"
+    ],
     "name:und_x_variant":[
         "Bare",
         "Donje Bare"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226360257,
-    "wof:lastmodified":1537585642,
+    "wof:lastmodified":1564149355,
     "wof:name":"Donje Bare",
     "wof:parent_id":1108759093,
     "wof:placetype":"locality",

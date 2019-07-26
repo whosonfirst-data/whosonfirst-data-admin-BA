@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zvijezda"
+    ],
+    "name:fra_x_preferred":[
+        "Zvijezda"
+    ],
+    "name:hrv_x_preferred":[
+        "Zvijezda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0432\u0438\u0458\u0435\u0437\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Zvijezda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343575515,
-    "wof:lastmodified":1537074574,
+    "wof:lastmodified":1564145777,
     "wof:name":"Zvijezda",
     "wof:parent_id":1108759279,
     "wof:placetype":"locality",

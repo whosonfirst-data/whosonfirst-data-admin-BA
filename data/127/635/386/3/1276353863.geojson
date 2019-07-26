@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0628\u0648\u0641\u0633\u0643\u0648"
+    ],
+    "name:bos_x_preferred":[
+        "Dubovsko"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03cd\u03bc\u03c0\u03bf\u03b2\u03c3\u03ba\u03bf"
+    ],
+    "name:fra_x_preferred":[
+        "Dubovsko"
+    ],
+    "name:hrv_x_preferred":[
+        "Dubovsko"
+    ],
+    "name:slv_x_preferred":[
+        "Dubovsko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0432\u0441\u043a\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1276353863,
-    "wof:lastmodified":1537486778,
+    "wof:lastmodified":1564146669,
     "wof:name":"Dubovsko",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

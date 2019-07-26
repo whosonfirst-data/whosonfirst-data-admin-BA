@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kunduci"
+    ],
+    "name:ceb_x_preferred":[
+        "Kunduci"
+    ],
+    "name:fra_x_preferred":[
+        "Kunduci"
+    ],
+    "name:hrv_x_preferred":[
+        "Kunduci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043d\u0434\u0443\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kunduci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1292917773,
-    "wof:lastmodified":1536611672,
+    "wof:lastmodified":1564146315,
     "wof:name":"Kunduci",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

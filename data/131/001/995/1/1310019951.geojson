@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Radaslije"
+    ],
+    "name:ceb_x_preferred":[
+        "Radaslije"
+    ],
+    "name:fra_x_preferred":[
+        "Radaslije"
+    ],
+    "name:hrv_x_preferred":[
+        "Radaslije"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0430\u0441\u043b\u0438\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Radaslije"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1310019951,
-    "wof:lastmodified":1537486732,
+    "wof:lastmodified":1564147768,
     "wof:name":"Radaslije",
     "wof:parent_id":1108759081,
     "wof:placetype":"locality",

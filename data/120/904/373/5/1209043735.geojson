@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gorice"
+    ],
+    "name:ceb_x_preferred":[
+        "Gorice"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03cc\u03c1\u03b9\u03c4\u03c3\u03b5"
+    ],
+    "name:fra_x_preferred":[
+        "Gorice"
+    ],
+    "name:hrv_x_preferred":[
+        "Gorice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209043735,
-    "wof:lastmodified":1537486774,
+    "wof:lastmodified":1564147166,
     "wof:name":"Gorice",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

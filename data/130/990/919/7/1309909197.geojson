@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podkrajeva"
+    ],
+    "name:fra_x_preferred":[
+        "Podkrajeva"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u043a\u0440\u0430\u0458\u0435\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Krajevi",
         "Potkrajeva",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1309909197,
-    "wof:lastmodified":1537585637,
+    "wof:lastmodified":1564148121,
     "wof:name":"Podkrajeva",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

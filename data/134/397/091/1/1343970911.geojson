@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rije\u0107a"
+    ],
+    "name:fra_x_preferred":[
+        "Rije\u0107a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u0458\u0435\u045b\u0430"
+    ],
     "name:und_x_variant":[
         "Rije\u0107a"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343970911,
-    "wof:lastmodified":1537585566,
+    "wof:lastmodified":1564145635,
     "wof:name":"Rijeca",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

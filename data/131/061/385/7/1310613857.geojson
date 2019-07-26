@@ -25,6 +25,60 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vitez"
+    ],
+    "name:ces_x_preferred":[
+        "Kategorie:Vitez"
+    ],
+    "name:deu_x_preferred":[
+        "Vitez"
+    ],
+    "name:fra_x_preferred":[
+        "Vitez"
+    ],
+    "name:hrv_x_preferred":[
+        "Vitez"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u057f\u0565\u0566"
+    ],
+    "name:ita_x_preferred":[
+        "Vitez"
+    ],
+    "name:lit_x_preferred":[
+        "Vitezas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u0442\u0435\u0437"
+    ],
+    "name:nld_x_preferred":[
+        "Vitez"
+    ],
+    "name:pol_x_preferred":[
+        "Vitez"
+    ],
+    "name:spa_x_preferred":[
+        "Vitez"
+    ],
+    "name:sqi_x_preferred":[
+        "Vitezi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0442\u0435\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Vitez"
+    ],
+    "name:tur_x_preferred":[
+        "Vitez"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u062a\u06cc\u0632"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u7279\u8332"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +102,7 @@
         }
     ],
     "wof:id":1310613857,
-    "wof:lastmodified":1536760779,
+    "wof:lastmodified":1564147872,
     "wof:name":"Vitez",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

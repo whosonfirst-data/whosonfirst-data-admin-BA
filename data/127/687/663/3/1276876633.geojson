@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Izbi\u010dno"
+    ],
+    "name:deu_x_preferred":[
+        "Izbi\u010dno"
+    ],
+    "name:fra_x_preferred":[
+        "Izbi\u010dno"
+    ],
+    "name:hrv_x_preferred":[
+        "Izbi\u010dno"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0437\u0431\u0438\u0447\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Izbi\u010dno"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276876633,
-    "wof:lastmodified":1537585595,
+    "wof:lastmodified":1564146591,
     "wof:name":"Izbicno",
     "wof:parent_id":1108759231,
     "wof:placetype":"locality",

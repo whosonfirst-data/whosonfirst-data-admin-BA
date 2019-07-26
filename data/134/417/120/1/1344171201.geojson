@@ -25,6 +25,51 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lipnica"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043f\u043d\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Lipnica"
+    ],
+    "name:deu_x_preferred":[
+        "Lipnica"
+    ],
+    "name:fra_x_preferred":[
+        "Lipnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Lipnica"
+    ],
+    "name:hun_x_preferred":[
+        "Lipnica"
+    ],
+    "name:nld_x_preferred":[
+        "Lipnica"
+    ],
+    "name:pol_x_preferred":[
+        "Lipnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u043d\u0438\u0446\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Lipnica"
+    ],
+    "name:slv_x_preferred":[
+        "Lipnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lipnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043f\u043d\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1344171201,
-    "wof:lastmodified":1536716048,
+    "wof:lastmodified":1564145880,
     "wof:name":"Lipnica",
     "wof:parent_id":1108759271,
     "wof:placetype":"locality",

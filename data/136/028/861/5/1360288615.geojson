@@ -25,6 +25,36 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Surduk"
+    ],
+    "name:ces_x_preferred":[
+        "Surduk"
+    ],
+    "name:deu_x_preferred":[
+        "Surduk"
+    ],
+    "name:epo_x_preferred":[
+        "Surduk"
+    ],
+    "name:fra_x_preferred":[
+        "Surduk"
+    ],
+    "name:hrv_x_preferred":[
+        "Surduk"
+    ],
+    "name:hun_x_preferred":[
+        "Szurdok"
+    ],
+    "name:msa_x_preferred":[
+        "Surduk"
+    ],
+    "name:slv_x_preferred":[
+        "Surduk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0440\u0434\u0443\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1360288615,
-    "wof:lastmodified":1536651830,
+    "wof:lastmodified":1564148039,
     "wof:name":"Surduk",
     "wof:parent_id":1108759241,
     "wof:placetype":"locality",

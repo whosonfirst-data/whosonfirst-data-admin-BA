@@ -25,6 +25,45 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0647\u0648\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0445\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Bukhovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0647\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0445\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Buchowo"
+    ],
+    "name:ron_x_preferred":[
+        "Buhovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0445\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Buhovo"
+    ],
+    "name:swe_x_preferred":[
+        "Buchovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0445\u043e\u0432\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Buhovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u970d\u6c83"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1360094563,
-    "wof:lastmodified":1536932650,
+    "wof:lastmodified":1564147972,
     "wof:name":"Buhovo",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

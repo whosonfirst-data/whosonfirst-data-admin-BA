@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rje\u010dica Donja"
+    ],
+    "name:ceb_x_preferred":[
+        "Rje\u010dica Donja"
+    ],
+    "name:fra_x_preferred":[
+        "Rje\u010dica Donja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0458\u0435\u0447\u0438\u0446\u0430 \u0414\u043e\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Rje\u010dica Donja"
+    ],
     "name:und_x_variant":[
         "Muslimanska Rije\u010dica",
         "Rje\u010dica",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276121199,
-    "wof:lastmodified":1537585566,
+    "wof:lastmodified":1564146780,
     "wof:name":"Rjecica Donja",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

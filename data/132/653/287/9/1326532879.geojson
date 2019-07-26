@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Toholji"
+    ],
+    "name:fra_x_preferred":[
+        "Toholji"
+    ],
+    "name:hrv_x_preferred":[
+        "Toholji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0445\u043e\u0459\u0438"
+    ],
     "name:und_x_variant":[
         "Toholj",
         "Toholji"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1326532879,
-    "wof:lastmodified":1537585557,
+    "wof:lastmodified":1564145502,
     "wof:name":"Toholji",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

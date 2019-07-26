@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Cerani"
+    ],
+    "name:ceb_x_preferred":[
+        "Cerani"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03c1\u03b1\u03bd\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Cerani"
+    ],
+    "name:hrv_x_preferred":[
+        "Cerani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0440\u0430\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0440\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Cerani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1276445393,
-    "wof:lastmodified":1537486789,
+    "wof:lastmodified":1564146542,
     "wof:name":"Cerani",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

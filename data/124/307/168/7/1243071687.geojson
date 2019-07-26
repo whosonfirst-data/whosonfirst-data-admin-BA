@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vu\u010dkovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Vu\u010dkovci"
+    ],
+    "name:fra_x_preferred":[
+        "Vu\u010dkovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Vu\u010dkovci"
+    ],
+    "name:swe_x_preferred":[
+        "Vu\u010dkovci"
+    ],
     "name:und_x_variant":[
         "Vu\u010dkovac",
         "Vu\u010dkovci"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1243071687,
-    "wof:lastmodified":1537585549,
+    "wof:lastmodified":1564148234,
     "wof:name":"Vuckovci",
     "wof:parent_id":1108759093,
     "wof:placetype":"locality",

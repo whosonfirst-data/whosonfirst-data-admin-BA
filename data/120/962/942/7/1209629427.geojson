@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Buselji"
+    ],
+    "name:ceb_x_preferred":[
+        "Buselji"
+    ],
+    "name:fra_x_preferred":[
+        "Buselji"
+    ],
+    "name:hrv_x_preferred":[
+        "Buselji"
+    ],
+    "name:swe_x_preferred":[
+        "Buselji"
+    ],
     "name:und_x_variant":[
         "Buselje",
         "Buselji"
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1209629427,
-    "wof:lastmodified":1537585620,
+    "wof:lastmodified":1564146939,
     "wof:name":"Buselji",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

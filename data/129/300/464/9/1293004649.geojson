@@ -25,8 +25,23 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Za\u010dula"
+    ],
+    "name:fra_x_preferred":[
+        "Za\u010dula"
+    ],
+    "name:hrv_x_preferred":[
+        "Za\u010dula"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0447\u0443\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Za\u010dula"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0686\u0627\u0644\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293004649,
-    "wof:lastmodified":1537585548,
+    "wof:lastmodified":1564146016,
     "wof:name":"Zacula",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Doribaba"
+    ],
+    "name:ceb_x_preferred":[
+        "Doribaba"
+    ],
+    "name:fra_x_preferred":[
+        "Doribaba"
+    ],
+    "name:hrv_x_preferred":[
+        "Doribaba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0440\u0438\u0431\u0430\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Doribaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1259592875,
-    "wof:lastmodified":1537486780,
+    "wof:lastmodified":1564148872,
     "wof:name":"Doribaba",
     "wof:parent_id":1108759115,
     "wof:placetype":"locality",

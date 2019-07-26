@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Lohinja"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Lohinja"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornja Lohinja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293214677,
-    "wof:lastmodified":1537486773,
+    "wof:lastmodified":1564146461,
     "wof:name":"Gornja Lohinja",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

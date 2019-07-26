@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Su\u0107eska"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u0447\u0435\u0441\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Su\u0107eska"
+    ],
+    "name:fra_x_preferred":[
+        "Su\u0107eska"
+    ],
+    "name:hrv_x_preferred":[
+        "Su\u0107eska"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u045b\u0435\u0441\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Su\u0107eska"
+    ],
     "name:und_x_variant":[
         "Su\u0107eska"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1276666661,
-    "wof:lastmodified":1537585558,
+    "wof:lastmodified":1564146676,
     "wof:name":"Suceska",
     "wof:parent_id":1108759241,
     "wof:placetype":"locality",

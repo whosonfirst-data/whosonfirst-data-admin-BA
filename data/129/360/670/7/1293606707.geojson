@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0633\u0641\u0627\u0631"
+    ],
+    "name:bos_x_preferred":[
+        "Rasvar"
+    ],
+    "name:fra_x_preferred":[
+        "Rasvar"
+    ],
+    "name:hrv_x_preferred":[
+        "Rasvar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0441\u0432\u0430\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1293606707,
-    "wof:lastmodified":1537486854,
+    "wof:lastmodified":1564146295,
     "wof:name":"Rasvar",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sjeverovci"
+    ],
+    "name:fra_x_preferred":[
+        "Sjeverovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Sjeverovci"
+    ],
+    "name:slv_x_preferred":[
+        "Sjeverovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0458\u0435\u0432\u0435\u0440\u043e\u0432\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Severovci",
         "Sjeverovci"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1344260139,
-    "wof:lastmodified":1537585562,
+    "wof:lastmodified":1564145856,
     "wof:name":"Sjeverovci",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

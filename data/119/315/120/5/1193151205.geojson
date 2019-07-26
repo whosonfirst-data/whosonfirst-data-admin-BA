@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Rovna"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Rovna"
+    ],
     "name:und_x_variant":[
         "Rovna",
         "Gornja Rovna"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1193151205,
-    "wof:lastmodified":1537585602,
+    "wof:lastmodified":1564147355,
     "wof:name":"Gornja Rovna",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0634\u062a\u0627\u0644\u064a\u0646"
+    ],
+    "name:bos_x_preferred":[
+        "Pi\u0161taline"
+    ],
+    "name:ceb_x_preferred":[
+        "Pi\u0161taline"
+    ],
+    "name:fra_x_preferred":[
+        "Pi\u0161taline"
+    ],
+    "name:hrv_x_preferred":[
+        "Pi\u0161taline"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0448\u0442\u0430\u043b\u0438\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Pi\u0161taline"
+    ],
     "name:und_x_variant":[
         "Pi\u0161tahne",
         "Pi\u0161taline"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1327235573,
-    "wof:lastmodified":1537585574,
+    "wof:lastmodified":1564145320,
     "wof:name":"Pistaline",
     "wof:parent_id":1108759003,
     "wof:placetype":"locality",

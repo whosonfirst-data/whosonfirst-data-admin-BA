@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ko\u017euhe"
+    ],
+    "name:ceb_x_preferred":[
+        "Ko\u017euhe"
+    ],
+    "name:fra_x_preferred":[
+        "Ko\u017euhe"
+    ],
+    "name:hrv_x_preferred":[
+        "Ko\u017euhe"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0436\u0443\u0445\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ko\u017euhe"
+    ],
     "name:und_x_variant":[
         "Ko\u017euhe"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1327137465,
-    "wof:lastmodified":1537585589,
+    "wof:lastmodified":1564145256,
     "wof:name":"Kozuhe",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

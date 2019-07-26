@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Cerici"
+    ],
+    "name:fra_x_preferred":[
+        "Cerici"
+    ],
+    "name:hrv_x_preferred":[
+        "Cerici"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0440\u0438\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Cerici"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0440\u0438\u0446\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293018503,
-    "wof:lastmodified":1536965941,
+    "wof:lastmodified":1564146077,
     "wof:name":"Cerici",
     "wof:parent_id":1108759219,
     "wof:placetype":"locality",

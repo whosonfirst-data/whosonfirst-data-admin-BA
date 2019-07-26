@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0632\u064a\u0628\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "D\u017eepi"
+    ],
+    "name:ceb_x_preferred":[
+        "D\u017eepi"
+    ],
+    "name:fra_x_preferred":[
+        "D\u017eepi"
+    ],
+    "name:hrv_x_preferred":[
+        "D\u017eepi"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0435\u043f\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "D\u017eepi"
+    ],
     "name:und_x_variant":[
         "D\u017eepi"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1343779679,
-    "wof:lastmodified":1537585606,
+    "wof:lastmodified":1564145723,
     "wof:name":"Dzepi",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

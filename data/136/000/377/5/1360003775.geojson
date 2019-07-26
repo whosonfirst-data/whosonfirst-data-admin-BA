@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Budelj Gornji"
+    ],
+    "name:fra_x_preferred":[
+        "Budelj Gornji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0434\u0435\u0459 \u0413\u043e\u0440\u045a\u0438"
+    ],
     "name:und_x_variant":[
         "Gornji Budelj",
         "Budelj Gornji"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1360003775,
-    "wof:lastmodified":1537585621,
+    "wof:lastmodified":1564147954,
     "wof:name":"Budelj Gornji",
     "wof:parent_id":1108759133,
     "wof:placetype":"locality",

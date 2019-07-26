@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vukovije Gornje"
+    ],
+    "name:ceb_x_preferred":[
+        "Vukovije Gornje"
+    ],
+    "name:fra_x_preferred":[
+        "Vukovije Gornje"
+    ],
+    "name:hrv_x_preferred":[
+        "Vukovije Gornje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u0438\u0458\u0435 \u0413\u043e\u0440\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vukovije Gornje"
+    ],
     "name:und_x_variant":[
         "Gornje Vukovije",
         "Vukovije Gornje"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1327351255,
-    "wof:lastmodified":1537585549,
+    "wof:lastmodified":1564145377,
     "wof:name":"Vukovije Gornje",
     "wof:parent_id":1108759121,
     "wof:placetype":"locality",

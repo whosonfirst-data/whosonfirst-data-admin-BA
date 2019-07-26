@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Varizi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0631\u06cc\u0632\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Varizi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0440\u0438\u0437\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1360097967,
-    "wof:lastmodified":1537486842,
+    "wof:lastmodified":1564147959,
     "wof:name":"Varizi",
     "wof:parent_id":1108759125,
     "wof:placetype":"locality",

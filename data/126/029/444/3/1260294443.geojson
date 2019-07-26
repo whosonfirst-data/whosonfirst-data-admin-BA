@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Ri\u010dica"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Ri\u010dica"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornja Ri\u010dica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0420\u0438\u0447\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Gonja Ri\u010dica",
         "Gornja Ri\u010dica"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1260294443,
-    "wof:lastmodified":1537585602,
+    "wof:lastmodified":1564147510,
     "wof:name":"Gornja Ricica",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

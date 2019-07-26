@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ra\u0161eljke"
+    ],
+    "name:ceb_x_preferred":[
+        "Ra\u0161eljke"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u0161eljke"
+    ],
+    "name:hrv_x_preferred":[
+        "Ra\u0161eljke"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0448\u0435\u0459\u043a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ra\u0161eljke"
+    ],
     "name:und_x_variant":[
         "Ra\u0161eljke"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1226456761,
-    "wof:lastmodified":1537585568,
+    "wof:lastmodified":1564149069,
     "wof:name":"Raseljke",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

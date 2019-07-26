@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Unukovi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Unukovi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u043d\u0443\u043a\u043e\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Unukovi\u0107i"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209922957,
-    "wof:lastmodified":1537585554,
+    "wof:lastmodified":1564147118,
     "wof:name":"Unukovici",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

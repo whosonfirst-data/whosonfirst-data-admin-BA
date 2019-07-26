@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Klakar"
+    ],
+    "name:ceb_x_preferred":[
+        "Klakar Gornji"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Klakar"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Klakar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438-\u041a\u043b\u0430\u043a\u0430\u0440"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u041a\u043b\u0430\u043a\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Klakar Gornji"
+    ],
     "name:und_x_variant":[
         "Gornji Klakar",
         "Klakar Gornji"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1327143145,
-    "wof:lastmodified":1537585592,
+    "wof:lastmodified":1564145272,
     "wof:name":"Klakar Gornji",
     "wof:parent_id":1108759009,
     "wof:placetype":"locality",

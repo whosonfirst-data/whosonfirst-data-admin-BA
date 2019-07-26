@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rakino Brdo"
+    ],
+    "name:ceb_x_preferred":[
+        "Rakino Brdo"
+    ],
+    "name:fra_x_preferred":[
+        "Rakino Brdo"
+    ],
+    "name:hrv_x_preferred":[
+        "Rakino Brdo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u043d\u043e \u0411\u0440\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Rakino Brdo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293892501,
-    "wof:lastmodified":1537486732,
+    "wof:lastmodified":1564146403,
     "wof:name":"Rakino Brdo",
     "wof:parent_id":1108759123,
     "wof:placetype":"locality",

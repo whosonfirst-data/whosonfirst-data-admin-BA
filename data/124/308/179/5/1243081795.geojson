@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Davidovici"
+    ],
+    "name:ron_x_preferred":[
+        "Davidovici"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243081795,
-    "wof:lastmodified":1536833066,
+    "wof:lastmodified":1564148316,
     "wof:name":"Davidovici",
     "wof:parent_id":1108759061,
     "wof:placetype":"locality",

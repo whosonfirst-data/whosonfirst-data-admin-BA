@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0106ele"
+    ],
+    "name:fra_x_preferred":[
+        "\u0106ele"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0106ele"
+    ],
+    "name:srp_x_preferred":[
+        "\u040b\u0435\u043b\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1343670549,
-    "wof:lastmodified":1537486829,
+    "wof:lastmodified":1564145829,
     "wof:name":"Cele",
     "wof:parent_id":1108759011,
     "wof:placetype":"locality",

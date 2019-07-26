@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Krtova"
+    ],
+    "name:ceb_x_preferred":[
+        "Krtova"
+    ],
+    "name:fra_x_preferred":[
+        "Krtova"
+    ],
+    "name:hrv_x_preferred":[
+        "Krtova"
+    ],
+    "name:swe_x_preferred":[
+        "Krtova"
+    ],
     "name:und_x_variant":[
         "Krtov",
         "Krtova"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226160755,
-    "wof:lastmodified":1537585588,
+    "wof:lastmodified":1564149082,
     "wof:name":"Krtova",
     "wof:parent_id":1108759161,
     "wof:placetype":"locality",

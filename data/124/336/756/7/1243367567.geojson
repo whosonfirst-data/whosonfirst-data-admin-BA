@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Osmanlije"
+    ],
+    "name:fra_x_preferred":[
+        "Osmanlije"
+    ],
+    "name:hrv_x_preferred":[
+        "Osmanlije"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u043c\u0430\u043d\u043b\u0438\u0458\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1243367567,
-    "wof:lastmodified":1537486822,
+    "wof:lastmodified":1564148267,
     "wof:name":"Osmanlije",
     "wof:parent_id":1108759145,
     "wof:placetype":"locality",

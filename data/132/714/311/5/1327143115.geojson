@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Be\u0107ari"
+    ],
+    "name:fra_x_preferred":[
+        "Be\u0107ari"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u045b\u0430\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Be\u010dari"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327143115,
-    "wof:lastmodified":1537585630,
+    "wof:lastmodified":1564145280,
     "wof:name":"Becari",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

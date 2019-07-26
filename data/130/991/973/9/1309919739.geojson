@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u0644\u0627\u0634\u062a\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Orli\u0161te"
+    ],
+    "name:fra_x_preferred":[
+        "Orli\u0161te"
+    ],
+    "name:hrv_x_preferred":[
+        "Orli\u0161te"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u043b\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Orli\u0161te"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309919739,
-    "wof:lastmodified":1537585675,
+    "wof:lastmodified":1564148111,
     "wof:name":"Orliste",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Nasi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Nasi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Nasi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0441\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Nasi\u0107i"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1310423287,
-    "wof:lastmodified":1537585631,
+    "wof:lastmodified":1564147785,
     "wof:name":"Nasici",
     "wof:parent_id":1108759027,
     "wof:placetype":"locality",

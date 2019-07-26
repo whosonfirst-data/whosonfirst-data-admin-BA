@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010cun\u010di\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cun\u010di\u0107i"
+    ],
     "name:und_x_variant":[
         "Cu\u010di\u0107i",
         "\u010cun\u010di\u0107i"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343271477,
-    "wof:lastmodified":1537585633,
+    "wof:lastmodified":1564145951,
     "wof:name":"Cuncici",
     "wof:parent_id":1108759267,
     "wof:placetype":"locality",

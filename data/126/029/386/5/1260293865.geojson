@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mari\u0107 Me\u0111ine"
+    ],
+    "name:fra_x_preferred":[
+        "Mari\u0107 Me\u0111ine"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u045b \u041c\u0435\u0452\u0438\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Mari\u0107 Me\u0111ine"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1260293865,
-    "wof:lastmodified":1537585632,
+    "wof:lastmodified":1564147518,
     "wof:name":"Maric Medine",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

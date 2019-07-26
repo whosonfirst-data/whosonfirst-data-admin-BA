@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Markovi\u0107 Polje"
+    ],
+    "name:ceb_x_preferred":[
+        "Markovi\u0107 Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Markovi\u0107 Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Markovi\u0107 Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0438\u045b \u041f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Markovi\u0107 Polje"
+    ],
     "name:und_x_variant":[
         "Markovi\u0107 Polje"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1242904699,
-    "wof:lastmodified":1537585645,
+    "wof:lastmodified":1564148585,
     "wof:name":"Markovic Polje",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

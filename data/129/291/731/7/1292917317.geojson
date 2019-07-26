@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Du\u017eice"
+    ],
+    "name:deu_x_preferred":[
+        "Du\u017eice"
+    ],
+    "name:fra_x_preferred":[
+        "Du\u017eice"
+    ],
+    "name:hrv_x_preferred":[
+        "Du\u017eice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0436\u0438\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Du\u017eice"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1292917317,
-    "wof:lastmodified":1537585606,
+    "wof:lastmodified":1564146304,
     "wof:name":"Duzice",
     "wof:parent_id":1108759231,
     "wof:placetype":"locality",

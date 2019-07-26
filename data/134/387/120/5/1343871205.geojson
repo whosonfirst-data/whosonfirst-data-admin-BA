@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hum\u010dani"
+    ],
+    "name:fra_x_preferred":[
+        "Hum\u010dani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0443\u043c\u0447\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Hum\u010dani"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343871205,
-    "wof:lastmodified":1537585596,
+    "wof:lastmodified":1564145967,
     "wof:name":"Humcani",
     "wof:parent_id":1108759179,
     "wof:placetype":"locality",

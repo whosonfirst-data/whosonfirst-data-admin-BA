@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:fra_x_preferred":[
+        "\u010citluk"
+    ],
     "name:und_x_variant":[
         "\u010citluk"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243071633,
-    "wof:lastmodified":1537585670,
+    "wof:lastmodified":1564148241,
     "wof:name":"Citluk",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

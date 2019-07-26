@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0632\u064a\u0628\u0631\u0648\u0633\u064a\u0646\u0627"
+    ],
+    "name:bos_x_preferred":[
+        "Je\u017eeprosina"
+    ],
+    "name:fra_x_preferred":[
+        "Je\u017eeprosina"
+    ],
+    "name:hrv_x_preferred":[
+        "Je\u017eeprosina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0435\u0436\u0435\u043f\u0440\u043e\u0441\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Je\u017eeprosina"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293798067,
-    "wof:lastmodified":1537585669,
+    "wof:lastmodified":1564146144,
     "wof:name":"Jezeprosina",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

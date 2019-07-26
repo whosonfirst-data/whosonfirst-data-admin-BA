@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sreflije"
+    ],
+    "name:ceb_x_preferred":[
+        "Sreflije"
+    ],
+    "name:fra_x_preferred":[
+        "Sreflije"
+    ],
+    "name:hrv_x_preferred":[
+        "Sreflije"
+    ],
+    "name:slv_x_preferred":[
+        "Sreflije"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0435\u0444\u043b\u0438\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sreflije"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1260083257,
-    "wof:lastmodified":1537486722,
+    "wof:lastmodified":1564147464,
     "wof:name":"Sreflije",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

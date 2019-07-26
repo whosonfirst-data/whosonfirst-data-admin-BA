@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Grivci"
+    ],
+    "name:fra_x_preferred":[
+        "Grivci"
+    ],
+    "name:sco_x_preferred":[
+        "Grivci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0438\u0432\u0446\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226155875,
-    "wof:lastmodified":1537486768,
+    "wof:lastmodified":1564149269,
     "wof:name":"Grivci",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ro\u0161ko Polje"
+    ],
+    "name:ceb_x_preferred":[
+        "Ra\u0161ko Polje"
+    ],
+    "name:deu_x_preferred":[
+        "Ro\u0161ko Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Ro\u0161ko Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Ro\u0161ko Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0448\u043a\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ra\u0161ko Polje"
+    ],
     "name:und_x_variant":[
         "Ro\u0161ko Polje",
         "Ra\u0161ko Polje"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1243268041,
-    "wof:lastmodified":1537585568,
+    "wof:lastmodified":1564148691,
     "wof:name":"Rasko Polje",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

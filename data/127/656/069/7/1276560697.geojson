@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brodac Donji"
+    ],
+    "name:ceb_x_preferred":[
+        "Brodac-Donji"
+    ],
+    "name:fra_x_preferred":[
+        "Brodac Donji"
+    ],
+    "name:hrv_x_preferred":[
+        "Brodac Donji"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u043e\u0434\u0430\u0446-\u0414\u043e\u043d\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Brodac Donji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u043e\u0434\u0430\u0446 \u0414\u043e\u045a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Brodac-Donji"
+    ],
     "name:und_x_variant":[
         "Donji Brodac",
         "Brodac",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1276560697,
-    "wof:lastmodified":1537585622,
+    "wof:lastmodified":1564146640,
     "wof:name":"Brodac-Donji",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

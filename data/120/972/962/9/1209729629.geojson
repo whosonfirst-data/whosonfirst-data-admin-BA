@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vi\u0107a"
+    ],
+    "name:fra_x_preferred":[
+        "Vi\u0107a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u045b\u0430"
+    ],
     "name:und_x_variant":[
         "Vi\u0107a"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209729629,
-    "wof:lastmodified":1537585667,
+    "wof:lastmodified":1564147281,
     "wof:name":"Vica",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

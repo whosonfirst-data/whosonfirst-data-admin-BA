@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160\u0107enica Bobani"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160\u0107enica Bobani"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160\u0107enica Bobani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u045b\u0435\u043d\u0438\u0446\u0430 \u0411\u043e\u0431\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "\u0160\u0107enica",
         "\u0160\u0107enica Bobani"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1209829575,
-    "wof:lastmodified":1537585564,
+    "wof:lastmodified":1564147060,
     "wof:name":"Scenica Bobani",
     "wof:parent_id":1108759213,
     "wof:placetype":"locality",

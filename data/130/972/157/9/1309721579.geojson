@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010ci\u010dke"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010ci\u010dke"
+    ],
+    "name:fra_x_preferred":[
+        "\u010ci\u010dke"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010ci\u010dke"
+    ],
+    "name:swe_x_preferred":[
+        "\u010ci\u010dke"
+    ],
     "name:und_x_variant":[
         "\u010ci\u010dke"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309721579,
-    "wof:lastmodified":1537585678,
+    "wof:lastmodified":1564148187,
     "wof:name":"Cicke",
     "wof:parent_id":1108759101,
     "wof:placetype":"locality",

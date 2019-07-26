@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pucari"
+    ],
+    "name:fra_x_preferred":[
+        "Pucari"
+    ],
+    "name:hrv_x_preferred":[
+        "Pucari"
+    ],
+    "name:slv_x_preferred":[
+        "Pucari"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0446\u0430\u0440\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1243366583,
-    "wof:lastmodified":1536921362,
+    "wof:lastmodified":1564148262,
     "wof:name":"Pucari",
     "wof:parent_id":1108759123,
     "wof:placetype":"locality",

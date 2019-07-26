@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Begovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Begovac"
+    ],
+    "name:hun_x_preferred":[
+        "Begovac"
+    ],
+    "name:nld_x_preferred":[
+        "Begovac"
+    ],
+    "name:slv_x_preferred":[
+        "Begovac"
+    ],
+    "name:spa_x_preferred":[
+        "Begovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0433\u043e\u0432\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0433\u043e\u0432\u0430\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1226751679,
-    "wof:lastmodified":1536707204,
+    "wof:lastmodified":1564149018,
     "wof:name":"Begovac",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

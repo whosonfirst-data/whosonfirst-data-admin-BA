@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ude\u017e"
+    ],
+    "name:fra_x_preferred":[
+        "Ude\u017e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0434\u0435\u0436"
+    ],
     "name:und_x_variant":[
         "Ude\u017e"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310418857,
-    "wof:lastmodified":1537585668,
+    "wof:lastmodified":1564147643,
     "wof:name":"Udez",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

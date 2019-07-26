@@ -25,6 +25,36 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0628\u0644\u064a\u0627\u0646\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Srbljani"
+    ],
+    "name:ceb_x_preferred":[
+        "Srbljani"
+    ],
+    "name:deu_x_preferred":[
+        "Srbljani"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c1\u03bc\u03c0\u03bb\u03b9\u03ac\u03bd\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Srbljani"
+    ],
+    "name:hrv_x_preferred":[
+        "Srbljani"
+    ],
+    "name:slv_x_preferred":[
+        "Srbljani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0431\u0459\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Srbljani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1310209067,
-    "wof:lastmodified":1537486723,
+    "wof:lastmodified":1564147789,
     "wof:name":"Srbljani",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

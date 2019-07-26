@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ljekova"
+    ],
+    "name:fra_x_preferred":[
+        "Ljekova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0435\u043a\u043e\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Ljekovo",
         "Ljekova"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327336705,
-    "wof:lastmodified":1537585586,
+    "wof:lastmodified":1564145369,
     "wof:name":"Ljekova",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

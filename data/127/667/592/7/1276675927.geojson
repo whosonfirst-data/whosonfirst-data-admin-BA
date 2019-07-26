@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Skrte"
+    ],
+    "name:fra_x_preferred":[
+        "Skrte"
+    ],
+    "name:hrv_x_preferred":[
+        "Skrte"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u0440\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Skrte",
         "Skrti"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276675927,
-    "wof:lastmodified":1537585562,
+    "wof:lastmodified":1564146645,
     "wof:name":"Skrti",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

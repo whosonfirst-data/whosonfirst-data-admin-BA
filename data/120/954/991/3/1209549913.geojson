@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Cerik"
+    ],
+    "name:ceb_x_preferred":[
+        "Cerik"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03c1\u03b9\u03ba"
+    ],
+    "name:fra_x_preferred":[
+        "Cerik"
+    ],
+    "name:hrv_x_preferred":[
+        "Cerik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0440\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Cerik"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +64,7 @@
         }
     ],
     "wof:id":1209549913,
-    "wof:lastmodified":1537486789,
+    "wof:lastmodified":1564146898,
     "wof:name":"Cerik",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

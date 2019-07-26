@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gojsali\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Gojsali\u0107i"
+    ],
     "name:und_x_variant":[
         "Gojsali\u0107",
         "Gojsali\u0107i"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326939929,
-    "wof:lastmodified":1537585605,
+    "wof:lastmodified":1564145241,
     "wof:name":"Gojsalici",
     "wof:parent_id":1108759129,
     "wof:placetype":"locality",

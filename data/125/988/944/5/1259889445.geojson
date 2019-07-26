@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Omolje"
+    ],
+    "name:ceb_x_preferred":[
+        "Omolje"
+    ],
+    "name:fra_x_preferred":[
+        "Omolje"
+    ],
+    "name:hrv_x_preferred":[
+        "Omolje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043c\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Omolje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1259889445,
-    "wof:lastmodified":1537486742,
+    "wof:lastmodified":1564148971,
     "wof:name":"Omolje",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Nadini\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Nadini\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Nadini\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Nadini\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0434\u0438\u043d\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Nadini\u0107i"
+    ],
     "name:und_x_variant":[
         "Nadin\u0107i",
         "Nadini\u0107i"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1259988493,
-    "wof:lastmodified":1537585579,
+    "wof:lastmodified":1564148721,
     "wof:name":"Nadinici",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

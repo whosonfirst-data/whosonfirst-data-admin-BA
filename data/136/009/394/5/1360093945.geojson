@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0106urevo"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0106urevo"
+    ],
+    "name:fra_x_preferred":[
+        "\u0106urevo"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0106urevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u040b\u0443\u0440\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "\u0106urevo"
+    ],
     "name:und_x_variant":[
         "\u0106urevo"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1360093945,
-    "wof:lastmodified":1537585616,
+    "wof:lastmodified":1564147969,
     "wof:name":"Curevo",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

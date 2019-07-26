@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Grm"
+    ],
+    "name:ceb_x_preferred":[
+        "Grm"
+    ],
+    "name:hrv_x_preferred":[
+        "Grm"
+    ],
+    "name:nld_x_preferred":[
+        "Grm"
+    ],
+    "name:pol_x_preferred":[
+        "Grm"
+    ],
+    "name:slv_x_preferred":[
+        "Grm"
+    ],
+    "name:swe_x_preferred":[
+        "Grm"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1226650169,
-    "wof:lastmodified":1536851907,
+    "wof:lastmodified":1564149329,
     "wof:name":"Grm",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

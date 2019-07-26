@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kordi\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Kordi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Kordi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Kordi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kordi\u0107i"
+    ],
     "name:und_x_variant":[
         "Kordi\u0107i"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1309821425,
-    "wof:lastmodified":1537585590,
+    "wof:lastmodified":1564148134,
     "wof:name":"Kordici",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160umnjaci"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160umnjaci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0443\u043c\u045a\u0430\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Sumjaci",
         "\u0160umnjaci"
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1209432679,
-    "wof:lastmodified":1537585558,
+    "wof:lastmodified":1564147265,
     "wof:name":"Sumnjaci",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

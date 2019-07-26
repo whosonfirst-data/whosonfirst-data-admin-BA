@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Me\u0111uvo\u0111e"
+    ],
+    "name:ceb_x_preferred":[
+        "Me\u0111uvo\u0111e"
+    ],
+    "name:fra_x_preferred":[
+        "Me\u0111uvo\u0111e"
+    ],
+    "name:hrv_x_preferred":[
+        "Me\u0111uvo\u0111e"
+    ],
+    "name:slv_x_preferred":[
+        "Me\u0111uvo\u0111e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0452\u0443\u0432\u043e\u0452\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Me\u0111uvo\u0111e"
+    ],
     "name:und_x_variant":[
         "Me\u0111uvo\u0111e"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1276344175,
-    "wof:lastmodified":1537585582,
+    "wof:lastmodified":1564146617,
     "wof:name":"Meduvode",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

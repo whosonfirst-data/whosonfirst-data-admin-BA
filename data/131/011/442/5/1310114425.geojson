@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jadar"
+    ],
+    "name:ces_x_preferred":[
+        "Jadar"
+    ],
+    "name:fra_x_preferred":[
+        "Jadar"
+    ],
+    "name:hrv_x_preferred":[
+        "Jadar"
+    ],
+    "name:pol_x_preferred":[
+        "Jadar"
+    ],
+    "name:slk_x_preferred":[
+        "Jadar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0434\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Jadar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1310114425,
-    "wof:lastmodified":1536982801,
+    "wof:lastmodified":1564147815,
     "wof:name":"Jadar",
     "wof:parent_id":1108759241,
     "wof:placetype":"locality",

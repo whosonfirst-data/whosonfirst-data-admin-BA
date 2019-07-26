@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Fonjge"
+    ],
+    "name:fra_x_preferred":[
+        "Fonjge"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u043e\u045a\u0433\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1327351269,
-    "wof:lastmodified":1537486825,
+    "wof:lastmodified":1564145374,
     "wof:name":"Fonjge",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bele Vode"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0435 \u0412\u043e\u0434\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +40,7 @@
         "gn:id":3296494
     },
     "wof:country":"BA",
-    "wof:geomhash":"38d816f03adba1ff208dd20c7a5f099b",
+    "wof:geomhash":"a5bed5828f7ae545f79d994399a0a30b",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209324281,
-    "wof:lastmodified":1536290584,
+    "wof:lastmodified":1564147159,
     "wof:name":"Bele Vode",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.151670000000006,
+    18.15167000000001,
     43.86,
-    18.151670000000006,
+    18.15167000000001,
     43.86
 ],
   "geometry": {"coordinates":[18.15167000000001,43.86],"type":"Point"}

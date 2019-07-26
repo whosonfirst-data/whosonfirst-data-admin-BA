@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Drijen"
+    ],
+    "name:fra_x_preferred":[
+        "Drijen"
+    ],
+    "name:hrv_x_preferred":[
+        "Drijen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0438\u0458\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Drien",
         "Drijen"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1310319381,
-    "wof:lastmodified":1537585647,
+    "wof:lastmodified":1564147717,
     "wof:name":"Drijen",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

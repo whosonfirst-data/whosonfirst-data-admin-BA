@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Glamo\u010devi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Glamo\u010devi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Glamo\u010devi\u0107i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u043c\u043e\u0447\u0435\u0432\u0438\u0447\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043b\u0430\u043c\u043e\u0447\u0435\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Glamo\u010devi\u0107i"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310108943,
-    "wof:lastmodified":1537585671,
+    "wof:lastmodified":1564147825,
     "wof:name":"Glamocevici",
     "wof:parent_id":1108759035,
     "wof:placetype":"locality",

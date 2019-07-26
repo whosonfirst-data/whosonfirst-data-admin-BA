@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Voji\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornji Voji\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Voji\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0412\u043e\u0458\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Gornji Voji\u0107i"
+    ],
     "name:und_x_variant":[
         "Gornji Voji\u0107i"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1259894141,
-    "wof:lastmodified":1537585662,
+    "wof:lastmodified":1564148938,
     "wof:name":"Gornji Vojici",
     "wof:parent_id":1108759133,
     "wof:placetype":"locality",

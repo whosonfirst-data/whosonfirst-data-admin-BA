@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kadino Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Kadino Selo"
+    ],
+    "name:por_x_preferred":[
+        "Kadino Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0434\u0438\u043d\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kadino Selo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1209109191,
-    "wof:lastmodified":1537486762,
+    "wof:lastmodified":1564147262,
     "wof:name":"Kadino Selo",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

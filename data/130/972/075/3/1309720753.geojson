@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Tale\u017ea"
+    ],
+    "name:fra_x_preferred":[
+        "Tale\u017ea"
+    ],
+    "name:ita_x_preferred":[
+        "Tale\u017ea"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u043b\u0435\u0436\u0430"
+    ],
     "name:und_x_variant":[
         "Tale\u017ea"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1309720753,
-    "wof:lastmodified":1537585683,
+    "wof:lastmodified":1564148207,
     "wof:name":"Taleza",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

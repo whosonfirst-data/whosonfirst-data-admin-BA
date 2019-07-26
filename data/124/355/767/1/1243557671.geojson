@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160argovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Sargovac"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160argovac"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160argovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u0433\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160argovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u0433\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Sargovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1243557671,
-    "wof:lastmodified":1537486728,
+    "wof:lastmodified":1564148327,
     "wof:name":"Sargovac",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

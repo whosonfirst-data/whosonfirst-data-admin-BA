@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Samard\u017eije"
+    ],
+    "name:ceb_x_preferred":[
+        "Samard\u017eije"
+    ],
+    "name:fra_x_preferred":[
+        "Samard\u017eije"
+    ],
+    "name:hrv_x_preferred":[
+        "Samard\u017eije"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043c\u0430\u0440\u045f\u0438\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Samard\u017eije"
+    ],
     "name:und_x_variant":[
         "Samard\u017eije"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343367733,
-    "wof:lastmodified":1537585565,
+    "wof:lastmodified":1564145592,
     "wof:name":"Samardzije",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

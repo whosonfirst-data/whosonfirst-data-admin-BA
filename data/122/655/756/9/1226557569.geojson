@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dobrkovi\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Dobrkovi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Dobrkovi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Dobrkovi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043a\u043e\u0432\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dobrkovi\u0107i"
+    ],
     "name:und_x_variant":[
         "Dobrkovi\u0107i"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1226557569,
-    "wof:lastmodified":1537585614,
+    "wof:lastmodified":1564149295,
     "wof:name":"Dobrkovici",
     "wof:parent_id":1108759231,
     "wof:placetype":"locality",

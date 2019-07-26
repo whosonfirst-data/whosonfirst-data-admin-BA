@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zebe"
+    ],
+    "name:ceb_x_preferred":[
+        "Zebe"
+    ],
+    "name:fra_x_preferred":[
+        "Zebe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Zebe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1259692505,
-    "wof:lastmodified":1537051753,
+    "wof:lastmodified":1564148907,
     "wof:name":"Zebe",
     "wof:parent_id":1108759141,
     "wof:placetype":"locality",

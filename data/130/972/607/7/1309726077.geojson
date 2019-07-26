@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Teskera"
+    ],
+    "name:ceb_x_preferred":[
+        "Teskera"
+    ],
+    "name:fra_x_preferred":[
+        "Teskera"
+    ],
+    "name:hrv_x_preferred":[
+        "Teskera"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0441\u043a\u0435\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Teskera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1309726077,
-    "wof:lastmodified":1537486854,
+    "wof:lastmodified":1564148213,
     "wof:name":"Teskera",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

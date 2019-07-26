@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Macute"
+    ],
+    "name:fra_x_preferred":[
+        "Macute"
+    ],
+    "name:hrv_x_preferred":[
+        "Macute"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0446\u0443\u0442\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0446\u0443\u0442\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u0648\u0679\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1310114669,
-    "wof:lastmodified":1537486751,
+    "wof:lastmodified":1564147818,
     "wof:name":"Macute",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

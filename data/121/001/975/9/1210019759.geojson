@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hran\u010da"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0440\u0430\u043d\u0447\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Hran\u010da"
+    ],
+    "name:fra_x_preferred":[
+        "Hran\u010da"
+    ],
+    "name:hrv_x_preferred":[
+        "Hran\u010da"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u0430\u043d\u0447\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u043d\u0447\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hran\u010da"
+    ],
     "name:und_x_variant":[
         "Ran\u010da",
         "Hran\u010da"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1210019759,
-    "wof:lastmodified":1537585596,
+    "wof:lastmodified":1564147309,
     "wof:name":"Hranca",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

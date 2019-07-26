@@ -25,6 +25,33 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jabukovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Jabukovac"
+    ],
+    "name:fra_x_preferred":[
+        "Jabukovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Jabukovac"
+    ],
+    "name:hun_x_preferred":[
+        "Jabukovac"
+    ],
+    "name:nld_x_preferred":[
+        "Jabukovac"
+    ],
+    "name:slv_x_preferred":[
+        "Jabukovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0431\u0443\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Jabukovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +61,7 @@
         "gn:id":3278330
     },
     "wof:country":"BA",
-    "wof:geomhash":"10aa49d3886587d64256e624fa63dfb3",
+    "wof:geomhash":"3a525bcd538d6ffa31dca6fa02d54bbf",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +69,7 @@
         }
     ],
     "wof:id":1209123949,
-    "wof:lastmodified":1536297013,
+    "wof:lastmodified":1564147024,
     "wof:name":"Jabukovac",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +79,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.001920000000002,
+    16.00192,
     45.1249,
-    16.001920000000002,
+    16.00192,
     45.1249
 ],
   "geometry": {"coordinates":[16.00192,45.1249],"type":"Point"}

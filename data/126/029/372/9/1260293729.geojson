@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Urkovi\u0107i"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0440\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Urkovi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Urkovi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Urkovi\u0107i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u043a\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0440\u043a\u043e\u0432\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Urkovi\u0107i"
+    ],
     "name:und_x_variant":[
         "Urkovi\u0107i"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1260293729,
-    "wof:lastmodified":1537585554,
+    "wof:lastmodified":1564147518,
     "wof:name":"Urkovici",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

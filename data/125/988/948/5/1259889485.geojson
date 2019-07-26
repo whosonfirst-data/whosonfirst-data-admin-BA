@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Poljice"
+    ],
+    "name:ceb_x_preferred":[
+        "Poljice"
+    ],
+    "name:fra_x_preferred":[
+        "Poljice"
+    ],
+    "name:hrv_x_preferred":[
+        "Poljice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0459\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Poljice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1259889485,
-    "wof:lastmodified":1537486736,
+    "wof:lastmodified":1564148962,
     "wof:name":"Poljice",
     "wof:parent_id":1108759161,
     "wof:placetype":"locality",

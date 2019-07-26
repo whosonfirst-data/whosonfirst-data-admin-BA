@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vojskova"
+    ],
+    "name:ceb_x_preferred":[
+        "Vojskova"
+    ],
+    "name:fra_x_preferred":[
+        "Vojskova"
+    ],
+    "name:hrv_x_preferred":[
+        "Vojskova"
+    ],
+    "name:slv_x_preferred":[
+        "Vojskova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0458\u0441\u043a\u043e\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vojskova"
+    ],
     "name:und_x_variant":[
         "Vojskovo",
         "Vojskova"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1310510137,
-    "wof:lastmodified":1537585551,
+    "wof:lastmodified":1564147913,
     "wof:name":"Vojskova",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

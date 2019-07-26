@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010curovi"
+    ],
+    "name:fra_x_preferred":[
+        "\u010curovi"
+    ],
     "name:und_x_variant":[
         "\u010curovi"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293218245,
-    "wof:lastmodified":1537585671,
+    "wof:lastmodified":1564146457,
     "wof:name":"Curovi",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

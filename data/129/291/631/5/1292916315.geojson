@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mrazovci"
+    ],
+    "name:fra_x_preferred":[
+        "Mrazovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Mrazovci"
+    ],
+    "name:slv_x_preferred":[
+        "Mrazovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0440\u0430\u0437\u043e\u0432\u0446\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1292916315,
-    "wof:lastmodified":1536613944,
+    "wof:lastmodified":1564146325,
     "wof:name":"Mrazovci",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

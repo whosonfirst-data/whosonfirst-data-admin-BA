@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vlakovo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bb\u03ac\u03ba\u03bf\u03b2\u03bf"
+    ],
+    "name:fra_x_preferred":[
+        "Vlakovo"
+    ],
+    "name:spa_x_preferred":[
+        "Vlakovo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276995413,
-    "wof:lastmodified":1537486712,
+    "wof:lastmodified":1564146865,
     "wof:name":"Vlakovo",
     "wof:parent_id":1108759105,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160eva\u0161 Njive"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160eva\u0161 Njive"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160eva\u0161 Njive"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160eva\u0161 Njive"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0435\u0432\u0430\u0448 \u040a\u0438\u0432\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160eva\u0161 Njive"
+    ],
     "name:und_x_variant":[
         "\u0160eva\u0161 Njive"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343779675,
-    "wof:lastmodified":1537585665,
+    "wof:lastmodified":1564145723,
     "wof:name":"Sevas Njive",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

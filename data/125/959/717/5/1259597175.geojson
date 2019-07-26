@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0106usine"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010cusine"
+    ],
+    "name:fra_x_preferred":[
+        "\u0106usine"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0106usine"
+    ],
+    "name:srp_x_preferred":[
+        "\u040b\u0443\u0441\u0438\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cusine"
+    ],
     "name:und_x_variant":[
         "\u010cusina",
         "\u010cusine"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1259597175,
-    "wof:lastmodified":1537585616,
+    "wof:lastmodified":1564148888,
     "wof:name":"Cusine",
     "wof:parent_id":1108759115,
     "wof:placetype":"locality",

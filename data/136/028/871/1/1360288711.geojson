@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Obrije\u017e"
+    ],
+    "name:ceb_x_preferred":[
+        "Obrije\u017e"
+    ],
+    "name:fra_x_preferred":[
+        "Obrije\u017e"
+    ],
+    "name:hrv_x_preferred":[
+        "Obrije\u017e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0440\u0438\u0435\u0436"
+    ],
+    "name:slv_x_preferred":[
+        "Obrije\u017e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0431\u0440\u0438\u0458\u0435\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Obrije\u017e"
+    ],
     "name:und_x_variant":[
         "Obrije\u017e"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1360288711,
-    "wof:lastmodified":1537585652,
+    "wof:lastmodified":1564148045,
     "wof:name":"Obrijez",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Dolina"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Dolina"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Dolina"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Dolina"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Dolina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u0414\u043e\u043b\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Donja Dolina"
+    ],
     "name:und_x_variant":[
         "Dolina Donja",
         "Donja Dolina"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1326743483,
-    "wof:lastmodified":1537585613,
+    "wof:lastmodified":1564145181,
     "wof:name":"Donja Dolina",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Osje\u010dani"
+    ],
+    "name:fra_x_preferred":[
+        "Osje\u010dani"
+    ],
     "name:und_x_variant":[
         "Osije\u010dani",
         "Osje\u010dani"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326848225,
-    "wof:lastmodified":1537585576,
+    "wof:lastmodified":1564145438,
     "wof:name":"Osjecani",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

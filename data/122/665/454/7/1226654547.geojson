@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Drina"
+    ],
+    "name:fra_x_preferred":[
+        "Drina"
+    ],
+    "name:hrv_x_preferred":[
+        "Drina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0438\u043d\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1226654547,
-    "wof:lastmodified":1537486841,
+    "wof:lastmodified":1564149323,
     "wof:name":"Drina",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

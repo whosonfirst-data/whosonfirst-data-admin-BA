@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Pale\u017e"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Pale\u017e"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Pale\u017e"
+    ],
     "name:und_x_variant":[
         "Pale\u0161 Gornji",
         "Gornji Pale\u017e"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327033903,
-    "wof:lastmodified":1537585600,
+    "wof:lastmodified":1564145383,
     "wof:name":"Gornji Palez",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

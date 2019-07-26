@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pobu\u0111e"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0431\u0443\u0434\u0436\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Pobu\u0111e"
+    ],
+    "name:fra_x_preferred":[
+        "Pobu\u0111e"
+    ],
+    "name:hrv_x_preferred":[
+        "Pobu\u0111e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0431\u0443\u0434\u0436\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0431\u0443\u0452\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Pobu\u0111e"
+    ],
     "name:und_x_variant":[
         "Pobu\u0111e"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1327244579,
-    "wof:lastmodified":1537585573,
+    "wof:lastmodified":1564145309,
     "wof:name":"Pobude",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

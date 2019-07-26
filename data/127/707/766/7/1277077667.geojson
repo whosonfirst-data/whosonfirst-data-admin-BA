@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bjelo\u0161evac"
+    ],
+    "name:ceb_x_preferred":[
+        "Bjelo\u0161evac"
+    ],
+    "name:fra_x_preferred":[
+        "Bjelo\u0161evac"
+    ],
+    "name:hrv_x_preferred":[
+        "Bjelo\u0161evac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0448\u0435\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Bjelo\u0161evac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0458\u0435\u043b\u043e\u0448\u0435\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Bjelo\u0161evac"
+    ],
     "name:und_x_variant":[
         "Bjelo\u0161evac"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1277077667,
-    "wof:lastmodified":1537585626,
+    "wof:lastmodified":1564146511,
     "wof:name":"Bjelosevac",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

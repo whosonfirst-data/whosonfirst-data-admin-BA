@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Spahovi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Spahovi\u0107i"
+    ],
     "name:und_x_variant":[
         "Spahovi\u0107i"
     ],
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209008353,
-    "wof:lastmodified":1537585670,
+    "wof:lastmodified":1564146895,
     "wof:name":"Spahovici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

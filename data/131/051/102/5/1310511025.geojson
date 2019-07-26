@@ -25,6 +25,114 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0627\u0644 \u0628\u064a\u0631\u064a\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Pirin"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u0440\u044b\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Muntanyes Pirin"
+    ],
+    "name:ces_x_preferred":[
+        "Pirin"
+    ],
+    "name:chu_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d\u044a"
+    ],
+    "name:deu_x_preferred":[
+        "Pirin"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03c1\u03af\u03bd"
+    ],
+    "name:epo_x_preferred":[
+        "Pirin"
+    ],
+    "name:eus_x_preferred":[
+        "Pirin"
+    ],
+    "name:fra_x_preferred":[
+        "Pirin"
+    ],
+    "name:hrv_x_preferred":[
+        "Pirin"
+    ],
+    "name:hun_x_preferred":[
+        "Pirin-hegys\u00e9g"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u0580\u056b\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Pirin"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10e0\u10d8\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud53c\ub9b0\uc0b0\ub9e5"
+    ],
+    "name:lit_x_preferred":[
+        "Pirinas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d3f\u0d30\u0d3f\u0d7b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Pirin"
+    ],
+    "name:nno_x_preferred":[
+        "Pirin"
+    ],
+    "name:nor_x_preferred":[
+        "Pirin"
+    ],
+    "name:pol_x_preferred":[
+        "Piryn"
+    ],
+    "name:ron_x_preferred":[
+        "Mun\u021bii Pirin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Pirin"
+    ],
+    "name:spa_x_preferred":[
+        "Pirin"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Pirin"
+    ],
+    "name:swe_x_preferred":[
+        "Pirinbergen"
+    ],
+    "name:tur_x_preferred":[
+        "Pirin Da\u011f\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0440\u0438\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Pirin"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u6797\u5c71\u8108"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +156,7 @@
         }
     ],
     "wof:id":1310511025,
-    "wof:lastmodified":1536909149,
+    "wof:lastmodified":1564147910,
     "wof:name":"Pirin",
     "wof:parent_id":1108759143,
     "wof:placetype":"locality",

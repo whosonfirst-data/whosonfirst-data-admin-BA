@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bogojevi\u0107 Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Bogojevi\u0107 Selo"
+    ],
+    "name:ita_x_preferred":[
+        "Bogojevi\u0107 Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0458\u0435\u0432\u0438\u045b \u0421\u0435\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Bogojevi\u0107 Selo"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343966963,
-    "wof:lastmodified":1537585625,
+    "wof:lastmodified":1564145609,
     "wof:name":"Bogojevic Selo",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0106ojluk"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0106ojluk"
+    ],
+    "name:fra_x_preferred":[
+        "\u0106ojluk"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0106ojluk"
+    ],
+    "name:swe_x_preferred":[
+        "\u0106ojluk"
+    ],
     "name:und_x_variant":[
         "\u0106ojluk"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1343279539,
-    "wof:lastmodified":1537585645,
+    "wof:lastmodified":1564145929,
     "wof:name":"Cojluk",
     "wof:parent_id":1108759243,
     "wof:placetype":"locality",

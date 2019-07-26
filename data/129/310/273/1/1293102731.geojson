@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pridvorci"
+    ],
+    "name:ceb_x_preferred":[
+        "Pridvorci"
+    ],
+    "name:fra_x_preferred":[
+        "Pridvorci"
+    ],
+    "name:hrv_x_preferred":[
+        "Pridvorci"
+    ],
+    "name:slv_x_preferred":[
+        "Pridvorci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0434\u0432\u043e\u0440\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Pridvorci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1293102731,
-    "wof:lastmodified":1536843664,
+    "wof:lastmodified":1564146427,
     "wof:name":"Pridvorci",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

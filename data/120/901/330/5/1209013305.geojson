@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dubrava Stara"
+    ],
+    "name:ceb_x_preferred":[
+        "Dubrava Stara"
+    ],
+    "name:fra_x_preferred":[
+        "Dubrava Stara"
+    ],
+    "name:hrv_x_preferred":[
+        "Dubrava Stara"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0430 \u0421\u0442\u0430\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dubrava Stara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209013305,
-    "wof:lastmodified":1537486863,
+    "wof:lastmodified":1564146942,
     "wof:name":"Dubrava Stara",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

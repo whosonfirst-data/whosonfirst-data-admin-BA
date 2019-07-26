@@ -25,6 +25,9 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Titularbistum Cincari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243376251,
-    "wof:lastmodified":1536907007,
+    "wof:lastmodified":1564148287,
     "wof:name":"Cincari",
     "wof:parent_id":1108759227,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrhbarje"
+    ],
+    "name:fra_x_preferred":[
+        "Vrhbarje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0445\u0431\u0430\u0440\u0458\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1242974019,
-    "wof:lastmodified":1537486849,
+    "wof:lastmodified":1564148590,
     "wof:name":"Vrhbarje",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

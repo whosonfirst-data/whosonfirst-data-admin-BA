@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vla\u0161kovo"
+    ],
+    "name:ceb_x_preferred":[
+        "Vla\u0161kovo"
+    ],
+    "name:fra_x_preferred":[
+        "Vla\u0161kovo"
+    ],
+    "name:swe_x_preferred":[
+        "Vla\u0161kovo"
+    ],
     "name:und_x_variant":[
         "Vla\u0161kovo"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242691959,
-    "wof:lastmodified":1537585551,
+    "wof:lastmodified":1564148433,
     "wof:name":"Vlaskovo",
     "wof:parent_id":1108759109,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Briznik"
+    ],
+    "name:fra_x_preferred":[
+        "Briznik"
+    ],
+    "name:hrv_x_preferred":[
+        "Briznik"
+    ],
     "name:und_x_variant":[
         "Bri\u0161nik",
         "Briznik"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243268069,
-    "wof:lastmodified":1537585622,
+    "wof:lastmodified":1564148695,
     "wof:name":"Briznik",
     "wof:parent_id":1108759297,
     "wof:placetype":"locality",

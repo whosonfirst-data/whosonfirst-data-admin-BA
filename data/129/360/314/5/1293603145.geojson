@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rajeti\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Rajeti\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Rajeti\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0458\u0435\u0442\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Rajeti\u0107i"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293603145,
-    "wof:lastmodified":1537585676,
+    "wof:lastmodified":1564146288,
     "wof:name":"Rajetici",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

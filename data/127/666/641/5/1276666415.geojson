@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podmeljine"
+    ],
+    "name:fra_x_preferred":[
+        "Podmeljine"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u043c\u0435\u0459\u0438\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276666415,
-    "wof:lastmodified":1537486846,
+    "wof:lastmodified":1564146683,
     "wof:name":"Podmeljine",
     "wof:parent_id":1108759085,
     "wof:placetype":"locality",

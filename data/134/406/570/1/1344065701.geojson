@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Greben"
+    ],
+    "name:fra_x_preferred":[
+        "Greben"
+    ],
+    "name:hrv_x_preferred":[
+        "Greben"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u0431\u0435\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0435\u0431\u0435\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1344065701,
-    "wof:lastmodified":1537486866,
+    "wof:lastmodified":1564145672,
     "wof:name":"Greben",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

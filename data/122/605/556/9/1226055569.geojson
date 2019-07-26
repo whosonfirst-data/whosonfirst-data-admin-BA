@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160irijevi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160irijevi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0438\u0440\u0438\u0458\u0435\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "\u0160jrijevi\u0107i",
         "\u0160irijevi\u0107i"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226055569,
-    "wof:lastmodified":1537585563,
+    "wof:lastmodified":1564149096,
     "wof:name":"Sirijevici",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

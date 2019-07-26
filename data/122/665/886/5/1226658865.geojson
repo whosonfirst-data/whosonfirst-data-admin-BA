@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mekavci"
+    ],
+    "name:fra_x_preferred":[
+        "Mekavci"
+    ],
+    "name:hrv_x_preferred":[
+        "Mekavci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u043a\u0430\u0432\u0446\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226658865,
-    "wof:lastmodified":1537486857,
+    "wof:lastmodified":1564149321,
     "wof:name":"Mekavci",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

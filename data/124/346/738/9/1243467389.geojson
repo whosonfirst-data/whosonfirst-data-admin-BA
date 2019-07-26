@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Drobni\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Drobni\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u043e\u0431\u043d\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Drobni\u0107i"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243467389,
-    "wof:lastmodified":1537585607,
+    "wof:lastmodified":1564148457,
     "wof:name":"Drobnici",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

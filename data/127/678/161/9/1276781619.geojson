@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Stra\u017ea"
+    ],
+    "name:fra_x_preferred":[
+        "Stra\u017ea"
+    ],
+    "name:hrv_x_preferred":[
+        "Stra\u017ea"
+    ],
     "name:und_x_variant":[
         "Stra\u017ea"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276781619,
-    "wof:lastmodified":1537585664,
+    "wof:lastmodified":1564146731,
     "wof:name":"Straza",
     "wof:parent_id":1108759243,
     "wof:placetype":"locality",

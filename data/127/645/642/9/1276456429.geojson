@@ -25,6 +25,57 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kasalice"
+    ],
+    "name:ces_x_preferred":[
+        "Kasalice"
+    ],
+    "name:deu_x_preferred":[
+        "Kasalice"
+    ],
+    "name:epo_x_preferred":[
+        "Kasalice"
+    ],
+    "name:eus_x_preferred":[
+        "Kasalice"
+    ],
+    "name:fra_x_preferred":[
+        "Kasalice"
+    ],
+    "name:hun_x_preferred":[
+        "Kasalice"
+    ],
+    "name:ita_x_preferred":[
+        "Kasalice"
+    ],
+    "name:msa_x_preferred":[
+        "Kasalice"
+    ],
+    "name:nld_x_preferred":[
+        "Kasalice"
+    ],
+    "name:pol_x_preferred":[
+        "Kasalice"
+    ],
+    "name:por_x_preferred":[
+        "Kasalice"
+    ],
+    "name:slk_x_preferred":[
+        "Kasalice"
+    ],
+    "name:spa_x_preferred":[
+        "Kasalice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0441\u0430\u043b\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kasalice"
+    ],
+    "name:vie_x_preferred":[
+        "Kasalice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +99,7 @@
         }
     ],
     "wof:id":1276456429,
-    "wof:lastmodified":1536611152,
+    "wof:lastmodified":1564146554,
     "wof:name":"Kasalice",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

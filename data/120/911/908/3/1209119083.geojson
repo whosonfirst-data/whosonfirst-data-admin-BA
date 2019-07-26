@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017dakovo"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dakovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0430\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "\u017dakovo"
     ],
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1209119083,
-    "wof:lastmodified":1537585548,
+    "wof:lastmodified":1564147198,
     "wof:name":"Zakovo",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dubravice Gornje"
+    ],
+    "name:ceb_x_preferred":[
+        "Dubravice Gornje"
+    ],
+    "name:fra_x_preferred":[
+        "Dubravice Gornje"
+    ],
+    "name:hrv_x_preferred":[
+        "Dubravice Gornje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0438\u0446\u0435 \u0413\u043e\u0440\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dubravice Gornje"
+    ],
     "name:und_x_variant":[
         "Srpske Dubravice",
         "Dubravice Pravoslavne",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243207131,
-    "wof:lastmodified":1537585607,
+    "wof:lastmodified":1564148601,
     "wof:name":"Dubravice Gornje",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

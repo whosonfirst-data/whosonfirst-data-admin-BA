@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ograde"
+    ],
+    "name:fra_x_preferred":[
+        "Ograde"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0433\u0440\u0430\u0434\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1226548631,
-    "wof:lastmodified":1537486742,
+    "wof:lastmodified":1564149350,
     "wof:name":"Ograde",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

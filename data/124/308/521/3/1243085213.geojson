@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062a\u0643\u0627\u0644\u064a\u0646\u064a\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Potkalinje"
+    ],
+    "name:fra_x_preferred":[
+        "Potkalinje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0442\u043a\u0430\u043b\u0438\u045a\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1243085213,
-    "wof:lastmodified":1537486829,
+    "wof:lastmodified":1564148307,
     "wof:name":"Potkalinje",
     "wof:parent_id":1108759003,
     "wof:placetype":"locality",

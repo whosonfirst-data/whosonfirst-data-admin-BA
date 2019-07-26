@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bo\u0161kovi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Bo\u0161kovi\u0107i"
+    ],
     "name:und_x_variant":[
         "Bo\u0161kovi\u0107i"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1260097979,
-    "wof:lastmodified":1537585672,
+    "wof:lastmodified":1564147429,
     "wof:name":"Boskovici",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

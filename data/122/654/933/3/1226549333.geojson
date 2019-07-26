@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Biberovo Polje"
+    ],
+    "name:ceb_x_preferred":[
+        "Biberovo Polje"
+    ],
+    "name:deu_x_preferred":[
+        "Biberovo Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Biberovo Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Biberovo Polje"
+    ],
+    "name:swe_x_preferred":[
+        "Biberovo Polje"
+    ],
     "name:und_x_variant":[
         "Biberovo",
         "Biberovo Polje"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1226549333,
-    "wof:lastmodified":1537585628,
+    "wof:lastmodified":1564149346,
     "wof:name":"Biberovo Polje",
     "wof:parent_id":1108759093,
     "wof:placetype":"locality",

@@ -25,8 +25,89 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bistro"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u09b8\u09cd\u09a4\u09cd\u09b0\u09cb"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Bistrot"
+    ],
+    "name:cym_x_preferred":[
+        "Bistro"
+    ],
+    "name:deu_x_preferred":[
+        "Bistro"
+    ],
+    "name:epo_x_preferred":[
+        "Bistroo"
+    ],
+    "name:eus_x_preferred":[
+        "Bistro"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0633\u062a\u0631\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Bistro"
+    ],
+    "name:fra_x_preferred":[
+        "Bistro"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e1\u05d8\u05e8\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Bistrot"
+    ],
+    "name:lit_x_preferred":[
+        "Bistro"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Bistro"
+    ],
+    "name:nor_x_preferred":[
+        "Bistro"
+    ],
+    "name:pol_x_preferred":[
+        "Bistro"
+    ],
+    "name:por_x_preferred":[
+        "Bistr\u00f4"
+    ],
+    "name:ron_x_preferred":[
+        "Bistrou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Bistr\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Bistro"
+    ],
+    "name:tgl_x_preferred":[
+        "Bistro"
+    ],
+    "name:tur_x_preferred":[
+        "Bistro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0441\u0442\u0440\u043e"
+    ],
     "name:und_x_variant":[
         "Bistra",
+        "Bistro"
+    ],
+    "name:zho_x_preferred":[
         "Bistro"
     ],
     "src:geom":"geonames",
@@ -52,7 +133,7 @@
         }
     ],
     "wof:id":1226157247,
-    "wof:lastmodified":1537585626,
+    "wof:lastmodified":1564149266,
     "wof:name":"Bistro",
     "wof:parent_id":1108759183,
     "wof:placetype":"locality",

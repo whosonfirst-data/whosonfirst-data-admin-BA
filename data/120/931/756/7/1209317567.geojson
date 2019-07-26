@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hrasti\u0161ta"
+    ],
+    "name:fra_x_preferred":[
+        "Hrasti\u0161ta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u0442\u0438\u0448\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Hrasti\u0161te",
         "Hrasti\u0161ta"
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1209317567,
-    "wof:lastmodified":1537585637,
+    "wof:lastmodified":1564146889,
     "wof:name":"Hrastista",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

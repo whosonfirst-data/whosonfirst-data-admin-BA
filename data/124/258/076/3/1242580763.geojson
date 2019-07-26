@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Radijevi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Radijevi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0438\u0458\u0435\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Radijevi\u0107i"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1242580763,
-    "wof:lastmodified":1537585672,
+    "wof:lastmodified":1564148417,
     "wof:name":"Radijevici",
     "wof:parent_id":1108759085,
     "wof:placetype":"locality",

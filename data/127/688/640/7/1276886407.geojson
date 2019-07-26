@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sikiri\u0107"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u043a\u0438\u0440\u0438\u0447"
+    ],
+    "name:ceb_x_preferred":[
+        "Sikiri\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Sikiri\u0107"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043a\u0438\u0440\u0438\u0447"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u043a\u0438\u0440\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Sikiri\u0107"
+    ],
     "name:und_x_variant":[
         "Sikiri\u0107i",
         "Sikiri\u0107"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1276886407,
-    "wof:lastmodified":1537585564,
+    "wof:lastmodified":1564146529,
     "wof:name":"Sikiric",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jasenak"
+    ],
+    "name:ceb_x_preferred":[
+        "Jasenak"
+    ],
+    "name:fra_x_preferred":[
+        "Jasenak"
+    ],
+    "name:hrv_x_preferred":[
+        "Jasenak"
+    ],
+    "name:hun_x_preferred":[
+        "Jasenak"
+    ],
+    "name:slv_x_preferred":[
+        "Jasenak"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0441\u0435\u043d\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Jasenak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -42,7 +66,7 @@
         }
     ],
     "wof:id":1209528789,
-    "wof:lastmodified":1536284348,
+    "wof:lastmodified":1564146992,
     "wof:name":"Jasenak",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

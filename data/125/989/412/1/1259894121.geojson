@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0631\u0633\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Vrci"
+    ],
+    "name:ceb_x_preferred":[
+        "Vrci"
+    ],
+    "name:fra_x_preferred":[
+        "Vrci"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vrci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1259894121,
-    "wof:lastmodified":1537486870,
+    "wof:lastmodified":1564148939,
     "wof:name":"Vrci",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

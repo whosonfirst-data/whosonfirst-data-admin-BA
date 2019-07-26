@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Parnica"
+    ],
+    "name:fra_x_preferred":[
+        "Parnica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1242591657,
-    "wof:lastmodified":1537486833,
+    "wof:lastmodified":1564148402,
     "wof:name":"Parnica",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",
