@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160a\u0161kinovci"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160a\u0161kinovci"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160a\u0161kinovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0448\u043a\u0438\u043d\u043e\u0432\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "\u0160a\u0161kinovci"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242877261,
-    "wof:lastmodified":1537585662,
+    "wof:lastmodified":1564148344,
     "wof:name":"Saskinovci",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

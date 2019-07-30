@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Potkraj"
+    ],
+    "name:fra_x_preferred":[
+        "Potkraj"
+    ],
+    "name:hrv_x_preferred":[
+        "Potkraj"
+    ],
     "name:und_x_variant":[
         "Podkraj",
         "Potkraj"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276446313,
-    "wof:lastmodified":1537585572,
+    "wof:lastmodified":1564146544,
     "wof:name":"Potkraj",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

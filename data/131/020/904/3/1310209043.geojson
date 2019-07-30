@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Glamo\u010d"
+    ],
+    "name:ceb_x_preferred":[
+        "Glamo\u010d"
+    ],
+    "name:fra_x_preferred":[
+        "Glamo\u010d"
+    ],
+    "name:swe_x_preferred":[
+        "Glamo\u010d"
+    ],
     "name:und_x_variant":[
         "Glamo\u010d"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1310209043,
-    "wof:lastmodified":1537585605,
+    "wof:lastmodified":1564147795,
     "wof:name":"Glamoc",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

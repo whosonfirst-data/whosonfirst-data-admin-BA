@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bijakovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Bijakovac"
+    ],
+    "name:fra_x_preferred":[
+        "Bijakovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Bijakovac"
+    ],
+    "name:slv_x_preferred":[
+        "Bijakovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0458\u0430\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Bijakovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1310514155,
-    "wof:lastmodified":1537486800,
+    "wof:lastmodified":1564147914,
     "wof:name":"Bijakovac",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017du\u017eelo"
+    ],
+    "name:fra_x_preferred":[
+        "\u017du\u017eelo"
+    ],
     "name:und_x_variant":[
         "\u017du\u017eelj",
         "\u017du\u017eelo"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1242680857,
-    "wof:lastmodified":1537585545,
+    "wof:lastmodified":1564148376,
     "wof:name":"Zuzelo",
     "wof:parent_id":1108759085,
     "wof:placetype":"locality",

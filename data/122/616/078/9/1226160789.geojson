@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0632\u0627\u0646\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Du\u017eani"
+    ],
+    "name:fra_x_preferred":[
+        "Du\u017eani"
+    ],
+    "name:hrv_x_preferred":[
+        "Du\u017eani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0436\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Du\u017eani"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226160789,
-    "wof:lastmodified":1537585606,
+    "wof:lastmodified":1564149080,
     "wof:name":"Duzani",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

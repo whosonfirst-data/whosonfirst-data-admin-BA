@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bugovina"
+    ],
+    "name:fra_x_preferred":[
+        "Bugovina"
+    ],
+    "name:ita_x_preferred":[
+        "Bugovina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0433\u043e\u0432\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +55,7 @@
         }
     ],
     "wof:id":1209118823,
-    "wof:lastmodified":1537486792,
+    "wof:lastmodified":1564147212,
     "wof:name":"Bugovina",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

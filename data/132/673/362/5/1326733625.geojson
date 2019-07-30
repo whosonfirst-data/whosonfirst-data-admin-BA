@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dubo\u010dica"
+    ],
+    "name:fra_x_preferred":[
+        "Dubo\u010dica"
+    ],
+    "name:hrv_x_preferred":[
+        "Dubo\u010dica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0447\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0447\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Dubo\u010dica"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1326733625,
-    "wof:lastmodified":1537585607,
+    "wof:lastmodified":1564145194,
     "wof:name":"Dubocica",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

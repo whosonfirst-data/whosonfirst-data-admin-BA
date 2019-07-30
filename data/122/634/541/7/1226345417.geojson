@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kornica"
+    ],
+    "name:ceb_x_preferred":[
+        "Kornica"
+    ],
+    "name:deu_x_preferred":[
+        "Kornica"
+    ],
+    "name:fra_x_preferred":[
+        "Kornica"
+    ],
+    "name:hrv_x_preferred":[
+        "Kornica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kornica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1226345417,
-    "wof:lastmodified":1537486758,
+    "wof:lastmodified":1564149094,
     "wof:name":"Kornica",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",

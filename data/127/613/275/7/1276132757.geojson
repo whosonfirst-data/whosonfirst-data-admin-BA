@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Begleri"
+    ],
+    "name:cat_x_preferred":[
+        "Begleri"
+    ],
+    "name:fra_x_preferred":[
+        "Begl\u00e9ri"
+    ],
+    "name:ita_x_preferred":[
+        "Begleri"
+    ],
+    "name:spa_x_preferred":[
+        "Begleri"
+    ],
+    "name:vie_x_preferred":[
+        "Begleri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276132757,
-    "wof:lastmodified":1537045423,
+    "wof:lastmodified":1564146700,
     "wof:name":"Begleri",
     "wof:parent_id":1108759099,
     "wof:placetype":"locality",

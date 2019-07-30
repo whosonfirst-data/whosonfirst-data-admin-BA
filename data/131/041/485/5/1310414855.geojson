@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podmedenik"
+    ],
+    "name:fra_x_preferred":[
+        "Podmedenik"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u043c\u0435\u0434\u0435\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Podmjedenik",
         "Podmedenik"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310414855,
-    "wof:lastmodified":1537585670,
+    "wof:lastmodified":1564147631,
     "wof:name":"Podmedenik",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

@@ -25,6 +25,60 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042e\u0437\u0430\u0440\u044b"
+    ],
+    "name:dan_x_preferred":[
+        "Uzari"
+    ],
+    "name:deu_x_preferred":[
+        "Uzari"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0632\u0627\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Uzari"
+    ],
+    "name:fra_x_preferred":[
+        "Uzari"
+    ],
+    "name:glg_x_preferred":[
+        "Uzari"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0578\u0582\u0566\u0561\u0580\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Uzari"
+    ],
+    "name:lav_x_preferred":[
+        "Juzari"
+    ],
+    "name:lit_x_preferred":[
+        "Juzari"
+    ],
+    "name:nld_x_preferred":[
+        "Uzari"
+    ],
+    "name:pol_x_preferred":[
+        "Uzari"
+    ],
+    "name:ron_x_preferred":[
+        "Uzari"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0437\u0430\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Uzari"
+    ],
+    "name:swe_x_preferred":[
+        "Jurij Navrotskij"
+    ],
+    "name:tur_x_preferred":[
+        "Uzari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +102,7 @@
         }
     ],
     "wof:id":1226553011,
-    "wof:lastmodified":1536986710,
+    "wof:lastmodified":1564149289,
     "wof:name":"Uzari",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

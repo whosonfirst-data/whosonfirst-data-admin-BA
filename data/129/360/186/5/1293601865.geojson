@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "D\u017eimrije"
+    ],
+    "name:ceb_x_preferred":[
+        "D\u017eimrije"
+    ],
+    "name:fra_x_preferred":[
+        "D\u017eimrije"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0438\u043c\u0440\u0438\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "D\u017eimrije"
+    ],
     "name:und_x_variant":[
         "D\u017eimrije"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293601865,
-    "wof:lastmodified":1537585606,
+    "wof:lastmodified":1564146287,
     "wof:name":"Dzimrije",
     "wof:parent_id":1108759103,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Biograci"
+    ],
+    "name:ceb_x_preferred":[
+        "Biograci"
+    ],
+    "name:fra_x_preferred":[
+        "Biograci"
+    ],
+    "name:hrv_x_preferred":[
+        "Biograci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043e\u0433\u0440\u0430\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Biograci"
+    ],
     "name:und_x_variant":[
         "Biogradci",
         "Biograci"
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1209429241,
-    "wof:lastmodified":1537585627,
+    "wof:lastmodified":1564147231,
     "wof:name":"Biograci",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

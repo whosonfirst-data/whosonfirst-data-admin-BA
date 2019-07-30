@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ra\u0161ljeva"
+    ],
+    "name:ceb_x_preferred":[
+        "Ra\u0161ljeva"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u0161ljeva"
+    ],
+    "name:hrv_x_preferred":[
+        "Ra\u0161ljeva"
+    ],
+    "name:swe_x_preferred":[
+        "Ra\u0161ljeva"
+    ],
     "name:und_x_variant":[
         "Ra\u0161ljevo",
         "Ra\u0161ljeva"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1225962031,
-    "wof:lastmodified":1537585568,
+    "wof:lastmodified":1564149183,
     "wof:name":"Rasljeva",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

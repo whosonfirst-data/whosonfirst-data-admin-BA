@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Paraun"
+    ],
+    "name:fra_x_preferred":[
+        "Paraun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1225958287,
-    "wof:lastmodified":1537486845,
+    "wof:lastmodified":1564148991,
     "wof:name":"Paraun",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

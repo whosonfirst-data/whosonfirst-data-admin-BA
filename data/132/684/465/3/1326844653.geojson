@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Rovna"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Rovna"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Rovna"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Rovna"
+    ],
+    "name:swe_x_preferred":[
+        "Donja Rovna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1326844653,
-    "wof:lastmodified":1537486783,
+    "wof:lastmodified":1564145428,
     "wof:name":"Donja Rovna",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

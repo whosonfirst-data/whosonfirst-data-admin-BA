@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Krasanovi\u0107i"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Krasanovi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Krasanovi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Krasanovi\u0107i"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u0430\u043d\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u0430\u043d\u043e\u0432\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Krasanovi\u0107i"
+    ],
     "name:und_x_variant":[
         "Krasanovi\u0107i"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1310504565,
-    "wof:lastmodified":1537585589,
+    "wof:lastmodified":1564147893,
     "wof:name":"Krasanovici",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

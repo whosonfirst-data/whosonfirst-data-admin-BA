@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donji Uli\u0161njak"
+    ],
+    "name:ceb_x_preferred":[
+        "Donji Uli\u0161njak"
+    ],
+    "name:fra_x_preferred":[
+        "Donji Uli\u0161njak"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Uli\u0161njak"
+    ],
+    "name:swe_x_preferred":[
+        "Donji Uli\u0161njak"
+    ],
     "name:und_x_variant":[
         "Donji Uli\u0161njak"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1360102739,
-    "wof:lastmodified":1537585664,
+    "wof:lastmodified":1564148049,
     "wof:name":"Donji Ulisnjak",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0628\u064a\u062a\u0634\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Gapi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Gapi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u043f\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Gapi\u0107i"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1326644143,
-    "wof:lastmodified":1537585606,
+    "wof:lastmodified":1564145467,
     "wof:name":"Gapici",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

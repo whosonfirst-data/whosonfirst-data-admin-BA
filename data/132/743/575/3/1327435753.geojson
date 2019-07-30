@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Begovo Selo"
+    ],
+    "name:ceb_x_preferred":[
+        "Begovo Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Begovo Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Begovo Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0433\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Begovo Selo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1327435753,
-    "wof:lastmodified":1537486800,
+    "wof:lastmodified":1564145569,
     "wof:name":"Begovo Selo",
     "wof:parent_id":1108759145,
     "wof:placetype":"locality",

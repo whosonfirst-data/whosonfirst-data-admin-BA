@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0634\u064a\u0641\u0648"
+    ],
+    "name:bos_x_preferred":[
+        "\u010ci\u010devo"
+    ],
+    "name:fra_x_preferred":[
+        "\u010ci\u010devo"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010ci\u010devo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "\u010ci\u010devo"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1259386823,
-    "wof:lastmodified":1537585617,
+    "wof:lastmodified":1564148704,
     "wof:name":"Cicevo",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

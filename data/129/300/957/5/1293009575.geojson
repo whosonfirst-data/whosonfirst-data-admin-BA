@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u062c\u06a9"
+    ],
+    "name:aze_x_preferred":[
+        "B\u00fclc\u0259g"
+    ],
+    "name:ceb_x_preferred":[
+        "Bowljak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u062c\u06a9"
+    ],
+    "name:msa_x_preferred":[
+        "Boljak"
+    ],
+    "name:swe_x_preferred":[
+        "Bowljak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293009575,
-    "wof:lastmodified":1536978297,
+    "wof:lastmodified":1564146022,
     "wof:name":"Boljak",
     "wof:parent_id":1108759179,
     "wof:placetype":"locality",

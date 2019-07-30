@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Glavi\u010dorak"
+    ],
+    "name:ceb_x_preferred":[
+        "Glavi\u010dorak"
+    ],
+    "name:fra_x_preferred":[
+        "Glavi\u010dorak"
+    ],
+    "name:hrv_x_preferred":[
+        "Glavi\u010dorak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0438\u0447\u043e\u0440\u0430\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Glavi\u010dorak"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0438\u0447\u043e\u0440\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Glavi\u010dorak"
+    ],
     "name:und_x_variant":[
         "Glavi\u010dak",
         "Glavi\u010dorak"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1293496607,
-    "wof:lastmodified":1537585605,
+    "wof:lastmodified":1564146167,
     "wof:name":"Glavicorak",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

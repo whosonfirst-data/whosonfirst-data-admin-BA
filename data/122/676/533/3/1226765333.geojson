@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kongora"
+    ],
+    "name:ceb_x_preferred":[
+        "Kongora"
+    ],
+    "name:fra_x_preferred":[
+        "Kongora"
+    ],
+    "name:hrv_x_preferred":[
+        "Kongora"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043d\u0433\u043e\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kongora"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1226765333,
-    "wof:lastmodified":1537486759,
+    "wof:lastmodified":1564149222,
     "wof:name":"Kongora",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

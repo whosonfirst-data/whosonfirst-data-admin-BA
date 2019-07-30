@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Borovica"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Borovica"
+    ],
+    "name:hrv_x_preferred":[
+        "Borovica Gornja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276772105,
-    "wof:lastmodified":1536687863,
+    "wof:lastmodified":1564146800,
     "wof:name":"Borovica",
     "wof:parent_id":1108759229,
     "wof:placetype":"locality",

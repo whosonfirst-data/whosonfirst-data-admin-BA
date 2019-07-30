@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hrgovi Donji"
+    ],
+    "name:ceb_x_preferred":[
+        "Hrgovi Donji"
+    ],
+    "name:deu_x_preferred":[
+        "Hrgovi Donji"
+    ],
+    "name:fra_x_preferred":[
+        "Hrgovi Donji"
+    ],
+    "name:hrv_x_preferred":[
+        "Hrgovi Donji"
+    ],
+    "name:swe_x_preferred":[
+        "Hrgovi Donji"
+    ],
     "name:und_x_variant":[
         "Donji Hrgovi",
         "Hrgovi Donji"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1242809207,
-    "wof:lastmodified":1537585596,
+    "wof:lastmodified":1564148333,
     "wof:name":"Hrgovi Donji",
     "wof:parent_id":1108759093,
     "wof:placetype":"locality",

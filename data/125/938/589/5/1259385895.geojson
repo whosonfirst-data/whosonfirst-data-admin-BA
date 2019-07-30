@@ -25,11 +25,56 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "O\u0161tra Luka"
+    ],
+    "name:cat_x_preferred":[
+        "O\u0161tra Luka"
+    ],
+    "name:ces_x_preferred":[
+        "O\u0161tra Luka"
+    ],
+    "name:deu_x_preferred":[
+        "O\u0161tra Luka"
+    ],
+    "name:fra_x_preferred":[
+        "O\u0161tra Luka"
+    ],
+    "name:hrv_x_preferred":[
+        "O\u0161tra Luka"
+    ],
+    "name:ita_x_preferred":[
+        "O\u0161tra Luka"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uc288\ud2b8\ub77c\ub8e8\uce74"
+    ],
+    "name:nld_x_preferred":[
+        "O\u0161tra Luka"
+    ],
+    "name:pol_x_preferred":[
+        "O\u0161tra Luka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0448\u0442\u0440\u0430-\u041b\u0443\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "O\u0161tra Luka"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041e\u0448\u0442\u0440\u0430 \u041b\u0443\u043a\u0430"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u0448\u0442\u0440\u0430 \u041b\u0443\u043a\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "O\u0161tra Luka"
+    ],
     "name:und_x_variant":[
         "O\u0161tra Luka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u4ec0\u7279\u62c9\u5362\u5361"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +100,7 @@
         }
     ],
     "wof:id":1259385895,
-    "wof:lastmodified":1537585576,
+    "wof:lastmodified":1564148701,
     "wof:name":"Ostra Luka",
     "wof:parent_id":1108759223,
     "wof:placetype":"locality",

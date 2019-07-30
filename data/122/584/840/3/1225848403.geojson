@@ -25,6 +25,39 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Amajlije"
+    ],
+    "name:ceb_x_preferred":[
+        "Amajlije"
+    ],
+    "name:deu_x_preferred":[
+        "Amajlije"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03ac\u03b9\u03bb\u03b9\u03b3\u03b9\u03b5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0627\u062c\u0644\u06cc\u062c"
+    ],
+    "name:fra_x_preferred":[
+        "Amajlije"
+    ],
+    "name:hrv_x_preferred":[
+        "Amajlije"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u0439\u043b\u0438\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Amajlije"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043c\u0430\u0458\u043b\u0438\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Amajlije"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1225848403,
-    "wof:lastmodified":1537486803,
+    "wof:lastmodified":1564149393,
     "wof:name":"Amajlije",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

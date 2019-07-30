@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bro\u0107anac"
+    ],
+    "name:fra_x_preferred":[
+        "Bro\u0107anac"
+    ],
+    "name:hrv_x_preferred":[
+        "Bro\u0107anac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u043e\u045b\u0430\u043d\u0430\u0446"
+    ],
     "name:und_x_variant":[
         "Bro\u0107anac"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293004777,
-    "wof:lastmodified":1537585665,
+    "wof:lastmodified":1564146015,
     "wof:name":"Brocanac",
     "wof:parent_id":1108759177,
     "wof:placetype":"locality",

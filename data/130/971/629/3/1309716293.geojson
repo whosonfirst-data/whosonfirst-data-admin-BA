@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podstijena"
+    ],
+    "name:ceb_x_preferred":[
+        "Podstijena"
+    ],
+    "name:fra_x_preferred":[
+        "Podstijena"
+    ],
+    "name:swe_x_preferred":[
+        "Podstijena"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1309716293,
-    "wof:lastmodified":1537057586,
+    "wof:lastmodified":1564148126,
     "wof:name":"Podstijena",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

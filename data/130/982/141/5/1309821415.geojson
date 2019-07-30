@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pogar"
+    ],
+    "name:swe_x_preferred":[
+        "Pogar"
+    ],
     "name:und_x_variant":[
         "Pogari",
         "Pogar"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1309821415,
-    "wof:lastmodified":1537585572,
+    "wof:lastmodified":1564148137,
     "wof:name":"Pogar",
     "wof:parent_id":1108759279,
     "wof:placetype":"locality",

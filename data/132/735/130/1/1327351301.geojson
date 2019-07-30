@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sabljari"
+    ],
+    "name:fra_x_preferred":[
+        "Sabljari"
+    ],
+    "name:hrv_x_preferred":[
+        "Sabljari"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0431\u0459\u0430\u0440\u0438"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0644\u062c\u0627\u0631\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1327351301,
-    "wof:lastmodified":1537486728,
+    "wof:lastmodified":1564145377,
     "wof:name":"Sabljari",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

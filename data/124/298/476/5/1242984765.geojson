@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kreme\u0161"
+    ],
+    "name:ceb_x_preferred":[
+        "Kreme\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Kreme\u0161"
+    ],
+    "name:swe_x_preferred":[
+        "Kreme\u0161"
+    ],
     "name:und_x_variant":[
         "Kreme\u0161"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242984765,
-    "wof:lastmodified":1537585667,
+    "wof:lastmodified":1564148565,
     "wof:name":"Kremes",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0644\u064a\u0648\u0641\u0627"
+    ],
+    "name:bos_x_preferred":[
+        "\u017deljova"
+    ],
+    "name:fra_x_preferred":[
+        "\u017deljova"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017deljova"
+    ],
+    "name:slv_x_preferred":[
+        "\u017deljova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u0459\u043e\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "\u017deljeva",
         "\u017deljava",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1225962439,
-    "wof:lastmodified":1537585547,
+    "wof:lastmodified":1564149182,
     "wof:name":"Zeljova",
     "wof:parent_id":1108758991,
     "wof:placetype":"locality",

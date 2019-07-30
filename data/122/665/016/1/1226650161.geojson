@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ostru\u0161ka Citonja"
+    ],
+    "name:fra_x_preferred":[
+        "Ostru\u0161ka Citonja"
+    ],
+    "name:hrv_x_preferred":[
+        "Ostru\u0161ka Citonja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0443\u0448\u043a\u0430 \u0426\u0438\u0442\u043e\u045a\u0430"
+    ],
     "name:und_x_variant":[
         "Ostru\u017enica",
         "Ostru\u0161ka Citonja"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226650161,
-    "wof:lastmodified":1537585576,
+    "wof:lastmodified":1564149329,
     "wof:name":"Ostruska Citonja",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

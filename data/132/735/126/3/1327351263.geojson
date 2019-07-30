@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0644\u064a \u0633\u0643\u0648\u0634\u0627\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Mali Sko\u010daj"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bb\u03b9 \u03a3\u03ba\u03cc\u03c4\u03c3\u03b1\u03ca"
+    ],
+    "name:fra_x_preferred":[
+        "Mali Sko\u010daj"
+    ],
+    "name:hrv_x_preferred":[
+        "Mali Sko\u010daj"
+    ],
+    "name:slv_x_preferred":[
+        "Mali Sko\u010daj"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u0421\u043a\u043e\u0447\u0430\u0458"
+    ],
     "name:und_x_variant":[
         "Mali Sko\u010daj"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1327351263,
-    "wof:lastmodified":1537585583,
+    "wof:lastmodified":1564145374,
     "wof:name":"Mali Skocaj",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

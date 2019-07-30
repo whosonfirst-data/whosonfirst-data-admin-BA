@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Glavska"
+    ],
+    "name:fra_x_preferred":[
+        "Glavska"
+    ],
+    "name:hrv_x_preferred":[
+        "Glavska"
+    ],
+    "name:ita_x_preferred":[
+        "Glavska"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0441\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Glavska",
         "Gornja Glavska"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1242691843,
-    "wof:lastmodified":1537585632,
+    "wof:lastmodified":1564148451,
     "wof:name":"Gornja Glavska",
     "wof:parent_id":1108759213,
     "wof:placetype":"locality",

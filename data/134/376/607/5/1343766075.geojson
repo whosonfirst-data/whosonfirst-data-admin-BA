@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0641\u0634\u0627\u0631\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Ov\u010dari"
+    ],
+    "name:ceb_x_preferred":[
+        "Ov\u010dari"
+    ],
+    "name:fra_x_preferred":[
+        "Ov\u010dari"
+    ],
+    "name:hrv_x_preferred":[
+        "Ov\u010dari"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0432\u0447\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ov\u010dari"
+    ],
     "name:und_x_variant":[
         "Ov\u010dari"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1343766075,
-    "wof:lastmodified":1537585684,
+    "wof:lastmodified":1564145746,
     "wof:name":"Ovcari",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

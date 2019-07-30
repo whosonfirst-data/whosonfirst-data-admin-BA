@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kalenderi"
+    ],
+    "name:ceb_x_preferred":[
+        "Kalenderi"
+    ],
+    "name:fra_x_preferred":[
+        "Kalenderi"
+    ],
+    "name:hrv_x_preferred":[
+        "Kalenderi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043b\u0435\u043d\u0434\u0435\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kalenderi"
+    ],
     "name:und_x_variant":[
         "Kalendari",
         "Kalenderi"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1293107621,
-    "wof:lastmodified":1537585593,
+    "wof:lastmodified":1564146425,
     "wof:name":"Kalenderi",
     "wof:parent_id":1108759139,
     "wof:placetype":"locality",

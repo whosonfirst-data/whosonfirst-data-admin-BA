@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Borija"
+    ],
+    "name:fra_x_preferred":[
+        "Borija"
+    ],
+    "name:hrv_x_preferred":[
+        "Borija"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u0458\u0430"
+    ],
     "name:und_x_variant":[
         "Borja",
         "Borija"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1259982705,
-    "wof:lastmodified":1537585624,
+    "wof:lastmodified":1564148719,
     "wof:name":"Borija",
     "wof:parent_id":1108759125,
     "wof:placetype":"locality",

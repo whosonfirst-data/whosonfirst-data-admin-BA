@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brane\u0161ci Gornji"
+    ],
+    "name:ceb_x_preferred":[
+        "Brane\u0161ci Gornji"
+    ],
+    "name:fra_x_preferred":[
+        "Brane\u0161ci Gornji"
+    ],
+    "name:hrv_x_preferred":[
+        "Brane\u0161ci Gornji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0435\u0448\u0446\u0438 \u0413\u043e\u0440\u045a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Brane\u0161ci Gornji"
+    ],
     "name:und_x_variant":[
         "Gornji Brane\u0161ci",
         "Brane\u0161ci Gornji"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1327038845,
-    "wof:lastmodified":1537585623,
+    "wof:lastmodified":1564145393,
     "wof:name":"Branesci Gornji",
     "wof:parent_id":1108759045,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hra\u0161ljani"
+    ],
+    "name:ceb_x_preferred":[
+        "Hra\u0161ljani"
+    ],
+    "name:fra_x_preferred":[
+        "Hra\u0161ljani"
+    ],
+    "name:hrv_x_preferred":[
+        "Hra\u0161ljani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u0448\u0459\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Hra\u0161ljani"
+    ],
     "name:und_x_variant":[
         "Hra\u0161ljane",
         "Hra\u0161ljani"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1276566187,
-    "wof:lastmodified":1537585596,
+    "wof:lastmodified":1564146626,
     "wof:name":"Hrasljani",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

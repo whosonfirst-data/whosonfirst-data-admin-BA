@@ -26,6 +26,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017divalji"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017divalji"
+    ],
+    "name:fra_x_preferred":[
+        "\u017divalji"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017divalji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0438\u0432\u0430\u0459\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u017divalji"
+    ],
     "name:und_x_variant":[
         "\u017divalj",
         "\u017divalji"
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1209120245,
-    "wof:lastmodified":1537585546,
+    "wof:lastmodified":1564147020,
     "wof:name":"Zivalji",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zavr\u0161je"
+    ],
+    "name:fra_x_preferred":[
+        "Zavr\u0161je"
+    ],
     "name:und_x_variant":[
         "Zavr\u0161je"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242591865,
-    "wof:lastmodified":1537585669,
+    "wof:lastmodified":1564148400,
     "wof:name":"Zavrsje",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

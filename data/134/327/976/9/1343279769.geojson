@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Perci"
+    ],
+    "name:fra_x_preferred":[
+        "Perci"
+    ],
+    "name:hrv_x_preferred":[
+        "Perci"
+    ],
+    "name:hun_x_preferred":[
+        "Perci"
+    ],
+    "name:nld_x_preferred":[
+        "Perci"
+    ],
+    "name:slv_x_preferred":[
+        "Perci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0440\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1343279769,
-    "wof:lastmodified":1537006310,
+    "wof:lastmodified":1564145940,
     "wof:name":"Perci",
     "wof:parent_id":1108759205,
     "wof:placetype":"locality",

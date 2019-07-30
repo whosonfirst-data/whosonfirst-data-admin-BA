@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Skakava Gornja"
+    ],
+    "name:ceb_x_preferred":[
+        "Skakava Gornja"
+    ],
+    "name:fra_x_preferred":[
+        "Skakava Gornja"
+    ],
+    "name:hrv_x_preferred":[
+        "Skakava Gornja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u0430\u043a\u0430\u0432\u0430 \u0413\u043e\u0440\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Skakava Gornja"
+    ],
     "name:und_x_variant":[
         "Gornja Skakava",
         "Skakava Gornja"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1344086953,
-    "wof:lastmodified":1537585562,
+    "wof:lastmodified":1564145674,
     "wof:name":"Skakava Gornja",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

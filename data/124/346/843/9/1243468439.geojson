@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Udurlije"
+    ],
+    "name:ceb_x_preferred":[
+        "Udurlije"
+    ],
+    "name:fra_x_preferred":[
+        "Udurlije"
+    ],
+    "name:hrv_x_preferred":[
+        "Udurlije"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0434\u0443\u0440\u043b\u0438\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Udurlije"
+    ],
     "name:und_x_variant":[
         "Ugurlije",
         "Udurlije"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1243468439,
-    "wof:lastmodified":1537585555,
+    "wof:lastmodified":1564148459,
     "wof:name":"Udurlije",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

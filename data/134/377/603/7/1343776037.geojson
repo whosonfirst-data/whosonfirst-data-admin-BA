@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zloku\u0107e"
+    ],
+    "name:fra_x_preferred":[
+        "Zloku\u0107e"
+    ],
+    "name:hrv_x_preferred":[
+        "Zloku\u0107e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u043b\u043e\u043a\u0443\u045b\u0435"
+    ],
     "name:und_x_variant":[
         "Zloku\u0107e"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343776037,
-    "wof:lastmodified":1537585679,
+    "wof:lastmodified":1564145716,
     "wof:name":"Zlokuce",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

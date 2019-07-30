@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mostarska Vrata"
+    ],
+    "name:ceb_x_preferred":[
+        "Mostarska Vrata"
+    ],
+    "name:fra_x_preferred":[
+        "Mostarska Vrata"
+    ],
+    "name:hrv_x_preferred":[
+        "Mostarska Vrata"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0430\u0440\u0441\u043a\u0430 \u0412\u0440\u0430\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mostarska Vrata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293696427,
-    "wof:lastmodified":1537486854,
+    "wof:lastmodified":1564146262,
     "wof:name":"Mostarska Vrata",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

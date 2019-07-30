@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "P\u0161enik"
+    ],
+    "name:ceb_x_preferred":[
+        "P\u0161enik"
+    ],
+    "name:fra_x_preferred":[
+        "P\u0161enik"
+    ],
+    "name:hrv_x_preferred":[
+        "P\u0161enik"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0448\u0435\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "P\u0161enik"
+    ],
     "name:und_x_variant":[
         "P\u0161enik"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1292917681,
-    "wof:lastmodified":1537585659,
+    "wof:lastmodified":1564146317,
     "wof:name":"Psenik",
     "wof:parent_id":1108759115,
     "wof:placetype":"locality",

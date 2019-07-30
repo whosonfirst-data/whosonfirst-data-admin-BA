@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Glavi\u010dice"
+    ],
+    "name:ceb_x_preferred":[
+        "Glavi\u010dice"
+    ],
+    "name:fra_x_preferred":[
+        "Glavi\u010dice"
+    ],
+    "name:hrv_x_preferred":[
+        "Glavi\u010dice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0438\u0447\u0438\u0446\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Glavi\u010dice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0438\u0447\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Glavi\u010dice"
+    ],
     "name:und_x_variant":[
         "Glavi\u010dice"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1259592045,
-    "wof:lastmodified":1537585605,
+    "wof:lastmodified":1564148876,
     "wof:name":"Glavicice",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

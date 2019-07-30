@@ -25,6 +25,9 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ostoji\u0107i"
+    ],
     "name:und_x_variant":[
         "Ostoji\u0107i"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310109883,
-    "wof:lastmodified":1537585576,
+    "wof:lastmodified":1564147832,
     "wof:name":"Ostojici",
     "wof:parent_id":1108759267,
     "wof:placetype":"locality",

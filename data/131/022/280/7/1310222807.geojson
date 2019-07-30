@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Luko"
+    ],
+    "name:fra_x_preferred":[
+        "Luko"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u043a\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1310222807,
-    "wof:lastmodified":1537486837,
+    "wof:lastmodified":1564147665,
     "wof:name":"Luko",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

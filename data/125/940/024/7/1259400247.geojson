@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gaj"
+    ],
+    "name:hrv_x_preferred":[
+        "Gaj"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1259400247,
-    "wof:lastmodified":1537486863,
+    "wof:lastmodified":1564148813,
     "wof:name":"Gaj",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

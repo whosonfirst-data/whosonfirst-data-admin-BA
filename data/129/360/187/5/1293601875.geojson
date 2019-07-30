@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Grapska Gornja"
+    ],
+    "name:ceb_x_preferred":[
+        "Grapska Gornja"
+    ],
+    "name:fra_x_preferred":[
+        "Grapska Gornja"
+    ],
+    "name:hrv_x_preferred":[
+        "Grapska Gornja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u043f\u0441\u043a\u0430 \u0413\u043e\u0440\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Grapska Gornja"
+    ],
     "name:und_x_variant":[
         "Srpska Grabska",
         "Gornja Grabska",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1293601875,
-    "wof:lastmodified":1537585598,
+    "wof:lastmodified":1564146286,
     "wof:name":"Grapska Gornja",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

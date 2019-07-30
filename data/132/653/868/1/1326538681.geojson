@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Grbe\u0161i"
+    ],
+    "name:fra_x_preferred":[
+        "Grbe\u0161i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0431\u0435\u0448\u0438"
+    ],
     "name:und_x_variant":[
         "Grbe\u0161i"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1326538681,
-    "wof:lastmodified":1537585666,
+    "wof:lastmodified":1564145505,
     "wof:name":"Grbesi",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

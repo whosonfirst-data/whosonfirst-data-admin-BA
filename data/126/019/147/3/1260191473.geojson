@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Orlovo Polje"
+    ],
+    "name:ceb_x_preferred":[
+        "Orlovo Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Orlovo Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Orlovo Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u043b\u043e\u0432\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Orlovo Polje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1260191473,
-    "wof:lastmodified":1537486742,
+    "wof:lastmodified":1564147559,
     "wof:name":"Orlovo Polje",
     "wof:parent_id":1108759097,
     "wof:placetype":"locality",

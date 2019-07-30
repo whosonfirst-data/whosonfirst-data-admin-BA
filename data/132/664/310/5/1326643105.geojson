@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lusi\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Lusi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Lusi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Lusi\u0107i"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0441\u0438\u0447\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Lusi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0441\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Lusi\u0107i"
+    ],
     "name:und_x_variant":[
         "Lusi\u0107i"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1326643105,
-    "wof:lastmodified":1537585584,
+    "wof:lastmodified":1564145482,
     "wof:name":"Lusici",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

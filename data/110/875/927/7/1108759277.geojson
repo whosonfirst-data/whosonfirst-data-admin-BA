@@ -28,6 +28,33 @@
     "mps:longitude":17.973965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Usora"
+    ],
+    "name:ceb_x_preferred":[
+        "Usora"
+    ],
+    "name:deu_x_preferred":[
+        "Usora"
+    ],
+    "name:fra_x_preferred":[
+        "Usora"
+    ],
+    "name:hrv_x_preferred":[
+        "Usora"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u043e\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Usora"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0441\u043e\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Usora"
+    ],
     "name:und_x_variant":[
         "Usora"
     ],
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1108759277,
-    "wof:lastmodified":1536615743,
+    "wof:lastmodified":1564147600,
     "wof:name":"Usora",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

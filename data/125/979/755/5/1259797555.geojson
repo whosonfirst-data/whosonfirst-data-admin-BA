@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rainci Gornji"
+    ],
+    "name:ceb_x_preferred":[
+        "Rainci Gornji"
+    ],
+    "name:fra_x_preferred":[
+        "Rainci Gornji"
+    ],
+    "name:hrv_x_preferred":[
+        "Rainci Gornji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0438\u043d\u0446\u0438 \u0413\u043e\u0440\u045a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Rainci Gornji"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1259797555,
-    "wof:lastmodified":1537486849,
+    "wof:lastmodified":1564148789,
     "wof:name":"Rainci Gornji",
     "wof:parent_id":1108759121,
     "wof:placetype":"locality",

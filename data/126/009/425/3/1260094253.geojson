@@ -25,6 +25,9 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0444\u0435\u0440\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260094253,
-    "wof:lastmodified":1536972070,
+    "wof:lastmodified":1564147431,
     "wof:name":"Seferi",
     "wof:parent_id":1108759161,
     "wof:placetype":"locality",

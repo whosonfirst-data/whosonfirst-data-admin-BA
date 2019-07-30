@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160\u0107enica Ljubomir"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160\u0107enica Ljubomir"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u045b\u0435\u043d\u0438\u0446\u0430 \u0409\u0443\u0431\u043e\u043c\u0438\u0440"
+    ],
     "name:und_x_variant":[
         "\u0160\u0107enica",
         "\u0160\u0107enica Ljubomir"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326838973,
-    "wof:lastmodified":1537585564,
+    "wof:lastmodified":1564145459,
     "wof:name":"Scenica Ljubomir",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017diljevo"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017diljevo"
+    ],
+    "name:fra_x_preferred":[
+        "\u017diljevo"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017diljevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0438\u0459\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "\u017diljevo"
+    ],
     "name:und_x_variant":[
         "\u017diljevo"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343461691,
-    "wof:lastmodified":1537585547,
+    "wof:lastmodified":1564145692,
     "wof:name":"Ziljevo",
     "wof:parent_id":1108759179,
     "wof:placetype":"locality",

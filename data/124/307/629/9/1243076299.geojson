@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pale\u017enica Gornja"
+    ],
+    "name:ceb_x_preferred":[
+        "Pale\u017enica Gornja"
+    ],
+    "name:fra_x_preferred":[
+        "Pale\u017enica Gornja"
+    ],
+    "name:hrv_x_preferred":[
+        "Pale\u017enica Gornja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u0435\u0436\u043d\u0438\u0446\u0430 \u0413\u043e\u0440\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Pale\u017enica Gornja"
+    ],
     "name:und_x_variant":[
         "Gornja Paleznica",
         "Pale\u017enica Gornja"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1243076299,
-    "wof:lastmodified":1537585575,
+    "wof:lastmodified":1564148237,
     "wof:name":"Paleznica Gornja",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

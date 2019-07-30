@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160u\u0161lji\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160u\u0161lji\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160u\u0161ljici"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0443\u0448\u0459\u0438\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "\u0160u\u0161lji\u0107i"
     ],
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209519509,
-    "wof:lastmodified":1537585677,
+    "wof:lastmodified":1564147178,
     "wof:name":"Susljici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

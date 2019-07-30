@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Veliki Trnovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Veliki Trnovci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u06cc \u062a\u0631\u0646\u0648\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Veliki Trnovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliki Trnovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438 \u0422\u0440\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Veliki Trnovci"
+    ],
     "name:und_x_variant":[
         "Trnovci",
         "Veliki Trnovci"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1243464029,
-    "wof:lastmodified":1537585631,
+    "wof:lastmodified":1564148473,
     "wof:name":"Veliki Trnovci",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

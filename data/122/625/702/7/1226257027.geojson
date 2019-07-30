@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bivolje Brdo"
+    ],
+    "name:ceb_x_preferred":[
+        "Bivolje Brdo"
+    ],
+    "name:fra_x_preferred":[
+        "Bivolje Brdo"
+    ],
+    "name:hrv_x_preferred":[
+        "Bivolje Brdo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0432\u043e\u0459\u0435 \u0411\u0440\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bivolje Brdo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1226257027,
-    "wof:lastmodified":1537486799,
+    "wof:lastmodified":1564149208,
     "wof:name":"Bivolje Brdo",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

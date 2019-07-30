@@ -26,6 +26,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gale\u010di\u0107"
+    ],
+    "name:ceb_x_preferred":[
+        "Gale\u010di\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Gale\u010di\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Gale\u010di\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u043b\u0435\u0447\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Gale\u010di\u0107"
+    ],
     "name:und_x_variant":[
         "Mali Gale\u010dic",
         "Gali\u010di\u0107",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326944443,
-    "wof:lastmodified":1537585606,
+    "wof:lastmodified":1564145222,
     "wof:name":"Galecic",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

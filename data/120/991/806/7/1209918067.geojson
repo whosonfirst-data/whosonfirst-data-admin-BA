@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mihaljevi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Mihaljevi\u0107i"
+    ],
     "name:und_x_variant":[
         "Mihaljevi\u0107i"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1209918067,
-    "wof:lastmodified":1537585676,
+    "wof:lastmodified":1564146911,
     "wof:name":"Mihaljevici",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Grablje"
+    ],
+    "name:ceb_x_preferred":[
+        "Grablje"
+    ],
+    "name:fra_x_preferred":[
+        "Grablje"
+    ],
+    "name:hrv_x_preferred":[
+        "Grablje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Grablje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1193151031,
-    "wof:lastmodified":1536378201,
+    "wof:lastmodified":1564147350,
     "wof:name":"Grablje",
     "wof:parent_id":1108759299,
     "wof:placetype":"locality",

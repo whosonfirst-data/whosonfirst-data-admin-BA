@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sko\u010digrm"
+    ],
+    "name:fra_x_preferred":[
+        "Sko\u010digrm"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u043e\u0447\u0438\u0433\u0440\u043c"
+    ],
     "name:und_x_variant":[
         "Sko\u010dgrm",
         "Sko\u010digrm"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243266945,
-    "wof:lastmodified":1537585562,
+    "wof:lastmodified":1564148691,
     "wof:name":"Skocigrm",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

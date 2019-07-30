@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010cerigaj"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010cerigaj"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cerigaj"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010cerigaj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0440\u0438\u0433\u0430\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cerigaj"
+    ],
     "name:und_x_variant":[
         "\u010cerigaj"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343776235,
-    "wof:lastmodified":1537585676,
+    "wof:lastmodified":1564145727,
     "wof:name":"Cerigaj",
     "wof:parent_id":1108759231,
     "wof:placetype":"locality",

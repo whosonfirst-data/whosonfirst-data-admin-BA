@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u064a\u0641\u064a\u0633\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Grivice"
+    ],
+    "name:ceb_x_preferred":[
+        "Grivice"
+    ],
+    "name:fra_x_preferred":[
+        "Grivice"
+    ],
+    "name:hrv_x_preferred":[
+        "Grivice"
+    ],
+    "name:slv_x_preferred":[
+        "Grivice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0438\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Grivice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1310719411,
-    "wof:lastmodified":1537486768,
+    "wof:lastmodified":1564147678,
     "wof:name":"Grivice",
     "wof:parent_id":1108758991,
     "wof:placetype":"locality",

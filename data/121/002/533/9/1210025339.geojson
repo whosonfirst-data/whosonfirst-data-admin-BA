@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donji Vrbljani"
+    ],
+    "name:ceb_x_preferred":[
+        "Donji Vrbljani"
+    ],
+    "name:fra_x_preferred":[
+        "Donji Vrbljani"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Vrbljani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u0412\u0440\u0431\u0459\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Donji Vrbljani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1210025339,
-    "wof:lastmodified":1537486809,
+    "wof:lastmodified":1564147323,
     "wof:name":"Donji Vrbljani",
     "wof:parent_id":1108759135,
     "wof:placetype":"locality",

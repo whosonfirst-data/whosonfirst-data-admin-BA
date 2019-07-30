@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Skradno"
+    ],
+    "name:ceb_x_preferred":[
+        "Skradno"
+    ],
+    "name:fra_x_preferred":[
+        "Skradno"
+    ],
+    "name:hrv_x_preferred":[
+        "Skradno"
+    ],
+    "name:swe_x_preferred":[
+        "Skradno"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1209232363,
-    "wof:lastmodified":1537486725,
+    "wof:lastmodified":1564147036,
     "wof:name":"Skradno",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

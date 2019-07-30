@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pobr\u0111e Milodra\u017e"
+    ],
+    "name:ceb_x_preferred":[
+        "Pobr\u0111e Milodra\u017e"
+    ],
+    "name:deu_x_preferred":[
+        "Pobr\u0111e Milodra\u017e"
+    ],
+    "name:fra_x_preferred":[
+        "Pobr\u0111e Milodra\u017e"
+    ],
+    "name:hrv_x_preferred":[
+        "Pobr\u0111e Milodra\u017e"
+    ],
+    "name:swe_x_preferred":[
+        "Pobr\u0111e Milodra\u017e"
+    ],
     "name:und_x_variant":[
         "Milodra\u017e",
         "Pobr\u0111e Milodra\u017e"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1343776183,
-    "wof:lastmodified":1537585573,
+    "wof:lastmodified":1564145713,
     "wof:name":"Pobrde Milodraz",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

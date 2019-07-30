@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vuki\u010devci"
+    ],
+    "name:ceb_x_preferred":[
+        "Vuki\u010devci"
+    ],
+    "name:fra_x_preferred":[
+        "Vuki\u010devci"
+    ],
+    "name:hrv_x_preferred":[
+        "Vuki\u0107evci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u043a\u0438\u045b\u0435\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vuki\u010devci"
+    ],
     "name:und_x_variant":[
         "Vuki\u010devci"
     ],
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1209218641,
-    "wof:lastmodified":1537585549,
+    "wof:lastmodified":1564147255,
     "wof:name":"Vukicevci",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

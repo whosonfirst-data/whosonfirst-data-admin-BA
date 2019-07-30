@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zebina \u0160uma"
+    ],
+    "name:ceb_x_preferred":[
+        "Zebina \u0160uma"
+    ],
+    "name:fra_x_preferred":[
+        "Zebina \u0160uma"
+    ],
+    "name:hrv_x_preferred":[
+        "Zebina \u0160uma"
+    ],
+    "name:swe_x_preferred":[
+        "Zebina \u0160uma"
+    ],
     "name:und_x_variant":[
         "Zebina \u0160uma"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293696445,
-    "wof:lastmodified":1537585671,
+    "wof:lastmodified":1564146261,
     "wof:name":"Zebina Suma",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

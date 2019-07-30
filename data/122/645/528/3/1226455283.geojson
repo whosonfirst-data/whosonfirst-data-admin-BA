@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Badusa"
+    ],
+    "name:por_x_preferred":[
+        "Badusa"
+    ],
+    "name:spa_x_preferred":[
+        "Badusa"
+    ],
+    "name:swe_x_preferred":[
+        "Badusa"
+    ],
+    "name:vie_x_preferred":[
+        "Badusa"
+    ],
+    "name:war_x_preferred":[
+        "Badusa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1226455283,
-    "wof:lastmodified":1536630029,
+    "wof:lastmodified":1564149061,
     "wof:name":"Badusa",
     "wof:parent_id":1108759125,
     "wof:placetype":"locality",

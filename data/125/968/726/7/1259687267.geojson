@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Orahov Do"
+    ],
+    "name:ceb_x_preferred":[
+        "Orahov Do"
+    ],
+    "name:fra_x_preferred":[
+        "Orahov Do"
+    ],
+    "name:hrv_x_preferred":[
+        "Orahov Do"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0430\u0445\u043e\u0432 \u0414\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Orahov Do"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1259687267,
-    "wof:lastmodified":1537058952,
+    "wof:lastmodified":1564148865,
     "wof:name":"Orahov Do",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

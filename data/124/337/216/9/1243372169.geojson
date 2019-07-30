@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gazivode"
+    ],
+    "name:ceb_x_preferred":[
+        "Gazivode"
+    ],
+    "name:fra_x_preferred":[
+        "Gazivode"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u0437\u0438\u0432\u043e\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Gazivode"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1243372169,
-    "wof:lastmodified":1537486776,
+    "wof:lastmodified":1564148276,
     "wof:name":"Gazivode",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

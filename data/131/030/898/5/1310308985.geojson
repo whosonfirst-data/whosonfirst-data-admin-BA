@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vidovo Selo"
+    ],
+    "name:ceb_x_preferred":[
+        "Vidovo Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Vidovo Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0434\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Vidovo Selo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1310308985,
-    "wof:lastmodified":1537486713,
+    "wof:lastmodified":1564147756,
     "wof:name":"Vidovo Selo",
     "wof:parent_id":1108759067,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornje Ledenice"
+    ],
+    "name:fra_x_preferred":[
+        "Gornje Ledenice"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornje Ledenice"
+    ],
     "name:und_x_variant":[
         "Ledenice Gornje",
         "Muslimanski Ledenice",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1242681821,
-    "wof:lastmodified":1537585602,
+    "wof:lastmodified":1564148390,
     "wof:name":"Gornje Ledenice",
     "wof:parent_id":1108759097,
     "wof:placetype":"locality",

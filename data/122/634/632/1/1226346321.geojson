@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Papratno"
+    ],
+    "name:fra_x_preferred":[
+        "Papratno"
+    ],
+    "name:hrv_x_preferred":[
+        "Papratno"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043f\u0440\u0430\u0442\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226346321,
-    "wof:lastmodified":1537486863,
+    "wof:lastmodified":1564149086,
     "wof:name":"Papratno",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornje Kre\u010dane"
+    ],
+    "name:fra_x_preferred":[
+        "Gornje Kre\u010dane"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornje Kre\u010dane"
+    ],
     "name:und_x_variant":[
         "Gornje Kre\u010dane"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209819593,
-    "wof:lastmodified":1537585602,
+    "wof:lastmodified":1564147276,
     "wof:name":"Gornje Krecane",
     "wof:parent_id":1108759093,
     "wof:placetype":"locality",

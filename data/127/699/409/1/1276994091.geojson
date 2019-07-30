@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Cerovljani"
+    ],
+    "name:ceb_x_preferred":[
+        "Cerovljani"
+    ],
+    "name:fra_x_preferred":[
+        "Cerovljani"
+    ],
+    "name:hrv_x_preferred":[
+        "Cerovljani"
+    ],
+    "name:slv_x_preferred":[
+        "Cerovljani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0440\u043e\u0432\u0459\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Cerovljani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1276994091,
-    "wof:lastmodified":1537486788,
+    "wof:lastmodified":1564146851,
     "wof:name":"Cerovljani",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

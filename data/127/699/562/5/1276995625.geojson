@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vukovo Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Vukovo Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Vukovo Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Vukovo Selo"
+    ],
+    "name:spa_x_preferred":[
+        "Vukovo Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1276995625,
-    "wof:lastmodified":1536885334,
+    "wof:lastmodified":1564146858,
     "wof:name":"Vukovo Selo",
     "wof:parent_id":1108759133,
     "wof:placetype":"locality",

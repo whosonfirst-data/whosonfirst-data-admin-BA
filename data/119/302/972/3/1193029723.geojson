@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kond\u017eilo"
+    ],
+    "name:fra_x_preferred":[
+        "Kond\u017eilo"
+    ],
+    "name:hrv_x_preferred":[
+        "Kond\u017eilo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043d\u045f\u0438\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Konod\u017eilo",
         "Konjd\u017eilo",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1193029723,
-    "wof:lastmodified":1537585591,
+    "wof:lastmodified":1564147420,
     "wof:name":"Kondzilo",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

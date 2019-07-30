@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dovli\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Dovli\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0432\u043b\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Dovli\u0107i"
     ],
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1209223249,
-    "wof:lastmodified":1537585609,
+    "wof:lastmodified":1564147079,
     "wof:name":"Dovlici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -26,6 +26,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornje Kolibe"
+    ],
+    "name:ceb_x_preferred":[
+        "Kolibe Gornje"
+    ],
+    "name:fra_x_preferred":[
+        "Gornje Kolibe"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornje Kolibe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0435-\u041a\u043e\u043b\u0438\u0431\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0435 \u041a\u043e\u043b\u0438\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kolibe Gornje"
+    ],
     "name:und_x_variant":[
         "Gornje Kolibe",
         "Kolibe Gornje"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1193024653,
-    "wof:lastmodified":1537585591,
+    "wof:lastmodified":1564147408,
     "wof:name":"Kolibe Gornje",
     "wof:parent_id":1108759009,
     "wof:placetype":"locality",

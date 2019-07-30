@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0646\u064a\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "\u0160unji"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160unji"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160unji"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160unji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0443\u045a\u0438"
+    ],
     "name:und_x_variant":[
         "\u0160unji"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1209833175,
-    "wof:lastmodified":1537585666,
+    "wof:lastmodified":1564147005,
     "wof:name":"Sunji",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

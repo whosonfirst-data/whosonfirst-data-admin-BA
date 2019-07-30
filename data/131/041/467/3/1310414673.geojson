@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kara\u010di\u0107i"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0447\u0438\u0447\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Kara\u010di\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Kara\u010di\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0447\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Kara\u010di\u0107",
         "Kara\u010di\u0107i"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1310414673,
-    "wof:lastmodified":1537585593,
+    "wof:lastmodified":1564147646,
     "wof:name":"Karacici",
     "wof:parent_id":1108759241,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0647\u0643\u0648\u0648\u0627\u0633"
+    ],
+    "name:bos_x_preferred":[
+        "Sijekovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Sijekovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0647\u200c\u06a9\u0648\u0648\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Sijekovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Sijekovac"
+    ],
+    "name:ita_x_preferred":[
+        "Sijekovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0435\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u0458\u0435\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Sijekovac"
+    ],
     "name:und_x_variant":[
         "Sjekovac",
         "Sijekovac"
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1276348553,
-    "wof:lastmodified":1537585564,
+    "wof:lastmodified":1564146621,
     "wof:name":"Sijekovac",
     "wof:parent_id":1108759009,
     "wof:placetype":"locality",

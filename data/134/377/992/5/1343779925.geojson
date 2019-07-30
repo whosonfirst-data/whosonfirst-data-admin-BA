@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Nadbare"
+    ],
+    "name:ceb_x_preferred":[
+        "Nadbare"
+    ],
+    "name:fra_x_preferred":[
+        "Nadbare"
+    ],
+    "name:hrv_x_preferred":[
+        "Nadbare"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0434\u0431\u0430\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Nadbare"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1343779925,
-    "wof:lastmodified":1537486744,
+    "wof:lastmodified":1564145722,
     "wof:name":"Nadbare",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

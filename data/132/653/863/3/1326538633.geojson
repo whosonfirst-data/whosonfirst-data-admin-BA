@@ -25,6 +25,9 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sari\u0107"
+    ],
     "name:und_x_variant":[
         "Sari\u0107i",
         "Sari\u0107"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326538633,
-    "wof:lastmodified":1537585564,
+    "wof:lastmodified":1564145515,
     "wof:name":"Saric",
     "wof:parent_id":1108759229,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pihlice"
+    ],
+    "name:fra_x_preferred":[
+        "Pihlice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0445\u043b\u0438\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Pihlica",
         "Pihlice"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259992549,
-    "wof:lastmodified":1537585574,
+    "wof:lastmodified":1564148769,
     "wof:name":"Pihlice",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

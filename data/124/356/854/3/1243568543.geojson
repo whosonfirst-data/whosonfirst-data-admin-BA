@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u0627\u0628\u064a\u0632"
+    ],
+    "name:bos_x_preferred":[
+        "Grabe\u017e"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03ac\u03bc\u03c0\u03b5\u03b6"
+    ],
+    "name:fra_x_preferred":[
+        "Grabe\u017e"
+    ],
+    "name:hrv_x_preferred":[
+        "Grabe\u017e"
+    ],
+    "name:slv_x_preferred":[
+        "Grabe\u017e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u0435\u0436"
+    ],
     "name:und_x_variant":[
         "Grabe\u017e"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1243568543,
-    "wof:lastmodified":1537585599,
+    "wof:lastmodified":1564148512,
     "wof:name":"Grabez",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

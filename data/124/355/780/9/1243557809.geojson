@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrhovina"
+    ],
+    "name:fra_x_preferred":[
+        "Vrhovina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0445\u043e\u0432\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Vrhovina",
         "Vrhovine"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243557809,
-    "wof:lastmodified":1537585550,
+    "wof:lastmodified":1564148332,
     "wof:name":"Vrhovine",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

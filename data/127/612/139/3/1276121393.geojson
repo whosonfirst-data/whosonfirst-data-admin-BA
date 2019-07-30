@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Lupljanica"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Lupljanica"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bd\u03b9\u03b1 \u039b\u03bf\u03c5\u03c0\u03bb\u03b9\u03ac\u03bd\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Lupljanica"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Lupljanica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u044f-\u041b\u0443\u043f\u043b\u044f\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u041b\u0443\u043f\u0459\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Donja Lupljanica"
+    ],
     "name:und_x_variant":[
         "Lupljanica Donja",
         "Donja Lupljanica"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1276121393,
-    "wof:lastmodified":1537585613,
+    "wof:lastmodified":1564146784,
     "wof:name":"Donja Lupljanica",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

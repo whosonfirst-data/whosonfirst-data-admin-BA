@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Blatna"
+    ],
+    "name:ceb_x_preferred":[
+        "Blatna"
+    ],
+    "name:fra_x_preferred":[
+        "Blatna"
+    ],
+    "name:hrv_x_preferred":[
+        "Blatna"
+    ],
+    "name:oci_x_preferred":[
+        "Blatna"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Blatna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1327137667,
-    "wof:lastmodified":1537486834,
+    "wof:lastmodified":1564145260,
     "wof:name":"Blatna",
     "wof:parent_id":1108759011,
     "wof:placetype":"locality",

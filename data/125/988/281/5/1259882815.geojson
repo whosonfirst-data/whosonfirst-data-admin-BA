@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Matkovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Matkovac"
+    ],
+    "name:fra_x_preferred":[
+        "Matkovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Matkovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0442\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Matkovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1259882815,
-    "wof:lastmodified":1537486749,
+    "wof:lastmodified":1564148960,
     "wof:name":"Matkovac",
     "wof:parent_id":1108759123,
     "wof:placetype":"locality",

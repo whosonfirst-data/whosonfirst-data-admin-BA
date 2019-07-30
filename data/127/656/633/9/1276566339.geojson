@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Drinova Me\u0111a"
+    ],
+    "name:ceb_x_preferred":[
+        "Drinova Me\u0111a"
+    ],
+    "name:fra_x_preferred":[
+        "Drinova Me\u0111a"
+    ],
+    "name:hrv_x_preferred":[
+        "Drinova Me\u0111a"
+    ],
+    "name:swe_x_preferred":[
+        "Drinova Me\u0111a"
+    ],
     "name:und_x_variant":[
         "Drinova Me\u0111a"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276566339,
-    "wof:lastmodified":1537585607,
+    "wof:lastmodified":1564146628,
     "wof:name":"Drinova Meda",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

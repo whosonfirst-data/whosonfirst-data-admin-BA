@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Garovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Garovci"
+    ],
+    "name:fra_x_preferred":[
+        "Garovci"
+    ],
+    "name:swe_x_preferred":[
+        "Garovci"
+    ],
     "name:und_x_variant":[
         "Garevi\u0107i",
         "Garovci"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293102903,
-    "wof:lastmodified":1537585678,
+    "wof:lastmodified":1564146443,
     "wof:name":"Garovci",
     "wof:parent_id":1108759101,
     "wof:placetype":"locality",

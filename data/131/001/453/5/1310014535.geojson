@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Stambol\u010di\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Stambol\u010di\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u0447\u0438\u045b"
+    ],
     "name:und_x_variant":[
         "Stambul\u010di\u0107",
         "Stambol\u010di\u0107"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310014535,
-    "wof:lastmodified":1537585559,
+    "wof:lastmodified":1564147767,
     "wof:name":"Stambolcic",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

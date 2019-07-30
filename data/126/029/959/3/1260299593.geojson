@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Veliki Kabli\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Veliki Kabli\u0107i"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u06cc \u06a9\u0628\u0644\u06cc\u0686\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Veliki Kabli\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliki Kabli\u0107i"
+    ],
+    "name:swe_x_preferred":[
+        "Veliki Kabli\u0107i"
+    ],
     "name:und_x_variant":[
         "Veliki Kabli\u0107i"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1260299593,
-    "wof:lastmodified":1537585553,
+    "wof:lastmodified":1564147507,
     "wof:name":"Veliki Kablici",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

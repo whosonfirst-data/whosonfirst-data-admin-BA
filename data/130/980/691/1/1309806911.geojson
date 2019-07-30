@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bukovica Velika"
+    ],
+    "name:fra_x_preferred":[
+        "Bukovica Velika"
+    ],
+    "name:hrv_x_preferred":[
+        "Bukovica Velika"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0438\u0446\u0430 \u0412\u0435\u043b\u0438\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Bukovica Donja",
         "Bukovica Velika"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1309806911,
-    "wof:lastmodified":1537585620,
+    "wof:lastmodified":1564148158,
     "wof:name":"Bukovica Velika",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

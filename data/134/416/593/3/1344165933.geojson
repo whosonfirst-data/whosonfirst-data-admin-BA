@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mje\u0161aji"
+    ],
+    "name:ceb_x_preferred":[
+        "Mje\u0161aji"
+    ],
+    "name:fra_x_preferred":[
+        "Mje\u0161aji"
+    ],
+    "name:hrv_x_preferred":[
+        "Mje\u0161aji"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0458\u0435\u0448\u0430\u0458\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mje\u0161aji"
+    ],
     "name:und_x_variant":[
         "Mje\u0161aji"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1344165933,
-    "wof:lastmodified":1537585681,
+    "wof:lastmodified":1564145889,
     "wof:name":"Mjesaji",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

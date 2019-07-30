@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vinjani"
+    ],
+    "name:ceb_x_preferred":[
+        "Vinjani"
+    ],
+    "name:fra_x_preferred":[
+        "Vinjani"
+    ],
+    "name:hrv_x_preferred":[
+        "Vinjani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u045a\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vinjani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1310115459,
-    "wof:lastmodified":1537486713,
+    "wof:lastmodified":1564147809,
     "wof:name":"Vinjani",
     "wof:parent_id":1108759205,
     "wof:placetype":"locality",

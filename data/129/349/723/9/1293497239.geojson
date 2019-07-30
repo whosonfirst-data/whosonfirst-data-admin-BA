@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010calikovac"
+    ],
+    "name:fra_x_preferred":[
+        "\u010calikovac"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010calikovac"
+    ],
     "name:und_x_variant":[
         "\u010calikovac"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293497239,
-    "wof:lastmodified":1537585680,
+    "wof:lastmodified":1564146171,
     "wof:name":"Calikovac",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

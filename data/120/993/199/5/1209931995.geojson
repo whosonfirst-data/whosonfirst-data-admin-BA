@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0634\u064a\u0631\u0627\u0646\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Pa\u010derani"
+    ],
+    "name:fra_x_preferred":[
+        "Pa\u010derani"
+    ],
+    "name:hrv_x_preferred":[
+        "Pa\u010derani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0447\u0435\u0440\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Pa\u010derani"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209931995,
-    "wof:lastmodified":1537585675,
+    "wof:lastmodified":1564147171,
     "wof:name":"Pacerani",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

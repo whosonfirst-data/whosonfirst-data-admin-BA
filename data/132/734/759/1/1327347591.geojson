@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vitovlje Malo"
+    ],
+    "name:fra_x_preferred":[
+        "Vitovlje Malo"
+    ],
+    "name:hrv_x_preferred":[
+        "Vitovlje Malo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0442\u043e\u0432\u0459\u0435 \u041c\u0430\u043b\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327347591,
-    "wof:lastmodified":1536803157,
+    "wof:lastmodified":1564145348,
     "wof:name":"Vitovlje Malo",
     "wof:parent_id":1108759263,
     "wof:placetype":"locality",

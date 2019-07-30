@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ni\u0161i\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Ni\u0161i\u0107i"
+    ],
+    "name:pol_x_preferred":[
+        "Ni\u0161i\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u0448\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Ni\u0161i\u0107i"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242975005,
-    "wof:lastmodified":1537585647,
+    "wof:lastmodified":1564148596,
     "wof:name":"Nisici",
     "wof:parent_id":1108759109,
     "wof:placetype":"locality",

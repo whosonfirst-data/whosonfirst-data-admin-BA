@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0648\u0631\u064a\u0646\u064a\u0627"
+    ],
+    "name:bos_x_preferred":[
+        "Gorinja"
+    ],
+    "name:fra_x_preferred":[
+        "Gorinja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u045a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1309821501,
-    "wof:lastmodified":1536908741,
+    "wof:lastmodified":1564148133,
     "wof:name":"Gorinja",
     "wof:parent_id":1108759003,
     "wof:placetype":"locality",

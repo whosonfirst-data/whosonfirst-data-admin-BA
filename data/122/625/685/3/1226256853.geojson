@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Doborovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Doborovci"
+    ],
+    "name:fra_x_preferred":[
+        "Doborovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Doborovci"
+    ],
+    "name:swe_x_preferred":[
+        "Doborovci"
+    ],
     "name:und_x_variant":[
         "Dobrovci",
         "Doborovci"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226256853,
-    "wof:lastmodified":1537585614,
+    "wof:lastmodified":1564149213,
     "wof:name":"Doborovci",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Baljci"
+    ],
+    "name:cat_x_preferred":[
+        "Baljci"
+    ],
+    "name:deu_x_preferred":[
+        "Baljci"
+    ],
+    "name:fra_x_preferred":[
+        "Baljci"
+    ],
+    "name:hrv_x_preferred":[
+        "Baljci"
+    ],
+    "name:hun_x_preferred":[
+        "Baljci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u044c\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Baljci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0459\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u044c\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -42,7 +72,7 @@
         }
     ],
     "wof:id":1209624029,
-    "wof:lastmodified":1536281417,
+    "wof:lastmodified":1564146935,
     "wof:name":"Baljci",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rami\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Rami\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Rami\u0107i"
+    ],
+    "name:swe_x_preferred":[
+        "Rami\u0107i"
+    ],
     "name:und_x_variant":[
         "Rami\u0107i"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242591703,
-    "wof:lastmodified":1537585678,
+    "wof:lastmodified":1564148408,
     "wof:name":"Ramici",
     "wof:parent_id":1108759101,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ruska Pilana"
+    ],
+    "name:fra_x_preferred":[
+        "Ruska Pilana"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0441\u043a\u0430 \u041f\u0438\u043b\u0430\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276242473,
-    "wof:lastmodified":1537486825,
+    "wof:lastmodified":1564146765,
     "wof:name":"Ruska Pilana",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

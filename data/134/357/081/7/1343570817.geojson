@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Juke"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d5\u05e7"
+    ],
+    "name:ita_x_preferred":[
+        "Juke"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343570817,
-    "wof:lastmodified":1537081285,
+    "wof:lastmodified":1564145797,
     "wof:name":"Juke",
     "wof:parent_id":1108759279,
     "wof:placetype":"locality",

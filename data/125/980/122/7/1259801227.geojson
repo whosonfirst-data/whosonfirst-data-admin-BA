@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bajovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Bajovci"
+    ],
+    "name:fra_x_preferred":[
+        "Bajovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Bajovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0458\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bajovci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1259801227,
-    "wof:lastmodified":1537486802,
+    "wof:lastmodified":1564148933,
     "wof:name":"Bajovci",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

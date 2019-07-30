@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rapovine"
+    ],
+    "name:ceb_x_preferred":[
+        "Rapovine"
+    ],
+    "name:fra_x_preferred":[
+        "Rapovine"
+    ],
+    "name:hrv_x_preferred":[
+        "Rapovine"
+    ],
+    "name:swe_x_preferred":[
+        "Rapovine"
+    ],
     "name:und_x_variant":[
         "Rapovina",
         "Rapovine"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226260505,
-    "wof:lastmodified":1537585568,
+    "wof:lastmodified":1564149054,
     "wof:name":"Rapovine",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

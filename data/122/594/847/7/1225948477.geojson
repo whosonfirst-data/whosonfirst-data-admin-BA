@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kujav\u010de"
+    ],
+    "name:ceb_x_preferred":[
+        "Kujav\u010de"
+    ],
+    "name:fra_x_preferred":[
+        "Kujav\u010de"
+    ],
+    "name:hrv_x_preferred":[
+        "Kujav\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0458\u0430\u0432\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kujav\u010de"
+    ],
     "name:und_x_variant":[
         "Kujav\u010de"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1225948477,
-    "wof:lastmodified":1537585588,
+    "wof:lastmodified":1564148984,
     "wof:name":"Kujavce",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

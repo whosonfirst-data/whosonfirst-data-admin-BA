@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Prisoje"
+    ],
+    "name:fra_x_preferred":[
+        "Prisoje"
+    ],
+    "name:hrv_x_preferred":[
+        "Prisoje"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u043e\u0439\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u043e\u0458\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1276550627,
-    "wof:lastmodified":1537486865,
+    "wof:lastmodified":1564146830,
     "wof:name":"Prisoje",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

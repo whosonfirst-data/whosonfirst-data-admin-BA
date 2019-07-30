@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mogorjelo"
+    ],
+    "name:hrv_x_preferred":[
+        "Mogorjelo"
+    ],
+    "name:lav_x_preferred":[
+        "Mogorjelo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293797867,
-    "wof:lastmodified":1536835567,
+    "wof:lastmodified":1564146145,
     "wof:name":"Mogorjelo",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

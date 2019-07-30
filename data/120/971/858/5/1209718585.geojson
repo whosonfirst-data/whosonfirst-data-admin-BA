@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Razboj \u017dupski"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017dupski Razboj"
+    ],
+    "name:fra_x_preferred":[
+        "Razboj \u017dupski"
+    ],
+    "name:hrv_x_preferred":[
+        "Razboj \u017dupski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0431\u043e\u0439-\u0416\u0443\u043f\u0441\u043a\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0437\u0431\u043e\u0458 \u0416\u0443\u043f\u0441\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u017dupski Razboj"
+    ],
     "name:und_x_variant":[
         "Gornji Razboi",
         "Razboj \u017dupski",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1209718585,
-    "wof:lastmodified":1537585567,
+    "wof:lastmodified":1564147043,
     "wof:name":"Zupski Razboj",
     "wof:parent_id":1108759237,
     "wof:placetype":"locality",

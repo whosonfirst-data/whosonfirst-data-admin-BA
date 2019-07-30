@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Crvenice"
+    ],
+    "name:ceb_x_preferred":[
+        "Crvenice"
+    ],
+    "name:fra_x_preferred":[
+        "Crvenice"
+    ],
+    "name:hrv_x_preferred":[
+        "Crvenice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0440\u0432\u0435\u043d\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Crvenice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293787961,
-    "wof:lastmodified":1537486787,
+    "wof:lastmodified":1564146202,
     "wof:name":"Crvenice",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

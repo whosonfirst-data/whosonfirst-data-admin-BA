@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ra\u0161inovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Donji Rasinevac"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u0161inovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Ra\u0161inovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0448\u0438\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Donji Rasinevac"
+    ],
     "name:und_x_variant":[
         "Rasinovac",
         "Ra\u0161novac",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1344266655,
-    "wof:lastmodified":1537585568,
+    "wof:lastmodified":1564145870,
     "wof:name":"Donji Rasinevac",
     "wof:parent_id":1108759013,
     "wof:placetype":"locality",

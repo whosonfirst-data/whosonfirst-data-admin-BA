@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Re\u0161etnica"
+    ],
+    "name:fra_x_preferred":[
+        "Re\u0161etnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Re\u0161etnica"
+    ],
     "name:und_x_variant":[
         "Re\u0161etnica"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1344171279,
-    "wof:lastmodified":1537585566,
+    "wof:lastmodified":1564145880,
     "wof:name":"Resetnica",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

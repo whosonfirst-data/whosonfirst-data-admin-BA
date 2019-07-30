@@ -26,6 +26,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mahala Vi\u0161njica"
+    ],
+    "name:fra_x_preferred":[
+        "Mahala Vi\u0161njica"
+    ],
+    "name:hrv_x_preferred":[
+        "Mahala Vi\u0161njica"
+    ],
     "name:und_x_variant":[
         "Mahala Vi\u0161njica",
         "Mahala"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343872667,
-    "wof:lastmodified":1537585584,
+    "wof:lastmodified":1564145961,
     "wof:name":"Mahala",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

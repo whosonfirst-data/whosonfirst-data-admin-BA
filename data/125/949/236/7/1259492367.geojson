@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hre\u0161a"
+    ],
+    "name:ceb_x_preferred":[
+        "Hre\u0161a"
+    ],
+    "name:fra_x_preferred":[
+        "Hre\u0161a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u0435\u0448\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0435\u0448\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hre\u0161a"
+    ],
     "name:und_x_variant":[
         "Hre\u0161a"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1259492367,
-    "wof:lastmodified":1537585596,
+    "wof:lastmodified":1564148844,
     "wof:name":"Hresa",
     "wof:parent_id":1108759247,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dej\u010di\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Dej\u010di\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Dej\u010di\u0107i"
+    ],
+    "name:swe_x_preferred":[
+        "Dej\u010di\u0107i"
+    ],
     "name:und_x_variant":[
         "Dej\u010di\u0107i"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344174661,
-    "wof:lastmodified":1537585615,
+    "wof:lastmodified":1564145887,
     "wof:name":"Dejcici",
     "wof:parent_id":1108759267,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0648\u0631\u0627\u0646\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Gorani"
+    ],
+    "name:ceb_x_preferred":[
+        "Gorani"
+    ],
+    "name:fra_x_preferred":[
+        "Gorani"
+    ],
+    "name:hrv_x_preferred":[
+        "Gorani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1276675797,
-    "wof:lastmodified":1537486869,
+    "wof:lastmodified":1564146661,
     "wof:name":"Gorani",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vlasa\u010de"
+    ],
+    "name:fra_x_preferred":[
+        "Vlasa\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043b\u0430\u0441\u0430\u0447\u0435"
+    ],
     "name:und_x_variant":[
         "Vlasa\u010de"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259992407,
-    "wof:lastmodified":1537585551,
+    "wof:lastmodified":1564148768,
     "wof:name":"Vlasace",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

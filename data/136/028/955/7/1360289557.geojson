@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Veliki Guber"
+    ],
+    "name:ceb_x_preferred":[
+        "Veliki Guber"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u06cc \u06af\u0648\u0628\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Veliki Guber"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliki Guber"
+    ],
+    "name:swe_x_preferred":[
+        "Veliki Guber"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1360289557,
-    "wof:lastmodified":1537486714,
+    "wof:lastmodified":1564148037,
     "wof:name":"Veliki Guber",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

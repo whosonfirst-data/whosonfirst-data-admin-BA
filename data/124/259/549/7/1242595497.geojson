@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mirak"
+    ],
+    "name:fra_x_preferred":[
+        "Mirak"
+    ],
+    "name:ita_x_preferred":[
+        "Mirak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e9\u30af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1242595497,
-    "wof:lastmodified":1537036283,
+    "wof:lastmodified":1564148408,
     "wof:name":"Mirak",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

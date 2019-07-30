@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pavi\u010di\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Pavi\u010di\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0432\u0438\u0447\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Pavi\u010di\u0107i"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243376301,
-    "wof:lastmodified":1537585575,
+    "wof:lastmodified":1564148292,
     "wof:name":"Pavicici",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

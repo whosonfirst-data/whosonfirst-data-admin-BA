@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sovrle"
+    ],
+    "name:ceb_x_preferred":[
+        "Sovrle"
+    ],
+    "name:fra_x_preferred":[
+        "Sovrle"
+    ],
+    "name:hrv_x_preferred":[
+        "Sovrle"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u0432\u0440\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sovrle"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1344161059,
-    "wof:lastmodified":1537486723,
+    "wof:lastmodified":1564145891,
     "wof:name":"Sovrle",
     "wof:parent_id":1108759109,
     "wof:placetype":"locality",

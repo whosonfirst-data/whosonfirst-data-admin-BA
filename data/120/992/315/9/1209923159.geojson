@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jabuka"
+    ],
+    "name:fra_x_preferred":[
+        "Jabuka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0431\u0443\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0628\u06a9\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209923159,
-    "wof:lastmodified":1537486828,
+    "wof:lastmodified":1564147125,
     "wof:name":"Jabuka",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ulovi\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Ulovi\u0107"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03cd\u03bb\u03bf\u03b2\u03b9\u03c4\u03c2"
+    ],
+    "name:fra_x_preferred":[
+        "Ulovi\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Ulovi\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u043b\u043e\u0432\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Ulovi\u0107"
+    ],
     "name:und_x_variant":[
         "Ulovi\u0107i",
         "Ulovi\u0107"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1310630485,
-    "wof:lastmodified":1537585555,
+    "wof:lastmodified":1564147747,
     "wof:name":"Ulovic",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

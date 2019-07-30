@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062a\u0634\u064a\u0646\u064a\u0643"
+    ],
+    "name:bos_x_preferred":[
+        "Pu\u010denik"
+    ],
+    "name:fra_x_preferred":[
+        "Pu\u010denik"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0447\u0435\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Pu\u010denik"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1209918133,
-    "wof:lastmodified":1537585569,
+    "wof:lastmodified":1564146910,
     "wof:name":"Pucenik",
     "wof:parent_id":1108759003,
     "wof:placetype":"locality",

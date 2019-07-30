@@ -25,9 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zable\u0107e"
+    ],
+    "name:ceb_x_preferred":[
+        "Zable\u0107e"
+    ],
+    "name:fra_x_preferred":[
+        "Zable\u0107e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0431\u043b\u0435\u045b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Zable\u0107e"
+    ],
     "name:und_x_variant":[
         "Zabla\u0107e",
         "Zable\u0107e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0628\u0644\u06d2\u0686\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310613799,
-    "wof:lastmodified":1537585549,
+    "wof:lastmodified":1564147870,
     "wof:name":"Zablece",
     "wof:parent_id":1108759135,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kika\u010di"
+    ],
+    "name:ceb_x_preferred":[
+        "Kika\u010di"
+    ],
+    "name:fra_x_preferred":[
+        "Kika\u010di"
+    ],
+    "name:hrv_x_preferred":[
+        "Kika\u010di"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u043a\u0430\u0447\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kika\u010di"
+    ],
     "name:und_x_variant":[
         "Kika\u010di"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276132949,
-    "wof:lastmodified":1537585592,
+    "wof:lastmodified":1564146701,
     "wof:name":"Kikaci",
     "wof:parent_id":1108759121,
     "wof:placetype":"locality",

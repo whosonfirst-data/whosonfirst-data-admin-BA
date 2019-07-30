@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Meka Gruda"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Meka Gruda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u044f-\u041c\u0435\u043a\u0430-\u0413\u0440\u0443\u0434\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Gornja Meka Gruda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0430 \u041c\u0435\u043a\u0430 \u0413\u0440\u0443\u0434\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1292906665,
-    "wof:lastmodified":1537486773,
+    "wof:lastmodified":1564146333,
     "wof:name":"Gornja Meka Gruda",
     "wof:parent_id":1108758997,
     "wof:placetype":"locality",

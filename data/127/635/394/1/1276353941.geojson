@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0646\u064a\u064a \u0641\u064a\u0634\u0646\u064a\u0641\u064a\u0633\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Donje Vi\u0161njevice"
+    ],
+    "name:fra_x_preferred":[
+        "Donje Vi\u0161njevice"
+    ],
+    "name:hrv_x_preferred":[
+        "Donje Vi\u0161njevice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0435 \u0412\u0438\u0448\u045a\u0435\u0432\u0438\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Donje Vi\u0161njevice"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276353941,
-    "wof:lastmodified":1537585675,
+    "wof:lastmodified":1564146667,
     "wof:name":"Donje Visnjevice",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

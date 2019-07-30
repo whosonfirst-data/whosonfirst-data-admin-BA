@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Radmilovi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Radmilovi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u043c\u0438\u043b\u043e\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Radmilovi\u0107i"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209927023,
-    "wof:lastmodified":1537585671,
+    "wof:lastmodified":1564147129,
     "wof:name":"Radmilovici",
     "wof:parent_id":1108759085,
     "wof:placetype":"locality",

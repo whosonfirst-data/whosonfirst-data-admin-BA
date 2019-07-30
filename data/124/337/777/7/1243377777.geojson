@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Grabik"
+    ],
+    "name:ceb_x_preferred":[
+        "Grabik"
+    ],
+    "name:fra_x_preferred":[
+        "Grabik"
+    ],
+    "name:hrv_x_preferred":[
+        "Grabik"
+    ],
+    "name:pol_x_preferred":[
+        "Grabik"
+    ],
+    "name:slv_x_preferred":[
+        "Grabik"
+    ],
+    "name:swe_x_preferred":[
+        "Grabik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0440\u0430\u0431\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1243377777,
-    "wof:lastmodified":1536904715,
+    "wof:lastmodified":1564148284,
     "wof:name":"Grabik",
     "wof:parent_id":1108759301,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Slivlja"
+    ],
+    "name:fra_x_preferred":[
+        "Slivlja"
+    ],
+    "name:hrv_x_preferred":[
+        "Slivlja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u0459\u0430"
+    ],
     "name:und_x_variant":[
         "Slivlje",
         "Slivlja"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1344065929,
-    "wof:lastmodified":1537585561,
+    "wof:lastmodified":1564145653,
     "wof:name":"Slivlja",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0644\u0648\u0641\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Dolovi"
+    ],
+    "name:fra_x_preferred":[
+        "Dolovi"
+    ],
+    "name:hrv_x_preferred":[
+        "Dolovi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u043e\u0432\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1243472035,
-    "wof:lastmodified":1537486784,
+    "wof:lastmodified":1564148481,
     "wof:name":"Dolovi",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

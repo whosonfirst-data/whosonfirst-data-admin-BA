@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Do"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293306793,
-    "wof:lastmodified":1537045558,
+    "wof:lastmodified":1564146061,
     "wof:name":"Do",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010cvaljina"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cvaljina"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010cvaljina"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cvaljina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0432\u0430\u0459\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "\u010cvaljina"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310423369,
-    "wof:lastmodified":1537585616,
+    "wof:lastmodified":1564147778,
     "wof:name":"Cvaljina",
     "wof:parent_id":1108759213,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Cvek"
+    ],
+    "name:slv_x_preferred":[
+        "Cvek"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326833219,
-    "wof:lastmodified":1537045460,
+    "wof:lastmodified":1564145462,
     "wof:name":"Cvek",
     "wof:parent_id":1108759191,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kori\u0107na"
+    ],
+    "name:fra_x_preferred":[
+        "Kori\u0107na"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u045b\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Kori\u0107na",
         "Kori\u0107ina"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327245611,
-    "wof:lastmodified":1537585590,
+    "wof:lastmodified":1564145291,
     "wof:name":"Koricina",
     "wof:parent_id":1108759081,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160ehovina"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160ehovina"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160ehovina"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160ehovina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0435\u0445\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160ehovina"
+    ],
     "name:und_x_variant":[
         "\u0160ehovina"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1310418709,
-    "wof:lastmodified":1537585564,
+    "wof:lastmodified":1564147641,
     "wof:name":"Sehovina",
     "wof:parent_id":1108759179,
     "wof:placetype":"locality",

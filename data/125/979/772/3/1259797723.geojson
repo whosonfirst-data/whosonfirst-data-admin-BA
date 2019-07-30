@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0644\u062a\u064a\u062a\u0634\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Sulti\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Sulti\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Sulti\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Sulti\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u043b\u0442\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sulti\u0107i"
+    ],
     "name:und_x_variant":[
         "Sulti\u0107i"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1259797723,
-    "wof:lastmodified":1537585683,
+    "wof:lastmodified":1564148809,
     "wof:name":"Sultici",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

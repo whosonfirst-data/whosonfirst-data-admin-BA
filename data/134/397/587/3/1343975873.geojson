@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Prijani"
+    ],
+    "name:fra_x_preferred":[
+        "Prijani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0458\u0430\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1343975873,
-    "wof:lastmodified":1537486734,
+    "wof:lastmodified":1564145640,
     "wof:name":"Prijani",
     "wof:parent_id":1108759081,
     "wof:placetype":"locality",

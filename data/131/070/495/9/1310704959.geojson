@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Opsine"
+    ],
+    "name:fra_x_preferred":[
+        "Opsine"
+    ],
+    "name:hrv_x_preferred":[
+        "Opsine"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0441\u0438\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Obsine",
         "Opsine"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1310704959,
-    "wof:lastmodified":1537585642,
+    "wof:lastmodified":1564147662,
     "wof:name":"Opsine",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

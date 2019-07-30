@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rijeke"
+    ],
+    "name:fra_x_preferred":[
+        "Rijeke"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u0458\u0435\u043a\u0435"
+    ],
     "name:und_x_variant":[
         "Rijeka",
         "Rijeke"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310705059,
-    "wof:lastmodified":1537585566,
+    "wof:lastmodified":1564147650,
     "wof:name":"Rijeke",
     "wof:parent_id":1108759103,
     "wof:placetype":"locality",

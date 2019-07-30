@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dubrave"
+    ],
+    "name:fra_x_preferred":[
+        "Dubrave"
+    ],
+    "name:hrv_x_preferred":[
+        "Dubrave"
+    ],
+    "name:swe_x_preferred":[
+        "Dubrave"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1260197015,
-    "wof:lastmodified":1537486863,
+    "wof:lastmodified":1564147533,
     "wof:name":"Dubrave",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Veri\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Veri\u0107i"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u06cc\u0686\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Veri\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Veri\u0107i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0438\u0447\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Veri\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0440\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Veri\u0107i"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1327244513,
-    "wof:lastmodified":1537585553,
+    "wof:lastmodified":1564145308,
     "wof:name":"Verici",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

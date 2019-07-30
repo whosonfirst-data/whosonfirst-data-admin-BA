@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hubjeri"
+    ],
+    "name:ceb_x_preferred":[
+        "Hubjeri"
+    ],
+    "name:fra_x_preferred":[
+        "Hubjeri"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0443\u0431\u0458\u0435\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Hubjeri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1276983429,
-    "wof:lastmodified":1537486848,
+    "wof:lastmodified":1564146881,
     "wof:name":"Hubjeri",
     "wof:parent_id":1108759085,
     "wof:placetype":"locality",

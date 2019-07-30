@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Bale"
+    ],
+    "name:fra_x_preferred":[
+        "Bale"
+    ],
+    "name:hrv_x_preferred":[
+        "Bale"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043b\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1276237849,
-    "wof:lastmodified":1537486870,
+    "wof:lastmodified":1564146745,
     "wof:name":"Bale",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

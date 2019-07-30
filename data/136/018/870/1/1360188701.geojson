@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Komrani"
+    ],
+    "name:fra_x_preferred":[
+        "Komrani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1360188701,
-    "wof:lastmodified":1537486759,
+    "wof:lastmodified":1564148007,
     "wof:name":"Komrani",
     "wof:parent_id":1108759199,
     "wof:placetype":"locality",

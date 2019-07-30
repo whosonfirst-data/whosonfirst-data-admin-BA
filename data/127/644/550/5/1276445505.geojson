@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160njegotina Srednja"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160njegotina Srednja"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160njegotina Srednja"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160njegotina Srednja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u045a\u0435\u0433\u043e\u0442\u0438\u043d\u0430 \u0421\u0440\u0435\u0434\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160njegotina Srednja"
+    ],
     "name:und_x_variant":[
         "Srednja \u0160njegotina",
         "\u0160njegotina Srednja"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1276445505,
-    "wof:lastmodified":1537585561,
+    "wof:lastmodified":1564146536,
     "wof:name":"Snjegotina Srednja",
     "wof:parent_id":1108759045,
     "wof:placetype":"locality",

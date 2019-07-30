@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lukavac"
+    ],
+    "name:ceb_x_preferred":[
+        "Lukavac"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03cd\u03ba\u03b1\u03b2\u03b1\u03c4\u03c2"
+    ],
+    "name:fra_x_preferred":[
+        "Lukavac"
+    ],
+    "name:hrv_x_preferred":[
+        "Lukavac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u043a\u0430\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Lukavac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1293234689,
-    "wof:lastmodified":1537486812,
+    "wof:lastmodified":1564146159,
     "wof:name":"Lukavac",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

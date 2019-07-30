@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mazlina"
+    ],
+    "name:fra_x_preferred":[
+        "Mazlina"
+    ],
+    "name:hrv_x_preferred":[
+        "Mazlina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293801695,
-    "wof:lastmodified":1537486749,
+    "wof:lastmodified":1564146419,
     "wof:name":"Mazlina",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

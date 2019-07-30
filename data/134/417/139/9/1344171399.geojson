@@ -25,6 +25,9 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Godinja"
+    ],
     "name:und_x_variant":[
         "Godinje",
         "Godinjaa",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1344171399,
-    "wof:lastmodified":1537585605,
+    "wof:lastmodified":1564145883,
     "wof:name":"Godinja",
     "wof:parent_id":1108759267,
     "wof:placetype":"locality",

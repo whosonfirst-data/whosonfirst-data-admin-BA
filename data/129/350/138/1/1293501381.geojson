@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "O\u010dehni\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "O\u010dehni\u0107i"
+    ],
     "name:und_x_variant":[
         "O\u010dehni\u0107i",
         "O\u010deni\u0107i"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293501381,
-    "wof:lastmodified":1537585578,
+    "wof:lastmodified":1564146244,
     "wof:name":"Ocenici",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

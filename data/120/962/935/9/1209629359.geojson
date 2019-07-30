@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vir"
+    ],
+    "name:ceb_x_preferred":[
+        "Vir"
+    ],
+    "name:deu_x_preferred":[
+        "Vir"
+    ],
+    "name:fra_x_preferred":[
+        "Vir"
+    ],
+    "name:hrv_x_preferred":[
+        "Vir"
+    ],
+    "name:ile_x_preferred":[
+        "Vir"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Vir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +67,7 @@
         }
     ],
     "wof:id":1209629359,
-    "wof:lastmodified":1537486712,
+    "wof:lastmodified":1564146926,
     "wof:name":"Vir",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

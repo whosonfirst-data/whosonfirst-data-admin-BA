@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ljeskovik"
+    ],
+    "name:fra_x_preferred":[
+        "Ljeskovik"
+    ],
+    "name:hrv_x_preferred":[
+        "Ljeskovik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0435\u0441\u043a\u043e\u0432\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1242590691,
-    "wof:lastmodified":1537042921,
+    "wof:lastmodified":1564148407,
     "wof:name":"Ljeskovik",
     "wof:parent_id":1108759179,
     "wof:placetype":"locality",

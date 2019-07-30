@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pu\u010dile"
+    ],
+    "name:ceb_x_preferred":[
+        "Pu\u010dile"
+    ],
+    "name:fra_x_preferred":[
+        "Pu\u010dile"
+    ],
+    "name:hrv_x_preferred":[
+        "Pu\u010dile"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0447\u0438\u043b\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Pu\u010dile"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0447\u0438\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Pu\u010dile"
+    ],
     "name:und_x_variant":[
         "Puhare Pu\u010dile",
         "Pu\u010dile"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1360097983,
-    "wof:lastmodified":1537585569,
+    "wof:lastmodified":1564147958,
     "wof:name":"Pucile",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

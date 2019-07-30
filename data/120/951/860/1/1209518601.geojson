@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kukavice"
+    ],
+    "name:ceb_x_preferred":[
+        "Kukavice"
+    ],
+    "name:fra_x_preferred":[
+        "Kukavice"
+    ],
+    "name:hrv_x_preferred":[
+        "Kukavice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043a\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kukavice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +52,7 @@
         "gn:id":3299139
     },
     "wof:country":"BA",
-    "wof:geomhash":"50878623a4eeb5acdf3c5d31a934d5f2",
+    "wof:geomhash":"fd32a39fed4524064744623c99e0be64",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209518601,
-    "wof:lastmodified":1536284652,
+    "wof:lastmodified":1564147176,
     "wof:name":"Kukavice",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.753770000000006,
+    18.75377000000001,
     43.49748,
-    18.753770000000006,
+    18.75377000000001,
     43.49748
 ],
   "geometry": {"coordinates":[18.75377000000001,43.49748],"type":"Point"}

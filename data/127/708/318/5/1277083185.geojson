@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Stepen"
+    ],
+    "name:fra_x_preferred":[
+        "Stepen"
+    ],
+    "name:hrv_x_preferred":[
+        "Stepen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u0435\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1277083185,
-    "wof:lastmodified":1537486721,
+    "wof:lastmodified":1564146495,
     "wof:name":"Stepen",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

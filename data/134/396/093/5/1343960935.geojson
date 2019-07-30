@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Lijeska"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Lijeska"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Lijeska"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u044f-\u041b\u0438\u0435\u0441\u043a\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u041b\u0438\u0458\u0435\u0441\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343960935,
-    "wof:lastmodified":1537486783,
+    "wof:lastmodified":1564145610,
     "wof:name":"Donja Lijeska",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

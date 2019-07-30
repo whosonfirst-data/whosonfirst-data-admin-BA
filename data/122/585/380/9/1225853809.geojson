@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kru\u0161kovo Polje"
+    ],
+    "name:ceb_x_preferred":[
+        "Kru\u0161kovo Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Kru\u0161kovo Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Kru\u0161kovo Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u043a\u043e\u0432\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kru\u0161kovo Polje"
+    ],
     "name:und_x_variant":[
         "Kru\u0161kovo Polje"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1225853809,
-    "wof:lastmodified":1537585588,
+    "wof:lastmodified":1564149380,
     "wof:name":"Kruskovo Polje",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ularice"
+    ],
+    "name:ceb_x_preferred":[
+        "Ularice"
+    ],
+    "name:fra_x_preferred":[
+        "Ularice"
+    ],
+    "name:hrv_x_preferred":[
+        "Ularice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u043b\u0430\u0440\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ularice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1327033965,
-    "wof:lastmodified":1537486716,
+    "wof:lastmodified":1564145381,
     "wof:name":"Ularice",
     "wof:parent_id":1108759277,
     "wof:placetype":"locality",

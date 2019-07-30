@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0632\u064a\u062a\u0641\u0627"
+    ],
+    "name:bos_x_preferred":[
+        "Po\u017eetva"
+    ],
+    "name:fra_x_preferred":[
+        "Po\u017eetva"
+    ],
+    "name:hrv_x_preferred":[
+        "Po\u017eetva"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0436\u0435\u0442\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Po\u017eetva"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1343666029,
-    "wof:lastmodified":1537585676,
+    "wof:lastmodified":1564145767,
     "wof:name":"Pozetva",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

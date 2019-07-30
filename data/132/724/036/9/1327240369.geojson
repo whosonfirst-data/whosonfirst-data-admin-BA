@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ulog"
+    ],
+    "name:fra_x_preferred":[
+        "Ulog"
+    ],
+    "name:hrv_x_preferred":[
+        "Ulog"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u043b\u043e\u0433"
+    ],
     "name:und_x_variant":[
         "Ulog Borak",
         "Ulog"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1327240369,
-    "wof:lastmodified":1537585555,
+    "wof:lastmodified":1564145297,
     "wof:name":"Ulog",
     "wof:parent_id":1108759125,
     "wof:placetype":"locality",

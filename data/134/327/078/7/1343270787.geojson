@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Koturovi"
+    ],
+    "name:ceb_x_preferred":[
+        "Koturovi"
+    ],
+    "name:fra_x_preferred":[
+        "Koturovi"
+    ],
+    "name:hrv_x_preferred":[
+        "Koturovi"
+    ],
+    "name:slv_x_preferred":[
+        "Koturovi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0442\u0443\u0440\u043e\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Koturovi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1343270787,
-    "wof:lastmodified":1537486853,
+    "wof:lastmodified":1564145935,
     "wof:name":"Koturovi",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

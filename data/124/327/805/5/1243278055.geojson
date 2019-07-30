@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bi\u010der"
+    ],
+    "name:ceb_x_preferred":[
+        "Bi\u010der"
+    ],
+    "name:fra_x_preferred":[
+        "Bi\u010der"
+    ],
+    "name:hrv_x_preferred":[
+        "Bi\u010der"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0447\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Bi\u010der"
+    ],
     "name:und_x_variant":[
         "Bi\u010der"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1243278055,
-    "wof:lastmodified":1537585627,
+    "wof:lastmodified":1564148641,
     "wof:name":"Bicer",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zlosela"
+    ],
+    "name:ceb_x_preferred":[
+        "Zlosela"
+    ],
+    "name:fra_x_preferred":[
+        "Zlosela"
+    ],
+    "name:hrv_x_preferred":[
+        "Zlosela"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u043b\u043e\u0441\u0435\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Zlosela"
+    ],
     "name:und_x_variant":[
         "Zloselo",
         "Zlosela"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1326533923,
-    "wof:lastmodified":1537585546,
+    "wof:lastmodified":1564145507,
     "wof:name":"Zlosela",
     "wof:parent_id":1108759145,
     "wof:placetype":"locality",

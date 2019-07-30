@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hrasno Gornje"
+    ],
+    "name:ceb_x_preferred":[
+        "Hrasno Gornje"
+    ],
+    "name:fra_x_preferred":[
+        "Hrasno Gornje"
+    ],
+    "name:hrv_x_preferred":[
+        "Hrasno Gornje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u043d\u043e \u0413\u043e\u0440\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hrasno Gornje"
+    ],
     "name:und_x_variant":[
         "Hrasno",
         "Hrasno Gornje"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310719431,
-    "wof:lastmodified":1537585596,
+    "wof:lastmodified":1564147693,
     "wof:name":"Hrasno Gornje",
     "wof:parent_id":1108759121,
     "wof:placetype":"locality",

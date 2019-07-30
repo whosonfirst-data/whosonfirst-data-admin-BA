@@ -25,6 +25,81 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Petrinja"
+    ],
+    "name:cat_x_preferred":[
+        "Petrinja"
+    ],
+    "name:ceb_x_preferred":[
+        "Petrinjica"
+    ],
+    "name:ces_x_preferred":[
+        "Petrinja"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u06ce\u062a\u0631\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Petrinja"
+    ],
+    "name:epo_x_preferred":[
+        "Petrinja"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0631\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Petrinja"
+    ],
+    "name:hrv_x_preferred":[
+        "Petrinja"
+    ],
+    "name:hun_x_preferred":[
+        "Petrinya"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u057f\u0580\u056b\u0576\u0575\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Petrinja"
+    ],
+    "name:lat_x_preferred":[
+        "Petrinia"
+    ],
+    "name:nld_x_preferred":[
+        "Petrinja"
+    ],
+    "name:pol_x_preferred":[
+        "Petrinja"
+    ],
+    "name:ron_x_preferred":[
+        "Petrinja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u043d\u044f"
+    ],
+    "name:slv_x_preferred":[
+        "Petrinja"
+    ],
+    "name:spa_x_preferred":[
+        "Petrinja"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Petrinja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u043d\u044f"
+    ],
+    "name:war_x_preferred":[
+        "Petrinja"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f7c\u5f97\u91cc\u5c3c\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -42,7 +117,7 @@
         }
     ],
     "wof:id":1209618493,
-    "wof:lastmodified":1536281603,
+    "wof:lastmodified":1564147107,
     "wof:name":"Petrinja",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

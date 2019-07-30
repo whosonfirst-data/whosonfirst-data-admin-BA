@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Suha\u010da"
+    ],
+    "name:ceb_x_preferred":[
+        "Suha\u010da"
+    ],
+    "name:fra_x_preferred":[
+        "Suha\u010da"
+    ],
+    "name:swe_x_preferred":[
+        "Suha\u010da"
+    ],
     "name:und_x_variant":[
         "Suha\u010da"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1327337475,
-    "wof:lastmodified":1537585558,
+    "wof:lastmodified":1564145364,
     "wof:name":"Suhaca",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

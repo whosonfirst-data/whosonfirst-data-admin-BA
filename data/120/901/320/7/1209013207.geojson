@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Korlati"
+    ],
+    "name:fra_x_preferred":[
+        "Korlati"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u043b\u0430\u0442\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209013207,
-    "wof:lastmodified":1537486758,
+    "wof:lastmodified":1564146958,
     "wof:name":"Korlati",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

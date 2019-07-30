@@ -25,8 +25,26 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jake\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Jake\u0161"
+    ],
+    "name:hrv_x_preferred":[
+        "Jake\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "Jakes"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043a\u0435\u0448"
+    ],
     "name:und_x_variant":[
         "Jake\u0161"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u06a9\u06cc\u0634"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1309816263,
-    "wof:lastmodified":1537585595,
+    "wof:lastmodified":1564148163,
     "wof:name":"Jakes",
     "wof:parent_id":1108759169,
     "wof:placetype":"locality",

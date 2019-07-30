@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kazmeri\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Kazmeri\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0437\u043c\u0435\u0440\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Kazmeri\u0107i"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293213245,
-    "wof:lastmodified":1537585592,
+    "wof:lastmodified":1564146454,
     "wof:name":"Kazmerici",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

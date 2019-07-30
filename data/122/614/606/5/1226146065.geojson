@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Trstenci"
+    ],
+    "name:ceb_x_preferred":[
+        "Trstenci"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03c3\u03c4\u03ad\u03bd\u03c4\u03c3\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Trstenci"
+    ],
+    "name:hrv_x_preferred":[
+        "Trstenci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u0435\u043d\u0446\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0441\u0442\u0435\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Trstenci"
+    ],
     "name:und_x_variant":[
         "Trstenaci",
         "Trstenci"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1226146065,
-    "wof:lastmodified":1537585556,
+    "wof:lastmodified":1564149196,
     "wof:name":"Trstenci",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

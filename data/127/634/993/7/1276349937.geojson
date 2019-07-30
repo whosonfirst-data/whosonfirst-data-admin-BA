@@ -25,9 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lastve"
+    ],
+    "name:fra_x_preferred":[
+        "Lastve"
+    ],
+    "name:hrv_x_preferred":[
+        "Lastve"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0441\u0442\u0432\u0435"
+    ],
     "name:und_x_variant":[
         "Lastva",
         "Lastve"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633\u0679\u0648\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276349937,
-    "wof:lastmodified":1537585586,
+    "wof:lastmodified":1564146614,
     "wof:name":"Lastve",
     "wof:parent_id":1108759013,
     "wof:placetype":"locality",

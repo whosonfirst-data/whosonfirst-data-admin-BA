@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017dunovi"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dunovi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0443\u043d\u043e\u0432\u0438"
+    ],
     "name:und_x_variant":[
         "\u017dunovi",
         "\u017dunova"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1260088899,
-    "wof:lastmodified":1537585546,
+    "wof:lastmodified":1564147457,
     "wof:name":"Zunova",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

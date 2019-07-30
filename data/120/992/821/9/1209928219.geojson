@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u064a\u0644\u0627\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Bjelaj"
+    ],
+    "name:ceb_x_preferred":[
+        "Bjelaj"
+    ],
+    "name:fra_x_preferred":[
+        "Bjelaj"
+    ],
+    "name:hrv_x_preferred":[
+        "Bjelaj"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044c\u0435\u043b\u0430\u0439"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0458\u0435\u043b\u0430\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Bjelaj"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1209928219,
-    "wof:lastmodified":1537486799,
+    "wof:lastmodified":1564147117,
     "wof:name":"Bjelaj",
     "wof:parent_id":1108759013,
     "wof:placetype":"locality",

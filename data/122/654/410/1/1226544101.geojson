@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kandija"
+    ],
+    "name:fra_x_preferred":[
+        "Kandija"
+    ],
+    "name:hrv_x_preferred":[
+        "Kandija"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043d\u0434\u0438\u0458\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226544101,
-    "wof:lastmodified":1537486761,
+    "wof:lastmodified":1564149347,
     "wof:name":"Kandija",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

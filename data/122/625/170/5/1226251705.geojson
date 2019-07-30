@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brane\u0161ci Donji"
+    ],
+    "name:ceb_x_preferred":[
+        "Brane\u0161ci Donji"
+    ],
+    "name:fra_x_preferred":[
+        "Brane\u0161ci Donji"
+    ],
+    "name:hrv_x_preferred":[
+        "Brane\u0161ci Donji"
+    ],
+    "name:pol_x_preferred":[
+        "Brane\u0161ci Donji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0435\u0448\u0446\u0438 \u0414\u043e\u045a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Brane\u0161ci Donji"
+    ],
     "name:und_x_variant":[
         "Donji Brane\u0161ci",
         "Brane\u0161ci Donji"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1226251705,
-    "wof:lastmodified":1537585623,
+    "wof:lastmodified":1564149219,
     "wof:name":"Branesci Donji",
     "wof:parent_id":1108759045,
     "wof:placetype":"locality",

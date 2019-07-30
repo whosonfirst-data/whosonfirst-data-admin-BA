@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Skrobotno"
+    ],
+    "name:fra_x_preferred":[
+        "Skrobotno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0440\u043e\u0431\u043e\u0442\u043d\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Skrobotno"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u0440\u043e\u0431\u043e\u0442\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1327147447,
-    "wof:lastmodified":1537486725,
+    "wof:lastmodified":1564145279,
     "wof:name":"Skrobotno",
     "wof:parent_id":1108758997,
     "wof:placetype":"locality",

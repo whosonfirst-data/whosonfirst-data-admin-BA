@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bodenik"
+    ],
+    "name:fra_x_preferred":[
+        "Bodenik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0434\u0435\u043d\u0438\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Bodenik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0434\u0435\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1309806831,
-    "wof:lastmodified":1537486797,
+    "wof:lastmodified":1564148156,
     "wof:name":"Bodenik",
     "wof:parent_id":1108758997,
     "wof:placetype":"locality",

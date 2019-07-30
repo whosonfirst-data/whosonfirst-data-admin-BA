@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ruhotina"
+    ],
+    "name:ceb_x_preferred":[
+        "Ruhotina"
+    ],
+    "name:fra_x_preferred":[
+        "Ruhotina"
+    ],
+    "name:hrv_x_preferred":[
+        "Ruhotina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0445\u043e\u0442\u0438\u043d\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ruhotina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0445\u043e\u0442\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ruhotina"
+    ],
     "name:und_x_variant":[
         "Ruhotine",
         "Ruhotina"
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1209114989,
-    "wof:lastmodified":1537585652,
+    "wof:lastmodified":1564147205,
     "wof:name":"Ruhotina",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Me\u0111a\u0161i"
+    ],
+    "name:ceb_x_preferred":[
+        "Me\u0111a\u0161i"
+    ],
+    "name:fra_x_preferred":[
+        "Me\u0111a\u0161i"
+    ],
+    "name:hrv_x_preferred":[
+        "Me\u0111a\u0161i"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0436\u044f\u0448\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Me\u0111a\u0161i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0452\u0430\u0448\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Me\u0111a\u0161i"
+    ],
     "name:und_x_variant":[
         "Me\u0111e\u0161i",
         "Medja\u0161i",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1259496435,
-    "wof:lastmodified":1537585583,
+    "wof:lastmodified":1564148832,
     "wof:name":"Medasi",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

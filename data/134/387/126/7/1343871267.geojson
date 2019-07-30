@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Tavija"
+    ],
+    "name:ceb_x_preferred":[
+        "Tavija"
+    ],
+    "name:fra_x_preferred":[
+        "Tavija"
+    ],
+    "name:hrv_x_preferred":[
+        "Tavija"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0432\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tavija"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1343871267,
-    "wof:lastmodified":1537486851,
+    "wof:lastmodified":1564145968,
     "wof:name":"Tavija",
     "wof:parent_id":1108759139,
     "wof:placetype":"locality",

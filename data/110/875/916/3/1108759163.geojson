@@ -34,11 +34,65 @@
     "mps:longitude":18.146414,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Maglaj"
+    ],
+    "name:ceb_x_preferred":[
+        "Maglaj"
+    ],
+    "name:deu_x_preferred":[
+        "Maglaj"
+    ],
     "name:eng_x_preferred":[
+        "Maglaj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06af\u0644\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Maglaj"
+    ],
+    "name:hrv_x_preferred":[
+        "Maglaj"
+    ],
+    "name:hun_x_preferred":[
+        "Maglaj"
+    ],
+    "name:ita_x_preferred":[
+        "Maglaj"
+    ],
+    "name:lit_x_preferred":[
+        "Maglajus"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0433\u043b\u0430\u0458"
+    ],
+    "name:nld_x_preferred":[
+        "Maglaj"
+    ],
+    "name:pol_x_preferred":[
+        "Maglaj"
+    ],
+    "name:spa_x_preferred":[
+        "Maglaj"
+    ],
+    "name:sqi_x_preferred":[
+        "Magllaj"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0433\u043b\u0430\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Maglaj"
+    ],
+    "name:tur_x_preferred":[
         "Maglaj"
     ],
     "name:und_x_variant":[
         "Maglaj"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u06af\u0644\u0627\u06cc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -75,7 +129,7 @@
         }
     ],
     "wof:id":1108759163,
-    "wof:lastmodified":1553718709,
+    "wof:lastmodified":1564147595,
     "wof:name":"Maglaj",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

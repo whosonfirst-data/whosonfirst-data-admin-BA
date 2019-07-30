@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zavait"
+    ],
+    "name:ceb_x_preferred":[
+        "Zavat"
+    ],
+    "name:fra_x_preferred":[
+        "Zavait"
+    ],
+    "name:hrv_x_preferred":[
+        "Zavait"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0432\u0430\u0438\u0442"
+    ],
     "name:und_x_variant":[
         "Zavajit",
         "Zavait",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310218009,
-    "wof:lastmodified":1537585548,
+    "wof:lastmodified":1564147849,
     "wof:name":"Zavat",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

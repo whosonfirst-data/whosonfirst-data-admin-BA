@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ra\u0161\u0107e"
+    ],
+    "name:ceb_x_preferred":[
+        "Ra\u0161\u0107e"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u0161\u0107e"
+    ],
+    "name:hrv_x_preferred":[
+        "Ra\u0161\u0107e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0448\u045b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ra\u0161\u0107e"
+    ],
     "name:und_x_variant":[
         "Ra\u0161\u0107e"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276456505,
-    "wof:lastmodified":1537585662,
+    "wof:lastmodified":1564146558,
     "wof:name":"Rasce",
     "wof:parent_id":1108759011,
     "wof:placetype":"locality",

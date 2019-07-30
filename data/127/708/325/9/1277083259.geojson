@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mala Krupska Ruji\u0161ka"
+    ],
+    "name:ceb_x_preferred":[
+        "Mala Krupska Ruji\u0161ka"
+    ],
+    "name:fra_x_preferred":[
+        "Mala Krupska Ruji\u0161ka"
+    ],
+    "name:hrv_x_preferred":[
+        "Mala Krupska Ruji\u0161ka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u041a\u0440\u0443\u043f\u0441\u043a\u0430 \u0420\u0443\u0458\u0438\u0448\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mala Krupska Ruji\u0161ka"
+    ],
     "name:und_x_variant":[
         "Mala Ruji\u0161ka",
         "Mala Krupska Ruji\u0161ka"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1277083259,
-    "wof:lastmodified":1537585584,
+    "wof:lastmodified":1564146487,
     "wof:name":"Mala Krupska Rujiska",
     "wof:parent_id":1108759011,
     "wof:placetype":"locality",

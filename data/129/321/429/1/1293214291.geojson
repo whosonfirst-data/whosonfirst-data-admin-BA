@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donji Rujani"
+    ],
+    "name:ceb_x_preferred":[
+        "Donji Rujani"
+    ],
+    "name:deu_x_preferred":[
+        "Donji Rujani"
+    ],
+    "name:fra_x_preferred":[
+        "Donji Rujani"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Rujani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u0420\u0443\u0458\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Donji Rujani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1293214291,
-    "wof:lastmodified":1537486823,
+    "wof:lastmodified":1564146458,
     "wof:name":"Donji Rujani",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

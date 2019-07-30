@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vu\u010deti\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Vu\u010deti\u0107i"
+    ],
     "name:und_x_variant":[
         "Vu\u010deti\u0107i"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1360099259,
-    "wof:lastmodified":1537585549,
+    "wof:lastmodified":1564147966,
     "wof:name":"Vucetici",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

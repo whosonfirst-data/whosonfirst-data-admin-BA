@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160pionica Gornja"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160pionica Gornja"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160pionica Gornja"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160pionica Gornja"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160pionica Gornja"
+    ],
     "name:und_x_variant":[
         "Muslimanska \u0160pionica",
         "\u0160pionica Gornja"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343867837,
-    "wof:lastmodified":1537585560,
+    "wof:lastmodified":1564145997,
     "wof:name":"Spionica Gornja",
     "wof:parent_id":1108759243,
     "wof:placetype":"locality",

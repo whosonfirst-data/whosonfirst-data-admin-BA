@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Udre\u017enje"
+    ],
+    "name:ceb_x_preferred":[
+        "Udre\u017enje"
+    ],
+    "name:fra_x_preferred":[
+        "Udre\u017enje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0434\u0440\u0435\u0436\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Udre\u017enje"
+    ],
     "name:und_x_variant":[
         "Udre\u017enje"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1343961197,
-    "wof:lastmodified":1537585555,
+    "wof:lastmodified":1564145601,
     "wof:name":"Udreznje",
     "wof:parent_id":1108759179,
     "wof:placetype":"locality",

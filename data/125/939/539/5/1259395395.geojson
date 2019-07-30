@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bu\u0111"
+    ],
+    "name:fra_x_preferred":[
+        "Bu\u0111"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0452"
+    ],
     "name:und_x_variant":[
         "Bu\u0111"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259395395,
-    "wof:lastmodified":1537585621,
+    "wof:lastmodified":1564148742,
     "wof:name":"Bud",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

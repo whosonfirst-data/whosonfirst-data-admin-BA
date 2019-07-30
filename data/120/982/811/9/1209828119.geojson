@@ -26,6 +26,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornja Mo\u010dila"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornja Mo\u010dila"
+    ],
+    "name:fra_x_preferred":[
+        "Gornja Mo\u010dila"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornja Mo\u010dila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u044f-\u041c\u043e\u0447\u0438\u043b\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0430 \u041c\u043e\u0447\u0438\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gornja Mo\u010dila"
+    ],
     "name:und_x_variant":[
         "Mocila Gornja",
         "Gornja Mo\u010dila"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1209828119,
-    "wof:lastmodified":1537585660,
+    "wof:lastmodified":1564147052,
     "wof:name":"Gornja Mocila",
     "wof:parent_id":1108759009,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Grebci"
+    ],
+    "name:fra_x_preferred":[
+        "Grebci"
+    ],
+    "name:hrv_x_preferred":[
+        "Grebci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0435\u043f\u0446\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1344060955,
-    "wof:lastmodified":1537486768,
+    "wof:lastmodified":1564145670,
     "wof:name":"Grebci",
     "wof:parent_id":1108759213,
     "wof:placetype":"locality",

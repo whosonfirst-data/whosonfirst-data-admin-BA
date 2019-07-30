@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010cizma"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010cizma"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cizma"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010cizma"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cizma"
+    ],
     "name:und_x_variant":[
         "\u010cizma"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1344171219,
-    "wof:lastmodified":1537585656,
+    "wof:lastmodified":1564145880,
     "wof:name":"Cizma",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

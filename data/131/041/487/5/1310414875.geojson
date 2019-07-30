@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0430 \u0431\u0430\u0440\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kriva Bara"
+    ],
+    "name:fra_x_preferred":[
+        "Kriva bara"
+    ],
+    "name:ron_x_preferred":[
+        "Kriva Bara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0430-\u0411\u0430\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kriva Bara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0430 \u0411\u0430\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1310414875,
-    "wof:lastmodified":1537045781,
+    "wof:lastmodified":1564147644,
     "wof:name":"Kriva Bara",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

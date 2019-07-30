@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rogolji"
+    ],
+    "name:ceb_x_preferred":[
+        "Rogolji"
+    ],
+    "name:fra_x_preferred":[
+        "Rogolji"
+    ],
+    "name:hrv_x_preferred":[
+        "Rogolji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0459\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Rogolji"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1310118917,
-    "wof:lastmodified":1536976511,
+    "wof:lastmodified":1564147817,
     "wof:name":"Rogolji",
     "wof:parent_id":1108759175,
     "wof:placetype":"locality",

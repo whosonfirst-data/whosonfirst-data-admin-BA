@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jo\u0161ava"
+    ],
+    "name:ceb_x_preferred":[
+        "Jo\u0161ava"
+    ],
+    "name:fra_x_preferred":[
+        "Jo\u0161ava"
+    ],
+    "name:hrv_x_preferred":[
+        "Jo\u0161ava"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u043e\u0448\u0430\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Jo\u0161eva",
         "Jo\u0161ava"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226055495,
-    "wof:lastmodified":1537585640,
+    "wof:lastmodified":1564149120,
     "wof:name":"Josava",
     "wof:parent_id":1108759011,
     "wof:placetype":"locality",

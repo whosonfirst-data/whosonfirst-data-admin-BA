@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gredina"
+    ],
+    "name:fra_x_preferred":[
+        "Gredina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0435\u0434\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276246369,
-    "wof:lastmodified":1536894939,
+    "wof:lastmodified":1564146769,
     "wof:name":"Gredina",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

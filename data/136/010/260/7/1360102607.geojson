@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bojmunte"
+    ],
+    "name:fra_x_preferred":[
+        "Bojmunte"
+    ],
+    "name:hrv_x_preferred":[
+        "Bojmunte"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0458\u043c\u0443\u043d\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Bojmunti",
         "Bojmunte"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1360102607,
-    "wof:lastmodified":1537585624,
+    "wof:lastmodified":1564148052,
     "wof:name":"Bojmunte",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

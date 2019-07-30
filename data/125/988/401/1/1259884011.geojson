@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Doci"
+    ],
+    "name:hrv_x_preferred":[
+        "Doci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0446\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259884011,
-    "wof:lastmodified":1537486854,
+    "wof:lastmodified":1564148960,
     "wof:name":"Doci",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

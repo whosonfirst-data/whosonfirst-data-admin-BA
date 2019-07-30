@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Me\u0111uselje"
+    ],
+    "name:fra_x_preferred":[
+        "Me\u0111uselje"
+    ],
+    "name:hrv_x_preferred":[
+        "Me\u0111uselje"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0436\u0443\u0441\u0435\u043b\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0452\u0443\u0441\u0435\u0459\u0435"
+    ],
     "name:und_x_variant":[
         "Me\u0111uselje"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276348571,
-    "wof:lastmodified":1537585682,
+    "wof:lastmodified":1564146608,
     "wof:name":"Meduselje",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

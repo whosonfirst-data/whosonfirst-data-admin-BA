@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Drvetine"
+    ],
+    "name:ceb_x_preferred":[
+        "Drvetine"
+    ],
+    "name:fra_x_preferred":[
+        "Drvetine"
+    ],
+    "name:hrv_x_preferred":[
+        "Drvetine"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0432\u0435\u0442\u0438\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Drvetine"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209633061,
-    "wof:lastmodified":1537486778,
+    "wof:lastmodified":1564146963,
     "wof:name":"Drvetine",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

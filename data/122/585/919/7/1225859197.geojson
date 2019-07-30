@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Si\u017eje"
+    ],
+    "name:ceb_x_preferred":[
+        "Si\u017eje"
+    ],
+    "name:fra_x_preferred":[
+        "Si\u017eje"
+    ],
+    "name:hrv_x_preferred":[
+        "Si\u017eje"
+    ],
+    "name:swe_x_preferred":[
+        "Si\u017eje"
+    ],
     "name:und_x_variant":[
         "Si\u017eje"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1225859197,
-    "wof:lastmodified":1537585563,
+    "wof:lastmodified":1564149381,
     "wof:name":"Sizje",
     "wof:parent_id":1108759161,
     "wof:placetype":"locality",

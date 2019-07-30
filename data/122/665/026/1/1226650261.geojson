@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Crni\u010de"
+    ],
+    "name:ceb_x_preferred":[
+        "Crni\u010de"
+    ],
+    "name:fra_x_preferred":[
+        "Crni\u010de"
+    ],
+    "name:hrv_x_preferred":[
+        "Crni\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0440\u043d\u0438\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Crni\u010de"
+    ],
     "name:und_x_variant":[
         "Crni\u010de"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1226650261,
-    "wof:lastmodified":1537585616,
+    "wof:lastmodified":1564149332,
     "wof:name":"Crnice",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

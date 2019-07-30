@@ -25,6 +25,12 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Kulli urqu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u840a\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343967589,
-    "wof:lastmodified":1537008890,
+    "wof:lastmodified":1564145602,
     "wof:name":"Cule",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

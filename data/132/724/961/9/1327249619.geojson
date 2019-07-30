@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brdijelji"
+    ],
+    "name:fra_x_preferred":[
+        "Brdijelji"
+    ],
+    "name:hrv_x_preferred":[
+        "Brdijelji"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0434\u0438\u0458\u0435\u0459\u0438"
+    ],
     "name:und_x_variant":[
         "Brdijeli",
         "Brdijelji"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1327249619,
-    "wof:lastmodified":1537585622,
+    "wof:lastmodified":1564145304,
     "wof:name":"Brdijelji",
     "wof:parent_id":1108759129,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donji Lukavac"
+    ],
+    "name:ceb_x_preferred":[
+        "Donji Lukavac"
+    ],
+    "name:fra_x_preferred":[
+        "Donji Lukavac"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Lukavac"
+    ],
+    "name:swe_x_preferred":[
+        "Donji Lukavac"
+    ],
     "name:und_x_variant":[
         "Lukavac Donji",
         "Donja Lukavac",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1293788067,
-    "wof:lastmodified":1537585610,
+    "wof:lastmodified":1564146208,
     "wof:name":"Donji Lukavac",
     "wof:parent_id":1108759093,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Selina"
+    ],
+    "name:ita_x_preferred":[
+        "Selina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30ea\u30ca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259692833,
-    "wof:lastmodified":1537051301,
+    "wof:lastmodified":1564148917,
     "wof:name":"Selina",
     "wof:parent_id":1108758997,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donji Malovan"
+    ],
+    "name:fra_x_preferred":[
+        "Donji Malovan"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Malovan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u041c\u0430\u043b\u043e\u0432\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Malovan",
         "Malovan Dolnji",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1225859055,
-    "wof:lastmodified":1537585610,
+    "wof:lastmodified":1564149369,
     "wof:name":"Donji Malovan",
     "wof:parent_id":1108759145,
     "wof:placetype":"locality",

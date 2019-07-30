@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podstra\u0161ivica"
+    ],
+    "name:fra_x_preferred":[
+        "Podstra\u0161ivica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0441\u0442\u0440\u0430\u0448\u0438\u0432\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Podstra\u0161ivica",
         "Podstra\u0161evica"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327032977,
-    "wof:lastmodified":1537585572,
+    "wof:lastmodified":1564145395,
     "wof:name":"Podstrasevica",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

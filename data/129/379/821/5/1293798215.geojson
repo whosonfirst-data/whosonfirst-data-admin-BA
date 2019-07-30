@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donji Zovik"
+    ],
+    "name:ceb_x_preferred":[
+        "Donji Zovik"
+    ],
+    "name:fra_x_preferred":[
+        "Donji Zovik"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Zovik"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1293798215,
-    "wof:lastmodified":1537486860,
+    "wof:lastmodified":1564146130,
     "wof:name":"Donji Zovik",
     "wof:parent_id":1108759101,
     "wof:placetype":"locality",

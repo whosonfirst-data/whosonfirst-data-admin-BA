@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Podnovlje"
+    ],
+    "name:ceb_x_preferred":[
+        "Podnovlje"
+    ],
+    "name:fra_x_preferred":[
+        "Podnovlje"
+    ],
+    "name:hrv_x_preferred":[
+        "Podnovlje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u043d\u043e\u0432\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Podnovlje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1276550391,
-    "wof:lastmodified":1537486737,
+    "wof:lastmodified":1564146834,
     "wof:name":"Podnovlje",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

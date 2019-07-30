@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0645\u0627\u0632\u064a\u062a\u0634\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Omazi\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Omazi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Omazi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Omazi\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Omazi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043c\u0430\u0437\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Omazi\u0107i"
+    ],
     "name:und_x_variant":[
         "Omazi\u0107i"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1344166687,
-    "wof:lastmodified":1537585577,
+    "wof:lastmodified":1564145897,
     "wof:name":"Omazici",
     "wof:parent_id":1108758991,
     "wof:placetype":"locality",

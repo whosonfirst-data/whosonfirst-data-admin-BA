@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Reljino Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Reljino Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0459\u0438\u043d\u043e \u0421\u0435\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Podgradina",
         "Reljino Selo"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226057061,
-    "wof:lastmodified":1537585572,
+    "wof:lastmodified":1564149097,
     "wof:name":"Reljino Selo",
     "wof:parent_id":1108759081,
     "wof:placetype":"locality",

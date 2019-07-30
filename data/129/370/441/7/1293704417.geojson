@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u0648\u0634\u062a\u0634\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Palu\u010dci"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bb\u03bf\u03c5\u03c4\u03c3\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Palu\u010dci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u0443\u0447\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Palu\u010dci"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293704417,
-    "wof:lastmodified":1537585670,
+    "wof:lastmodified":1564146148,
     "wof:name":"Palucci",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

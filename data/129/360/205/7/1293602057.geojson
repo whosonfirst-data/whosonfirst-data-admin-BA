@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Graba\u0161nica"
+    ],
+    "name:fra_x_preferred":[
+        "Graba\u0161nica"
+    ],
+    "name:hrv_x_preferred":[
+        "Graba\u0161nica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u0430\u0448\u043d\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Graba\u0161nica"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293602057,
-    "wof:lastmodified":1537585599,
+    "wof:lastmodified":1564146285,
     "wof:name":"Grabasnica",
     "wof:parent_id":1108759011,
     "wof:placetype":"locality",

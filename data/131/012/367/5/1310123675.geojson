@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Mra\u010daj"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Mra\u010daj"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Mra\u010daj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u041c\u0440\u0430\u0447\u0430\u0458"
+    ],
     "name:und_x_variant":[
         "Mra\u010daj Gornji",
         "Gornji Mra\u010daj"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1310123675,
-    "wof:lastmodified":1537585600,
+    "wof:lastmodified":1564147624,
     "wof:name":"Gornji Mracaj",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

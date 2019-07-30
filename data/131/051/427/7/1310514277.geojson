@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pale\u017e"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u043b\u0435\u0436"
+    ],
+    "name:fra_x_preferred":[
+        "Pale\u017e"
+    ],
+    "name:hrv_x_preferred":[
+        "Pale\u017e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u0435\u0436"
+    ],
     "name:und_x_variant":[
         "Pale\u017e"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310514277,
-    "wof:lastmodified":1537585575,
+    "wof:lastmodified":1564147928,
     "wof:name":"Palez",
     "wof:parent_id":1108759165,
     "wof:placetype":"locality",

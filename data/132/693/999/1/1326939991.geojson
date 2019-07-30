@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Stekerovci"
+    ],
+    "name:fra_x_preferred":[
+        "Stekerovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0435\u043a\u0435\u0440\u043e\u0432\u0446\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1326939991,
-    "wof:lastmodified":1537486721,
+    "wof:lastmodified":1564145234,
     "wof:name":"Stekerovci",
     "wof:parent_id":1108759081,
     "wof:placetype":"locality",

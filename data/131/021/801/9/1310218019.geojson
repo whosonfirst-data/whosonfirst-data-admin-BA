@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kramer Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Kramer Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u043c\u0435\u0440 \u0421\u0435\u043b\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1310218019,
-    "wof:lastmodified":1537486757,
+    "wof:lastmodified":1564147852,
     "wof:name":"Kramer Selo",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

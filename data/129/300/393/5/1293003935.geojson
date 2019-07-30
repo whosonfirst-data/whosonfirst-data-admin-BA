@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Velje Polje"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u062c \u067e\u0644\u062c"
+    ],
+    "name:fra_x_preferred":[
+        "Velje Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Velje Polje"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0435-\u041f\u043e\u043b\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u0435 \u041f\u043e\u0459\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293003935,
-    "wof:lastmodified":1537486866,
+    "wof:lastmodified":1564146024,
     "wof:name":"Velje Polje",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

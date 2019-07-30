@@ -25,6 +25,33 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Polo\u0161ka kotlina"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0433"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03b9\u03bb\u03ac\u03b4\u03b1 \u03a0\u03cc\u03bb\u03bf\u03b3\u03ba"
+    ],
+    "name:hrv_x_preferred":[
+        "Polo\u0161ka kotlina"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0448\u043a\u0430 \u041a\u043e\u0442\u043b\u0438\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Polog"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0448\u043a\u0430 \u043a\u043e\u0442\u043b\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u0433"
+    ],
     "name:und_x_variant":[
         "Prolog",
         "Polog"
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1344171167,
-    "wof:lastmodified":1537585571,
+    "wof:lastmodified":1564145879,
     "wof:name":"Polog",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

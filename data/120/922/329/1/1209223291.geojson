@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Davidovi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Davidovi\u0107i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438-\u0414\u0430\u0432\u0438\u0434\u043e\u0432\u0438\u0447\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Davidovi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0414\u0430\u0432\u0438\u0434\u043e\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Gornji Davidovi\u0107i"
     ],
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209223291,
-    "wof:lastmodified":1537585666,
+    "wof:lastmodified":1564147093,
     "wof:name":"Gornji Davidovici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Unka"
+    ],
+    "name:ceb_x_preferred":[
+        "Unka"
+    ],
+    "name:fra_x_preferred":[
+        "Unka"
+    ],
+    "name:hrv_x_preferred":[
+        "Unka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u043a\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Unka"
+    ],
     "name:und_x_variant":[
         "Humka",
         "Unka"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1259586281,
-    "wof:lastmodified":1537585654,
+    "wof:lastmodified":1564148891,
     "wof:name":"Unka",
     "wof:parent_id":1108759009,
     "wof:placetype":"locality",

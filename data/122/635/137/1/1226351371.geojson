@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Poljavnice"
+    ],
+    "name:ceb_x_preferred":[
+        "Poljavnice"
+    ],
+    "name:fra_x_preferred":[
+        "Poljavnice"
+    ],
+    "name:hrv_x_preferred":[
+        "Poljavnice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0459\u0430\u0432\u043d\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Poljavnice"
+    ],
     "name:und_x_variant":[
         "Poljavnica",
         "Poljavnice"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1226351371,
-    "wof:lastmodified":1537585571,
+    "wof:lastmodified":1564149154,
     "wof:name":"Poljavnice",
     "wof:parent_id":1108759011,
     "wof:placetype":"locality",

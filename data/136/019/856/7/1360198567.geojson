@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062a\u0648\u0631\u0648\u0641\u064a\u062a\u0634 \u0628\u0648\u0644\u064a\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Buturovi\u0107 Polje"
+    ],
+    "name:ceb_x_preferred":[
+        "Buturovi\u0107-Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Buturovi\u0107 Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Buturovi\u0107 Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0442\u0443\u0440\u043e\u0432\u0438\u045b \u041f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Buturovi\u0107-Polje"
+    ],
     "name:und_x_variant":[
         "Buturovi\u0107-Polje"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1360198567,
-    "wof:lastmodified":1537585683,
+    "wof:lastmodified":1564148065,
     "wof:name":"Buturovic-Polje",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

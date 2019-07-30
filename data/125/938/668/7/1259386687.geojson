@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Srnice Donje"
+    ],
+    "name:ceb_x_preferred":[
+        "Srnice Donje"
+    ],
+    "name:fra_x_preferred":[
+        "Srnice Donje"
+    ],
+    "name:hrv_x_preferred":[
+        "Srnice Donje"
+    ],
+    "name:swe_x_preferred":[
+        "Srnice Donje"
+    ],
     "name:und_x_variant":[
         "Donje Srnice",
         "Srnice",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1259386687,
-    "wof:lastmodified":1537585560,
+    "wof:lastmodified":1564148701,
     "wof:name":"Srnice Donje",
     "wof:parent_id":1108759093,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ljubomi\u0161lje"
+    ],
+    "name:fra_x_preferred":[
+        "Ljubomi\u0161lje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0443\u0431\u043e\u043c\u0438\u0448\u0459\u0435"
+    ],
     "name:und_x_variant":[
         "Ljubomi\u0161lje"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293496277,
-    "wof:lastmodified":1537585668,
+    "wof:lastmodified":1564146164,
     "wof:name":"Ljubomislje",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

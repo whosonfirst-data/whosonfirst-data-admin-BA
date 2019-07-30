@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donji Karajzovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Donji Karajzovci"
+    ],
+    "name:fra_x_preferred":[
+        "Donji Karajzovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Karajzovci"
+    ],
+    "name:slv_x_preferred":[
+        "Donji Karajzovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u041a\u0430\u0440\u0430\u0458\u0437\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Donji Karajzovci"
+    ],
     "name:und_x_variant":[
         "Karajovci",
         "Karajzovci",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1344265577,
-    "wof:lastmodified":1537585593,
+    "wof:lastmodified":1564145855,
     "wof:name":"Donji Karajzovci",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

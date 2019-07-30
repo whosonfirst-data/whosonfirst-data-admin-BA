@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Babice Donje"
+    ],
+    "name:ceb_x_preferred":[
+        "Babice Donje"
+    ],
+    "name:fra_x_preferred":[
+        "Babice Donje"
+    ],
+    "name:hrv_x_preferred":[
+        "Babice Donje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u0446\u0435 \u0414\u043e\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Babice Donje"
+    ],
     "name:und_x_variant":[
         "Muslimlanske Babice",
         "Babice",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1327044089,
-    "wof:lastmodified":1537585629,
+    "wof:lastmodified":1564145404,
     "wof:name":"Babice Donje",
     "wof:parent_id":1108759161,
     "wof:placetype":"locality",

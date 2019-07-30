@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Busije"
+    ],
+    "name:fra_x_preferred":[
+        "Busije"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0441\u0438\u0458\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1360087997,
-    "wof:lastmodified":1536942010,
+    "wof:lastmodified":1564147982,
     "wof:name":"Busije",
     "wof:parent_id":1108759135,
     "wof:placetype":"locality",

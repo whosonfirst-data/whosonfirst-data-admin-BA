@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mandino Selo"
+    ],
+    "name:ceb_x_preferred":[
+        "Mandino Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Mandino Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Mandino Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043d\u0434\u0438\u043d\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Mandino Selo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209529721,
-    "wof:lastmodified":1537486749,
+    "wof:lastmodified":1564146997,
     "wof:name":"Mandino Selo",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

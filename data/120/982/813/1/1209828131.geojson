@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jazovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Jazovac"
+    ],
+    "name:fra_x_preferred":[
+        "Jazovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Jazovac"
+    ],
+    "name:slv_x_preferred":[
+        "Jazovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0437\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Jazovac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1209828131,
-    "wof:lastmodified":1537486763,
+    "wof:lastmodified":1564147066,
     "wof:name":"Jazovac",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

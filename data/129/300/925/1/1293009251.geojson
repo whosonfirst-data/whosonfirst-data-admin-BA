@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kostre\u0161"
+    ],
+    "name:ceb_x_preferred":[
+        "Kostre\u0161"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c3\u03c4\u03c1\u03b5\u03c2"
+    ],
+    "name:fra_x_preferred":[
+        "Kostre\u0161"
+    ],
+    "name:hrv_x_preferred":[
+        "Kostre\u0161"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0440\u0435\u0448"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0440\u0435\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Kostre\u0161"
+    ],
     "name:und_x_variant":[
         "Kostre\u0161"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1293009251,
-    "wof:lastmodified":1537585590,
+    "wof:lastmodified":1564146021,
     "wof:name":"Kostres",
     "wof:parent_id":1108759009,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0632\u0627\u064a\u064a\u062a\u0634\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "D\u017eaji\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00d0aji\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "D\u017eaji\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "D\u017eaji\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0430\u0458\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u0110aji\u0107i"
+    ],
     "name:und_x_variant":[
         "D\u017eaji\u0107i",
         "\u00d0aji\u0107",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1210020447,
-    "wof:lastmodified":1537585606,
+    "wof:lastmodified":1564147333,
     "wof:name":"Dajici",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

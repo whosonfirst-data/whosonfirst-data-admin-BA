@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hemi\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "Hemi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Hemi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0435\u043c\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Hemi\u0107i"
+    ],
     "name:und_x_variant":[
         "Hemi\u0107i"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293497167,
-    "wof:lastmodified":1537585660,
+    "wof:lastmodified":1564146182,
     "wof:name":"Hemici",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

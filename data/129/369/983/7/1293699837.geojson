@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Doma\u0161evo"
+    ],
+    "name:fra_x_preferred":[
+        "Doma\u0161evo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u0448\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Doma\u0161evo"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293699837,
-    "wof:lastmodified":1537585614,
+    "wof:lastmodified":1564146268,
     "wof:name":"Domasevo",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

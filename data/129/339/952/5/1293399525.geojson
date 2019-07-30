@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u062a\u0634\u064a\u063a\u0631\u064a\u062c\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "O\u010digrije"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c4\u03c3\u03af\u03b3\u03ba\u03c1\u03b9\u03b3\u03b9\u03b5"
+    ],
+    "name:fra_x_preferred":[
+        "O\u010digrije"
+    ],
+    "name:hrv_x_preferred":[
+        "O\u010digrije"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0447\u0438\u0433\u0440\u0438\u0458\u0435"
+    ],
     "name:und_x_variant":[
         "O\u010digrije"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1293399525,
-    "wof:lastmodified":1537585578,
+    "wof:lastmodified":1564146099,
     "wof:name":"Ocigrije",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

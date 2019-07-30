@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Grdijevi\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "Grdijevi\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Grdijevi\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0434\u0438\u0458\u0435\u0432\u0438\u045b\u0438"
+    ],
     "name:und_x_variant":[
         "Grdijevi\u0107i"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343775119,
-    "wof:lastmodified":1537585678,
+    "wof:lastmodified":1564145721,
     "wof:name":"Grdijevici",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

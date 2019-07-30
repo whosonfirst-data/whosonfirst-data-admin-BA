@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donje \u017de\u0161\u0107e"
+    ],
+    "name:fra_x_preferred":[
+        "Donje \u017de\u0161\u0107e"
+    ],
+    "name:hrv_x_preferred":[
+        "Donje \u017de\u0161\u0107e"
+    ],
     "name:und_x_variant":[
         "Donje \u017de\u0161\u0107e"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1210020599,
-    "wof:lastmodified":1537585611,
+    "wof:lastmodified":1564147333,
     "wof:name":"Donje Zesce",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

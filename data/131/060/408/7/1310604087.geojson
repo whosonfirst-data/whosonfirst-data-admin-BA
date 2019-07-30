@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Tegare"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u0433\u0430\u0440\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Tegare"
+    ],
+    "name:fra_x_preferred":[
+        "Tegare"
+    ],
+    "name:hrv_x_preferred":[
+        "Tegare"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0433\u0430\u0440\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0433\u0430\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Tegare"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1310604087,
-    "wof:lastmodified":1537486719,
+    "wof:lastmodified":1564147939,
     "wof:name":"Tegare",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

@@ -26,6 +26,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ople\u0107ani"
+    ],
+    "name:ceb_x_preferred":[
+        "Ople\u0107ani"
+    ],
+    "name:deu_x_preferred":[
+        "Ople\u0107ani"
+    ],
+    "name:fra_x_preferred":[
+        "Ople\u0107ani"
+    ],
+    "name:hrv_x_preferred":[
+        "Ople\u0107ani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u043b\u0435\u045b\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ople\u0107ani"
+    ],
     "name:und_x_variant":[
         "Ople\u0107an",
         "Ople\u0107ani"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1277084005,
-    "wof:lastmodified":1537585577,
+    "wof:lastmodified":1564146484,
     "wof:name":"Oplecani",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

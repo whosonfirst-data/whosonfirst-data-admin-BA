@@ -25,6 +25,15 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vu\u010dija"
+    ],
+    "name:fra_x_preferred":[
+        "Vu\u010dija"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u0447\u0438\u0458\u0430"
+    ],
     "name:und_x_variant":[
         "Vu\u010dijak",
         "Vu\u010dija"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243567463,
-    "wof:lastmodified":1537585637,
+    "wof:lastmodified":1564148503,
     "wof:name":"Vucija",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brezovo Polje"
+    ],
+    "name:ceb_x_preferred":[
+        "Brezovo Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Brezovo Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Brezovo Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Brezovo Polje"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u06cc\u0632\u0648\u0648 \u067e\u0648\u0644\u06cc\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1310532531,
-    "wof:lastmodified":1537486794,
+    "wof:lastmodified":1564147705,
     "wof:name":"Brezovo Polje",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

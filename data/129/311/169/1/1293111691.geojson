@@ -25,6 +25,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrhovi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03c7\u03cc\u03b2\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Vrhovi"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrhovi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0445\u043e\u0432\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0445\u043e\u0432\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293111691,
-    "wof:lastmodified":1537486710,
+    "wof:lastmodified":1564146364,
     "wof:name":"Vrhovi",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bojska"
+    ],
+    "name:fra_x_preferred":[
+        "Bojska"
+    ],
+    "name:hrv_x_preferred":[
+        "Bojska"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0458\u0441\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276457609,
-    "wof:lastmodified":1537486797,
+    "wof:lastmodified":1564146565,
     "wof:name":"Bojska",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

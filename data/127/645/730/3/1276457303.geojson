@@ -25,6 +25,21 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Grabovik"
+    ],
+    "name:ceb_x_preferred":[
+        "Grabovik"
+    ],
+    "name:fra_x_preferred":[
+        "Grabovik"
+    ],
+    "name:hrv_x_preferred":[
+        "Grabovik"
+    ],
+    "name:swe_x_preferred":[
+        "Grabovik"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1276457303,
-    "wof:lastmodified":1537486845,
+    "wof:lastmodified":1564146548,
     "wof:name":"Grabovik",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

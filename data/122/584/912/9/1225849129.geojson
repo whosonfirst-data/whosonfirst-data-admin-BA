@@ -26,6 +26,24 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017ddrimci"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017ddrimci"
+    ],
+    "name:fra_x_preferred":[
+        "\u017ddrimci"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017ddrimci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0434\u0440\u0438\u043c\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u017ddrimci"
+    ],
     "name:und_x_variant":[
         "\u017ddrinci",
         "\u017ddrimce",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1225849129,
-    "wof:lastmodified":1537585547,
+    "wof:lastmodified":1564149392,
     "wof:name":"Zdrimci",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

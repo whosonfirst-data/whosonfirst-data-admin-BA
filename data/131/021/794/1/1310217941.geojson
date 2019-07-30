@@ -25,6 +25,30 @@
     "iso:country":"BA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rekavice"
+    ],
+    "name:ceb_x_preferred":[
+        "Rekavice"
+    ],
+    "name:fra_x_preferred":[
+        "Rekavice"
+    ],
+    "name:hrv_x_preferred":[
+        "Rekavice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043a\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Rekavice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u043a\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Rekavice"
+    ],
     "name:und_x_variant":[
         "Rekavica",
         "Rekavice"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1310217941,
-    "wof:lastmodified":1537585567,
+    "wof:lastmodified":1564147845,
     "wof:name":"Rekavice",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",
