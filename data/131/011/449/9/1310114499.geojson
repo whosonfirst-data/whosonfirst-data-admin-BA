@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.20715,44.90754,17.24715,44.94754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kozara"
     ],
@@ -53,8 +57,7 @@
         "\u041a\u043e\u0437\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Kozara-Brdo",
-        "Kozara"
+        "Kozara-Brdo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1310114499,
-    "wof:lastmodified":1564147802,
+    "wof:lastmodified":1566605182,
     "wof:name":"Kozara",
     "wof:parent_id":1108759151,
     "wof:placetype":"locality",

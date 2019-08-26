@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.55296,43.39719,17.59296,43.43719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3290510
     },
     "wof:country":"BA",
-    "wof:geomhash":"c0488fb426e9c48ff49f521a2e845596",
+    "wof:geomhash":"a7fc06db9852103cd7503407162dd09f",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209120317,
-    "wof:lastmodified":1536297121,
+    "wof:lastmodified":1566604869,
     "wof:name":"Krc",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.572960000000002,
+    17.57296,
     43.41719000000001,
-    17.572960000000002,
+    17.57296,
     43.41719000000001
 ],
   "geometry": {"coordinates":[17.57296,43.41719000000001],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.42176,44.38277,18.46176,44.42277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u0648\u0641\u064a\u062a\u0634\u064a \u0633\u064a\u0644\u0648"
     ],
@@ -47,10 +51,6 @@
         "\u0411\u0430\u043d\u043e\u0432\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Banovi\u0107i Selo"
-    ],
-    "name:und_x_variant":[
-        "Banovi\u0107i",
         "Banovi\u0107i Selo"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1343373565,
-    "wof:lastmodified":1564145624,
+    "wof:lastmodified":1566604310,
     "wof:name":"Banovici Selo",
     "wof:parent_id":1108758991,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.01819,44.93911,18.05819,44.97911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243175097,
-    "wof:lastmodified":1536700034,
+    "wof:lastmodified":1566605538,
     "wof:name":"Vlahovici",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

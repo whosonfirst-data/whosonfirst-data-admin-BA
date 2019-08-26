@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.14747,44.83639,19.18747,44.87639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:slv_x_preferred":[
         "Vrulja"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209423809,
-    "wof:lastmodified":1564147244,
+    "wof:lastmodified":1566604954,
     "wof:name":"Vrulja",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

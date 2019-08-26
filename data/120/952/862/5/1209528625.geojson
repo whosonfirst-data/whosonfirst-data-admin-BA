@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.21053,44.71223,17.25053,44.75223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3246023
     },
     "wof:country":"BA",
-    "wof:geomhash":"581e31110ae2faacfac2fbf4a99cab8b",
+    "wof:geomhash":"4a04ef9eb4c9e7d51ac0d3eb357c46da",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209528625,
-    "wof:lastmodified":1536284353,
+    "wof:lastmodified":1566604857,
     "wof:name":"Donji Ponir",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.230529999999998,
+    17.23053,
     44.73223,
-    17.230529999999998,
+    17.23053,
     44.73223
 ],
   "geometry": {"coordinates":[17.23053,44.73223],"type":"Point"}

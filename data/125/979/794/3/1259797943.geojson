@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.43257,44.1316,17.47257,44.1716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vla\u0111evi\u0107i"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "La\u0111evi\u0107i",
-        "Vladjevi\u0107i",
-        "Vla\u0111evi\u0107i"
+        "Vladjevi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1259797943,
-    "wof:lastmodified":1564148800,
+    "wof:lastmodified":1566605583,
     "wof:name":"Vladevici",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

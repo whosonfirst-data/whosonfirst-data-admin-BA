@@ -11,11 +11,15 @@
     "geom:longitude":16.667,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":13551,
+    "gn:population":13551,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"16.647,44.7467,16.687,44.7867",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u0633\u0643\u064a \u0645\u0648\u0633\u062a"
     ],
@@ -118,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u041c\u043e\u0441\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sana"
     ],
     "name:urd_x_preferred":[
@@ -150,7 +154,7 @@
     "wof:concordances":{
         "gn:id":3191297,
         "gp:id":943826,
-        "qs:id":909826,
+        "qs_pg:id":909826,
         "wd:id":"Q2189505",
         "wk:page":"Sanski Most"
     },
@@ -167,7 +171,7 @@
         }
     ],
     "wof:id":890519017,
-    "wof:lastmodified":1563287548,
+    "wof:lastmodified":1566605350,
     "wof:name":"Sanski Most",
     "wof:parent_id":1108759219,
     "wof:placetype":"locality",

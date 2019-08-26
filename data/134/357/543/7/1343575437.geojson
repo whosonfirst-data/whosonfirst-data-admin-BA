@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.37154,44.03589,18.41154,44.07589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zakutnica"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343575437,
-    "wof:lastmodified":1564145790,
+    "wof:lastmodified":1566604381,
     "wof:name":"Zakutnica",
     "wof:parent_id":1108759109,
     "wof:placetype":"locality",

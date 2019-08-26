@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.49291,43.27073,18.53291,43.31073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Soderi"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276882127,
-    "wof:lastmodified":1564146528,
+    "wof:lastmodified":1566604677,
     "wof:name":"Soderi",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

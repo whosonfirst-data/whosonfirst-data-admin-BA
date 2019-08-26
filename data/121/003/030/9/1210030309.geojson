@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"15.95306,45.08917,15.99306,45.12917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210030309,
-    "wof:lastmodified":1536388866,
+    "wof:lastmodified":1566604985,
     "wof:name":"Ponjevici",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

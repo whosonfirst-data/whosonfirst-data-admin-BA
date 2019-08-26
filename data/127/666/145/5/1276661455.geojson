@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"15.76586,44.89304,15.80586,44.93304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0627 \u0628\u064a\u062a\u0634\u0627"
     ],
@@ -47,7 +51,6 @@
         "\u041c\u0430\u043b\u0430 \u041f\u0435\u045b\u0430"
     ],
     "name:und_x_variant":[
-        "Mala Pe\u0107a",
         "Mala Pe\u0107"
     ],
     "src:geom":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1276661455,
-    "wof:lastmodified":1564146677,
+    "wof:lastmodified":1566604739,
     "wof:name":"Mala Pec",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

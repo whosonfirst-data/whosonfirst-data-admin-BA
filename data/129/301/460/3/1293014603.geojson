@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.12162,44.00454,18.16162,44.04454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mo\u0161tre Donje",
         "Donje Me\u0161tre",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293014603,
-    "wof:lastmodified":1537585611,
+    "wof:lastmodified":1566604498,
     "wof:name":"Donje Mostre",
     "wof:parent_id":1108759285,
     "wof:placetype":"locality",

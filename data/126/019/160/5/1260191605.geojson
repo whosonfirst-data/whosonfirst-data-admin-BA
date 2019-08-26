@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.28392,43.03821,18.32392,43.07821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Donji Davidovi\u0107i"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u045a\u0438 \u0414\u0430\u0432\u0438\u0434\u043e\u0432\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Donji Davidovi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1260191605,
-    "wof:lastmodified":1564147538,
+    "wof:lastmodified":1566605075,
     "wof:name":"Donji Davidovici",
     "wof:parent_id":1108758997,
     "wof:placetype":"locality",

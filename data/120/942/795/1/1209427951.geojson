@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.93275,44.21424,18.97275,44.25424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mr\u0161i\u0107i"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0440\u0448\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Mr\u0161i\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1209427951,
-    "wof:lastmodified":1564147237,
+    "wof:lastmodified":1566604951,
     "wof:name":"Mrsici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

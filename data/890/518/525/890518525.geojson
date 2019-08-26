@@ -11,10 +11,14 @@
     "geom:longitude":18.73849,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3516,
+    "gn:population":3516,
     "iso:country":"BA",
+    "lbl:bbox":"18.71849,44.37548,18.75849,44.41548",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Svojat"
     ],
@@ -110,7 +114,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3211287,
-        "qs:id":95294,
+        "qs_pg:id":95294,
         "wd:id":"Q3506377"
     },
     "wof:country":"BA",
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":890518525,
-    "wof:lastmodified":1563287649,
+    "wof:lastmodified":1566605368,
     "wof:name":"Svojat",
     "wof:parent_id":1108759301,
     "wof:placetype":"locality",

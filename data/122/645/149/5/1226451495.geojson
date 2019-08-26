@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.18674,43.6876,19.22674,43.7276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Tupe\u0161i"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0443\u043f\u0435\u0448\u0438"
-    ],
-    "name:und_x_variant":[
-        "Tupe\u0161i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1226451495,
-    "wof:lastmodified":1564149079,
+    "wof:lastmodified":1566605687,
     "wof:name":"Tupesi",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

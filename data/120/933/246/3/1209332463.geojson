@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.45162,43.18364,17.49162,43.22364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Va\u0161arovi\u0107i"
     ],
@@ -46,9 +50,6 @@
     "name:swe_x_preferred":[
         "Vasarovi\u0107i"
     ],
-    "name:und_x_variant":[
-        "Vasarovi\u0107i"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1209332463,
-    "wof:lastmodified":1564147194,
+    "wof:lastmodified":1566604933,
     "wof:name":"Vasarovici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

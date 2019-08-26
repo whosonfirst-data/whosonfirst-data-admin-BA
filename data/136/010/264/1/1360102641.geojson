@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"15.92261,44.72246,15.96261,44.76246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0634\u064a\u062a\u0634"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Veliki Ra\u010di\u0107",
-        "Mali Ra\u010di\u0107",
-        "Ra\u010di\u0107"
+        "Mali Ra\u010di\u0107"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1360102641,
-    "wof:lastmodified":1564148055,
+    "wof:lastmodified":1566605281,
     "wof:name":"Racic",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

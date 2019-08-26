@@ -11,10 +11,14 @@
     "geom:longitude":17.82714,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":3590,
+    "gn:population":3590,
     "iso:country":"BA",
+    "lbl:bbox":"17.80714,44.72476,17.84714,44.76476",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stanari"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3210448,
         "gp:id":944069,
-        "qs:id":95291,
+        "qs_pg:id":95291,
         "wd:id":"Q1280363",
         "wk:page":"Stanari"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890519005,
-    "wof:lastmodified":1563287552,
+    "wof:lastmodified":1566605351,
     "wof:name":"Stanari",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

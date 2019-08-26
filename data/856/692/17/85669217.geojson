@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":43.388384,
     "lbl:longitude":17.455665,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.37948,
     "mps:longitude":17.446489,
     "mz:hierarchy_label":1,
@@ -190,7 +191,7 @@
         "V\u00e4stra Hercegovina kanton"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1   \u0bb9\u0bc6\u0bb0\u0bb8\u0bbf\u0b95\u0bcb\u0bb5\u0bbf\u0ba9\u0bbe  \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0bb9\u0bc6\u0bb0\u0bb8\u0bbf\u0b95\u0bcb\u0bb5\u0bbf\u0ba9\u0bbe \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d \u0c39\u0c46\u0c30\u0c4d\u0c1c\u0c46\u0c17\u0c4b\u0c35\u0c3f\u0c28\u0c3e \u0c15\u0c3e\u0c02\u0c1f\u0c28\u0c4d"
@@ -204,14 +205,9 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u043e\u0433\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d"
     ],
-    "name:und_x_preferred":[
-        "Zapadno-hercegovacki Kanton"
-    ],
     "name:und_x_variant":[
+        "Zapadno-hercegovacki Kanton",
         "W Herzegovina",
-        "West Herzegovina"
-    ],
-    "name:unk_x_variant":[
         "Kanton 8"
     ],
     "name:urd_x_preferred":[
@@ -296,7 +292,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1324,
     "wof:belongsto":[
         102191581,
@@ -308,7 +304,7 @@
         "gn:id":3343736,
         "gp:id":24551283,
         "hasc:id":"BA.BF",
-        "qs:id":1193489,
+        "qs_pg:id":1193489,
         "wd:id":"Q18275",
         "wk:page":"West Herzegovina Canton"
     },
@@ -322,9 +318,6 @@
         }
     ],
     "wof:id":85669217,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "bos",
         "srp",
@@ -335,7 +328,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1563285717,
+    "wof:lastmodified":1566604464,
     "wof:name":"West Herzegovina",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

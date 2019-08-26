@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.22088,44.64108,16.26088,44.68108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Brestovac"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1209419113,
-    "wof:lastmodified":1564147018,
+    "wof:lastmodified":1566604867,
     "wof:name":"Brestovac",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.31265,44.22926,17.35265,44.26926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dobro Brdo"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293700913,
-    "wof:lastmodified":1564146150,
+    "wof:lastmodified":1566604522,
     "wof:name":"Dobro Brdo",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.77276,44.70022,16.81276,44.74022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360294995,
-    "wof:lastmodified":1536641894,
+    "wof:lastmodified":1566605267,
     "wof:name":"Jovisici",
     "wof:parent_id":1108759223,
     "wof:placetype":"locality",

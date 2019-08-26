@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.04798,43.73689,19.08798,43.77689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u010cadovina"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0427\u0430\u0434\u043e\u0432\u0438\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u010cadovina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1243376511,
-    "wof:lastmodified":1564148282,
+    "wof:lastmodified":1566605390,
     "wof:name":"Cadovina",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

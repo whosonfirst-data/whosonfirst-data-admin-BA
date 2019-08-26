@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.18695,44.62815,19.22695,44.66815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Obrije\u017e"
     ],
@@ -47,9 +51,6 @@
         "\u041e\u0431\u0440\u0438\u0458\u0435\u0436"
     ],
     "name:swe_x_preferred":[
-        "Obrije\u017e"
-    ],
-    "name:und_x_variant":[
         "Obrije\u017e"
     ],
     "src:geom":"geonames",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1360288711,
-    "wof:lastmodified":1564148045,
+    "wof:lastmodified":1566605277,
     "wof:name":"Obrijez",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

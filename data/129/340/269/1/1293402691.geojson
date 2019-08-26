@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.26489,44.76826,18.30489,44.80826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Skipovac Gornji"
     ],
@@ -38,8 +42,7 @@
         "\u0421\u043a\u0438\u043f\u043e\u0432\u0430\u0446 \u0413\u043e\u0440\u045a\u0438"
     ],
     "name:und_x_variant":[
-        "Skipovac",
-        "Skipovac Gornji"
+        "Skipovac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1293402691,
-    "wof:lastmodified":1564146190,
+    "wof:lastmodified":1566604540,
     "wof:name":"Skipovac Gornji",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

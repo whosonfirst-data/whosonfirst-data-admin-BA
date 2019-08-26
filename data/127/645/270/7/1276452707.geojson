@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.95437,43.8999,17.99437,43.9399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Otigo\u0161\u0107e"
     ],
@@ -41,9 +45,6 @@
         "\u041e\u0442\u0438\u0433\u043e\u0448\u045b\u0435"
     ],
     "name:swe_x_preferred":[
-        "Otigo\u0161\u0107e"
-    ],
-    "name:und_x_variant":[
         "Otigo\u0161\u0107e"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1276452707,
-    "wof:lastmodified":1564146567,
+    "wof:lastmodified":1566604694,
     "wof:name":"Otigosce",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

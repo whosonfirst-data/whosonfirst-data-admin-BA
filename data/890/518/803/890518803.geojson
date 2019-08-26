@@ -11,10 +11,14 @@
     "geom:longitude":19.09195,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":8210,
+    "gn:population":8210,
     "iso:country":"BA",
+    "lbl:bbox":"19.07195,44.15016,19.11195,44.19016",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mili\u0107i"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3195128,
         "gp:id":942908,
-        "qs:id":1044014,
+        "qs_pg:id":1044014,
         "wd:id":"Q402333",
         "wk:page":"Mili\u0107i"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890518803,
-    "wof:lastmodified":1563287585,
+    "wof:lastmodified":1566605358,
     "wof:name":"Mili\u0107i",
     "wof:parent_id":1108759165,
     "wof:placetype":"locality",

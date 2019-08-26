@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.34495,44.73366,18.38495,44.77366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dzanani"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343872385,
-    "wof:lastmodified":1564145974,
+    "wof:lastmodified":1566604450,
     "wof:name":"Dzanani",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

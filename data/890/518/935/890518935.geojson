@@ -11,11 +11,15 @@
     "geom:longitude":19.33085,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4717,
+    "gn:population":4717,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"19.31085,44.16455,19.35085,44.20455",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bratunac"
     ],
@@ -91,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0443\u043d\u0430\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bratinac"
     ],
     "name:urd_x_preferred":[
@@ -121,7 +125,7 @@
     "wof:concordances":{
         "gn:id":3203533,
         "gp:id":940839,
-        "qs:id":1085293,
+        "qs_pg:id":1085293,
         "wd:id":"Q169001",
         "wk:page":"Bratunac"
     },
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":890518935,
-    "wof:lastmodified":1563287609,
+    "wof:lastmodified":1566605362,
     "wof:name":"Bratunac",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

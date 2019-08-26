@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.62024,44.14006,18.66024,44.18006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259997139,
-    "wof:lastmodified":1536613013,
+    "wof:lastmodified":1566605567,
     "wof:name":"Paklenik",
     "wof:parent_id":1108759193,
     "wof:placetype":"locality",

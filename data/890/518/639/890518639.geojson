@@ -11,10 +11,14 @@
     "geom:longitude":16.36389,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":5643,
+    "gn:population":5643,
     "iso:country":"BA",
+    "lbl:bbox":"16.34389,44.15944,16.38389,44.19944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0633\u0627\u0646\u0633\u0643\u0648 \u063a\u0631\u0627\u0647\u0648\u0641\u0648"
     ],
@@ -108,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e-\u0490\u0440\u0430\u0445\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grahovo"
     ],
     "name:urd_x_preferred":[
@@ -133,7 +137,7 @@
     "wof:concordances":{
         "gn:id":3203644,
         "gp:id":940808,
-        "qs:id":147320,
+        "qs_pg:id":147320,
         "wd:id":"Q894349",
         "wk:page":"Bosansko Grahovo"
     },
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":890518639,
-    "wof:lastmodified":1563287635,
+    "wof:lastmodified":1566605366,
     "wof:name":"Bosansko Grahovo",
     "wof:parent_id":1108759019,
     "wof:placetype":"locality",

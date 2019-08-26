@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.10206,43.9239,19.14206,43.9639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Brdo"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1226756537,
-    "wof:lastmodified":1564149036,
+    "wof:lastmodified":1566605670,
     "wof:name":"Brdo",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

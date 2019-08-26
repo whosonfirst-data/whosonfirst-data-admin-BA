@@ -11,11 +11,15 @@
     "geom:longitude":18.08698,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":27235,
+    "gn:population":27235,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.06698,44.71179,18.10698,44.75179",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0648\u064a"
     ],
@@ -219,7 +223,7 @@
     "wof:concordances":{
         "gn:id":3201984,
         "gp:id":941236,
-        "qs:id":316018,
+        "qs_pg:id":316018,
         "wd:id":"Q169247",
         "wk:page":"Doboj"
     },
@@ -236,7 +240,7 @@
         }
     ],
     "wof:id":890518843,
-    "wof:lastmodified":1563287580,
+    "wof:lastmodified":1566605358,
     "wof:name":"Doboj",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

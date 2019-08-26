@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.83702,43.94379,18.87702,43.98379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Margeti\u0107i"
     ],
@@ -38,9 +42,6 @@
         "\u041c\u0430\u0440\u0433\u0435\u0442\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Margeti\u0107i"
-    ],
-    "name:und_x_variant":[
         "Margeti\u0107i"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1309812407,
-    "wof:lastmodified":1564148181,
+    "wof:lastmodified":1566605331,
     "wof:name":"Margetici",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

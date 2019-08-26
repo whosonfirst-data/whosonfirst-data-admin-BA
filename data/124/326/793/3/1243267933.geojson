@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.27083,43.35028,17.31083,43.39028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Culine"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1243267933,
-    "wof:lastmodified":1564148693,
+    "wof:lastmodified":1566605543,
     "wof:name":"Culine",
     "wof:parent_id":1108759099,
     "wof:placetype":"locality",

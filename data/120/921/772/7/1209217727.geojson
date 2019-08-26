@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.31722,44.908,17.35722,44.948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3246591
     },
     "wof:country":"BA",
-    "wof:geomhash":"3ffbc873db1e9bc0fb71453d665b9297",
+    "wof:geomhash":"5340b1512e3c33c44d3684f8207eac43",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209217727,
-    "wof:lastmodified":1536294073,
+    "wof:lastmodified":1566604959,
     "wof:name":"Gakovac",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.337220000000002,
+    17.33722,
     44.928,
-    17.337220000000002,
+    17.33722,
     44.928
 ],
   "geometry": {"coordinates":[17.33722,44.928],"type":"Point"}

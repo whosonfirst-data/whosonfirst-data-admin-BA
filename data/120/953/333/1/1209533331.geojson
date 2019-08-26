@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.97536,43.65147,19.01536,43.69147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kazagi\u0107i"
     ],
@@ -32,9 +36,6 @@
         "Kazagi\u0107i"
     ],
     "name:fra_x_preferred":[
-        "Kazagi\u0107i"
-    ],
-    "name:und_x_variant":[
         "Kazagi\u0107i"
     ],
     "src:geom":"geonames",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1209533331,
-    "wof:lastmodified":1564146901,
+    "wof:lastmodified":1566604823,
     "wof:name":"Kazagici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

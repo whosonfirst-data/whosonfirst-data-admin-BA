@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.28861,43.80222,19.32861,43.84222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vi\u0161egradska Banja"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u0448\u0435\u0433\u0440\u0430\u0434\u0441\u043a\u0430 \u0411\u0430\u045a\u0430"
-    ],
-    "name:und_x_variant":[
-        "Vi\u0161egradska Banja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1243467433,
-    "wof:lastmodified":1564148475,
+    "wof:lastmodified":1566605461,
     "wof:name":"Visegradska Banja",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

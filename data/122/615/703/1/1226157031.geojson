@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.16235,44.86685,16.20235,44.90685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u062a\u0631\u0648\u0632\u0646\u064a\u0643\u0627"
     ],
@@ -44,9 +48,6 @@
         "\u041e\u0441\u0442\u0440\u043e\u0436\u043d\u0438\u0446\u0430"
     ],
     "name:swe_x_preferred":[
-        "Ostro\u017enica"
-    ],
-    "name:und_x_variant":[
         "Ostro\u017enica"
     ],
     "src:geom":"geonames",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1226157031,
-    "wof:lastmodified":1564149272,
+    "wof:lastmodified":1566605763,
     "wof:name":"Ostroznica",
     "wof:parent_id":1108759003,
     "wof:placetype":"locality",

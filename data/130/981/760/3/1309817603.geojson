@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.93299,44.06867,17.97299,44.10867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Hozanovi\u0107i"
     ],
@@ -35,9 +39,6 @@
         "Hozanovi\u0107i"
     ],
     "name:swe_x_preferred":[
-        "Hozanovi\u0107i"
-    ],
-    "name:und_x_variant":[
         "Hozanovi\u0107i"
     ],
     "src:geom":"geonames",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1309817603,
-    "wof:lastmodified":1564148175,
+    "wof:lastmodified":1566605329,
     "wof:name":"Hozanovici",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

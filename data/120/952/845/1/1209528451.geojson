@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.96073,44.24343,17.00073,44.28343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3263150
     },
     "wof:country":"BA",
-    "wof:geomhash":"19c367545262524493d6c1c475d86e0b",
+    "wof:geomhash":"0ee52d687eaf25ea8b3d4ac306ffd59e",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209528451,
-    "wof:lastmodified":1536284359,
+    "wof:lastmodified":1566604850,
     "wof:name":"Draginic Podovi",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.980729999999998,
+    16.98073,
     44.26343,
-    16.980729999999998,
+    16.98073,
     44.26343
 ],
   "geometry": {"coordinates":[16.98073,44.26343],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.48967,43.99596,19.52967,44.03596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bo\u017ei\u0107i"
     ],
@@ -41,8 +45,7 @@
         "\u0411\u043e\u0436\u0438\u045b\u0438"
     ],
     "name:und_x_variant":[
-        "Bo\u017ei\u0107",
-        "Bo\u017ei\u0107i"
+        "Bo\u017ei\u0107"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1243557811,
-    "wof:lastmodified":1564148331,
+    "wof:lastmodified":1566605407,
     "wof:name":"Bozici",
     "wof:parent_id":1108759241,
     "wof:placetype":"locality",

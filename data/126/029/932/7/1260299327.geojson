@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.82687,44.11578,17.86687,44.15578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Seliste"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1260299327,
-    "wof:lastmodified":1564147508,
+    "wof:lastmodified":1566605065,
     "wof:name":"Seliste",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

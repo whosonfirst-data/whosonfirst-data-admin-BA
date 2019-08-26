@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.50051,43.74993,17.54051,43.78993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226456759,
-    "wof:lastmodified":1536627791,
+    "wof:lastmodified":1566605678,
     "wof:name":"Orasac",
     "wof:parent_id":1108759211,
     "wof:placetype":"locality",

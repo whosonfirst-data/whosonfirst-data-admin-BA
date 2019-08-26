@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.08426,44.14998,18.12426,44.18998",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bijele Vode"
     ],
@@ -53,8 +57,7 @@
         "Bijele Vode"
     ],
     "name:und_x_variant":[
-        "Bjela Voda",
-        "Bijele Vode"
+        "Bjela Voda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1309726149,
-    "wof:lastmodified":1564148204,
+    "wof:lastmodified":1566605341,
     "wof:name":"Bijele Vode",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.46625,44.92641,18.50625,44.96641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Srednja Slatina"
     ],
@@ -44,8 +48,7 @@
         "Srednja Slatina"
     ],
     "name:und_x_variant":[
-        "Slatina Srednja",
-        "Srednja Slatina"
+        "Slatina Srednja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1210019837,
-    "wof:lastmodified":1564147305,
+    "wof:lastmodified":1566604980,
     "wof:name":"Srednja Slatina",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",

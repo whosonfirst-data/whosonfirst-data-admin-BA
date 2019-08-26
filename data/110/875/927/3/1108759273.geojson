@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.663211,
     "lbl:longitude":19.016825,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Republika Srpska",
     "meso:admin_2":"Republika Srpska",
     "meso:gadm_adm2":"Bijeljina",
@@ -34,6 +36,7 @@
     "mps:longitude":19.016825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bos_x_preferred":[
         "Ugljevik"
     ],
@@ -85,16 +88,13 @@
     "name:ukr_x_preferred":[
         "\u0423\u0433\u043b\u0454\u0432\u0438\u043a"
     ],
-    "name:und_x_variant":[
-        "Ugljevik"
-    ],
     "name:zho_x_preferred":[
         "\u4e4c\u683c\u5217\u7ef4\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"198",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1108759273,
-    "wof:lastmodified":1564147602,
+    "wof:lastmodified":1566605103,
     "wof:name":"Ugljevik",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

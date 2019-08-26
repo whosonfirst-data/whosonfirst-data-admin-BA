@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.1501,44.1264,19.1901,44.1664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360294333,
-    "wof:lastmodified":1536642932,
+    "wof:lastmodified":1566605272,
     "wof:name":"Krunici",
     "wof:parent_id":1108759165,
     "wof:placetype":"locality",

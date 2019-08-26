@@ -11,11 +11,15 @@
     "geom:longitude":17.30135,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":6464,
+    "gn:population":6464,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.28135,44.88857,17.32135,44.92857",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643\u062a\u0627\u0634\u064a"
     ],
@@ -97,7 +101,7 @@
     "name:tur_x_preferred":[
         "Lakta\u0161i"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Banja Lakta\u0161i"
     ],
     "name:urd_x_preferred":[
@@ -129,7 +133,7 @@
     "wof:concordances":{
         "gn:id":3196792,
         "gp:id":942602,
-        "qs:id":1085409,
+        "qs_pg:id":1085409,
         "wd:id":"Q635944"
     },
     "wof:country":"BA",
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":890519033,
-    "wof:lastmodified":1563287551,
+    "wof:lastmodified":1566605351,
     "wof:name":"Lakta\u00b5i",
     "wof:parent_id":1108759151,
     "wof:placetype":"locality",

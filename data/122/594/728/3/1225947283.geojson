@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.08723,44.19462,19.12723,44.23462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0627 \u0643\u0627\u0633\u0627\u0628\u0627"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1225947283,
-    "wof:lastmodified":1564148986,
+    "wof:lastmodified":1566605652,
     "wof:name":"Nova Kasaba",
     "wof:parent_id":1108759165,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.79501,43.16523,17.83501,43.20523",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326944249,
-    "wof:lastmodified":1536886943,
+    "wof:lastmodified":1566604140,
     "wof:name":"Kljestine",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

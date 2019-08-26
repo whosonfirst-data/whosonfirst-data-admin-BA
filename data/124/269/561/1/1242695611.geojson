@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.41917,44.00861,17.45917,44.04861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vrpe\u0107"
     ],
@@ -45,8 +49,7 @@
         "Vrpe\u0107"
     ],
     "name:und_x_variant":[
-        "Vrhpe\u0107",
-        "Vrpe\u0107"
+        "Vrhpe\u0107"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1242695611,
-    "wof:lastmodified":1564148433,
+    "wof:lastmodified":1566605447,
     "wof:name":"Vrpec",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

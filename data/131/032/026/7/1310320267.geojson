@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.41493,43.77431,18.45493,43.81431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1310320267,
-    "wof:lastmodified":1536686564,
+    "wof:lastmodified":1566605204,
     "wof:name":"East New Sarajevo",
     "wof:parent_id":1108759189,
     "wof:placetype":"locality",

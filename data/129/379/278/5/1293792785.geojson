@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.50329,44.45652,17.54329,44.49652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Ulice"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293792785,
-    "wof:lastmodified":1564146141,
+    "wof:lastmodified":1566604518,
     "wof:name":"Ulice",
     "wof:parent_id":1108759141,
     "wof:placetype":"locality",

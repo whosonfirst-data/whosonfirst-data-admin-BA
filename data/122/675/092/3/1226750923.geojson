@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.78122,44.69021,17.82122,44.73021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Rijeka"
     ],
@@ -288,7 +292,7 @@
         }
     ],
     "wof:id":1226750923,
-    "wof:lastmodified":1564149035,
+    "wof:lastmodified":1566605669,
     "wof:name":"Rijeka",
     "wof:parent_id":1108759259,
     "wof:placetype":"locality",

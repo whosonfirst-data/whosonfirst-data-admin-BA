@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.34079,44.75639,16.38079,44.79639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276995407,
-    "wof:lastmodified":1536885639,
+    "wof:lastmodified":1566604808,
     "wof:name":"Marjanovici",
     "wof:parent_id":1108759219,
     "wof:placetype":"locality",

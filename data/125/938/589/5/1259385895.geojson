@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.64069,44.84027,16.68069,44.88027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "O\u0161tra Luka"
     ],
@@ -70,9 +74,6 @@
     "name:tur_x_preferred":[
         "O\u0161tra Luka"
     ],
-    "name:und_x_variant":[
-        "O\u0161tra Luka"
-    ],
     "name:zho_x_preferred":[
         "\u5965\u4ec0\u7279\u62c9\u5362\u5361"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1259385895,
-    "wof:lastmodified":1564148701,
+    "wof:lastmodified":1566605546,
     "wof:name":"Ostra Luka",
     "wof:parent_id":1108759223,
     "wof:placetype":"locality",

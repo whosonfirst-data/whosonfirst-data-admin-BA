@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.19084,44.465,16.23084,44.505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0643\u0648 \u0623\u0648\u062a\u0634\u064a\u0641\u0648"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u043e \u041e\u0447\u0438\u0458\u0435\u0432\u043e"
-    ],
-    "name:und_x_variant":[
-        "Veliko O\u010dijevo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1344170867,
-    "wof:lastmodified":1564145884,
+    "wof:lastmodified":1566604415,
     "wof:name":"Veliko Ocijevo",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

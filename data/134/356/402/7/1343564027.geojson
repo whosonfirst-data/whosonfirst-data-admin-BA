@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.02579,44.99192,17.06579,45.03192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343564027,
-    "wof:lastmodified":1537091078,
+    "wof:lastmodified":1566604390,
     "wof:name":"Gigovici",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

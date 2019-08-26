@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.18095,44.01047,18.22095,44.05047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u010cajno",
         "Veliko \u010cajno"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259893651,
-    "wof:lastmodified":1537585553,
+    "wof:lastmodified":1566605634,
     "wof:name":"Veliko Cajno",
     "wof:parent_id":1108759285,
     "wof:placetype":"locality",

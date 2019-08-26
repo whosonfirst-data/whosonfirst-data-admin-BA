@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.793,44.44619,18.833,44.48619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rainci Gornji"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1259797555,
-    "wof:lastmodified":1564148789,
+    "wof:lastmodified":1566605579,
     "wof:name":"Rainci Gornji",
     "wof:parent_id":1108759121,
     "wof:placetype":"locality",

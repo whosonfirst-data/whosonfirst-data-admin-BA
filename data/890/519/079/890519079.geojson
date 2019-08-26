@@ -11,11 +11,15 @@
     "geom:longitude":17.4,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":7955,
+    "gn:population":7955,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.38,44.12361,17.42,44.16361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Donji Vakuf"
     ],
@@ -85,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0456-\u0412\u0430\u043a\u0443\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Srbobran"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3201376,
         "gp:id":941465,
-        "qs:id":186325,
+        "qs_pg:id":186325,
         "wd:id":"Q1017938",
         "wk:page":"Donji Vakuf"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890519079,
-    "wof:lastmodified":1563287530,
+    "wof:lastmodified":1566605347,
     "wof:name":"Donji Vakuf",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

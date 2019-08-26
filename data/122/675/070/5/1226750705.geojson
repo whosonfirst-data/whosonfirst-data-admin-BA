@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.30464,42.82777,18.34464,42.86777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226750705,
-    "wof:lastmodified":1536708650,
+    "wof:lastmodified":1566605665,
     "wof:name":"Kaluderski Do",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

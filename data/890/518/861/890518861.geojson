@@ -11,11 +11,15 @@
     "geom:longitude":18.53528,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3417,
+    "gn:population":3417,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.51528,43.14722,18.55528,43.18722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gacko"
     ],
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3200768,
         "gp:id":941627,
-        "qs:id":147281,
+        "qs_pg:id":147281,
         "wd:id":"Q168991",
         "wk:page":"Gacko"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890518861,
-    "wof:lastmodified":1563287583,
+    "wof:lastmodified":1566605358,
     "wof:name":"Gacko",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

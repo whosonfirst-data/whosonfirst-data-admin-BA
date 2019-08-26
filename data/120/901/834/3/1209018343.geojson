@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.38376,43.74767,17.42376,43.78767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3292231
     },
     "wof:country":"BA",
-    "wof:geomhash":"9ec9ac2d18e5fd46de3fc3b3701432bc",
+    "wof:geomhash":"77b9a4aa4708621475e7ea053ab02f3d",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209018343,
-    "wof:lastmodified":1536300224,
+    "wof:lastmodified":1566604841,
     "wof:name":"Karlici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.403760000000002,
+    17.40376,
     43.76767,
-    17.403760000000002,
+    17.40376,
     43.76767
 ],
   "geometry": {"coordinates":[17.40376,43.76767],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.04852,43.77422,19.08852,43.81422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dobromerovi\u0107i"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u043c\u0435\u0440\u043e\u0432\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Dobromerovi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1209427923,
-    "wof:lastmodified":1564147237,
+    "wof:lastmodified":1566604951,
     "wof:name":"Dobromerovici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.11333,44.81944,18.15333,44.85944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lozani",
         "Lu\u017eani"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259595917,
-    "wof:lastmodified":1537585641,
+    "wof:lastmodified":1566605613,
     "wof:name":"Luzani",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

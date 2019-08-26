@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.65705,44.06805,18.69705,44.10805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0414\u0435\u0431\u0435\u043b\u043e \u0431\u0440\u0434\u043e"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209427941,
-    "wof:lastmodified":1564147235,
+    "wof:lastmodified":1566604951,
     "wof:name":"Debelo Brdo",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

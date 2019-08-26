@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.49318,44.773,17.53318,44.813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193028981,
-    "wof:lastmodified":1536365622,
+    "wof:lastmodified":1566605028,
     "wof:name":"Bozici",
     "wof:parent_id":1108759045,
     "wof:placetype":"locality",

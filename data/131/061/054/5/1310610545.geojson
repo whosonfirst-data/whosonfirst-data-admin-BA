@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.42393,44.01072,18.46393,44.05072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mo\u0161evi\u0107i"
     ],
@@ -35,9 +39,6 @@
         "Mo\u0161evi\u0107i"
     ],
     "name:pol_x_preferred":[
-        "Mo\u0161evi\u0107i"
-    ],
-    "name:und_x_variant":[
         "Mo\u0161evi\u0107i"
     ],
     "src:geom":"geonames",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1310610545,
-    "wof:lastmodified":1564147867,
+    "wof:lastmodified":1566605207,
     "wof:name":"Mosevici",
     "wof:parent_id":1108759109,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.4972,45.19582,16.5372,45.23582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259982995,
-    "wof:lastmodified":1536634525,
+    "wof:lastmodified":1566605556,
     "wof:name":"Denadijino Brdo",
     "wof:parent_id":1108759139,
     "wof:placetype":"locality",

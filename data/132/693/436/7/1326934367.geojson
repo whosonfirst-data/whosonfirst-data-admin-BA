@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.66111,43.60167,18.70111,43.64167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326934367,
-    "wof:lastmodified":1536901716,
+    "wof:lastmodified":1566604148,
     "wof:name":"Musni Do",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

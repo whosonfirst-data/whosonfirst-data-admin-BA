@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.18662,43.53264,19.22662,43.57264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lukare"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1243563557,
-    "wof:lastmodified":1564148494,
+    "wof:lastmodified":1566605468,
     "wof:name":"Lukare",
     "wof:parent_id":1108759035,
     "wof:placetype":"locality",

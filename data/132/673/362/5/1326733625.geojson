@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.19356,43.74338,19.23356,43.78338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dubo\u010dica"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0443\u0431\u043e\u0447\u0438\u0446\u0430"
-    ],
-    "name:und_x_variant":[
-        "Dubo\u010dica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1326733625,
-    "wof:lastmodified":1564145194,
+    "wof:lastmodified":1566604130,
     "wof:name":"Dubocica",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

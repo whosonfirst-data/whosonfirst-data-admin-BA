@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.95797,43.69685,16.99797,43.73685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vr\u017eerala"
     ],
@@ -38,9 +42,6 @@
         "Vr\u017eerala"
     ],
     "name:swe_x_preferred":[
-        "Vr\u017eerala"
-    ],
-    "name:und_x_variant":[
         "Vr\u017eerala"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1360003537,
-    "wof:lastmodified":1564147952,
+    "wof:lastmodified":1566605240,
     "wof:name":"Vrzerala",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

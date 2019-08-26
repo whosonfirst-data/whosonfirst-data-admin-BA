@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.363337,
     "lbl:longitude":16.451117,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Federacija Bih",
     "meso:admin_2":"Canton 10",
     "meso:gadm_adm2":"Canton 10",
@@ -34,6 +36,7 @@
     "mps:longitude":16.451117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0414\u0440\u0432\u0430\u0440"
     ],
@@ -112,9 +115,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0432\u0430\u0440"
     ],
-    "name:und_x_variant":[
-        "Drvar"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0631\u0648\u0627\u0631"
     ],
@@ -122,9 +122,9 @@
         "\u5fb7\u74e6\u5c14"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"970",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":1108759067,
-    "wof:lastmodified":1564147567,
+    "wof:lastmodified":1566605089,
     "wof:name":"Drvar",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

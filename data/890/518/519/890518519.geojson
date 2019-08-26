@@ -11,10 +11,14 @@
     "geom:longitude":18.97708,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"BA",
+    "lbl:bbox":"18.95708,44.64235,18.99708,44.68235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bogutovo Selo"
     ],
@@ -96,7 +100,7 @@
     "name:tur_x_preferred":[
         "Bogutovo Selo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Begutovo Selo"
     ],
     "name:war_x_preferred":[
@@ -116,7 +120,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3203812,
-        "qs:id":95183,
+        "qs_pg:id":95183,
         "wd:id":"Q2908781"
     },
     "wof:country":"BA",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890518519,
-    "wof:lastmodified":1563287594,
+    "wof:lastmodified":1566605360,
     "wof:name":"Bogutovo Selo",
     "wof:parent_id":1108759273,
     "wof:placetype":"locality",

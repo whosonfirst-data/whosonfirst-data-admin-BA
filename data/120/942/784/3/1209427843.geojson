@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.87975,44.52973,17.91975,44.56973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vru\u0107ica",
         "Gornja Vru\u0107ica"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209427843,
-    "wof:lastmodified":1537585550,
+    "wof:lastmodified":1566604950,
     "wof:name":"Gornja Vrucica",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

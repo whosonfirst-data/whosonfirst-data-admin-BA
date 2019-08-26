@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.75396,43.33652,17.79396,43.37652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hif_x_preferred":[
         "Palasi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209729593,
-    "wof:lastmodified":1564147294,
+    "wof:lastmodified":1566604976,
     "wof:name":"Palasi",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

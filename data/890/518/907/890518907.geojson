@@ -11,11 +11,15 @@
     "geom:longitude":16.97464,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3797,
+    "gn:population":3797,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"16.95464,44.84717,16.99464,44.88717",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Piskavica"
     ],
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3248645,
         "gp:id":943336,
-        "qs:id":942036,
+        "qs_pg:id":942036,
         "wd:id":"Q3115412"
     },
     "wof:country":"BA",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890518907,
-    "wof:lastmodified":1561830463,
+    "wof:lastmodified":1566605352,
     "wof:name":"Piskavica",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

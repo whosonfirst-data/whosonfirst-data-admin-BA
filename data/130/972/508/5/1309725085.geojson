@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.1682,44.20965,19.2082,44.24965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Brana Ba\u010di\u0107i"
     ],
@@ -41,8 +45,7 @@
         "\u0411\u0440\u0430\u043d\u0430 \u0411\u0430\u0447\u0438\u045b\u0438"
     ],
     "name:und_x_variant":[
-        "Brana Ba\u010di\u0107",
-        "Brana Ba\u010di\u0107i"
+        "Brana Ba\u010di\u0107"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1309725085,
-    "wof:lastmodified":1564148201,
+    "wof:lastmodified":1566605339,
     "wof:name":"Brana Bacici",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

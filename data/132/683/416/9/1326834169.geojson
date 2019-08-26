@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.83,43.39667,17.87,43.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326834169,
-    "wof:lastmodified":1537044132,
+    "wof:lastmodified":1566604237,
     "wof:name":"Raska Gora",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

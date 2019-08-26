@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.68187,44.90074,16.72187,44.94074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ga\u0107ani",
         "Donji Ga\u010dani"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343970877,
-    "wof:lastmodified":1537585606,
+    "wof:lastmodified":1566604318,
     "wof:name":"Donji Gacani",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

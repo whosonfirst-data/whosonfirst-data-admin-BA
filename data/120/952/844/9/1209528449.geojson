@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.37656,42.63604,18.41656,42.67604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Turmenti"
     ],
@@ -38,8 +42,7 @@
         "\u0422\u0443\u0440\u043c\u0435\u043d\u0442\u0438"
     ],
     "name:und_x_variant":[
-        "Turmente",
-        "Turmenti"
+        "Turmente"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u0645\u06cc\u0646\u062a\u06cc"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209528449,
-    "wof:lastmodified":1564146978,
+    "wof:lastmodified":1566604852,
     "wof:name":"Turmenti",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

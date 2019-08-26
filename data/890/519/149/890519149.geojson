@@ -11,11 +11,15 @@
     "geom:longitude":18.69274,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":6783,
+    "gn:population":6783,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.67274,44.20669,18.71274,44.24669",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kladanj"
     ],
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3198126,
         "gp:id":942307,
-        "qs:id":262465,
+        "qs_pg:id":262465,
         "wd:id":"Q1018024",
         "wk:page":"Kladanj"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890519149,
-    "wof:lastmodified":1563287555,
+    "wof:lastmodified":1566605352,
     "wof:name":"Kladanj",
     "wof:parent_id":1108759129,
     "wof:placetype":"locality",

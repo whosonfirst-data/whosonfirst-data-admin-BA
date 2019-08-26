@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.95452,43.83538,18.99452,43.87538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gu\u017edelji"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0413\u0443\u0436\u0434\u0435\u0459\u0438"
-    ],
-    "name:und_x_variant":[
-        "Gu\u017edelji"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1277087349,
-    "wof:lastmodified":1564146488,
+    "wof:lastmodified":1566604661,
     "wof:name":"Guzdelji",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

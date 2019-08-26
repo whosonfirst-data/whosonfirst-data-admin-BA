@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.35908,42.82441,18.39908,42.86441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ru\u017ei\u0107njive",
         "Baj\u010deti\u0107i"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293107419,
-    "wof:lastmodified":1537585629,
+    "wof:lastmodified":1566604640,
     "wof:name":"Bajcetici",
     "wof:parent_id":1108758997,
     "wof:placetype":"locality",

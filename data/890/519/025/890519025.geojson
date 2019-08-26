@@ -11,11 +11,15 @@
     "geom:longitude":17.90288,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":8244,
+    "gn:population":8244,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.88288,43.93952,17.92288,43.97952",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Fojnica"
     ],
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":3200829,
         "gp:id":941621,
-        "qs:id":909811,
+        "qs_pg:id":909811,
         "wd:id":"Q1017950",
         "wk:page":"Fojnica"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":890519025,
-    "wof:lastmodified":1563287533,
+    "wof:lastmodified":1566605347,
     "wof:name":"Fojnica",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

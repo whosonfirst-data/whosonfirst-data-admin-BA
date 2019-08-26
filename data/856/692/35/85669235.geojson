@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":43.775145,
     "lbl:longitude":18.235108,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.785762,
     "mps:longitude":18.261548,
     "mz:hierarchy_label":1,
@@ -156,10 +157,8 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0454\u0432\u0441\u044c\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d"
     ],
-    "name:und_x_preferred":[
-        "Sarajevski Kanton"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Sarajevski Kanton",
         "Kanton 9"
     ],
     "name:urd_x_preferred":[
@@ -244,7 +243,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"BA-09",
     "wof:belongsto":[
         102191581,
@@ -256,7 +255,7 @@
         "gn:id":3343737,
         "gp:id":29389657,
         "hasc:id":"BA.BF",
-        "qs:id":1086560,
+        "qs_pg:id":1086560,
         "unlc:id":"BA-09",
         "wd:id":"Q18276",
         "wk:page":"Sarajevo Canton"
@@ -271,9 +270,6 @@
         }
     ],
     "wof:id":85669235,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "bos",
         "srp",
@@ -284,7 +280,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1563285716,
+    "wof:lastmodified":1566604464,
     "wof:name":"Sarajevo",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

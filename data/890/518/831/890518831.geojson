@@ -11,11 +11,15 @@
     "geom:longitude":17.8783,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4776,
+    "gn:population":4776,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.8583,44.07769,17.8983,44.11769",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Busova\u010da"
     ],
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3202955,
         "gp:id":941000,
-        "qs:id":1085290,
+        "qs_pg:id":1085290,
         "wd:id":"Q612603",
         "wk:page":"Busova\u010da"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890518831,
-    "wof:lastmodified":1563287632,
+    "wof:lastmodified":1566605366,
     "wof:name":"Busova\u010da",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

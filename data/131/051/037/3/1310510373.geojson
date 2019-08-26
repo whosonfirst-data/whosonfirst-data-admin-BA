@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.9045,44.27035,18.9445,44.31035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rudi\u0161te",
         "Bobari"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310510373,
-    "wof:lastmodified":1537585649,
+    "wof:lastmodified":1566605226,
     "wof:name":"Bobari",
     "wof:parent_id":1108759227,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.2121,44.01713,18.2521,44.05713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kolovoj",
         "Kolovaj"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310322831,
-    "wof:lastmodified":1537585591,
+    "wof:lastmodified":1566605204,
     "wof:name":"Kolovaj",
     "wof:parent_id":1108759027,
     "wof:placetype":"locality",

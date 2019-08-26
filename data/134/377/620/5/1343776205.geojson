@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.01734,44.46905,18.05734,44.50905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ponijevo"
     ],
@@ -42,9 +46,7 @@
     ],
     "name:und_x_variant":[
         "Ponijeva",
-        "Ponjevo",
-        "Ponijevo",
-        "Malo Ponijevo"
+        "Ponjevo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1343776205,
-    "wof:lastmodified":1564145714,
+    "wof:lastmodified":1566604348,
     "wof:name":"Malo Ponijevo",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

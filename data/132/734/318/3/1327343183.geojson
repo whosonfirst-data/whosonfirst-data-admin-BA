@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.96837,44.11718,18.00837,44.15718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gornji Lu\u010dani"
     ],
@@ -41,9 +45,6 @@
         "\u0413\u043e\u0440\u045a\u0438 \u041b\u0443\u0447\u0430\u043d\u0438"
     ],
     "name:swe_x_preferred":[
-        "Gornji Lu\u010dani"
-    ],
-    "name:und_x_variant":[
         "Gornji Lu\u010dani"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1327343183,
-    "wof:lastmodified":1564145356,
+    "wof:lastmodified":1566604198,
     "wof:name":"Gornji Lucani",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

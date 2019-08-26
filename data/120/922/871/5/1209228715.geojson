@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.68462,43.50864,17.72462,43.54864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3344241
     },
     "wof:country":"BA",
-    "wof:geomhash":"906f9c6ce1250921655a9dc1fe277f8c",
+    "wof:geomhash":"83f81a20f544b4dd686f2e7515b043fb",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209228715,
-    "wof:lastmodified":1536293709,
+    "wof:lastmodified":1566604895,
     "wof:name":"Donja Dreznica",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.704620000000006,
+    17.70462000000001,
     43.52864,
-    17.704620000000006,
+    17.70462000000001,
     43.52864
 ],
   "geometry": {"coordinates":[17.70462000000001,43.52864],"type":"Point"}

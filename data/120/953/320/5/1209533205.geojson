@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.54669,44.50176,18.58669,44.54176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Iliki\u0107i",
         "Iljki\u0107i"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209533205,
-    "wof:lastmodified":1537585665,
+    "wof:lastmodified":1566604823,
     "wof:name":"Iljkici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":18.07644,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3559,
+    "gn:population":3559,
     "iso:country":"BA",
+    "lbl:bbox":"18.05644,44.47497,18.09644,44.51497",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lije\u0161nica"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3258022,
         "gp:id":943250,
-        "qs:id":582300,
+        "qs_pg:id":582300,
         "wd:id":"Q3051829",
         "wk:page":"Lije\u0161nica"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890518575,
-    "wof:lastmodified":1563287594,
+    "wof:lastmodified":1566605360,
     "wof:name":"Lije\u0161nica",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

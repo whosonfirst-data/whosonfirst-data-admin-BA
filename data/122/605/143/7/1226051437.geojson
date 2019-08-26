@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.55507,43.13039,18.59507,43.17039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Miholja\u010de"
     ],
@@ -41,8 +45,7 @@
         "Miholja\u010de"
     ],
     "name:und_x_variant":[
-        "Miholja\u010da",
-        "Miholja\u010de"
+        "Miholja\u010da"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1226051437,
-    "wof:lastmodified":1564149109,
+    "wof:lastmodified":1566605699,
     "wof:name":"Miholjace",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

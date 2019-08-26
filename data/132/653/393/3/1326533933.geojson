@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.78943,43.10104,17.82943,43.14104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Opli\u010di\u0107i"
     ],
@@ -44,8 +48,7 @@
         "Opli\u010di\u0107i"
     ],
     "name:und_x_variant":[
-        "Opli\u010di\u0107",
-        "Opli\u010di\u0107i"
+        "Opli\u010di\u0107"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1326533933,
-    "wof:lastmodified":1564145510,
+    "wof:lastmodified":1566604259,
     "wof:name":"Oplicici",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

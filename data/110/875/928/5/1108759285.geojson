@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.007165,
     "lbl:longitude":18.156627,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Federacija Bih",
     "meso:admin_2":"Zenica-Doboj",
     "meso:gadm_adm2":"Zenica-Doboj",
@@ -34,6 +36,7 @@
     "mps:longitude":18.156627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0633\u0648\u0643\u0648"
     ],
@@ -157,9 +160,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0441\u043e\u043a\u043e"
     ],
-    "name:und_x_variant":[
-        "Visoko"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0633\u0648\u06a9\u0648"
     ],
@@ -170,9 +170,9 @@
         "\u7ef4\u7d22\u79d1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"240",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -204,7 +204,7 @@
         }
     ],
     "wof:id":1108759285,
-    "wof:lastmodified":1564147615,
+    "wof:lastmodified":1566605108,
     "wof:name":"Visoko",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

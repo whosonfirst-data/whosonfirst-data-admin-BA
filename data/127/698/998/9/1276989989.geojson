@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.43769,44.47427,17.47769,44.51427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276989989,
-    "wof:lastmodified":1536893132,
+    "wof:lastmodified":1566604810,
     "wof:name":"Beraci",
     "wof:parent_id":1108759233,
     "wof:placetype":"locality",

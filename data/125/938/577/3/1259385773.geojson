@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.69969,43.94205,18.73969,43.98205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259385773,
-    "wof:lastmodified":1536998175,
+    "wof:lastmodified":1566605548,
     "wof:name":"Bijela Voda",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

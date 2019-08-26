@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.15465,44.51489,18.19465,44.55489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0456\u0441"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1309923541,
-    "wof:lastmodified":1564148139,
+    "wof:lastmodified":1566605314,
     "wof:name":"Vis",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

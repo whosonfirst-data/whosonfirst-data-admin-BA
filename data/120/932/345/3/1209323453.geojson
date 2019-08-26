@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.63433,44.84665,16.67433,44.88665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3248239
     },
     "wof:country":"BA",
-    "wof:geomhash":"62e5e5f21567e04a19897b607c2abba9",
+    "wof:geomhash":"42e203874a246e5f56d2aef09150f750",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209323453,
-    "wof:lastmodified":1536290611,
+    "wof:lastmodified":1566604922,
     "wof:name":"Gajici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.654329999999998,
+    16.65433,
     44.86665,
-    16.654329999999998,
+    16.65433,
     44.86665
 ],
   "geometry": {"coordinates":[16.65433,44.86665],"type":"Point"}

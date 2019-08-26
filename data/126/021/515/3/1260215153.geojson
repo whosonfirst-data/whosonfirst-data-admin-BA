@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.91974,44.78267,18.95974,44.82267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260215153,
-    "wof:lastmodified":1536804598,
+    "wof:lastmodified":1566605085,
     "wof:name":"Maljani",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

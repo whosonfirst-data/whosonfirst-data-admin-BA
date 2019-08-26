@@ -11,11 +11,15 @@
     "geom:longitude":16.89814,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":6466,
+    "gn:population":6466,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"16.87814,44.8717,16.91814,44.9117",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Omarska"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3194120,
         "gp:id":943152,
-        "qs:id":633472,
+        "qs_pg:id":633472,
         "wd:id":"Q1938626",
         "wk:page":"Omarska"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890518733,
-    "wof:lastmodified":1563287606,
+    "wof:lastmodified":1566605362,
     "wof:name":"Omarska",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

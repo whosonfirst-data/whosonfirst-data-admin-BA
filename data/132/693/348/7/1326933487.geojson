@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.90076,43.80175,18.94076,43.84175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Maravi\u0107i"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u0430\u0432\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Maravi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1326933487,
-    "wof:lastmodified":1564145238,
+    "wof:lastmodified":1566604149,
     "wof:name":"Maravici",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

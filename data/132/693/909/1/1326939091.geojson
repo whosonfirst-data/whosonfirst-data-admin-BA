@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.94672,43.75316,18.98672,43.79316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Surovi"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326939091,
-    "wof:lastmodified":1564145230,
+    "wof:lastmodified":1566604146,
     "wof:name":"Surovi",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

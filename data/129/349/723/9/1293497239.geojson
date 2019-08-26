@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.11224,43.90742,18.15224,43.94742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u010calikovac"
     ],
@@ -32,9 +36,6 @@
         "\u010calikovac"
     ],
     "name:hrv_x_preferred":[
-        "\u010calikovac"
-    ],
-    "name:und_x_variant":[
         "\u010calikovac"
     ],
     "src:geom":"geonames",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1293497239,
-    "wof:lastmodified":1564146171,
+    "wof:lastmodified":1566604531,
     "wof:name":"Calikovac",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

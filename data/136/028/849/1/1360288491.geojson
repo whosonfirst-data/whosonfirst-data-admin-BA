@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.88878,44.81379,16.92878,44.85379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360288491,
-    "wof:lastmodified":1536652015,
+    "wof:lastmodified":1566605277,
     "wof:name":"Dakici",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

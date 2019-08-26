@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.51226,44.12918,17.55226,44.16918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Grgi\u0107i"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0413\u0440\u0433\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Grgi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1343875989,
-    "wof:lastmodified":1564145971,
+    "wof:lastmodified":1566604449,
     "wof:name":"Grgici",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

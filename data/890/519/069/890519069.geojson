@@ -11,11 +11,15 @@
     "geom:longitude":18.41023,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3489,
+    "gn:population":3489,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.39023,45.05559,18.43023,45.09559",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Donja Dubica"
     ],
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3201697,
         "gp:id":941314,
-        "qs:id":181701,
+        "qs_pg:id":181701,
         "wd:id":"Q3036333"
     },
     "wof:country":"BA",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890519069,
-    "wof:lastmodified":1563287552,
+    "wof:lastmodified":1566605351,
     "wof:name":"Donja Dubica",
     "wof:parent_id":1108759191,
     "wof:placetype":"locality",

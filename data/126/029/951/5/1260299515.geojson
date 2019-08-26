@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.65573,44.15595,17.69573,44.19595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rankovci",
         "Rankovi\u0107i"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260299515,
-    "wof:lastmodified":1537585568,
+    "wof:lastmodified":1566605065,
     "wof:name":"Rankovici",
     "wof:parent_id":1108759183,
     "wof:placetype":"locality",

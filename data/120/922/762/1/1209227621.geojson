@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.10338,45.02307,17.14338,45.06307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3285791
     },
     "wof:country":"BA",
-    "wof:geomhash":"bb46f23fdb8daac6b64248e5eb2202fe",
+    "wof:geomhash":"cf8152e9ca1f3d9ebe31fea22c2918df",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209227621,
-    "wof:lastmodified":1536293744,
+    "wof:lastmodified":1566604890,
     "wof:name":"Bavrlici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.123379999999994,
+    17.12337999999999,
     45.04307,
-    17.123379999999994,
+    17.12337999999999,
     45.04307
 ],
   "geometry": {"coordinates":[17.12337999999999,45.04307],"type":"Point"}

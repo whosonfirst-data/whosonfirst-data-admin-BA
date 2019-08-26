@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.67287,43.51028,18.71287,43.55028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Donje Selo"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1259988297,
-    "wof:lastmodified":1564148708,
+    "wof:lastmodified":1566605548,
     "wof:name":"Donje Selo",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

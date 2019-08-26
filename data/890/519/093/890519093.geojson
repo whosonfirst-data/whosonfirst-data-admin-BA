@@ -11,11 +11,15 @@
     "geom:longitude":16.67668,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4792,
+    "gn:population":4792,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"16.65668,45.08548,16.69668,45.12548",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kne\u017eica"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3211929,
         "gp:id":942342,
-        "qs:id":1283499,
+        "qs_pg:id":1283499,
         "wd:id":"Q3118091",
         "wk:page":"Kne\u017eica"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890519093,
-    "wof:lastmodified":1563287552,
+    "wof:lastmodified":1566605351,
     "wof:name":"Kne\u017eica",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

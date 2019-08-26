@@ -11,10 +11,14 @@
     "geom:longitude":18.12292,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":12406,
+    "gn:population":12406,
     "iso:country":"BA",
+    "lbl:bbox":"18.10292,44.11311,18.14292,44.15311",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0643\u0627\u0646\u064a"
     ],
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3198490,
         "gp:id":944783,
-        "qs:id":147231,
+        "qs_pg:id":147231,
         "wd:id":"Q963038",
         "wk:page":"Kakanj"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":890518611,
-    "wof:lastmodified":1563287581,
+    "wof:lastmodified":1566605358,
     "wof:name":"Kakanj",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

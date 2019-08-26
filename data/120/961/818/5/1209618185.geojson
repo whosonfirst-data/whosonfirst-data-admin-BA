@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.48192,45.05839,17.52192,45.09839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3241630
     },
     "wof:country":"BA",
-    "wof:geomhash":"bf8473486112633b4e6f0bde09a8ef0e",
+    "wof:geomhash":"92fc990ab9b473a170d327534d2f7629",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209618185,
-    "wof:lastmodified":1536281614,
+    "wof:lastmodified":1566604899,
     "wof:name":"Donjani",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.501920000000002,
+    17.50192,
     45.07839,
-    17.501920000000002,
+    17.50192,
     45.07839
 ],
   "geometry": {"coordinates":[17.50192,45.07839],"type":"Point"}

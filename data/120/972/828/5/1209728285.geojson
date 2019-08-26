@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.85088,44.96715,17.89088,45.00715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Lug"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1209728285,
-    "wof:lastmodified":1564147284,
+    "wof:lastmodified":1566604972,
     "wof:name":"Lug",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

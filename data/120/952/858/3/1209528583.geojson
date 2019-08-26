@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.51066,45.0792,16.55066,45.1192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Prusci"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1209528583,
-    "wof:lastmodified":1564146984,
+    "wof:lastmodified":1566604854,
     "wof:name":"Prusci",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

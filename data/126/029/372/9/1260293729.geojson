@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.1465,44.20198,19.1865,44.24198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Urkovi\u0107i"
     ],
@@ -47,9 +51,6 @@
         "\u0423\u0440\u043a\u043e\u0432\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Urkovi\u0107i"
-    ],
-    "name:und_x_variant":[
         "Urkovi\u0107i"
     ],
     "src:geom":"geonames",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1260293729,
-    "wof:lastmodified":1564147518,
+    "wof:lastmodified":1566605068,
     "wof:name":"Urkovici",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

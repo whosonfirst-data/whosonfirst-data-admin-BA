@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.57508,44.05631,16.61508,44.09631",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310615293,
-    "wof:lastmodified":1536758636,
+    "wof:lastmodified":1566605210,
     "wof:name":"Brkanlici",
     "wof:parent_id":1108759019,
     "wof:placetype":"locality",

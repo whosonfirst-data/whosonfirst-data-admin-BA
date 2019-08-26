@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.41201,43.7175,19.45201,43.7575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Macute"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1310114669,
-    "wof:lastmodified":1564147818,
+    "wof:lastmodified":1566605188,
     "wof:name":"Macute",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

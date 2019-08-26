@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":43.635272,
     "lbl:longitude":17.978808,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Federacija Bih",
     "meso:admin_2":"Herzegovia-Neretva",
     "meso:gadm_adm2":"Herzegovina-Neretva",
@@ -34,6 +36,7 @@
     "mps:longitude":17.978808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u064a\u064a\u062a\u0634"
     ],
@@ -112,9 +115,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0456\u0446"
     ],
-    "name:und_x_variant":[
-        "Konjic"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0646\u06cc\u0633"
     ],
@@ -122,9 +122,9 @@
         "\u79d1\u5c3c\u8328"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"1102",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":1108759137,
-    "wof:lastmodified":1564147581,
+    "wof:lastmodified":1566605095,
     "wof:name":"Konjic",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":16.09448,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":4361,
+    "gn:population":4361,
     "iso:country":"BA",
+    "lbl:bbox":"16.07448,44.96172,16.11448,45.00172",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0632\u064a\u0631\u0633\u0643\u0627\u064a"
     ],
@@ -99,7 +103,7 @@
     "name:tur_x_preferred":[
         "Jezerski"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jezersko"
     ],
     "name:war_x_preferred":[
@@ -120,7 +124,7 @@
     "wof:concordances":{
         "gn:id":3198618,
         "gp:id":942202,
-        "qs:id":147233,
+        "qs_pg:id":147233,
         "wd:id":"Q3039219"
     },
     "wof:country":"BA",
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":890518613,
-    "wof:lastmodified":1563287618,
+    "wof:lastmodified":1566605364,
     "wof:name":"Jezerski",
     "wof:parent_id":1108759003,
     "wof:placetype":"locality",

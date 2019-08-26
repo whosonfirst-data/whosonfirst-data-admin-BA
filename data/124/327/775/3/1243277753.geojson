@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.52154,43.89434,17.56154,43.93434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vaganjac"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1243277753,
-    "wof:lastmodified":1564148655,
+    "wof:lastmodified":1566605529,
     "wof:name":"Vaganjac",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

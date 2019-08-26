@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.65065,44.20064,17.69065,44.24064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dolac"
     ],
@@ -53,8 +57,7 @@
         "Dolac"
     ],
     "name:und_x_variant":[
-        "Dolac na La\u0161vi",
-        "Dolac"
+        "Dolac na La\u0161vi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1326848083,
-    "wof:lastmodified":1564145441,
+    "wof:lastmodified":1566604230,
     "wof:name":"Dolac",
     "wof:parent_id":1108759263,
     "wof:placetype":"locality",

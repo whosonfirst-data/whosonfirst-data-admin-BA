@@ -11,11 +11,15 @@
     "geom:longitude":17.85972,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":6405,
+    "gn:population":6405,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.83972,44.58639,17.87972,44.62639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0633\u0644\u064a\u062a\u0634"
     ],
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":3189143,
         "gp:id":944210,
-        "qs:id":478630,
+        "qs_pg:id":478630,
         "wd:id":"Q180753",
         "wk:page":"Tesli\u0107"
     },
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":890519081,
-    "wof:lastmodified":1563287546,
+    "wof:lastmodified":1566605350,
     "wof:name":"Tesli\u0107",
     "wof:parent_id":1108759259,
     "wof:placetype":"locality",

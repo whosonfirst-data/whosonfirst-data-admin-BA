@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.15995,44.79069,17.19995,44.83069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Drakuli\u010d",
         "Drakuli\u0107i"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243070949,
-    "wof:lastmodified":1537585639,
+    "wof:lastmodified":1566605376,
     "wof:name":"Drakulici",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

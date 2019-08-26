@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.1599,44.21116,19.1999,44.25116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326843449,
-    "wof:lastmodified":1537031168,
+    "wof:lastmodified":1566604231,
     "wof:name":"Nerade",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

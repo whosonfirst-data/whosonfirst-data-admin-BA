@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.4396,42.73608,18.4796,42.77608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:slv_x_preferred":[
         "Muline"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243175339,
-    "wof:lastmodified":1564148674,
+    "wof:lastmodified":1566605536,
     "wof:name":"Muline",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

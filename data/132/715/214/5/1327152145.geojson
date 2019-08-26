@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.87224,44.11053,17.91224,44.15053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Strane"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1327152145,
-    "wof:lastmodified":1564145287,
+    "wof:lastmodified":1566604170,
     "wof:name":"Strane",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

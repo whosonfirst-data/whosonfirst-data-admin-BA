@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.52742,42.65995,18.56742,42.69995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vu\u010dija"
     ],
@@ -35,8 +39,7 @@
         "\u0412\u0443\u0447\u0438\u0458\u0430"
     ],
     "name:und_x_variant":[
-        "Vu\u010dijak",
-        "Vu\u010dija"
+        "Vu\u010dijak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243567463,
-    "wof:lastmodified":1564148503,
+    "wof:lastmodified":1566605471,
     "wof:name":"Vucija",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.3575,43.85983,18.3975,43.89983",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Grahovi\u0161te"
     ],
@@ -38,9 +42,6 @@
         "\u0413\u0440\u0430\u0445\u043e\u0432\u0438\u0448\u0442\u0435"
     ],
     "name:swe_x_preferred":[
-        "Grahovi\u0161te"
-    ],
-    "name:und_x_variant":[
         "Grahovi\u0161te"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1310515493,
-    "wof:lastmodified":1564147932,
+    "wof:lastmodified":1566605231,
     "wof:name":"Grahoviste",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

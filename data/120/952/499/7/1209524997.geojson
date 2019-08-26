@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.36293,44.18695,17.40293,44.22695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3237951
     },
     "wof:country":"BA",
-    "wof:geomhash":"c98774d903b8f936f20823685e575cc4",
+    "wof:geomhash":"a9c152a6362c5362aded3770d2990e85",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209524997,
-    "wof:lastmodified":1536284459,
+    "wof:lastmodified":1566604853,
     "wof:name":"Selimovina",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.382929999999998,
+    17.38293,
     44.20695,
-    17.382929999999998,
+    17.38293,
     44.20695
 ],
   "geometry": {"coordinates":[17.38293,44.20695],"type":"Point"}

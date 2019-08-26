@@ -11,10 +11,14 @@
     "geom:longitude":18.59869,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":2171,
+    "gn:population":2171,
     "iso:country":"BA",
+    "lbl:bbox":"18.57869,44.93214,18.61869,44.97214",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Obudovac"
     ],
@@ -60,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3194231,
-        "qs:id":1044006,
+        "qs_pg:id":1044006,
         "wd:id":"Q2013255",
         "wk:page":"Obudovac"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890518799,
-    "wof:lastmodified":1563287557,
+    "wof:lastmodified":1566605352,
     "wof:name":"Obudovac",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",

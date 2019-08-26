@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.05163,44.73941,17.09163,44.77941",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gole\u0161i"
     ],
@@ -47,9 +51,6 @@
         "\u0413\u043e\u043b\u0435\u0448\u0438"
     ],
     "name:swe_x_preferred":[
-        "Gole\u0161i"
-    ],
-    "name:und_x_variant":[
         "Gole\u0161i"
     ],
     "src:geom":"geonames",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1360187675,
-    "wof:lastmodified":1564148005,
+    "wof:lastmodified":1566605261,
     "wof:name":"Golesi",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.67915,43.39826,18.71915,43.43826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u010cago\u0161ta",
         "Donja \u010cago\u0161ta"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259687057,
-    "wof:lastmodified":1537585619,
+    "wof:lastmodified":1566605605,
     "wof:name":"Donja Cagosta",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

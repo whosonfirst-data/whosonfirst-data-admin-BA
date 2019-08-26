@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.86183,44.67167,17.90183,44.71167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3251598
     },
     "wof:country":"BA",
-    "wof:geomhash":"c5d92ff45ffb98d3914060a9b93253ff",
+    "wof:geomhash":"dc3637c0a61ec1c228c52c074fb57197",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209109303,
-    "wof:lastmodified":1536297460,
+    "wof:lastmodified":1566604960,
     "wof:name":"Vukovici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.881829999999994,
+    17.88182999999999,
     44.69167,
-    17.881829999999994,
+    17.88182999999999,
     44.69167
 ],
   "geometry": {"coordinates":[17.88182999999999,44.69167],"type":"Point"}

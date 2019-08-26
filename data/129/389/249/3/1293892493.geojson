@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.09207,45.01738,17.13207,45.05738",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293892493,
-    "wof:lastmodified":1536700573,
+    "wof:lastmodified":1566604631,
     "wof:name":"Sestici",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

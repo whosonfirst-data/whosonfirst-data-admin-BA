@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.57433,44.57566,16.61433,44.61566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mija\u010dica"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u0458\u0430\u0447\u0438\u0446\u0430"
-    ],
-    "name:und_x_variant":[
-        "Mija\u010dica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1327347607,
-    "wof:lastmodified":1564145347,
+    "wof:lastmodified":1566604194,
     "wof:name":"Mijacica",
     "wof:parent_id":1108759133,
     "wof:placetype":"locality",

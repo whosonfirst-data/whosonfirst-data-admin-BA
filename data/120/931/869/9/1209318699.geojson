@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.752,42.89141,17.792,42.93141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3262338
     },
     "wof:country":"BA",
-    "wof:geomhash":"c4f5283a64c4d72bfe44038202711a65",
+    "wof:geomhash":"3aa7bd3ed4a4306659ea9e7956757c0e",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209318699,
-    "wof:lastmodified":1536290774,
+    "wof:lastmodified":1566604817,
     "wof:name":"Radetici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.772000000000006,
+    17.77200000000001,
     42.91141,
-    17.772000000000006,
+    17.77200000000001,
     42.91141
 ],
   "geometry": {"coordinates":[17.77200000000001,42.91141],"type":"Point"}

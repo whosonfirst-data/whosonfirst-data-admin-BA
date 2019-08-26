@@ -11,12 +11,16 @@
     "geom:longitude":18.69709,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3811,
+    "gn:population":3811,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.67709,44.4606,18.71709,44.5006",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Donje Dubrave"
     ],
     "qs:name":"Dubrave Donje",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":3201061,
         "gp:id":941561,
-        "qs:id":1085354
+        "qs_pg:id":1085354
     },
     "wof:country":"BA",
     "wof:created":1469056085,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890518937,
-    "wof:lastmodified":1505343911,
+    "wof:lastmodified":1566605354,
     "wof:name":"Dubrave Donje",
     "wof:parent_id":1108759301,
     "wof:placetype":"locality",

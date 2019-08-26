@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.64861,43.78056,17.68861,43.82056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kranj\u010di\u0107i",
         "Gornji Kran\u010di\u0107i",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326947903,
-    "wof:lastmodified":1537585600,
+    "wof:lastmodified":1566604138,
     "wof:name":"Gornji Kranjcici",
     "wof:parent_id":1108759211,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.66688,44.32817,18.70688,44.36817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Crijev\u010di\u0107i"
     ],
@@ -38,8 +42,7 @@
         "Crijev\u010di\u0107i"
     ],
     "name:und_x_variant":[
-        "Crijevi\u0107i",
-        "Crijev\u010di\u0107i"
+        "Crijevi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1327048305,
-    "wof:lastmodified":1564145417,
+    "wof:lastmodified":1566604220,
     "wof:name":"Crijevcici",
     "wof:parent_id":1108759129,
     "wof:placetype":"locality",

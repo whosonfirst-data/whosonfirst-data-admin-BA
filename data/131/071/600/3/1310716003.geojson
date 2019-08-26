@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.50167,43.17667,17.54167,43.21667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Humac",
         "Mali Humac"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310716003,
-    "wof:lastmodified":1537585596,
+    "wof:lastmodified":1566605138,
     "wof:name":"Mali Humac",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

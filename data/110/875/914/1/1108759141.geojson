@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.568605,
     "lbl:longitude":17.499158,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Republika Srpska",
     "meso:admin_2":"Republika Srpska",
     "meso:gadm_adm2":"Banja Luka",
@@ -34,6 +36,7 @@
     "mps:longitude":17.499158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kotor-Varos"
     ],
@@ -41,9 +44,9 @@
         "Kotor Varo\u0161"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"592",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108759141,
-    "wof:lastmodified":1553718708,
+    "wof:lastmodified":1566605096,
     "wof:name":"Kotor Varos",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

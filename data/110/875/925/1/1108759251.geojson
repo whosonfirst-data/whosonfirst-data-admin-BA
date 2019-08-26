@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":43.110138,
     "lbl:longitude":18.082317,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Republika Srpska",
     "meso:admin_2":"Republika Srpska",
     "meso:gadm_adm2":"Trebinje",
@@ -34,6 +36,7 @@
     "mps:longitude":18.082317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Stolac"
     ],
@@ -41,9 +44,9 @@
         "Stolac / Berkovi\u0107i"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"540",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108759251,
-    "wof:lastmodified":1553718711,
+    "wof:lastmodified":1566605095,
     "wof:name":"Stolac / Berkovici",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

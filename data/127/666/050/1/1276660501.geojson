@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.58743,43.81642,18.62743,43.85642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276660501,
-    "wof:lastmodified":1536836248,
+    "wof:lastmodified":1566604743,
     "wof:name":"Sajnovici",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

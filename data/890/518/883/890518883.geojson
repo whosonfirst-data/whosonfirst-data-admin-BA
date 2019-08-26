@@ -11,11 +11,15 @@
     "geom:longitude":19.01971,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"BA",
+    "lbl:bbox":"18.99971,44.40863,19.03971,44.44863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kri\u017eevi\u0107"
     ],
     "qs:name":"Kri\u017eevi\u0107i",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3197223,
-        "qs:id":581680
+        "qs_pg:id":581680
     },
     "wof:country":"BA",
     "wof:created":1469056083,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890518883,
-    "wof:lastmodified":1505343911,
+    "wof:lastmodified":1566605364,
     "wof:name":"Kri\u017eevi\u0107i",
     "wof:parent_id":1108759303,
     "wof:placetype":"locality",

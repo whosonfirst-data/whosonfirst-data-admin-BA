@@ -11,11 +11,15 @@
     "geom:longitude":16.80944,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":9959,
+    "gn:population":9959,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"16.78944,45.15667,16.82944,45.19667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0437\u0430\u0440\u0441\u043a\u0430 \u0414\u0443\u0431\u0438\u0446\u0430"
     ],
@@ -34,7 +38,7 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u0437\u0430\u0440\u0441\u043a\u0430 \u0414\u0443\u0431\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kozarska Dubica"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3203657,
         "gp:id":940798,
-        "qs:id":58411
+        "qs_pg:id":58411
     },
     "wof:country":"BA",
     "wof:created":1469056086,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890518975,
-    "wof:lastmodified":1505343911,
+    "wof:lastmodified":1566605370,
     "wof:name":"Bosanska Dubica",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

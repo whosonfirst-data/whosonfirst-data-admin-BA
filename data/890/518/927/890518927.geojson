@@ -11,11 +11,15 @@
     "geom:longitude":17.79008,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":8140,
+    "gn:population":8140,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.77008,44.13424,17.81008,44.17424",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vitez"
     ],
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3187590,
         "gp:id":944511,
-        "qs:id":968139,
+        "qs_pg:id":968139,
         "wd:id":"Q1018006",
         "wk:page":"Vitez"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":890518927,
-    "wof:lastmodified":1563287646,
+    "wof:lastmodified":1566605368,
     "wof:name":"Vitez",
     "wof:parent_id":1108759287,
     "wof:placetype":"locality",

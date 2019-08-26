@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.51239,43.99132,19.55239,44.03132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Velika Daljego\u0161ta"
     ],
@@ -50,9 +54,7 @@
         "Daljego\u0161ta"
     ],
     "name:und_x_variant":[
-        "Velika Delego\u0161ta",
-        "Velika Daljego\u0161ta",
-        "Daljego\u0161ta"
+        "Velika Delego\u0161ta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1343371739,
-    "wof:lastmodified":1564145620,
+    "wof:lastmodified":1566604308,
     "wof:name":"Daljegosta",
     "wof:parent_id":1108759241,
     "wof:placetype":"locality",

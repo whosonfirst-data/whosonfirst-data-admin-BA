@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.14168,42.73093,18.18168,42.77093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Krajkovi\u0107i"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276765537,
-    "wof:lastmodified":1537585589,
+    "wof:lastmodified":1566604757,
     "wof:name":"Krajkovici",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

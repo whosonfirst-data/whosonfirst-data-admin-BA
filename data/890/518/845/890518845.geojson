@@ -11,11 +11,15 @@
     "geom:longitude":17.48389,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4384,
+    "gn:population":4384,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.46389,43.2175,17.50389,43.2575",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vitina"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3187588,
         "gp:id":944513,
-        "qs:id":147076,
+        "qs_pg:id":147076,
         "wd:id":"Q3119141",
         "wk:page":"Vitina"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890518845,
-    "wof:lastmodified":1563287573,
+    "wof:lastmodified":1566605356,
     "wof:name":"Vitina",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

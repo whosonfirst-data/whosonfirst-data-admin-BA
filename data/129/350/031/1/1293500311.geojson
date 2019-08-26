@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.38126,43.21027,18.42126,43.25027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293500311,
-    "wof:lastmodified":1537486776,
+    "wof:lastmodified":1566604560,
     "wof:name":"Fojnica",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

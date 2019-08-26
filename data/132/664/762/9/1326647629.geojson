@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.13636,44.38049,18.17636,44.42049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326647629,
-    "wof:lastmodified":1536816856,
+    "wof:lastmodified":1566604241,
     "wof:name":"Bijeda",
     "wof:parent_id":1108759295,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"15.80244,44.89787,15.84244,44.93787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0644\u064a\u0643\u0627 \u063a\u0627\u062a\u0627"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1327235511,
-    "wof:lastmodified":1564145318,
+    "wof:lastmodified":1566604184,
     "wof:name":"Velika Gata",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

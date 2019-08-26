@@ -11,10 +11,14 @@
     "geom:longitude":18.52648,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":7211,
+    "gn:population":7211,
     "iso:country":"BA",
+    "lbl:bbox":"18.50648,44.38596,18.54648,44.42596",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u0648\u0641\u064a\u062a\u0634\u064a"
     ],
@@ -87,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u043e\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stara Litva"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3204520,
-        "qs:id":147337,
+        "qs_pg:id":147337,
         "wd:id":"Q806935",
         "wk:page":"Banovi\u0107i"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":890518505,
-    "wof:lastmodified":1563287561,
+    "wof:lastmodified":1566605353,
     "wof:name":"Banovi\u0107i",
     "wof:parent_id":1108758991,
     "wof:placetype":"locality",

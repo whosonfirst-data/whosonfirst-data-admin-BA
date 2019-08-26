@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.83858,43.48999,18.87858,43.52999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u0160uljci"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0428\u0443\u0459\u0446\u0438"
-    ],
-    "name:und_x_variant":[
-        "\u0160uljci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1310208229,
-    "wof:lastmodified":1564147796,
+    "wof:lastmodified":1566605180,
     "wof:name":"Suljci",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

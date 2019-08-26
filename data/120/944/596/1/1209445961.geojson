@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.89065,44.77135,18.93065,44.81135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ra\u017eljevo"
     ],
@@ -46,9 +50,6 @@
     "name:swe_x_preferred":[
         "Ra\u017eljevo"
     ],
-    "name:und_x_variant":[
-        "Ra\u017eljevo"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1209445961,
-    "wof:lastmodified":1564147263,
+    "wof:lastmodified":1566604963,
     "wof:name":"Razljevo",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

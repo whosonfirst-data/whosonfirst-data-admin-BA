@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.39427,44.20358,17.43427,44.24358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Hemi\u0107i"
     ],
@@ -38,9 +42,6 @@
         "\u0425\u0435\u043c\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Hemi\u0107i"
-    ],
-    "name:und_x_variant":[
         "Hemi\u0107i"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1293497167,
-    "wof:lastmodified":1564146182,
+    "wof:lastmodified":1566604536,
     "wof:name":"Hemici",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

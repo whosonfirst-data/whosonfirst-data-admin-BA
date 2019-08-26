@@ -11,11 +11,15 @@
     "geom:longitude":19.29669,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":2862,
+    "gn:population":2862,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"19.27669,44.08748,19.31669,44.12748",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u0628\u0631\u0646\u064a\u062a\u0633\u0627"
     ],
@@ -178,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0440\u0435\u0431\u0440\u0435\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Srebrnica"
     ],
     "name:urd_x_preferred":[
@@ -213,7 +217,7 @@
     "wof:concordances":{
         "gn:id":3190159,
         "gp:id":944048,
-        "qs:id":909825,
+        "qs_pg:id":909825,
         "wd:id":"Q156053",
         "wk:page":"Srebrenica"
     },
@@ -230,7 +234,7 @@
         }
     ],
     "wof:id":890519015,
-    "wof:lastmodified":1563287530,
+    "wof:lastmodified":1566605347,
     "wof:name":"Srebrenica",
     "wof:parent_id":1108759241,
     "wof:placetype":"locality",

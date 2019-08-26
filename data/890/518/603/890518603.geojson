@@ -11,10 +11,14 @@
     "geom:longitude":18.56949,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":7458,
+    "gn:population":7458,
     "iso:country":"BA",
+    "lbl:bbox":"18.54949,43.79664,18.58949,43.83664",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u064a"
     ],
@@ -147,7 +151,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3193692,
-        "qs:id":147153,
+        "qs_pg:id":147153,
         "wd:id":"Q222084",
         "wk:page":"Pale"
     },
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":890518603,
-    "wof:lastmodified":1563287588,
+    "wof:lastmodified":1566605359,
     "wof:name":"Pale",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

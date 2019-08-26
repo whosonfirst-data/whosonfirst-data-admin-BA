@@ -11,10 +11,14 @@
     "geom:longitude":18.86912,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"BA",
+    "lbl:bbox":"18.84912,44.42268,18.88912,44.46268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u064a\u0633\u064a\u0627"
     ],
@@ -99,7 +103,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3275849,
-        "qs:id":582307,
+        "qs_pg:id":582307,
         "wd:id":"Q1017926",
         "wk:page":"Kalesija"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890518577,
-    "wof:lastmodified":1563287653,
+    "wof:lastmodified":1566605369,
     "wof:name":"Kalesija",
     "wof:parent_id":1108759121,
     "wof:placetype":"locality",

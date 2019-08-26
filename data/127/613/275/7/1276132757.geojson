@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.37794,43.37029,17.41794,43.41029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Begleri"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1276132757,
-    "wof:lastmodified":1564146700,
+    "wof:lastmodified":1566604748,
     "wof:name":"Begleri",
     "wof:parent_id":1108759099,
     "wof:placetype":"locality",

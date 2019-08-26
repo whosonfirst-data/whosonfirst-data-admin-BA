@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.90431,44.19493,17.94431,44.23493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Crkvice",
         "Crkvica"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276137231,
-    "wof:lastmodified":1537585617,
+    "wof:lastmodified":1566604749,
     "wof:name":"Crkvica",
     "wof:parent_id":1108759297,
     "wof:placetype":"locality",

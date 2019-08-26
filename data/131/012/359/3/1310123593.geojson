@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.54264,44.03881,17.58264,44.07881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zloku\u0107e"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0417\u043b\u043e\u043a\u0443\u045b\u0435"
-    ],
-    "name:und_x_variant":[
-        "Zloku\u0107e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1310123593,
-    "wof:lastmodified":1564147623,
+    "wof:lastmodified":1566605112,
     "wof:name":"Zlokuce",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.77895,43.78551,16.81895,43.82551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cota"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1343472619,
-    "wof:lastmodified":1564145752,
+    "wof:lastmodified":1566604366,
     "wof:name":"Cota",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

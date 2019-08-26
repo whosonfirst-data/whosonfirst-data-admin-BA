@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.63083,43.16194,18.67083,43.20194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u017danjevica"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0416\u0430\u045a\u0435\u0432\u0438\u0446\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u017danjevica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1327137349,
-    "wof:lastmodified":1564145256,
+    "wof:lastmodified":1566604156,
     "wof:name":"Zanjevica",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

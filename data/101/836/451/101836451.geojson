@@ -12,10 +12,13 @@
     "iso:country":"BA",
     "lbl:latitude":45.057443,
     "lbl:longitude":18.472543,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.057443,
     "mps:longitude":18.472543,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Slavonski \u0160amac"
     ],
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0432\u043e\u043d\u0441\u044c\u043a\u0438\u0439 \u0428\u0430\u043c\u0430\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160amac"
     ],
     "name:urd_x_preferred":[
@@ -84,7 +87,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191581,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3191326,
         "gp:id":940807,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1094490",
         "wk:page":"Slavonski \u0160amac"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101836451,
-    "wof:lastmodified":1563287418,
+    "wof:lastmodified":1566605293,
     "wof:name":"Slavonski \u0160amac",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.995,44.3606,19.035,44.4006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kosova\u010da"
     ],
@@ -38,8 +42,7 @@
         "\u041a\u043e\u0441\u043e\u0432\u0430\u0447\u0430"
     ],
     "name:und_x_variant":[
-        "Kuli\u0107i",
-        "Kosova\u010da"
+        "Kuli\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1276875885,
-    "wof:lastmodified":1564146589,
+    "wof:lastmodified":1566604702,
     "wof:name":"Kosovaca",
     "wof:parent_id":1108759123,
     "wof:placetype":"locality",

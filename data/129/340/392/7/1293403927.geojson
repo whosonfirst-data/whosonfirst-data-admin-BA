@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.11034,44.53614,18.15034,44.57614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jelovac"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1293403927,
-    "wof:lastmodified":1564146192,
+    "wof:lastmodified":1566604541,
     "wof:name":"Jelovac",
     "wof:parent_id":1108759163,
     "wof:placetype":"locality",

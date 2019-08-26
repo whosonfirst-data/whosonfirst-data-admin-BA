@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.18856,44.68618,17.22856,44.72618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dolovi"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1292912215,
-    "wof:lastmodified":1564146306,
+    "wof:lastmodified":1566604589,
     "wof:name":"Dolovi",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.75667,43.90742,16.79667,43.94742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3279569
     },
     "wof:country":"BA",
-    "wof:geomhash":"8e6fc1dbcc85bbc8feaccdc3a2d8237c",
+    "wof:geomhash":"d5a606d8dc84a02f2290b3be54028971",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209328913,
-    "wof:lastmodified":1536290437,
+    "wof:lastmodified":1566604921,
     "wof:name":"Matkovici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.776670000000006,
+    16.77667000000001,
     43.92742,
-    16.776670000000006,
+    16.77667000000001,
     43.92742
 ],
   "geometry": {"coordinates":[16.77667000000001,43.92742],"type":"Point"}

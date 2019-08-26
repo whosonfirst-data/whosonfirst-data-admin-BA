@@ -11,10 +11,14 @@
     "geom:longitude":19.23291,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":673,
+    "gn:population":673,
     "iso:country":"BA",
+    "lbl:bbox":"19.21291,44.83887,19.25291,44.87887",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ostoji\u0107evo"
     ],
@@ -117,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3258380,
-        "qs:id":582293,
+        "qs_pg:id":582293,
         "wd:id":"Q3033816",
         "wk:page":"Ostoji\u0107evo"
     },
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":890518699,
-    "wof:lastmodified":1563287631,
+    "wof:lastmodified":1566605365,
     "wof:name":"Ostoji\u0107evo",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.43808,44.3548,17.47808,44.3948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Melina"
     ],
@@ -62,8 +66,7 @@
         "Melina"
     ],
     "name:und_x_variant":[
-        "Meline",
-        "Melina"
+        "Meline"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1259596955,
-    "wof:lastmodified":1564148878,
+    "wof:lastmodified":1566605612,
     "wof:name":"Melina",
     "wof:parent_id":1108759061,
     "wof:placetype":"locality",

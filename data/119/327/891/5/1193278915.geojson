@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.26735,42.79828,18.30735,42.83828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Podosoje"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1193278915,
-    "wof:lastmodified":1564147428,
+    "wof:lastmodified":1566605033,
     "wof:name":"Podosoje",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

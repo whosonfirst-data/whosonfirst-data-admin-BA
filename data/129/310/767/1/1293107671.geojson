@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.04625,44.67026,19.08625,44.71026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293107671,
-    "wof:lastmodified":1536836509,
+    "wof:lastmodified":1566604640,
     "wof:name":"Ravno Polje",
     "wof:parent_id":1108759273,
     "wof:placetype":"locality",

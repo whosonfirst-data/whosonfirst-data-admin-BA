@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.26966,44.07522,18.30966,44.11522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Stri\u017eero",
         "Stri\u017eevo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276132825,
-    "wof:lastmodified":1537585559,
+    "wof:lastmodified":1566604750,
     "wof:name":"Strijezevo",
     "wof:parent_id":1108759279,
     "wof:placetype":"locality",

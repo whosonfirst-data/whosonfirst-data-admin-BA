@@ -11,10 +11,14 @@
     "geom:longitude":17.54056,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":4072,
+    "gn:population":4072,
     "iso:country":"BA",
+    "lbl:bbox":"17.52056,43.20302,17.56056,43.24302",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Radi\u0161i\u0107i"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3192123,
         "gp:id":943635,
-        "qs:id":1043960,
+        "qs_pg:id":1043960,
         "wd:id":"Q3040866",
         "wk:page":"Radi\u0161i\u0107i"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890518777,
-    "wof:lastmodified":1563287601,
+    "wof:lastmodified":1566605361,
     "wof:name":"Radi\u0161i\u0107i",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

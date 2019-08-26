@@ -11,10 +11,14 @@
     "geom:longitude":19.20923,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":499,
+    "gn:population":499,
     "iso:country":"BA",
+    "lbl:bbox":"19.18923,44.6734,19.22923,44.7134",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0644\u0648\u063a\u0648\u0641\u0627\u062a\u0634"
     ],
@@ -159,7 +163,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3200573,
-        "qs:id":581717,
+        "qs_pg:id":581717,
         "wd:id":"Q1008042",
         "wk:page":"Glogovac"
     },
@@ -176,7 +180,7 @@
         }
     ],
     "wof:id":890518889,
-    "wof:lastmodified":1563287573,
+    "wof:lastmodified":1566605356,
     "wof:name":"Glogovac",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.79366,44.63243,17.83366,44.67243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293689761,
-    "wof:lastmodified":1536991898,
+    "wof:lastmodified":1566604566,
     "wof:name":"Panici",
     "wof:parent_id":1108759259,
     "wof:placetype":"locality",

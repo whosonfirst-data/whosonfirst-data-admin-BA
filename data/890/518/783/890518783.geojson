@@ -11,8 +11,11 @@
     "geom:longitude":16.71401,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":36347,
+    "gn:population":36347,
     "iso:country":"BA",
+    "lbl:bbox":"16.69401,44.95991,16.73401,44.99991",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -280,7 +283,7 @@
     "wof:concordances":{
         "gn:id":3192409,
         "gp:id":943557,
-        "qs:id":1043969,
+        "qs_pg:id":1043969,
         "wd:id":"Q323986",
         "wk:page":"Prijedor"
     },
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":890518783,
-    "wof:lastmodified":1563287601,
+    "wof:lastmodified":1566605361,
     "wof:name":"Prijedor",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

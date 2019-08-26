@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.15586,44.95837,16.19586,44.99837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Smrdan"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1360202545,
-    "wof:lastmodified":1564147999,
+    "wof:lastmodified":1566605259,
     "wof:name":"Smrdan",
     "wof:parent_id":1108759003,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.78235,43.45023,17.82235,43.49023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pometenik"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310020017,
-    "wof:lastmodified":1564147901,
+    "wof:lastmodified":1566605220,
     "wof:name":"Pometenik",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

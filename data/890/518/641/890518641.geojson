@@ -11,10 +11,14 @@
     "geom:longitude":17.98722,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":9249,
+    "gn:population":9249,
     "iso:country":"BA",
+    "lbl:bbox":"17.96722,45.11747,18.00722,45.15747",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Bosanski Brod"
     ],
@@ -117,9 +121,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
-        "Brod"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0648\u062f"
     ],
@@ -145,7 +146,7 @@
     "wof:concordances":{
         "gn:id":3203651,
         "gp:id":850288,
-        "qs:id":147322,
+        "qs_pg:id":147322,
         "wd:id":"Q194482",
         "wk:page":"Brod, Bosnia and Herzegovina"
     },
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":890518641,
-    "wof:lastmodified":1563287627,
+    "wof:lastmodified":1566605365,
     "wof:name":"Bosanski Brod",
     "wof:parent_id":1108759009,
     "wof:placetype":"locality",

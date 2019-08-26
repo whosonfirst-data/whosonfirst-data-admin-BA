@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.09365,45.04031,18.13365,45.08031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gornji Klakar"
     ],
@@ -44,10 +48,6 @@
         "\u0413\u043e\u0440\u045a\u0438 \u041a\u043b\u0430\u043a\u0430\u0440"
     ],
     "name:swe_x_preferred":[
-        "Klakar Gornji"
-    ],
-    "name:und_x_variant":[
-        "Gornji Klakar",
         "Klakar Gornji"
     ],
     "src:geom":"geonames",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1327143145,
-    "wof:lastmodified":1564145272,
+    "wof:lastmodified":1566604163,
     "wof:name":"Klakar Gornji",
     "wof:parent_id":1108759009,
     "wof:placetype":"locality",

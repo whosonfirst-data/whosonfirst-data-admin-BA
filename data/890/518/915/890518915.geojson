@@ -11,11 +11,15 @@
     "geom:longitude":18.05504,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":6457,
+    "gn:population":6457,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.03504,43.94668,18.07504,43.98668",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gromiljak"
     ],
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":3199525,
         "gp:id":941987,
-        "qs:id":1283472,
+        "qs_pg:id":1283472,
         "wd:id":"Q3039971",
         "wk:page":"Gromiljak"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890518915,
-    "wof:lastmodified":1563287594,
+    "wof:lastmodified":1566605360,
     "wof:name":"Gromiljak",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

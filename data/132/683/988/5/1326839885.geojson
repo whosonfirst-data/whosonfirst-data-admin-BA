@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.04417,44.56944,16.08417,44.60944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326839885,
-    "wof:lastmodified":1537036081,
+    "wof:lastmodified":1566604240,
     "wof:name":"Demirovica Brdo",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

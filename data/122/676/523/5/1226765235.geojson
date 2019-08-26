@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.82481,44.6098,16.86481,44.6498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226765235,
-    "wof:lastmodified":1536687539,
+    "wof:lastmodified":1566605751,
     "wof:name":"Kljajici",
     "wof:parent_id":1108759133,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.70805,44.9101,18.74805,44.9501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Krep\u0161i\u0107"
     ],
@@ -44,9 +48,6 @@
         "\u041a\u0440\u0435\u043f\u0448\u0438\u045b"
     ],
     "name:swe_x_preferred":[
-        "Krep\u0161i\u0107"
-    ],
-    "name:und_x_variant":[
         "Krep\u0161i\u0107"
     ],
     "src:geom":"geonames",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1259412019,
-    "wof:lastmodified":1564148812,
+    "wof:lastmodified":1566605587,
     "wof:name":"Krepsic",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

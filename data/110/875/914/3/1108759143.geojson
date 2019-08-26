@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":43.865414,
     "lbl:longitude":18.043008,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Federacija Bih",
     "meso:admin_2":"Central Bosnia",
     "meso:gadm_adm2":"Central Bosnia",
@@ -34,6 +36,7 @@
     "mps:longitude":18.043008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kresevo"
     ],
@@ -41,9 +44,9 @@
         "Kre\u0161evo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"155",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108759143,
-    "wof:lastmodified":1553718708,
+    "wof:lastmodified":1566605096,
     "wof:name":"Kresevo",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

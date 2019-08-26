@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.93354,43.95233,17.97354,43.99233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Nadbare"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1343779925,
-    "wof:lastmodified":1564145722,
+    "wof:lastmodified":1566604351,
     "wof:name":"Nadbare",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.93556,44.24054,17.97556,44.28054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0632\u064a\u0631\u0648"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1243181765,
-    "wof:lastmodified":1564148629,
+    "wof:lastmodified":1566605520,
     "wof:name":"Jezero",
     "wof:parent_id":1108759297,
     "wof:placetype":"locality",

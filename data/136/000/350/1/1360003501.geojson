@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.32984,44.77579,18.36984,44.81579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gornja Me\u0111i\u0111a"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "Gornja Me\u0111e\u0111a",
         "Gornja Medjedja",
-        "Gornja Medjidja",
-        "Gornja Me\u0111i\u0111a"
+        "Gornja Medjidja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1360003501,
-    "wof:lastmodified":1564147957,
+    "wof:lastmodified":1566605242,
     "wof:name":"Gornja Medida",
     "wof:parent_id":1108759093,
     "wof:placetype":"locality",

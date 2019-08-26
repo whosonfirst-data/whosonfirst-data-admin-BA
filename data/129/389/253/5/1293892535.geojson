@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.30985,42.67089,18.34985,42.71089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Todori\u0107i"
     ],
@@ -38,9 +42,6 @@
         "\u0422\u043e\u0434\u043e\u0440\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Todori\u0107i"
-    ],
-    "name:und_x_variant":[
         "Todori\u0107i"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1293892535,
-    "wof:lastmodified":1564146412,
+    "wof:lastmodified":1566604632,
     "wof:name":"Todorici",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

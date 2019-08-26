@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.43866,43.71151,19.47866,43.75151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Masali"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310504849,
-    "wof:lastmodified":1564147889,
+    "wof:lastmodified":1566605215,
     "wof:name":"Masali",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.26734,44.6922,18.30734,44.7322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Lendi\u0107i"
     ],
@@ -44,8 +48,7 @@
         "Lendi\u0107i"
     ],
     "name:und_x_variant":[
-        "Kendi\u0107i",
-        "Lendi\u0107i"
+        "Kendi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1242984955,
-    "wof:lastmodified":1564148582,
+    "wof:lastmodified":1566605502,
     "wof:name":"Lendici",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

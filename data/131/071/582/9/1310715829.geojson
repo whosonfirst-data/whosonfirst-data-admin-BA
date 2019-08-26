@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.98814,43.75055,17.02814,43.79055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Smri\u010dani"
     ],
@@ -38,9 +42,6 @@
         "Smri\u010dani"
     ],
     "name:swe_x_preferred":[
-        "Smri\u010dani"
-    ],
-    "name:und_x_variant":[
         "Smri\u010dani"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1310715829,
-    "wof:lastmodified":1564147690,
+    "wof:lastmodified":1566605138,
     "wof:name":"Smricani",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

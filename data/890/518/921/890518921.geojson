@@ -11,11 +11,15 @@
     "geom:longitude":19.1454,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"19.1254,44.83351,19.1654,44.87351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Crnjelovo Donje"
     ],
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Crnjelovo Donje"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donje Crnjelovo"
     ],
     "qs:name":"Crnjelovo Donje",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3202346,
         "gp:id":941156,
-        "qs:id":968090,
+        "qs_pg:id":968090,
         "wd:id":"Q3003103",
         "wk:page":"Crnjelovo Donje"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890518921,
-    "wof:lastmodified":1563287652,
+    "wof:lastmodified":1566605369,
     "wof:name":"Crnjelovo Donje",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.77843,43.84524,18.81843,43.88524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Pavi\u010di\u0107i"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u0432\u0438\u0447\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Pavi\u010di\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1243376301,
-    "wof:lastmodified":1564148292,
+    "wof:lastmodified":1566605393,
     "wof:name":"Pavicici",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

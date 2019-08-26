@@ -11,10 +11,14 @@
     "geom:longitude":18.03778,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":8502,
+    "gn:population":8502,
     "iso:country":"BA",
+    "lbl:bbox":"18.01778,44.40667,18.05778,44.44667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u0628\u0634\u064a"
     ],
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3186567,
         "gp:id":944776,
-        "qs:id":1043871,
+        "qs_pg:id":1043871,
         "wd:id":"Q393860",
         "wk:page":"\u017dep\u010de"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890518681,
-    "wof:lastmodified":1563287570,
+    "wof:lastmodified":1566605356,
     "wof:name":"\u017dep\u010de",
     "wof:parent_id":1108759299,
     "wof:placetype":"locality",

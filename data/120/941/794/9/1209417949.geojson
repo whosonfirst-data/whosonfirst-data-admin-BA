@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.58222,44.60565,17.62222,44.64565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3254416
     },
     "wof:country":"BA",
-    "wof:geomhash":"48c26c00477e15f5fef3c3d301bb1db5",
+    "wof:geomhash":"bf261e693ad02c80a1fc49a779998ab4",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209417949,
-    "wof:lastmodified":1536287624,
+    "wof:lastmodified":1566604865,
     "wof:name":"Gornje Liplje",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.602220000000006,
+    17.60222000000001,
     44.62565,
-    17.602220000000006,
+    17.60222000000001,
     44.62565
 ],
   "geometry": {"coordinates":[17.60222000000001,44.62565],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.98567,44.54565,17.02567,44.58565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ilici"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343867209,
-    "wof:lastmodified":1564146008,
+    "wof:lastmodified":1566604463,
     "wof:name":"Ilici",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

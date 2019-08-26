@@ -11,11 +11,15 @@
     "geom:longitude":18.16049,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4787,
+    "gn:population":4787,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.14049,43.76882,18.18049,43.80882",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pazari\u0107"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3193563,
         "gp:id":943284,
-        "qs:id":1085472,
+        "qs_pg:id":1085472,
         "wd:id":"Q3130171",
         "wk:page":"Pazari\u0107"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890518957,
-    "wof:lastmodified":1563287605,
+    "wof:lastmodified":1566605362,
     "wof:name":"Pazari\u0107",
     "wof:parent_id":1108759101,
     "wof:placetype":"locality",

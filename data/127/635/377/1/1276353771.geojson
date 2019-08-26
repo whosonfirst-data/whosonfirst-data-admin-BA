@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"15.82528,44.86611,15.86528,44.90611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ba\u0161tani",
         "Ba\u0161ani"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276353771,
-    "wof:lastmodified":1537585655,
+    "wof:lastmodified":1566604734,
     "wof:name":"Basani",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",

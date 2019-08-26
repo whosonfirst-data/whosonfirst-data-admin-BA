@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.7328,43.66387,18.7728,43.70387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243571903,
-    "wof:lastmodified":1536622748,
+    "wof:lastmodified":1566605466,
     "wof:name":"Vranci",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

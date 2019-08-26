@@ -11,10 +11,14 @@
     "geom:longitude":17.68982,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3558,
+    "gn:population":3558,
     "iso:country":"BA",
+    "lbl:bbox":"17.66982,44.5901,17.70982,44.6301",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pribini\u0107i"
     ],
@@ -116,7 +120,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3192456,
-        "qs:id":1043975,
+        "qs_pg:id":1043975,
         "wd:id":"Q3113679"
     },
     "wof:country":"BA",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890518787,
-    "wof:lastmodified":1563287651,
+    "wof:lastmodified":1566605369,
     "wof:name":"Pribini\u0107",
     "wof:parent_id":1108759259,
     "wof:placetype":"locality",

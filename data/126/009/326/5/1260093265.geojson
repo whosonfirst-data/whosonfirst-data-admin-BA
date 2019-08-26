@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.28772,43.58932,19.32772,43.62932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260093265,
-    "wof:lastmodified":1536973460,
+    "wof:lastmodified":1566605042,
     "wof:name":"Zagrade",
     "wof:parent_id":1108759217,
     "wof:placetype":"locality",

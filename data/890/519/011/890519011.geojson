@@ -11,11 +11,15 @@
     "geom:longitude":18.48834,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":6723,
+    "gn:population":6723,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.46834,44.68819,18.50834,44.72819",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u064a\u0628\u0631\u0646\u064a\u0643"
     ],
@@ -88,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0440\u0435\u0431\u0440\u0435\u043d\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Srebrnik"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":3190158,
         "gp:id":944049,
-        "qs:id":1291587,
+        "qs_pg:id":1291587,
         "wd:id":"Q999004",
         "wk:page":"Srebrenik"
     },
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890519011,
-    "wof:lastmodified":1563287545,
+    "wof:lastmodified":1566605350,
     "wof:name":"Srebrenik",
     "wof:parent_id":1108759243,
     "wof:placetype":"locality",

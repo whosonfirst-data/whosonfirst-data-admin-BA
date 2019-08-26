@@ -11,11 +11,15 @@
     "geom:longitude":17.37552,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.35552,45.04811,17.39552,45.08811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dubrave"
     ],
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3285071,
         "gp:id":941560,
-        "qs:id":249049,
+        "qs_pg:id":249049,
         "wd:id":"Q3040624",
         "wk:page":"Dubrave"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890519133,
-    "wof:lastmodified":1561830460,
+    "wof:lastmodified":1566605346,
     "wof:name":"Dubrave",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

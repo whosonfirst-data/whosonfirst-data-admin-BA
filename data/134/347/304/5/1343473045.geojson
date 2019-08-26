@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.41056,44.04944,17.45056,44.08944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Karad\u017ee"
     ],
@@ -41,9 +45,6 @@
         "\u041a\u0430\u0440\u0430\u045f\u0435"
     ],
     "name:swe_x_preferred":[
-        "Karad\u017ee"
-    ],
-    "name:und_x_variant":[
         "Karad\u017ee"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1343473045,
-    "wof:lastmodified":1564145758,
+    "wof:lastmodified":1566604368,
     "wof:name":"Karadze",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

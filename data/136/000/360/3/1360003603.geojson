@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.03843,43.92297,18.07843,43.96297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Pari\u017eevi\u0107i"
     ],
@@ -38,9 +42,6 @@
         "Pari\u017eevi\u0107i"
     ],
     "name:swe_x_preferred":[
-        "Pari\u017eevi\u0107i"
-    ],
-    "name:und_x_variant":[
         "Pari\u017eevi\u0107i"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1360003603,
-    "wof:lastmodified":1564147957,
+    "wof:lastmodified":1566605242,
     "wof:name":"Parizevici",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

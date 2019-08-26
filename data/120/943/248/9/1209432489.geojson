@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.56666,44.6987,16.60666,44.7387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3247352
     },
     "wof:country":"BA",
-    "wof:geomhash":"ff34efb58680dc7be3fc6207cdd401a4",
+    "wof:geomhash":"6ee84c4a8c2c6f19287da895334f4520",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209432489,
-    "wof:lastmodified":1536287198,
+    "wof:lastmodified":1566604964,
     "wof:name":"Marjanovici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.586660000000002,
+    16.58666,
     44.7187,
-    16.586660000000002,
+    16.58666,
     44.7187
 ],
   "geometry": {"coordinates":[16.58666,44.7187],"type":"Point"}

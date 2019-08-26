@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.641069,
     "lbl:longitude":18.849101,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Republika Srpska",
     "meso:admin_2":"Republika Srpska",
     "meso:gadm_adm2":"Bijeljina",
@@ -34,6 +36,7 @@
     "mps:longitude":18.849101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bos_x_preferred":[
         "Lopare"
     ],
@@ -76,9 +79,6 @@
     "name:tur_x_preferred":[
         "Lopare"
     ],
-    "name:und_x_variant":[
-        "Lopare"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u067e\u0627\u0631\u06d2"
     ],
@@ -86,9 +86,9 @@
         "\u6d1b\u5e15\u96f7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"429",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1108759159,
-    "wof:lastmodified":1564147570,
+    "wof:lastmodified":1566605091,
     "wof:name":"Lopare",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
