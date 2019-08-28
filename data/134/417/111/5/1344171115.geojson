@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.14904,43.82107,18.18904,43.86107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Drozgometva"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1344171115,
-    "wof:lastmodified":1564145879,
+    "wof:lastmodified":1566604414,
     "wof:name":"Drozgometva",
     "wof:parent_id":1108759101,
     "wof:placetype":"locality",

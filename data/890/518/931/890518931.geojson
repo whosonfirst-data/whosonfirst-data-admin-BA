@@ -11,11 +11,15 @@
     "geom:longitude":17.5275,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4026,
+    "gn:population":4026,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.5075,43.95583,17.5475,43.99583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Paji\u0107 Polje"
     ],
@@ -40,9 +44,6 @@
     "name:swe_x_preferred":[
         "Paji\u0107 Polje"
     ],
-    "name:unk_x_variant":[
-        "Paji\u0107 Polje"
-    ],
     "qs:name":"Pajic Polje",
     "qs:name_adm0":"Bosna i Hercegovina",
     "qs:name_adm1":"Federacija Bosne I Hercegovine",
@@ -64,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3293429,
         "gp:id":22722275,
-        "qs:id":980006,
+        "qs_pg:id":980006,
         "wd:id":"Q3037543",
         "wk:page":"Paji\u0107 Polje"
     },
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":890518931,
-    "wof:lastmodified":1563287556,
+    "wof:lastmodified":1566605352,
     "wof:name":"Pajic Polje",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

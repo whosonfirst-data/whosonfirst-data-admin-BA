@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.77292,43.67758,17.81292,43.71758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041c\u043e\u0440\u0430\u04a1"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1226659857,
-    "wof:lastmodified":1564149325,
+    "wof:lastmodified":1566605783,
     "wof:name":"Mrakovo",
     "wof:parent_id":1108759111,
     "wof:placetype":"locality",

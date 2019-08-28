@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.87565,44.12533,17.91565,44.16533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Puti\u0161"
     ],
@@ -38,9 +42,6 @@
         "Puti\u0161"
     ],
     "name:swe_x_preferred":[
-        "Puti\u0161"
-    ],
-    "name:und_x_variant":[
         "Puti\u0161"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1293606777,
-    "wof:lastmodified":1564146296,
+    "wof:lastmodified":1566604584,
     "wof:name":"Putis",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

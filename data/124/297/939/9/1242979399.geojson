@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.10207,44.2259,19.14207,44.2659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Tekija"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1242979399,
-    "wof:lastmodified":1564148586,
+    "wof:lastmodified":1566605503,
     "wof:name":"Tekija",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

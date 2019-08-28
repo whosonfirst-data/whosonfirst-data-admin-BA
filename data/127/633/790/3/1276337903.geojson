@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.73894,45.00215,16.77894,45.04215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malo Palan\u010di\u0161te",
         "Mala Palan\u010di\u0161te"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276337903,
-    "wof:lastmodified":1537585583,
+    "wof:lastmodified":1566604704,
     "wof:name":"Mala Palanciste",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

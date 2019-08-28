@@ -11,10 +11,14 @@
     "geom:longitude":16.8075,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"BA",
+    "lbl:bbox":"16.7875,44.91616,16.8275,44.95616",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Trnopolje"
     ],
@@ -99,7 +103,7 @@
     "name:tur_x_preferred":[
         "Trnopolje"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trnpolje"
     ],
     "name:war_x_preferred":[
@@ -120,7 +124,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3210551,
-        "qs:id":581896,
+        "qs_pg:id":581896,
         "wd:id":"Q3118385",
         "wk:page":"Trnopolje camp"
     },
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":890519127,
-    "wof:lastmodified":1563287539,
+    "wof:lastmodified":1566605349,
     "wof:name":"Trnopolje",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

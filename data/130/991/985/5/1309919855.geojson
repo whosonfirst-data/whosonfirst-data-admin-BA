@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.11742,43.88478,18.15742,43.92478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Radanovi\u0107i"
     ],
     "name:hrv_x_preferred":[
-        "Radanovi\u0107i"
-    ],
-    "name:und_x_variant":[
         "Radanovi\u0107i"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1309919855,
-    "wof:lastmodified":1564148097,
+    "wof:lastmodified":1566605298,
     "wof:name":"Radanovici",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

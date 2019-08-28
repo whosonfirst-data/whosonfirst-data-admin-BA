@@ -11,11 +11,15 @@
     "geom:longitude":18.77854,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":14615,
+    "gn:population":14615,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.75854,43.48646,18.79854,43.52646",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u062a\u0634\u0627"
     ],
@@ -157,7 +161,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u043e\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Srbinje"
     ],
     "name:urd_x_preferred":[
@@ -194,7 +198,7 @@
     "wof:concordances":{
         "gn:id":3200837,
         "gp:id":941618,
-        "qs:id":249528,
+        "qs_pg:id":249528,
         "wd:id":"Q180333",
         "wk:page":"Fo\u010da"
     },
@@ -211,7 +215,7 @@
         }
     ],
     "wof:id":890519135,
-    "wof:lastmodified":1563287526,
+    "wof:lastmodified":1566605346,
     "wof:name":"Fo\u010da",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

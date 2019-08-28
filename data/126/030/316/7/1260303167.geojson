@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.60314,44.57515,18.64314,44.61515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gornja Lipnica",
         "Lipnica Gornja"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260303167,
-    "wof:lastmodified":1537585586,
+    "wof:lastmodified":1566605044,
     "wof:name":"Lipnica Gornja",
     "wof:parent_id":1108759271,
     "wof:placetype":"locality",

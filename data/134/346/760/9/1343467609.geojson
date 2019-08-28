@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.22876,42.84207,18.26876,42.88207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rosulje"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1343467609,
-    "wof:lastmodified":1564145699,
+    "wof:lastmodified":1566604341,
     "wof:name":"Rosulje",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

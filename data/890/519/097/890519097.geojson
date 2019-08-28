@@ -11,11 +11,15 @@
     "geom:longitude":18.3272,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":11621,
+    "gn:population":11621,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.3072,44.99038,18.3472,45.03038",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bos_x_preferred":[
         "Od\u017eak"
     ],
@@ -91,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0434\u0436\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vukosavlje"
     ],
     "name:urd_x_preferred":[
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":3194199,
         "gp:id":943136,
-        "qs:id":1283539,
+        "qs_pg:id":1283539,
         "wd:id":"Q994167",
         "wk:page":"Od\u017eak"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":890519097,
-    "wof:lastmodified":1563287537,
+    "wof:lastmodified":1566605348,
     "wof:name":"Od\u017eak",
     "wof:parent_id":1108759191,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":18.58464,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":3923,
+    "gn:population":3923,
     "iso:country":"BA",
+    "lbl:bbox":"18.56464,44.97724,18.60464,45.01724",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Op\u0107ina O\u0161tra Luka"
     ],
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3193855,
         "gp:id":943229,
-        "qs:id":147156,
+        "qs_pg:id":147156,
         "wd:id":"Q303044",
         "wk:page":"O\u0161tra Luka"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890518497,
-    "wof:lastmodified":1563287585,
+    "wof:lastmodified":1566605358,
     "wof:name":"O\u0161tra Luka",
     "wof:parent_id":1108759197,
     "wof:placetype":"locality",

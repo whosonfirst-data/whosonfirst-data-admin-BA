@@ -11,11 +11,15 @@
     "geom:longitude":17.8265,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.8065,43.66446,17.8465,43.70446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ostro\u017eac"
     ],
@@ -122,7 +126,7 @@
     "wof:concordances":{
         "gn:id":3344381,
         "gp:id":943233,
-        "qs:id":1038817,
+        "qs_pg:id":1038817,
         "wd:id":"Q1254761"
     },
     "wof:country":"BA",
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":890518749,
-    "wof:lastmodified":1563287597,
+    "wof:lastmodified":1566605360,
     "wof:name":"Ostro\u017eac",
     "wof:parent_id":1108759111,
     "wof:placetype":"locality",

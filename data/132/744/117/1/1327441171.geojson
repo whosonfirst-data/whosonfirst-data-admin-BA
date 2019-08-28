@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.36393,43.88174,17.40393,43.92174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gornje Vukovsko"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1327441171,
-    "wof:lastmodified":1564145549,
+    "wof:lastmodified":1566604276,
     "wof:name":"Gornje Vukovsko",
     "wof:parent_id":1108759145,
     "wof:placetype":"locality",

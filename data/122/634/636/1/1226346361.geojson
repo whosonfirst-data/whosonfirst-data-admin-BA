@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.20306,44.78972,16.24306,44.82972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Draga"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1226346361,
-    "wof:lastmodified":1564149093,
+    "wof:lastmodified":1566605693,
     "wof:name":"Draga",
     "wof:parent_id":1108759003,
     "wof:placetype":"locality",

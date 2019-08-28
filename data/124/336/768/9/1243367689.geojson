@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.23146,44.26521,17.27146,44.30521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bilin\u010di\u0107",
         "Bilin\u010di\u0107i"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243367689,
-    "wof:lastmodified":1537585627,
+    "wof:lastmodified":1566605384,
     "wof:name":"Bilincici",
     "wof:parent_id":1108759115,
     "wof:placetype":"locality",

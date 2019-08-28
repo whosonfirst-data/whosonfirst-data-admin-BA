@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.99235,44.25338,19.03235,44.29338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343461867,
-    "wof:lastmodified":1536743815,
+    "wof:lastmodified":1566604341,
     "wof:name":"Velici",
     "wof:parent_id":1108759289,
     "wof:placetype":"locality",

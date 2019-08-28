@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.69685,44.78735,16.73685,44.82735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276891669,
-    "wof:lastmodified":1537024258,
+    "wof:lastmodified":1566604698,
     "wof:name":"Grobici",
     "wof:parent_id":1108759219,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.45065,44.36865,17.49065,44.40865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293500375,
-    "wof:lastmodified":1536768882,
+    "wof:lastmodified":1566604560,
     "wof:name":"Novakovici",
     "wof:parent_id":1108759061,
     "wof:placetype":"locality",

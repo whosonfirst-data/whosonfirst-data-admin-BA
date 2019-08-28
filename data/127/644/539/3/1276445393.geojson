@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.83931,44.85837,17.87931,44.89837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Cerani"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1276445393,
-    "wof:lastmodified":1564146542,
+    "wof:lastmodified":1566604684,
     "wof:name":"Cerani",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

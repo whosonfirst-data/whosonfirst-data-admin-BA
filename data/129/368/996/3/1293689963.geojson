@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.63043,44.96434,16.67043,45.00434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293689963,
-    "wof:lastmodified":1536991597,
+    "wof:lastmodified":1566604565,
     "wof:name":"Mrkalji",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

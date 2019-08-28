@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.02944,43.60854,17.06944,43.64854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:que_x_preferred":[
         "Kulli urqu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343967589,
-    "wof:lastmodified":1564145602,
+    "wof:lastmodified":1566604299,
     "wof:name":"Cule",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

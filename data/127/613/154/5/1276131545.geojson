@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.92111,44.94317,17.96111,44.98317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u017divince",
         "\u017divinice"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276131545,
-    "wof:lastmodified":1537585546,
+    "wof:lastmodified":1566604749,
     "wof:name":"Zivinice",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

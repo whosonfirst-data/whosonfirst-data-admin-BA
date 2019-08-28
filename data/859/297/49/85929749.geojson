@@ -11,8 +11,10 @@
     "geom:longitude":18.429411,
     "gn:id":"",
     "iso:country":"BA",
+    "lbl:bbox":"18.424411,43.854436,18.434411,43.864436",
     "lbl:latitude":43.859436,
     "lbl:longitude":18.429411,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.856314,
     "mps:longitude":18.439547,
     "mz:hierarchy_label":0,
@@ -84,12 +86,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e-\u0421\u0430\u0440\u0430\u0454\u0432\u043e"
     ],
-    "name:und_x_preferred":[
-        "Novo Sarajevo"
-    ],
-    "name:unk_x_variant":[
-        "Novo Sarajevo"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0648\u0648 \u0633\u0631\u0627\u0626\u06cc\u0648\u0648"
     ],
@@ -117,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":394,
     "wof:belongsto":[
         85669235,
@@ -128,7 +124,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55869076,
-        "qs:id":53215,
+        "qs_pg:id":53215,
         "wd:id":"Q1017960"
     },
     "wof:country":"BA",
@@ -147,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563285714,
+    "wof:lastmodified":1566604464,
     "wof:name":"Novo Sarajevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

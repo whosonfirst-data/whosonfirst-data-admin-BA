@@ -11,11 +11,15 @@
     "geom:longitude":17.48552,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3516,
+    "gn:population":3516,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.46552,43.37005,17.50552,43.41005",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ko\u010derin"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3197944,
         "gp:id":942349,
-        "qs:id":1283498,
+        "qs_pg:id":1283498,
         "wd:id":"Q3025567",
         "wk:page":"Ko\u010derin"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890519091,
-    "wof:lastmodified":1563287534,
+    "wof:lastmodified":1566605348,
     "wof:name":"Ko\u010derin",
     "wof:parent_id":1108759231,
     "wof:placetype":"locality",

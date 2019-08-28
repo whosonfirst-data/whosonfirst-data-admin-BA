@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.27744,42.8079,18.31744,42.8479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u017ddrijelovi\u0107i"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0416\u0434\u0440\u0438\u0458\u0435\u043b\u043e\u0432\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "\u017ddrijelovi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1193140185,
-    "wof:lastmodified":1564147381,
+    "wof:lastmodified":1566605011,
     "wof:name":"Zdrijelovici",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

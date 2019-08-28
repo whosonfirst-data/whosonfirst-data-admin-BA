@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.30083,44.39933,17.34083,44.43933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gornji Be\u0161pelj"
     ],
@@ -41,9 +45,6 @@
         "\u0413\u043e\u0440\u045a\u0438 \u0411\u0435\u0448\u043f\u0435\u0459"
     ],
     "name:swe_x_preferred":[
-        "Gornji Be\u0161pelj"
-    ],
-    "name:und_x_variant":[
         "Gornji Be\u0161pelj"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1276990709,
-    "wof:lastmodified":1564146848,
+    "wof:lastmodified":1566604803,
     "wof:name":"Gornji Bespelj",
     "wof:parent_id":1108759115,
     "wof:placetype":"locality",

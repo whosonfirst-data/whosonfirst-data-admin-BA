@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.80024,43.59474,18.84024,43.63474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gunji"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276566331,
-    "wof:lastmodified":1564146628,
+    "wof:lastmodified":1566604720,
     "wof:name":"Gunji",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

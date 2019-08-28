@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.88107,44.10494,17.92107,44.14494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Podjele"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293603099,
-    "wof:lastmodified":1564146279,
+    "wof:lastmodified":1566604578,
     "wof:name":"Podjele",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.99283,43.88858,18.03283,43.92858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327347597,
-    "wof:lastmodified":1536803149,
+    "wof:lastmodified":1566604195,
     "wof:name":"Crnici",
     "wof:parent_id":1108759143,
     "wof:placetype":"locality",

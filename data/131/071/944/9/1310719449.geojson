@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.9274,43.93516,16.9674,43.97516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vidimlije"
     ],
@@ -35,8 +39,7 @@
         "\u0412\u0438\u0434\u0438\u043c\u043b\u0438\u0458\u0435"
     ],
     "name:und_x_variant":[
-        "Vidimlje",
-        "Vidimlije"
+        "Vidimlje"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1310719449,
-    "wof:lastmodified":1564147692,
+    "wof:lastmodified":1566605139,
     "wof:name":"Vidimlije",
     "wof:parent_id":1108759081,
     "wof:placetype":"locality",

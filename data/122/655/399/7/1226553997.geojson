@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.55577,43.63847,18.59577,43.67847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Krsmani\u0107i"
     ],
@@ -32,8 +36,7 @@
         "Krsmani\u0107i"
     ],
     "name:und_x_variant":[
-        "Krsmani\u0107",
-        "Krsmani\u0107i"
+        "Krsmani\u0107"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1226553997,
-    "wof:lastmodified":1564149289,
+    "wof:lastmodified":1566605770,
     "wof:name":"Krsmanici",
     "wof:parent_id":1108759267,
     "wof:placetype":"locality",

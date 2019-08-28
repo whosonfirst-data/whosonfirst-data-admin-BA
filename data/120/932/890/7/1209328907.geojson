@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.63292,43.92911,16.67292,43.96911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gubin"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209328907,
-    "wof:lastmodified":1564147163,
+    "wof:lastmodified":1566604922,
     "wof:name":"Gubin",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

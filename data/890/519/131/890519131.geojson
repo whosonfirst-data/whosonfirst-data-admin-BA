@@ -11,10 +11,14 @@
     "geom:longitude":15.87497,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":332,
+    "gn:population":332,
     "iso:country":"BA",
+    "lbl:bbox":"15.85497,44.91593,15.89497,44.95593",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Medakova Glavica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3212918,
-        "qs:id":581899
+        "qs_pg:id":581899
     },
     "wof:country":"BA",
     "wof:created":1469056093,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890519131,
-    "wof:lastmodified":1505343912,
+    "wof:lastmodified":1566605349,
     "wof:name":"Medakova Glavica",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

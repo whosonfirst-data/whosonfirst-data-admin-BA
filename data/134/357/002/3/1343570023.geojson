@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.87704,44.57307,16.91704,44.61307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gornje Sokolovo"
     ],
@@ -35,8 +39,7 @@
         "\u0413\u043e\u0440\u045a\u0435 \u0421\u043e\u043a\u043e\u043b\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Sokolovo Gornje",
-        "Gornje Sokolovo"
+        "Sokolovo Gornje"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343570023,
-    "wof:lastmodified":1564145801,
+    "wof:lastmodified":1566604384,
     "wof:name":"Gornje Sokolovo",
     "wof:parent_id":1108759133,
     "wof:placetype":"locality",

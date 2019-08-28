@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.28471,44.32719,17.32471,44.36719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Magarovci"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1259993807,
-    "wof:lastmodified":1564148772,
+    "wof:lastmodified":1566605571,
     "wof:name":"Magarovci",
     "wof:parent_id":1108759115,
     "wof:placetype":"locality",

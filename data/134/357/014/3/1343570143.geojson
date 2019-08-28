@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.18241,45.11085,17.22241,45.15085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343570143,
-    "wof:lastmodified":1537082254,
+    "wof:lastmodified":1566604379,
     "wof:name":"Donja Catrnja",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

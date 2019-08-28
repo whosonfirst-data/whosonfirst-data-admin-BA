@@ -11,10 +11,14 @@
     "geom:longitude":18.15477,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4009,
+    "gn:population":4009,
     "iso:country":"BA",
+    "lbl:bbox":"18.13477,43.99911,18.17477,44.03911",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornje Mo\u0161tre"
     ],
@@ -93,7 +97,7 @@
     "name:tur_x_preferred":[
         "Gornje Mo\u0161tre"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mo\u0161tre Gornje"
     ],
     "name:war_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3200108,
-        "qs:id":147263,
+        "qs_pg:id":147263,
         "wd:id":"Q3111206"
     },
     "wof:country":"BA",
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890518627,
-    "wof:lastmodified":1563287578,
+    "wof:lastmodified":1566605357,
     "wof:name":"Gornje Mo\u0161tre",
     "wof:parent_id":1108759285,
     "wof:placetype":"locality",

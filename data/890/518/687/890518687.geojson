@@ -11,10 +11,14 @@
     "geom:longitude":18.14972,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":14380,
+    "gn:population":14380,
     "iso:country":"BA",
+    "lbl:bbox":"18.12972,44.42583,18.16972,44.46583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0641\u064a\u062f\u0648\u0641\u064a\u062a\u0634\u064a"
     ],
@@ -121,7 +125,7 @@
     "wof:concordances":{
         "gn:id":3186717,
         "gp:id":944748,
-        "qs:id":1043875,
+        "qs_pg:id":1043875,
         "wd:id":"Q994239",
         "wk:page":"Zavidovi\u0107i"
     },
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":890518687,
-    "wof:lastmodified":1563287578,
+    "wof:lastmodified":1566605357,
     "wof:name":"Zavidovi\u0107i",
     "wof:parent_id":1108759295,
     "wof:placetype":"locality",

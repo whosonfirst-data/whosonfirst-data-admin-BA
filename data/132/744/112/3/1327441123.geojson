@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.3877,43.2461,17.4277,43.2861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vojni\u0107i"
     ],
@@ -41,9 +45,6 @@
         "\u0412\u043e\u0458\u043d\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Vojni\u0107i"
-    ],
-    "name:und_x_variant":[
         "Vojni\u0107i"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1327441123,
-    "wof:lastmodified":1564145559,
+    "wof:lastmodified":1566604280,
     "wof:name":"Vojnici",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

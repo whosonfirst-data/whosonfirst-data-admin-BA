@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.83435,44.66249,17.87435,44.70249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276882025,
-    "wof:lastmodified":1537036571,
+    "wof:lastmodified":1566604675,
     "wof:name":"Misici",
     "wof:parent_id":1108759259,
     "wof:placetype":"locality",

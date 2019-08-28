@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.94857,44.9961,17.98857,45.0361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Lu\u017eani Novi"
     ],
@@ -50,8 +54,7 @@
         "Lu\u017eani Novi"
     ],
     "name:und_x_variant":[
-        "Mulabegovi-Lu\u017eane",
-        "Lu\u017eani Novi"
+        "Mulabegovi-Lu\u017eane"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1310514153,
-    "wof:lastmodified":1564147913,
+    "wof:lastmodified":1566605224,
     "wof:name":"Luzani Novi",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

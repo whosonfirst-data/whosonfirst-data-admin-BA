@@ -11,11 +11,15 @@
     "geom:longitude":18.08702,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4235,
+    "gn:population":4235,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.06702,42.9312,18.10702,42.9712",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ljubinje"
     ],
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3196364,
         "gp:id":942681,
-        "qs:id":262470,
+        "qs_pg:id":262470,
         "wd:id":"Q936404",
         "wk:page":"Ljubinje"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890519153,
-    "wof:lastmodified":1563287540,
+    "wof:lastmodified":1566605349,
     "wof:name":"Ljubinje",
     "wof:parent_id":1108759155,
     "wof:placetype":"locality",

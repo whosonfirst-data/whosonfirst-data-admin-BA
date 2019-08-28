@@ -11,10 +11,14 @@
     "geom:longitude":18.58612,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"BA",
+    "lbl:bbox":"18.56612,45.0411,18.60612,45.0811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Domaljevac"
     ],
@@ -105,7 +109,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043c\u0430\u043b\u0454\u0432\u0430\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gornji Domaljevac"
     ],
     "name:war_x_preferred":[
@@ -126,7 +130,7 @@
     "wof:concordances":{
         "gn:id":3201738,
         "gp:id":941296,
-        "qs:id":581741,
+        "qs_pg:id":581741,
         "wd:id":"Q3034665"
     },
     "wof:country":"BA",
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":890518467,
-    "wof:lastmodified":1563287630,
+    "wof:lastmodified":1566605365,
     "wof:name":"Domaljevac",
     "wof:parent_id":1108759063,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.73079,43.4167,18.77079,43.4567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mje\u0161aji"
     ],
@@ -41,9 +45,6 @@
         "\u041c\u0458\u0435\u0448\u0430\u0458\u0438"
     ],
     "name:swe_x_preferred":[
-        "Mje\u0161aji"
-    ],
-    "name:und_x_variant":[
         "Mje\u0161aji"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1344165933,
-    "wof:lastmodified":1564145889,
+    "wof:lastmodified":1566604417,
     "wof:name":"Mjesaji",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

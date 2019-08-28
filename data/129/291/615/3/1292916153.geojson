@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.33189,42.98668,18.37189,43.02668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Narat"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1292916153,
-    "wof:lastmodified":1564146321,
+    "wof:lastmodified":1566604595,
     "wof:name":"Narat",
     "wof:parent_id":1108758997,
     "wof:placetype":"locality",

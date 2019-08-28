@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.37821,43.37438,17.41821,43.41438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Ozob\u00ed"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1326634151,
-    "wof:lastmodified":1564145486,
+    "wof:lastmodified":1566604250,
     "wof:name":"Cere",
     "wof:parent_id":1108759099,
     "wof:placetype":"locality",

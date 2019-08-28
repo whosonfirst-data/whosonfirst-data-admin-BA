@@ -11,9 +11,12 @@
     "geom:longitude":17.80806,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":104518,
+    "gn:population":104518,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.78806,43.32333,17.82806,43.36333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -405,7 +408,7 @@
     "wof:concordances":{
         "gn:id":3194828,
         "gp:id":942994,
-        "qs:id":492583,
+        "qs_pg:id":492583,
         "wd:id":"Q93347",
         "wk:page":"Mostar"
     },
@@ -422,7 +425,7 @@
         }
     ],
     "wof:id":890518727,
-    "wof:lastmodified":1563287658,
+    "wof:lastmodified":1566605370,
     "wof:name":"Mostar",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

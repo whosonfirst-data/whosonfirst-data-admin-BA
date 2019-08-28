@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.22523,42.76757,18.26523,42.80757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Begovi\u0107 Kula"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1293203855,
-    "wof:lastmodified":1564146348,
+    "wof:lastmodified":1566604606,
     "wof:name":"Begovic-Kula",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

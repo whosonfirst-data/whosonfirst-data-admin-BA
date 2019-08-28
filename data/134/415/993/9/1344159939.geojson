@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.26274,42.66056,18.30274,42.70056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bijograd"
     ],
@@ -38,8 +42,7 @@
         "\u0411\u0438\u0458\u043e\u0433\u0440\u0430\u0434"
     ],
     "name:und_x_variant":[
-        "Biograd",
-        "Bijograd"
+        "Biograd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1344159939,
-    "wof:lastmodified":1564145650,
+    "wof:lastmodified":1566604322,
     "wof:name":"Bijograd",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.37486,43.99467,18.41486,44.03467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ljeskovice",
         "Tretebina"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243468133,
-    "wof:lastmodified":1537585632,
+    "wof:lastmodified":1566605459,
     "wof:name":"Tretebina",
     "wof:parent_id":1108759109,
     "wof:placetype":"locality",

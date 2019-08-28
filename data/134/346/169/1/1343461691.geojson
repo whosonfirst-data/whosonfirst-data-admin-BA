@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.1441,43.22331,18.1841,43.26331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u017diljevo"
     ],
@@ -41,9 +45,6 @@
         "\u0416\u0438\u0459\u0435\u0432\u043e"
     ],
     "name:swe_x_preferred":[
-        "\u017diljevo"
-    ],
-    "name:und_x_variant":[
         "\u017diljevo"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1343461691,
-    "wof:lastmodified":1564145692,
+    "wof:lastmodified":1566604338,
     "wof:name":"Ziljevo",
     "wof:parent_id":1108759179,
     "wof:placetype":"locality",

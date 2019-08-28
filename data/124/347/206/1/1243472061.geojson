@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.2637,43.68297,17.3037,43.72297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Sr\u0111ani"
     ],
@@ -41,9 +45,6 @@
         "\u0421\u0440\u0452\u0430\u043d\u0438"
     ],
     "name:swe_x_preferred":[
-        "Sr\u0111ani"
-    ],
-    "name:und_x_variant":[
         "Sr\u0111ani"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1243472061,
-    "wof:lastmodified":1564148483,
+    "wof:lastmodified":1566605464,
     "wof:name":"Srdani",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

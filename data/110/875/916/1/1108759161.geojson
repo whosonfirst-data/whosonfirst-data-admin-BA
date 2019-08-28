@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.54224,
     "lbl:longitude":18.475532,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Federacija Bih",
     "meso:admin_2":"Tuzla",
     "meso:gadm_adm2":"Tuzla",
@@ -34,6 +36,7 @@
     "mps:longitude":18.475532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0643\u0627\u0641\u0627\u0643\u0633"
     ],
@@ -94,9 +97,6 @@
     "name:tur_x_preferred":[
         "Lukavac"
     ],
-    "name:und_x_variant":[
-        "Lukavac"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u06a9\u0627\u0648\u0627\u0633"
     ],
@@ -104,9 +104,9 @@
         "\u76e7\u5361\u74e6\u8328"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"355",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":1108759161,
-    "wof:lastmodified":1564147595,
+    "wof:lastmodified":1566605101,
     "wof:name":"Lukavac",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

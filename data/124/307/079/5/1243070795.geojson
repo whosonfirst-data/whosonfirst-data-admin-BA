@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.54496,44.51887,17.58496,44.55887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Demi\u0107i",
         "\u00d0ube"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243070795,
-    "wof:lastmodified":1537585664,
+    "wof:lastmodified":1566605371,
     "wof:name":"Dube",
     "wof:parent_id":1108759141,
     "wof:placetype":"locality",

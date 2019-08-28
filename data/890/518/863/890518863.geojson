@@ -11,11 +11,15 @@
     "geom:longitude":18.46756,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3599,
+    "gn:population":3599,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.44756,45.03986,18.48756,45.07986",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bosanski \u0160amac"
     ],
@@ -40,9 +44,6 @@
     "name:srp_x_variant":[
         "\u0428\u0430\u043c\u0430\u0446"
     ],
-    "name:unk_x_variant":[
-        "\u0160amac"
-    ],
     "qs:name":"Bosanski \u00c5 amac",
     "qs:name_adm0":"Bosna i Hercegovina",
     "qs:name_adm1":"Republika Srpska",
@@ -65,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3203645,
         "gp:id":940807,
-        "qs:id":147321
+        "qs_pg:id":147321
     },
     "wof:country":"BA",
     "wof:created":1469056082,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":890518863,
-    "wof:lastmodified":1505343911,
+    "wof:lastmodified":1566605367,
     "wof:name":"Bosanski \u00c5 amac",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",

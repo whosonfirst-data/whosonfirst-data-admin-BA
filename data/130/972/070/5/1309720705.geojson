@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.49934,42.70517,18.53934,42.74517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dobri Dub"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1309720705,
-    "wof:lastmodified":1564148192,
+    "wof:lastmodified":1566605335,
     "wof:name":"Dobri Dub",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.49,43.9575,17.53,43.9975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dra\u017eev Dolac"
     ],
@@ -45,9 +49,7 @@
         "Dra\u017eov Dol"
     ],
     "name:und_x_variant":[
-        "Dra\u017eev Dolac",
-        "Dra\u017eev Dol",
-        "Dra\u017eov Dol"
+        "Dra\u017eev Dol"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1209115649,
-    "wof:lastmodified":1564147209,
+    "wof:lastmodified":1566604939,
     "wof:name":"Drazov Dol",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

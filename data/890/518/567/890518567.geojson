@@ -11,10 +11,14 @@
     "geom:longitude":18.17859,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"BA",
+    "lbl:bbox":"18.15859,44.66672,18.19859,44.70672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Br\u0111ani"
     ],
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3253420,
-        "qs:id":582289,
+        "qs_pg:id":582289,
         "wd:id":"Q1173253",
         "wk:page":"Br\u0111ani"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890518567,
-    "wof:lastmodified":1563287559,
+    "wof:lastmodified":1566605353,
     "wof:name":"Br\u0111ani",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

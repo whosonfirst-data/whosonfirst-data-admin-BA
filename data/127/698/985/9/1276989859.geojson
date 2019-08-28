@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.84297,44.89967,16.88297,44.93967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276989859,
-    "wof:lastmodified":1536893326,
+    "wof:lastmodified":1566604812,
     "wof:name":"Hadzici",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

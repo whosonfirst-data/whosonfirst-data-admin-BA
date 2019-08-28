@@ -11,11 +11,15 @@
     "geom:longitude":15.80579,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":19330,
+    "gn:population":19330,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"15.78579,45.16497,15.82579,45.20497",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0644\u064a\u0643\u0627 \u0643\u0644\u0627\u062f\u0648\u0634\u0627"
     ],
@@ -124,9 +128,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u041a\u043b\u0430\u0434\u0443\u0448\u0430"
     ],
-    "name:unk_x_variant":[
-        "Velika Kladu\u0161a"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0644\u06cc\u06a9\u0627 \u06a9\u0644\u0627\u062f\u0648\u0634\u0627"
     ],
@@ -153,7 +154,7 @@
     "wof:concordances":{
         "gn:id":3188225,
         "gp:id":944431,
-        "qs:id":256125,
+        "qs_pg:id":256125,
         "wd:id":"Q994287"
     },
     "wof:country":"BA",
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":890518709,
-    "wof:lastmodified":1563287566,
+    "wof:lastmodified":1566605354,
     "wof:name":"Velika Kladu\u00b5a",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

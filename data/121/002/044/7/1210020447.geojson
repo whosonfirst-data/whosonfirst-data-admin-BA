@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.99671,43.59043,18.03671,43.63043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0632\u0627\u064a\u064a\u062a\u0634\u064a"
     ],
@@ -47,9 +51,7 @@
         "\u0110aji\u0107i"
     ],
     "name:und_x_variant":[
-        "D\u017eaji\u0107i",
-        "\u00d0aji\u0107",
-        "\u00d0aji\u0107i"
+        "\u00d0aji\u0107"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1210020447,
-    "wof:lastmodified":1564147333,
+    "wof:lastmodified":1566604994,
     "wof:name":"Dajici",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

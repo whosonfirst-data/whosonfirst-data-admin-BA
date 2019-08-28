@@ -11,10 +11,14 @@
     "geom:longitude":17.02833,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3905,
+    "gn:population":3905,
     "iso:country":"BA",
+    "lbl:bbox":"17.00833,43.75139,17.04833,43.79139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vido\u0161i"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3187799,
         "gp:id":944467,
-        "qs:id":1043887,
+        "qs_pg:id":1043887,
         "wd:id":"Q1017898",
         "wk:page":"Vido\u0161i"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890518757,
-    "wof:lastmodified":1563287615,
+    "wof:lastmodified":1566605363,
     "wof:name":"Vido\u0161i",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

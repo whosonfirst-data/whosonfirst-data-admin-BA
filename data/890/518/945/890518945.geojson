@@ -11,11 +11,15 @@
     "geom:longitude":18.3477,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.3277,43.7742,18.3677,43.8142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vojkovi\u0107i"
     ],
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":3187453,
         "gp:id":944552,
-        "qs:id":1083499,
+        "qs_pg:id":1083499,
         "wd:id":"Q3057139",
         "wk:page":"Vojkovi\u0107i"
     },
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890518945,
-    "wof:lastmodified":1561830469,
+    "wof:lastmodified":1566605368,
     "wof:name":"Vojkovi\u0107i",
     "wof:parent_id":1108759107,
     "wof:placetype":"locality",

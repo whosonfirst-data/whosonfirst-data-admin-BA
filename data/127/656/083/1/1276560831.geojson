@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.28578,42.66434,18.32578,42.70434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Volujac"
     ],
@@ -47,8 +51,7 @@
         "Volujac"
     ],
     "name:und_x_variant":[
-        "Voljnak",
-        "Volujac"
+        "Voljnak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1276560831,
-    "wof:lastmodified":1564146625,
+    "wof:lastmodified":1566604719,
     "wof:name":"Volujac",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

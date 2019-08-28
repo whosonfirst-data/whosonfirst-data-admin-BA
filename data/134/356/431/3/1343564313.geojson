@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.80342,45.10952,16.84342,45.14952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Furde"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1343564313,
-    "wof:lastmodified":1564145810,
+    "wof:lastmodified":1566604388,
     "wof:name":"Furde",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.96318,44.95533,18.00318,44.99533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3251172
     },
     "wof:country":"BA",
-    "wof:geomhash":"13860bb0b572e9f6d28d19f7aa8f8a37",
+    "wof:geomhash":"dd2cc382a5884be4095eb5450bda9968",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209628081,
-    "wof:lastmodified":1536281285,
+    "wof:lastmodified":1566604836,
     "wof:name":"Brice",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.983179999999994,
+    17.98317999999999,
     44.97533,
-    17.983179999999994,
+    17.98317999999999,
     44.97533
 ],
   "geometry": {"coordinates":[17.98317999999999,44.97533],"type":"Point"}

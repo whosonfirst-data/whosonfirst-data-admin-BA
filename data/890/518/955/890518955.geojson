@@ -11,11 +11,15 @@
     "geom:longitude":18.58065,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3305,
+    "gn:population":3305,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.56065,44.1077,18.60065,44.1477",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Olovo"
     ],
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3194133,
         "gp:id":943147,
-        "qs:id":1085466,
+        "qs_pg:id":1085466,
         "wd:id":"Q584665",
         "wk:page":"Olovo"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890518955,
-    "wof:lastmodified":1563287569,
+    "wof:lastmodified":1566605355,
     "wof:name":"Olovo",
     "wof:parent_id":1108759193,
     "wof:placetype":"locality",

@@ -16,6 +16,7 @@
     ],
     "lbl:latitude":43.400969,
     "lbl:longitude":18.538073,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.016198,
     "mps:longitude":18.984404,
     "mz:hierarchy_label":1,
@@ -42,7 +43,7 @@
     "name:srp_x_preferred":[
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u043f\u0441\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bosnia Serb Republic"
     ],
     "ne:abbrev":"B.H.",
@@ -120,11 +121,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "wof:belongs":[
-        85632609
-    ],
     "wof:belongsto":[
         102191581,
         85632609
@@ -133,7 +131,7 @@
         85632609
     ],
     "wof:concordances":{
-        "qs:id":224784
+        "qs_pg:id":224784
     },
     "wof:country":"BA",
     "wof:geomhash":"860dd104615d780549755e1a741d7e70",
@@ -155,7 +153,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1553626883,
+    "wof:lastmodified":1566604468,
     "wof:name":"Republic of Srpska",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

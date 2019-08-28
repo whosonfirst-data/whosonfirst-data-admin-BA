@@ -11,11 +11,15 @@
     "geom:longitude":17.61556,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4200,
+    "gn:population":4200,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.59556,42.90333,17.63556,42.94333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Neum"
     ],
@@ -162,7 +166,7 @@
     "wof:concordances":{
         "gn:id":3194514,
         "gp:id":943070,
-        "qs:id":1044010,
+        "qs_pg:id":1044010,
         "wd:id":"Q320623",
         "wk:page":"Neum"
     },
@@ -179,7 +183,7 @@
         }
     ],
     "wof:id":890519027,
-    "wof:lastmodified":1563287544,
+    "wof:lastmodified":1566605350,
     "wof:name":"Neum",
     "wof:parent_id":1108759177,
     "wof:placetype":"locality",

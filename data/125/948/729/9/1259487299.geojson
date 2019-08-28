@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.43153,44.89992,18.47153,44.93992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gibe"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259487299,
-    "wof:lastmodified":1564148782,
+    "wof:lastmodified":1566605576,
     "wof:name":"Gibe",
     "wof:parent_id":1108759097,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.44111,43.86417,18.48111,43.90417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226157317,
-    "wof:lastmodified":1537058400,
+    "wof:lastmodified":1566605757,
     "wof:name":"Hladivode",
     "wof:parent_id":1108759245,
     "wof:placetype":"locality",

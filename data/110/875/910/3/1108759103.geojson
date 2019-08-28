@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.070383,
     "lbl:longitude":18.94511,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Republika Srpska",
     "meso:admin_2":"Republika Srpska",
     "meso:gadm_adm2":"Isto\u010dno Sarajevo",
@@ -34,6 +36,7 @@
     "mps:longitude":18.94511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bos_x_preferred":[
         "Han-Pijesak"
     ],
@@ -79,9 +82,6 @@
     "name:tur_x_preferred":[
         "Pisakhan"
     ],
-    "name:und_x_variant":[
-        "Han Pijesak"
-    ],
     "name:urd_x_preferred":[
         "\u062d\u0627\u0646 \u067e\u06cc\u0626\u0633\u0627\u06a9"
     ],
@@ -89,9 +89,9 @@
         "\u6c49\u76ae\u8036\u8428\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"352",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1108759103,
-    "wof:lastmodified":1564147616,
+    "wof:lastmodified":1566605109,
     "wof:name":"Han Pijesak",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

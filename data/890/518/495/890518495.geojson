@@ -11,10 +11,14 @@
     "geom:longitude":18.79106,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4446,
+    "gn:population":4446,
     "iso:country":"BA",
+    "lbl:bbox":"18.77106,43.56338,18.81106,43.60338",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ustikolina"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3188458,
         "gp:id":944383,
-        "qs:id":147093,
+        "qs_pg:id":147093,
         "wd:id":"Q3110920",
         "wk:page":"Ustikolina"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890518495,
-    "wof:lastmodified":1563287636,
+    "wof:lastmodified":1566605366,
     "wof:name":"Ustikolina",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

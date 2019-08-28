@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.57443,43.10723,17.61443,43.14723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Staje"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1243281695,
-    "wof:lastmodified":1564148670,
+    "wof:lastmodified":1566605535,
     "wof:name":"Staje",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

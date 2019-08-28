@@ -11,10 +11,14 @@
     "geom:longitude":18.61667,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":4661,
+    "gn:population":4661,
     "iso:country":"BA",
+    "lbl:bbox":"18.59667,44.40921,18.63667,44.44921",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017divinice Gornje"
     ],
@@ -96,9 +100,6 @@
     "name:tur_x_preferred":[
         "\u017divinice Gornje"
     ],
-    "name:unk_x_variant":[
-        "\u017divinice Gornje"
-    ],
     "name:war_x_preferred":[
         "\u017divinice Gornje"
     ],
@@ -116,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3200059,
-        "qs:id":147262,
+        "qs_pg:id":147262,
         "wd:id":"Q3122505"
     },
     "wof:country":"BA",
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":890518625,
-    "wof:lastmodified":1563287619,
+    "wof:lastmodified":1566605364,
     "wof:name":"Gornje \u017divinice",
     "wof:parent_id":1108759301,
     "wof:placetype":"locality",

@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":43.675318,
     "lbl:longitude":18.802648,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.677473,
     "mps:longitude":18.822233,
     "mz:hierarchy_label":1,
@@ -166,7 +167,7 @@
         "Bosna-Podrinje kanton"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0bb8\u0bcd\u0ba9\u0bbf\u0baf\u0ba9\u0bcd  \u0baa\u0bcb\u0b9f\u0bcd\u0bb0\u0bbf\u0ba9\u0bcd\u0b9c\u0bc6  \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
+        "\u0baa\u0bcb\u0bb8\u0bcd\u0ba9\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0bb0\u0bbf\u0ba9\u0bcd\u0b9c\u0bc6 \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c38\u0c4d\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c2a\u0c4b\u0c21\u0c4d\u0c30\u0c3f\u0c02\u0c1c\u0c46 \u0c15\u0c3e\u0c02\u0c1f\u0c28\u0c4d"
@@ -183,13 +184,8 @@
     "name:ukr_x_variant":[
         "\u0411\u043e\u0441\u043d\u0456\u0439\u0441\u044c\u043a\u043e-\u041f\u043e\u0434\u0440\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d"
     ],
-    "name:und_x_preferred":[
-        "Bosansko-podrinjski Kanton"
-    ],
     "name:und_x_variant":[
-        "Bosnian Podrinje"
-    ],
-    "name:unk_x_variant":[
+        "Bosansko-podrinjski Kanton",
         "Gornjedrinski Kanton"
     ],
     "name:urd_x_preferred":[
@@ -274,7 +270,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"BA-05",
     "wof:belongsto":[
         102191581,
@@ -286,7 +282,7 @@
         "gn:id":3343726,
         "gp:id":24551280,
         "hasc:id":"BA.BF",
-        "qs:id":1193490,
+        "qs_pg:id":1193490,
         "unlc:id":"BA-05",
         "wd:id":"Q18256",
         "wk:page":"Bosnian-Podrinje Canton Gora\u017ede"
@@ -301,9 +297,6 @@
         }
     ],
     "wof:id":85669239,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "bos",
         "srp",
@@ -314,7 +307,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1563285721,
+    "wof:lastmodified":1566604466,
     "wof:name":"Bosnian Podrinje",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

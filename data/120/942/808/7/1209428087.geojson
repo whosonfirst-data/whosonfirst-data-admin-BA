@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.00945,44.69735,19.04945,44.73735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209428087,
-    "wof:lastmodified":1536287318,
+    "wof:lastmodified":1566604953,
     "wof:name":"Vasilici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

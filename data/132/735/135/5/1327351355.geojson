@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.26412,44.3382,17.30412,44.3782",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Klimenta"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1327351355,
-    "wof:lastmodified":1564145371,
+    "wof:lastmodified":1566604204,
     "wof:name":"Klimenta",
     "wof:parent_id":1108759115,
     "wof:placetype":"locality",

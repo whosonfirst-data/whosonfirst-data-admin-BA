@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.0037,44.76047,17.0437,44.80047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Borkovi\u0107i"
     ],
@@ -47,9 +51,6 @@
         "\u0411\u043e\u0440\u043a\u043e\u0432\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Borkovi\u0107i"
-    ],
-    "name:und_x_variant":[
         "Borkovi\u0107i"
     ],
     "src:geom":"geonames",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1259792435,
-    "wof:lastmodified":1564148794,
+    "wof:lastmodified":1566605580,
     "wof:name":"Borkovici",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

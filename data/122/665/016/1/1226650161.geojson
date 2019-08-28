@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.91653,43.93564,17.95653,43.97564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ostru\u0161ka Citonja"
     ],
@@ -38,8 +42,7 @@
         "\u041e\u0441\u0442\u0440\u0443\u0448\u043a\u0430 \u0426\u0438\u0442\u043e\u045a\u0430"
     ],
     "name:und_x_variant":[
-        "Ostru\u017enica",
-        "Ostru\u0161ka Citonja"
+        "Ostru\u017enica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226650161,
-    "wof:lastmodified":1564149329,
+    "wof:lastmodified":1566605785,
     "wof:name":"Ostruska Citonja",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

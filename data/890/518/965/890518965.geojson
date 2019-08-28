@@ -11,8 +11,12 @@
     "geom:longitude":17.206616,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.186616,44.78507,17.226616,44.82507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zalu\u017eani"
     ],
@@ -69,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":944719,
-        "qs:id":1099568,
+        "qs_pg:id":1099568,
         "wd:id":"Q957389",
         "wk:page":"Zalu\u017eani"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890518965,
-    "wof:lastmodified":1563287560,
+    "wof:lastmodified":1566605353,
     "wof:name":"Zalu\u017eani",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

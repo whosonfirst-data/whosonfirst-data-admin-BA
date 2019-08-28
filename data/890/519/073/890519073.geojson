@@ -11,11 +11,15 @@
     "geom:longitude":16.99887,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":5801,
+    "gn:population":5801,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"16.97887,43.70295,17.01887,43.74295",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podhum"
     ],
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3193008,
         "gp:id":943400,
-        "qs:id":181739,
+        "qs_pg:id":181739,
         "wd:id":"Q1197103",
         "wk:page":"Podhum"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890519073,
-    "wof:lastmodified":1563287543,
+    "wof:lastmodified":1566605350,
     "wof:name":"Podhum",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

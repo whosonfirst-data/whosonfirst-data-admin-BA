@@ -11,10 +11,14 @@
     "geom:longitude":18.38864,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3666,
+    "gn:population":3666,
     "iso:country":"BA",
+    "lbl:bbox":"18.36864,43.86188,18.40864,43.90188",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kobilja Glava"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3197964,
         "gp:id":943828,
-        "qs:id":279725,
+        "qs_pg:id":279725,
         "wd:id":"Q3130339",
         "wk:page":"Kobilja Glava"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890518583,
-    "wof:lastmodified":1563287654,
+    "wof:lastmodified":1566605369,
     "wof:name":"Kobilja Glava",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

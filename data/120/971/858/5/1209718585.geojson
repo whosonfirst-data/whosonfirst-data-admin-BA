@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.52109,44.93988,17.56109,44.97988",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Razboj \u017dupski"
     ],
@@ -47,9 +51,7 @@
         "\u017dupski Razboj"
     ],
     "name:und_x_variant":[
-        "Gornji Razboi",
-        "Razboj \u017dupski",
-        "\u017dupski Razboj"
+        "Gornji Razboi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1209718585,
-    "wof:lastmodified":1564147043,
+    "wof:lastmodified":1566604878,
     "wof:name":"Zupski Razboj",
     "wof:parent_id":1108759237,
     "wof:placetype":"locality",

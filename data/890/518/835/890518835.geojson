@@ -11,11 +11,15 @@
     "geom:longitude":18.69389,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.67389,44.76167,18.71389,44.80167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornji Rahi\u0107"
     ],
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3199940,
         "gp:id":941878,
-        "qs:id":1085369,
+        "qs_pg:id":1085369,
         "wd:id":"Q3111303",
         "wk:page":"Gornji Rahi\u0107"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890518835,
-    "wof:lastmodified":1563287586,
+    "wof:lastmodified":1566605359,
     "wof:name":"Gornji Rahi\u0107",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

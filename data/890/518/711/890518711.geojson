@@ -11,11 +11,15 @@
     "geom:longitude":18.68416,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4424,
+    "gn:population":4424,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.66416,44.29382,18.70416,44.33382",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Stupari",
     "qs:name_adm0":"Bosna i Hercegovina",
     "qs:name_adm1":"Federacija Bosne I Hercegovine",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":3189621,
         "gp:id":944144,
-        "qs:id":256126
+        "qs_pg:id":256126
     },
     "wof:country":"BA",
     "wof:created":1469056076,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890518711,
-    "wof:lastmodified":1505343910,
+    "wof:lastmodified":1566605369,
     "wof:name":"Stupari",
     "wof:parent_id":1108759129,
     "wof:placetype":"locality",

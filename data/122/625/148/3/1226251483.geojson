@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.49781,43.09672,18.53781,43.13672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Branilovi\u0107i"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0438\u043b\u043e\u0432\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Branilovi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1226251483,
-    "wof:lastmodified":1564149220,
+    "wof:lastmodified":1566605742,
     "wof:name":"Branilovici",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

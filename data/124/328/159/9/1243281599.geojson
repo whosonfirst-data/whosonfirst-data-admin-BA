@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.51543,43.66777,18.55543,43.70777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Delija\u0161"
     ],
@@ -38,9 +42,6 @@
         "\u0414\u0435\u043b\u0438\u0458\u0430\u0448"
     ],
     "name:swe_x_preferred":[
-        "Delija\u0161"
-    ],
-    "name:und_x_variant":[
         "Delija\u0161"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1243281599,
-    "wof:lastmodified":1564148669,
+    "wof:lastmodified":1566605534,
     "wof:name":"Delijas",
     "wof:parent_id":1108759267,
     "wof:placetype":"locality",

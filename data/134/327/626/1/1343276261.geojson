@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.6043,44.0806,18.6443,44.1206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kru\u0161\u010dani",
         "Kru\u0161\u010danje"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343276261,
-    "wof:lastmodified":1537585648,
+    "wof:lastmodified":1566604434,
     "wof:name":"Kruscanje",
     "wof:parent_id":1108759193,
     "wof:placetype":"locality",

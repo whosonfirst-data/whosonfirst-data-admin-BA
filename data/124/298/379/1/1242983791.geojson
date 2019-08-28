@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.83574,44.71541,17.87574,44.75541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ostru\u017enja Donja"
     ],
@@ -44,8 +48,7 @@
         "Ostru\u017enja Donja"
     ],
     "name:und_x_variant":[
-        "Donja Ostru\u017enja",
-        "Ostru\u017enja Donja"
+        "Donja Ostru\u017enja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1242983791,
-    "wof:lastmodified":1564148571,
+    "wof:lastmodified":1566605497,
     "wof:name":"Ostruznja Donja",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.14072,44.99626,17.18072,45.03626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310418913,
-    "wof:lastmodified":1537040161,
+    "wof:lastmodified":1566605122,
     "wof:name":"Donji Turjak",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

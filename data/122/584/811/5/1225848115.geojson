@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.37913,43.98334,19.41913,44.02334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gladovi\u0107i"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0413\u043b\u0430\u0434\u043e\u0432\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Gladovi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1225848115,
-    "wof:lastmodified":1564149387,
+    "wof:lastmodified":1566605807,
     "wof:name":"Gladovici",
     "wof:parent_id":1108759241,
     "wof:placetype":"locality",

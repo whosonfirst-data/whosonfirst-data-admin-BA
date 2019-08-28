@@ -11,11 +11,15 @@
     "geom:longitude":17.53216,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4899,
+    "gn:population":4899,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.51216,44.54594,17.55216,44.58594",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0441\u043b\u0430\u0432\u0430\u0440\u044d"
     ],
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Maslovare"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mastovare"
     ],
     "qs:name":"Maslovare",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3195399,
         "gp:id":942845,
-        "qs:id":1283518,
+        "qs_pg:id":1283518,
         "wd:id":"Q1254473",
         "wk:page":"Maslovare"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890519095,
-    "wof:lastmodified":1563287550,
+    "wof:lastmodified":1566605351,
     "wof:name":"Maslovare",
     "wof:parent_id":1108759141,
     "wof:placetype":"locality",

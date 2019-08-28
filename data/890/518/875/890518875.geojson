@@ -11,11 +11,15 @@
     "geom:longitude":16.84162,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"16.82162,44.95477,16.86162,44.99477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kozarac"
     ],
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":3197492,
         "gp:id":942450,
-        "qs:id":478624,
+        "qs_pg:id":478624,
         "wd:id":"Q1785760",
         "wk:page":"Kozarac"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890518875,
-    "wof:lastmodified":1563287579,
+    "wof:lastmodified":1566605357,
     "wof:name":"Kozarac",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

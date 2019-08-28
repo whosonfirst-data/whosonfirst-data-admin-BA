@@ -11,10 +11,14 @@
     "geom:longitude":18.25783,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":4341,
+    "gn:population":4341,
     "iso:country":"BA",
+    "lbl:bbox":"18.23783,44.69634,18.27783,44.73634",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stjepan Polje"
     ],
@@ -54,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3189848,
-        "qs:id":1043905,
+        "qs_pg:id":1043905,
         "wd:id":"Q3120688",
         "wk:page":"Stjepan Polje"
     },
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890518675,
-    "wof:lastmodified":1563287569,
+    "wof:lastmodified":1566605355,
     "wof:name":"Stjepan-Polje",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

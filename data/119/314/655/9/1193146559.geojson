@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.45859,44.73248,18.49859,44.77248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u0160pionica Srednja"
     ],
@@ -41,8 +45,7 @@
         "\u0160pionica Srednja"
     ],
     "name:und_x_variant":[
-        "Katolicka \u0160pionica",
-        "\u0160pionica Srednja"
+        "Katolicka \u0160pionica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1193146559,
-    "wof:lastmodified":1564147381,
+    "wof:lastmodified":1566605012,
     "wof:name":"Spionica Srednja",
     "wof:parent_id":1108759243,
     "wof:placetype":"locality",

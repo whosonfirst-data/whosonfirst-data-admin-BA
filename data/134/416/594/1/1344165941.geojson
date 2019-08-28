@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.22204,43.42286,18.26204,43.46286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bak"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1344165941,
-    "wof:lastmodified":1564145888,
+    "wof:lastmodified":1566604417,
     "wof:name":"Bak",
     "wof:parent_id":1108759125,
     "wof:placetype":"locality",

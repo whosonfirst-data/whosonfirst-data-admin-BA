@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.08694,43.63,17.12694,43.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dobri\u0107i"
     ],
@@ -42,8 +46,7 @@
         "\u0414\u043e\u0431\u0440\u0438\u045b\u0438"
     ],
     "name:und_x_variant":[
-        "Dobri\u0107",
-        "Dobri\u0107i"
+        "Dobri\u0107"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1327039599,
-    "wof:lastmodified":1564145390,
+    "wof:lastmodified":1566604210,
     "wof:name":"Dobrici",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

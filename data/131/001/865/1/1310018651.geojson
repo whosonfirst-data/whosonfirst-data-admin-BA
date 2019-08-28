@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.30821,42.69341,18.34821,42.73341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Zasad"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1310018651,
-    "wof:lastmodified":1564147773,
+    "wof:lastmodified":1566605171,
     "wof:name":"Zasad",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

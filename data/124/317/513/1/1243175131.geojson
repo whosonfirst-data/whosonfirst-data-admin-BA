@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.35248,42.86316,18.39248,42.90316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kasa\u0161evina",
         "Kara\u0161evina"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243175131,
-    "wof:lastmodified":1537585677,
+    "wof:lastmodified":1566605539,
     "wof:name":"Karasevina",
     "wof:parent_id":1108758997,
     "wof:placetype":"locality",

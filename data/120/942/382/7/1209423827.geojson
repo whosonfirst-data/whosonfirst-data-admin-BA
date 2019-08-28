@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.58062,44.77987,17.62062,44.81987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3254538
     },
     "wof:country":"BA",
-    "wof:geomhash":"0bd8fe3eb73f1943369664df6cf266e6",
+    "wof:geomhash":"35018dad1b462bc6e50ea151e9bff657",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209423827,
-    "wof:lastmodified":1536287443,
+    "wof:lastmodified":1566604949,
     "wof:name":"Topolova",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.600620000000006,
+    17.60062000000001,
     44.79987,
-    17.600620000000006,
+    17.60062000000001,
     44.79987
 ],
   "geometry": {"coordinates":[17.60062000000001,44.79987],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.82812,43.86809,18.86812,43.90809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u010citluci"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0427\u0438\u0442\u043b\u0443\u0446\u0438"
-    ],
-    "name:und_x_variant":[
-        "\u010citluci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1242580895,
-    "wof:lastmodified":1564148421,
+    "wof:lastmodified":1566605442,
     "wof:name":"Citluci",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":44.830105,
     "lbl:longitude":18.699478,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.812474,
     "mps:longitude":18.846104,
     "mz:hierarchy_label":1,
@@ -239,7 +240,7 @@
         "Br\u010dko"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcd\u0bb0\u0b95\u0bcd\u0b95\u0bcd\u0b95\u0bcb  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0baa\u0bcd\u0bb0\u0b95\u0bcd\u0b95\u0bcd\u0b95\u0bcb \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c30\u0c15\u0c4b \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -256,7 +257,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u0411\u0440\u0447\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Br\u010dko Distrikt Bosne i Hercegovine"
     ],
     "name:urd_x_preferred":[
@@ -343,7 +344,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "statoids:area_km":"",
     "statoids:area_mi":"",
@@ -358,9 +359,6 @@
     "statoids:timezone":"+1~",
     "statoids:type":"district",
     "wd:wordcount":962,
-    "wof:belongs":[
-        85632609
-    ],
     "wof:belongsto":[
         102191581,
         85632609
@@ -370,7 +368,7 @@
         "fips:code":"BK03",
         "hasc:id":"BA.BR",
         "iso:id":"BA-BRC",
-        "qs:id":224784,
+        "qs_pg:id":224784,
         "wd:id":"Q194483"
     },
     "wof:country":"BA",
@@ -393,11 +391,10 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1563285724,
+    "wof:lastmodified":1566604469,
     "wof:name":"Brcko Distrikt",
     "wof:parent_id":85632609,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":4613414,
     "wof:population_rank":12,

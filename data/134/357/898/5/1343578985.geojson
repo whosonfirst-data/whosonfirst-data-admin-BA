@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.33485,44.22247,16.37485,44.26247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343578985,
-    "wof:lastmodified":1537069679,
+    "wof:lastmodified":1566604384,
     "wof:name":"Bursaci",
     "wof:parent_id":1108759019,
     "wof:placetype":"locality",

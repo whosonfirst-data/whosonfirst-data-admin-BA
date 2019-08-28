@@ -11,11 +11,15 @@
     "geom:longitude":18.8434,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3614,
+    "gn:population":3614,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.8234,44.61498,18.8634,44.65498",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lopare"
     ],
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3196209,
         "gp:id":942710,
-        "qs:id":58418,
+        "qs_pg:id":58418,
         "wd:id":"Q1529232",
         "wk:page":"Lopare"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890518981,
-    "wof:lastmodified":1563287656,
+    "wof:lastmodified":1566605369,
     "wof:name":"Lopare",
     "wof:parent_id":1108759159,
     "wof:placetype":"locality",

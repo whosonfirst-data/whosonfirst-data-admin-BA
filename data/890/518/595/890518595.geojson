@@ -11,10 +11,14 @@
     "geom:longitude":17.60917,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":10349,
+    "gn:population":10349,
     "iso:country":"BA",
+    "lbl:bbox":"17.58917,43.80222,17.62917,43.84222",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bos_x_preferred":[
         "Prozor"
     ],
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":3192279,
         "gp:id":943594,
-        "qs:id":147129,
+        "qs_pg:id":147129,
         "wd:id":"Q7252922",
         "wk:page":"Prozor"
     },
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":890518595,
-    "wof:lastmodified":1563287563,
+    "wof:lastmodified":1566605354,
     "wof:name":"Prozor",
     "wof:parent_id":1108759211,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.21547,44.66803,18.25547,44.70803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260185271,
-    "wof:lastmodified":1536844374,
+    "wof:lastmodified":1566605057,
     "wof:name":"Stojici",
     "wof:parent_id":1108759091,
     "wof:placetype":"locality",

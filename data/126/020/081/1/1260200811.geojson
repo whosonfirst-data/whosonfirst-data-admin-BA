@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.37939,43.86825,18.41939,43.90825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u062a\u06cc\u0626\u0627"
     ],
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":1260200811,
-    "wof:lastmodified":1564147481,
+    "wof:lastmodified":1566605054,
     "wof:name":"Slatina",
     "wof:parent_id":1108759047,
     "wof:placetype":"locality",

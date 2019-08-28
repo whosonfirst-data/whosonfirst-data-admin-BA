@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.38944,43.89528,18.42944,43.93528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Strmac"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1209928535,
-    "wof:lastmodified":1564147133,
+    "wof:lastmodified":1566604910,
     "wof:name":"Strmac",
     "wof:parent_id":1108759047,
     "wof:placetype":"locality",

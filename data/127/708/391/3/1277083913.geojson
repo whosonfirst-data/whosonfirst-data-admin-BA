@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.33962,43.86727,18.37962,43.90727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ugorsko"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1277083913,
-    "wof:lastmodified":1564146474,
+    "wof:lastmodified":1566604656,
     "wof:name":"Ugorsko",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

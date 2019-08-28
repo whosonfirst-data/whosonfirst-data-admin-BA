@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.3113,44.12567,18.3513,44.16567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344266549,
-    "wof:lastmodified":1537072152,
+    "wof:lastmodified":1566604410,
     "wof:name":"Mlakve",
     "wof:parent_id":1108759279,
     "wof:placetype":"locality",

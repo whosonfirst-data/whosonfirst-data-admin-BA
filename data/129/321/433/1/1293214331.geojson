@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.46274,43.95374,18.50274,43.99374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293214331,
-    "wof:lastmodified":1536683698,
+    "wof:lastmodified":1566604650,
     "wof:name":"Vukinjaca",
     "wof:parent_id":1108759109,
     "wof:placetype":"locality",

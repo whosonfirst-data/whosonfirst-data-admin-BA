@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.66709,44.17617,18.70709,44.21617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kova\u010di\u0107i"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Kova\u010di\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1243472173,
-    "wof:lastmodified":1564148481,
+    "wof:lastmodified":1566605463,
     "wof:name":"Kovacici",
     "wof:parent_id":1108759129,
     "wof:placetype":"locality",

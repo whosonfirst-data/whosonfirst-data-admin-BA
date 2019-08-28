@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.31694,43.31889,17.35694,43.35889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Simic"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1309919919,
-    "wof:lastmodified":1564148086,
+    "wof:lastmodified":1566605293,
     "wof:name":"Simic",
     "wof:parent_id":1108759099,
     "wof:placetype":"locality",

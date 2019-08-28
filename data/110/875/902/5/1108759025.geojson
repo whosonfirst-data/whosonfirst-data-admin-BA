@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.830105,
     "lbl:longitude":18.699478,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Brcko Distrikt",
     "meso:admin_2":"Brcko Distrikt",
     "meso:gadm_adm2":"Br\u010dko",
@@ -34,6 +36,7 @@
     "mps:longitude":18.699478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Brcko"
     ],
@@ -41,9 +44,9 @@
         "Br\u010dko"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"493",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108759025,
-    "wof:lastmodified":1553718706,
+    "wof:lastmodified":1566605098,
     "wof:name":"Brcko",
     "wof:parent_id":85632279,
     "wof:placetype":"county",

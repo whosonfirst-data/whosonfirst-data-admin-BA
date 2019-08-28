@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.12193,43.61904,18.16193,43.65904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0648\u0647\u0648\u0641\u064a\u062a\u0634\u064a"
     ],
@@ -41,8 +45,7 @@
         "\u0427\u0443\u0445\u043e\u0432\u0438\u045b\u0438"
     ],
     "name:und_x_variant":[
-        "\u010cuhovic",
-        "\u010cuhovi\u0107i"
+        "\u010cuhovic"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1242791463,
-    "wof:lastmodified":1564148537,
+    "wof:lastmodified":1566605484,
     "wof:name":"Cuhovici",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

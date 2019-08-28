@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.37787,44.81436,18.41787,44.85436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zelinja Donja"
     ],
@@ -41,8 +45,7 @@
         "Zelinja Donja"
     ],
     "name:und_x_variant":[
-        "Donja Zelinja",
-        "Zelinja Donja"
+        "Donja Zelinja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1310705863,
-    "wof:lastmodified":1564147657,
+    "wof:lastmodified":1566605125,
     "wof:name":"Zelinja Donja",
     "wof:parent_id":1108759093,
     "wof:placetype":"locality",

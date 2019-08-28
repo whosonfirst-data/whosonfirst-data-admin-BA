@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.68556,43.41361,17.72556,43.45361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3264416
     },
     "wof:country":"BA",
-    "wof:geomhash":"008d580ad54feda341ec30c697debd2b",
+    "wof:geomhash":"5c8cc3090de8658d5bf6f8095424f0d5",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209228827,
-    "wof:lastmodified":1536293705,
+    "wof:lastmodified":1566604895,
     "wof:name":"Corici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.705560000000006,
+    17.70556000000001,
     43.43361,
-    17.705560000000006,
+    17.70556000000001,
     43.43361
 ],
   "geometry": {"coordinates":[17.70556000000001,43.43361],"type":"Point"}

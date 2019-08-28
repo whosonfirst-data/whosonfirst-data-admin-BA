@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.05889,44.75054,17.09889,44.79054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3247859
     },
     "wof:country":"BA",
-    "wof:geomhash":"8cb6d56c5a30f8fe76a338f95b5871ec",
+    "wof:geomhash":"2824f91d04d085ca912d660586056b23",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209017321,
-    "wof:lastmodified":1536300255,
+    "wof:lastmodified":1566604842,
     "wof:name":"Moconje",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.078889999999998,
+    17.07889,
     44.77054,
-    17.078889999999998,
+    17.07889,
     44.77054
 ],
   "geometry": {"coordinates":[17.07889,44.77054],"type":"Point"}

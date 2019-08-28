@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.37288,44.75835,18.41288,44.79835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "D\u017eakule"
     ],
@@ -38,9 +42,6 @@
         "D\u017eakule"
     ],
     "name:swe_x_preferred":[
-        "D\u017eakule"
-    ],
-    "name:und_x_variant":[
         "D\u017eakule"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1259587241,
-    "wof:lastmodified":1564148893,
+    "wof:lastmodified":1566605618,
     "wof:name":"Dzakule",
     "wof:parent_id":1108759089,
     "wof:placetype":"locality",

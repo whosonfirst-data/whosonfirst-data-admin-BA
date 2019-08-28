@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.59611,44.63056,18.63611,44.67056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gornja Dragunja",
         "Dragunja Gornja"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209733311,
-    "wof:lastmodified":1537585608,
+    "wof:lastmodified":1566604943,
     "wof:name":"Dragunja Gornja",
     "wof:parent_id":1108759271,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":45.184508,
     "lbl:longitude":16.563725,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Republika Srpska",
     "meso:admin_2":"Republika Srpska",
     "meso:gadm_adm2":"Banja Luka",
@@ -34,6 +36,7 @@
     "mps:longitude":16.563725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bos_x_preferred":[
         "Kostajnica"
     ],
@@ -73,13 +76,10 @@
     "name:swe_x_preferred":[
         "Kostajnica"
     ],
-    "name:und_x_variant":[
-        "Kostajnica"
-    ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"563",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1108759139,
-    "wof:lastmodified":1564147581,
+    "wof:lastmodified":1566605095,
     "wof:name":"Kostajnica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.54724,44.28661,17.58724,44.32661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3251322
     },
     "wof:country":"BA",
-    "wof:geomhash":"7eb9d4552317a2e2235c4b40cf9caf1b",
+    "wof:geomhash":"30ad3cb4e4556b325003e1bb369bdb58",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209228851,
-    "wof:lastmodified":1536293704,
+    "wof:lastmodified":1566604895,
     "wof:name":"Luznica",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.567239999999998,
+    17.56724,
     44.30661,
-    17.567239999999998,
+    17.56724,
     44.30661
 ],
   "geometry": {"coordinates":[17.56724,44.30661],"type":"Point"}

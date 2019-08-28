@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.7899,44.42204,18.8299,44.46204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rainci Donji"
     ],
@@ -44,8 +48,7 @@
         "Rainci Donji"
     ],
     "name:und_x_variant":[
-        "Rajinci",
-        "Rainci Donji"
+        "Rajinci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1343679535,
-    "wof:lastmodified":1564145822,
+    "wof:lastmodified":1566604392,
     "wof:name":"Rainci Donji",
     "wof:parent_id":1108759121,
     "wof:placetype":"locality",

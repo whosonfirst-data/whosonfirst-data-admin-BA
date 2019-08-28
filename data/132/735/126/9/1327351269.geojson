@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.46571,44.1412,17.50571,44.1812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Fonjge"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1327351269,
-    "wof:lastmodified":1564145374,
+    "wof:lastmodified":1566604205,
     "wof:name":"Fonjge",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

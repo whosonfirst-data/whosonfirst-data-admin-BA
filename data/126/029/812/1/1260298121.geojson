@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.33777,43.27615,18.37777,43.31615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Valje"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1260298121,
-    "wof:lastmodified":1564147510,
+    "wof:lastmodified":1566605066,
     "wof:name":"Valje",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

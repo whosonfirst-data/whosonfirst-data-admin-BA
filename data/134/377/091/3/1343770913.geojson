@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.42209,44.04924,19.46209,44.08924",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Poznanovi\u0107i"
     ],
@@ -47,8 +51,7 @@
         "Poznanovi\u0107i"
     ],
     "name:und_x_variant":[
-        "Poznanovi\u0107",
-        "Poznanovi\u0107i"
+        "Poznanovi\u0107"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343770913,
-    "wof:lastmodified":1564145715,
+    "wof:lastmodified":1566604349,
     "wof:name":"Poznanovici",
     "wof:parent_id":1108759241,
     "wof:placetype":"locality",

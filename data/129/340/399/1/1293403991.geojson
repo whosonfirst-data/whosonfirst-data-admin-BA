@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.70667,43.21889,17.74667,43.25889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gradni\u0107i"
     ],
@@ -41,9 +45,6 @@
         "\u0413\u0440\u0430\u0434\u043d\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Gradni\u0107i"
-    ],
-    "name:und_x_variant":[
         "Gradni\u0107i"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1293403991,
-    "wof:lastmodified":1564146185,
+    "wof:lastmodified":1566604538,
     "wof:name":"Gradnici",
     "wof:parent_id":1108759049,
     "wof:placetype":"locality",

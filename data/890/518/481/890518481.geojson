@@ -11,10 +11,14 @@
     "geom:longitude":19.26363,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":967,
+    "gn:population":967,
     "iso:country":"BA",
+    "lbl:bbox":"19.24363,44.84373,19.28363,44.88373",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Brodac Gornji"
     ],
@@ -102,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3337472,
-        "qs:id":582715,
+        "qs_pg:id":582715,
         "wd:id":"Q3114515",
         "wk:page":"Brodac Gornji"
     },
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":890518481,
-    "wof:lastmodified":1563287622,
+    "wof:lastmodified":1566605364,
     "wof:name":"Brodac-Gornji",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

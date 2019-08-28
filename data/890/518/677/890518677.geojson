@@ -11,10 +11,14 @@
     "geom:longitude":16.73902,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"BA",
+    "lbl:bbox":"16.71902,44.91368,16.75902,44.95368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0106ela"
     ],
@@ -113,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3202799,
-        "qs:id":95172,
+        "qs_pg:id":95172,
         "wd:id":"Q3118326"
     },
     "wof:country":"BA",
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890518677,
-    "wof:lastmodified":1563287629,
+    "wof:lastmodified":1566605365,
     "wof:name":"\u0106ela",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

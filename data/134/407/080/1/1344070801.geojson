@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.75194,44.19111,16.79194,44.23111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344070801,
-    "wof:lastmodified":1536859221,
+    "wof:lastmodified":1566604336,
     "wof:name":"Krcmari",
     "wof:parent_id":1108759081,
     "wof:placetype":"locality",

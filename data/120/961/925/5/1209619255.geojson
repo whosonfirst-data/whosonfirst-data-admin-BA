@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.6049,44.2269,18.6449,44.2669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Podpau\u010d",
         "Pau\u010d"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209619255,
-    "wof:lastmodified":1537585648,
+    "wof:lastmodified":1566604900,
     "wof:name":"Pauc",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

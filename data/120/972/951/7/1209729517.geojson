@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.18051,43.56224,17.22051,43.60224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rado\u0161i"
     ],
@@ -41,9 +45,6 @@
         "\u0420\u0430\u0434\u043e\u0448\u0438"
     ],
     "name:swe_x_preferred":[
-        "Rado\u0161i"
-    ],
-    "name:und_x_variant":[
         "Rado\u0161i"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1209729517,
-    "wof:lastmodified":1564147295,
+    "wof:lastmodified":1566604976,
     "wof:name":"Radosi",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",

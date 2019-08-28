@@ -11,10 +11,14 @@
     "geom:longitude":16.86247,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"BA",
+    "lbl:bbox":"16.84247,44.93384,16.88247,44.97384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kami\u010dani"
     ],
@@ -116,7 +120,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3198371,
-        "qs:id":95123,
+        "qs_pg:id":95123,
         "wd:id":"Q1255398"
     },
     "wof:country":"BA",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890519141,
-    "wof:lastmodified":1563287554,
+    "wof:lastmodified":1566605351,
     "wof:name":"Kami\u010dani",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

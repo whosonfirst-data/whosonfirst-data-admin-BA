@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.60727,43.80836,18.64727,43.84836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u0106emanovi\u0107i"
     ],
@@ -44,9 +48,6 @@
         "\u040b\u0435\u043c\u0430\u043d\u043e\u0432\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "\u0106emanovi\u0107i"
-    ],
-    "name:und_x_variant":[
         "\u0106emanovi\u0107i"
     ],
     "src:geom":"geonames",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1242790499,
-    "wof:lastmodified":1564148523,
+    "wof:lastmodified":1566605478,
     "wof:name":"Cemanovici",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

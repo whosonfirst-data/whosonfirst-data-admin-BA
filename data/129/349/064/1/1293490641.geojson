@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.39278,44.04361,19.43278,44.08361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Poznanovi\u0107",
         "Poznanovi\u0107i"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293490641,
-    "wof:lastmodified":1537585571,
+    "wof:lastmodified":1566604530,
     "wof:name":"Poznanovici",
     "wof:parent_id":1108759241,
     "wof:placetype":"locality",

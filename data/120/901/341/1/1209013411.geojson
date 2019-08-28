@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.34702,43.37687,18.38702,43.41687",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Klinja"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209013411,
-    "wof:lastmodified":1564146950,
+    "wof:lastmodified":1566604842,
     "wof:name":"Klinja",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

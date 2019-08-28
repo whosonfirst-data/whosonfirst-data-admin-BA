@@ -11,8 +11,11 @@
     "geom:longitude":18.66709,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":142486,
+    "gn:population":142486,
     "iso:country":"BA",
+    "lbl:bbox":"18.64709,44.51842,18.68709,44.55842",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -220,7 +223,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0437\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donja Tuzla"
     ],
     "name:urd_x_preferred":[
@@ -351,7 +354,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3188582,
-        "qs:id":147080,
+        "qs_pg:id":147080,
         "wd:id":"Q174684",
         "wk:page":"Tuzla"
     },
@@ -368,7 +371,7 @@
         }
     ],
     "wof:id":890519041,
-    "wof:lastmodified":1563287532,
+    "wof:lastmodified":1566605347,
     "wof:name":"Tuzla",
     "wof:parent_id":1108759271,
     "wof:placetype":"locality",

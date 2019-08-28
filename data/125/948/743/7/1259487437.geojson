@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.63098,43.30574,17.67098,43.34574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Jare"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1259487437,
-    "wof:lastmodified":1564148782,
+    "wof:lastmodified":1566605576,
     "wof:name":"Jare",
     "wof:parent_id":1108759231,
     "wof:placetype":"locality",

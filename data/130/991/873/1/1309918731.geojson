@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.28201,44.63516,17.32201,44.67516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Jasik"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1309918731,
-    "wof:lastmodified":1564148089,
+    "wof:lastmodified":1566605294,
     "wof:name":"Jasik",
     "wof:parent_id":1108759045,
     "wof:placetype":"locality",

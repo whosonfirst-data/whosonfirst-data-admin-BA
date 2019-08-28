@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.99208,44.72663,17.03208,44.76663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3250095
     },
     "wof:country":"BA",
-    "wof:geomhash":"ae67b0aeab43fc5bde71ea27f6f12062",
+    "wof:geomhash":"77712e7be2e84305ca19cf6a3eda0c61",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209317821,
-    "wof:lastmodified":1536290802,
+    "wof:lastmodified":1566604817,
     "wof:name":"Copici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.012079999999994,
+    17.01207999999999,
     44.74663,
-    17.012079999999994,
+    17.01207999999999,
     44.74663
 ],
   "geometry": {"coordinates":[17.01207999999999,44.74663],"type":"Point"}

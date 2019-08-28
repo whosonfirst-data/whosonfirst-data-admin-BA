@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"15.83841,44.96366,15.87841,45.00366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kapi\u0107i"
     ],
@@ -41,9 +45,6 @@
         "\u041a\u0430\u043f\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Kapi\u0107i"
-    ],
-    "name:und_x_variant":[
         "Kapi\u0107i"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1310615275,
-    "wof:lastmodified":1564147872,
+    "wof:lastmodified":1566605209,
     "wof:name":"Kapici",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

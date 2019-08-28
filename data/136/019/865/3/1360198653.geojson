@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.46563,44.65409,18.50563,44.69409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Behrami"
     ],
@@ -41,8 +45,7 @@
         "Behrami"
     ],
     "name:und_x_variant":[
-        "Behremi",
-        "Behrami"
+        "Behremi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1360198653,
-    "wof:lastmodified":1564148077,
+    "wof:lastmodified":1566605290,
     "wof:name":"Behrami",
     "wof:parent_id":1108759243,
     "wof:placetype":"locality",

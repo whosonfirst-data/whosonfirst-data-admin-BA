@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.50364,44.77352,17.54364,44.81352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Brane\u0161ci Gornji"
     ],
@@ -44,8 +48,7 @@
         "Brane\u0161ci Gornji"
     ],
     "name:und_x_variant":[
-        "Gornji Brane\u0161ci",
-        "Brane\u0161ci Gornji"
+        "Gornji Brane\u0161ci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1327038845,
-    "wof:lastmodified":1564145393,
+    "wof:lastmodified":1566604211,
     "wof:name":"Branesci Gornji",
     "wof:parent_id":1108759045,
     "wof:placetype":"locality",

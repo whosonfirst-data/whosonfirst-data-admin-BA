@@ -11,10 +11,14 @@
     "geom:longitude":18.69322,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":4780,
+    "gn:population":4780,
     "iso:country":"BA",
+    "lbl:bbox":"18.67322,44.54226,18.71322,44.58226",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Solina",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3190357,
-        "qs:id":147119
+        "qs_pg:id":147119
     },
     "wof:country":"BA",
     "wof:created":1469056090,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890519045,
-    "wof:lastmodified":1505343912,
+    "wof:lastmodified":1566605349,
     "wof:name":"Solina",
     "wof:parent_id":1108759271,
     "wof:placetype":"locality",

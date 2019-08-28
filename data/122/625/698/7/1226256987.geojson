@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.53514,44.75236,16.57514,44.79236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Nok"
     ],
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1226256987,
-    "wof:lastmodified":1564149217,
+    "wof:lastmodified":1566605741,
     "wof:name":"Cam",
     "wof:parent_id":1108759219,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":19.02028,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3452,
+    "gn:population":3452,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"19.00028,44.64361,19.04028,44.68361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ugljevik"
     ],
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3188532,
         "gp:id":944357,
-        "qs:id":147095,
+        "qs_pg:id":147095,
         "wd:id":"Q1027516",
         "wk:page":"Ugljevik"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890518849,
-    "wof:lastmodified":1563287624,
+    "wof:lastmodified":1566605364,
     "wof:name":"Ugljevik",
     "wof:parent_id":1108759273,
     "wof:placetype":"locality",

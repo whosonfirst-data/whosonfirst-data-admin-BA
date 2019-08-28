@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":44.511994,
     "lbl:longitude":18.588042,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.512909,
     "mps:longitude":18.570369,
     "mz:hierarchy_label":1,
@@ -160,7 +161,7 @@
         "Tuzla kanton"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bc2\u0bb8\u0bcd\u0bb2  \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
+        "\u0b9f\u0bc2\u0bb8\u0bcd\u0bb2 \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c41\u0c1c\u0c4d\u0c32\u0c3e \u0c15\u0c3e\u0c02\u0c1f\u0c28\u0c4d"
@@ -174,13 +175,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0437\u043b\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d"
     ],
-    "name:und_x_preferred":[
-        "Tuzlanski Kanton"
-    ],
     "name:und_x_variant":[
-        "Tuzla"
-    ],
-    "name:unk_x_variant":[
         "Kanton 3"
     ],
     "name:urd_x_preferred":[
@@ -265,7 +260,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"BA-03",
     "wof:belongsto":[
         102191581,
@@ -277,7 +272,7 @@
         "gn:id":3343716,
         "gp:id":24551278,
         "hasc:id":"BA.BF",
-        "qs:id":1287915,
+        "qs_pg:id":1287915,
         "unlc:id":"BA-03",
         "wd:id":"Q18250",
         "wk:page":"Tuzla Canton"
@@ -292,9 +287,6 @@
         }
     ],
     "wof:id":85669225,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "bos",
         "srp",
@@ -305,7 +297,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1563285723,
+    "wof:lastmodified":1566604467,
     "wof:name":"Tuzla",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

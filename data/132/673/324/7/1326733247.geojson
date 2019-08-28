@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.02334,44.98117,18.06334,45.02117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Donji Vi\u0161njik"
     ],
@@ -50,8 +54,7 @@
         "Donji Vi\u0161njik"
     ],
     "name:und_x_variant":[
-        "Vi\u0161njik",
-        "Donji Vi\u0161njik"
+        "Vi\u0161njik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1326733247,
-    "wof:lastmodified":1564145199,
+    "wof:lastmodified":1566604132,
     "wof:name":"Donji Visnjik",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

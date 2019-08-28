@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.89886,43.50198,18.93886,43.54198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vuku\u0161i\u0107i"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0443\u043a\u0443\u0448\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Vuku\u0161i\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1293107647,
-    "wof:lastmodified":1564146423,
+    "wof:lastmodified":1566604636,
     "wof:name":"Vukusici",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

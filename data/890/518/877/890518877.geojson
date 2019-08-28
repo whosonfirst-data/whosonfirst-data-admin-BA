@@ -11,11 +11,15 @@
     "geom:longitude":17.70083,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":5718,
+    "gn:population":5718,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.68083,43.20861,17.72083,43.24861",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010citluk"
     ],
@@ -120,7 +124,7 @@
     "wof:concordances":{
         "gn:id":3202564,
         "gp:id":941121,
-        "qs:id":478631,
+        "qs_pg:id":478631,
         "wd:id":"Q341585",
         "wk:page":"\u010citluk, Bosnia and Herzegovina"
     },
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":890518877,
-    "wof:lastmodified":1563287620,
+    "wof:lastmodified":1566605364,
     "wof:name":"\u010citluk",
     "wof:parent_id":1108759049,
     "wof:placetype":"locality",

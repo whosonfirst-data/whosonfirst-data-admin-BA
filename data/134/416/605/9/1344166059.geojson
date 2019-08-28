@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.44033,45.01073,16.48033,45.05073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Blagaj Japra"
     ],
@@ -44,8 +48,7 @@
         "Blagaj Japra"
     ],
     "name:und_x_variant":[
-        "Blagaj",
-        "Blagaj Japra"
+        "Blagaj"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1344166059,
-    "wof:lastmodified":1564145894,
+    "wof:lastmodified":1566604419,
     "wof:name":"Blagaj Japra",
     "wof:parent_id":1108759011,
     "wof:placetype":"locality",

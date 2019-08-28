@@ -11,11 +11,15 @@
     "geom:longitude":18.20667,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":7173,
+    "gn:population":7173,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.18667,43.80222,18.22667,43.84222",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Had\u017ei\u0107i"
     ],
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3199438,
         "gp:id":942010,
-        "qs:id":1044047,
+        "qs_pg:id":1044047,
         "wd:id":"Q939528",
         "wk:page":"Had\u017ei\u0107i"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890518811,
-    "wof:lastmodified":1563287572,
+    "wof:lastmodified":1566605356,
     "wof:name":"Had\u017ei\u0107i",
     "wof:parent_id":1108759101,
     "wof:placetype":"locality",

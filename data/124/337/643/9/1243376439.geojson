@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.42593,43.6458,18.46593,43.6858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Trnovo"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1243376439,
-    "wof:lastmodified":1564148278,
+    "wof:lastmodified":1566605388,
     "wof:name":"Trnovo",
     "wof:parent_id":1108759269,
     "wof:placetype":"locality",

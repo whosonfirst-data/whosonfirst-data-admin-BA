@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.57363,44.19671,16.61363,44.23671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tice",
         "Ti\u0107ina Draga"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360188571,
-    "wof:lastmodified":1537585640,
+    "wof:lastmodified":1566605260,
     "wof:name":"Ticina Draga",
     "wof:parent_id":1108759019,
     "wof:placetype":"locality",

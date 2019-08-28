@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.15611,42.93361,18.19611,42.97361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0434\u0438\u043c\u0438\u043b\u044f"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1226055617,
-    "wof:lastmodified":1564149098,
+    "wof:lastmodified":1566605695,
     "wof:name":"Radimlja",
     "wof:parent_id":1108759155,
     "wof:placetype":"locality",

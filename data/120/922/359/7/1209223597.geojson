@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.48997,43.64618,19.52997,43.68618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3302861
     },
     "wof:country":"BA",
-    "wof:geomhash":"7405852b31bcdf8de16e8e5e676b540a",
+    "wof:geomhash":"f398a8115a759d705530500e817d0b3a",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209223597,
-    "wof:lastmodified":1536293875,
+    "wof:lastmodified":1566604893,
     "wof:name":"Drazevina",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.509970000000006,
+    19.50997000000001,
     43.66618,
-    19.509970000000006,
+    19.50997000000001,
     43.66618
 ],
   "geometry": {"coordinates":[19.50997000000001,43.66618],"type":"Point"}

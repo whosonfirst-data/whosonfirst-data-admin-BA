@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.50111,45.00778,16.54111,45.04778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259486303,
-    "wof:lastmodified":1536853605,
+    "wof:lastmodified":1566605575,
     "wof:name":"Vitasovci",
     "wof:parent_id":1108759011,
     "wof:placetype":"locality",

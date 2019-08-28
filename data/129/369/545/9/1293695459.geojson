@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.42917,44.10139,19.46917,44.14139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vo\u0161njak",
         "O\u0161njak"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293695459,
-    "wof:lastmodified":1537585653,
+    "wof:lastmodified":1566604573,
     "wof:name":"Osnjak",
     "wof:parent_id":1108759021,
     "wof:placetype":"locality",

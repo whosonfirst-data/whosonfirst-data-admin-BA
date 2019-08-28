@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.7266,44.36853,18.7666,44.40853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u0430"
     ],
@@ -47,8 +51,7 @@
         "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Zloselo",
-        "Zelenika"
+        "Zloselo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1293404199,
-    "wof:lastmodified":1564146194,
+    "wof:lastmodified":1566604542,
     "wof:name":"Zelenika",
     "wof:parent_id":1108759301,
     "wof:placetype":"locality",

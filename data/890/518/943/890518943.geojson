@@ -11,11 +11,15 @@
     "geom:longitude":17.76167,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":6209,
+    "gn:population":6209,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"17.74167,43.64028,17.78167,43.68028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jablanica"
     ],
@@ -150,7 +154,7 @@
     "wof:concordances":{
         "gn:id":3344411,
         "gp:id":942116,
-        "qs:id":1351968,
+        "qs_pg:id":1351968,
         "wd:id":"Q1666734",
         "wk:page":"Jablanica"
     },
@@ -167,7 +171,7 @@
         }
     ],
     "wof:id":890518943,
-    "wof:lastmodified":1563287655,
+    "wof:lastmodified":1566605369,
     "wof:name":"Jablanica",
     "wof:parent_id":1108759111,
     "wof:placetype":"locality",

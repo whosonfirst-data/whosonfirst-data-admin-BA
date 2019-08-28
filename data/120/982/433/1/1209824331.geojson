@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.14366,44.56954,19.18366,44.60954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ivani\u0107i",
         "Ivanovi\u0107i",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209824331,
-    "wof:lastmodified":1537585652,
+    "wof:lastmodified":1566604888,
     "wof:name":"Ivanic Mala",
     "wof:parent_id":1108759303,
     "wof:placetype":"locality",

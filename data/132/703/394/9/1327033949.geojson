@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.77977,43.63409,17.81977,43.67409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Krstac"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327033949,
-    "wof:lastmodified":1564145392,
+    "wof:lastmodified":1566604211,
     "wof:name":"Krstac",
     "wof:parent_id":1108759111,
     "wof:placetype":"locality",

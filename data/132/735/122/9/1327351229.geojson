@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.64152,43.62994,18.68152,43.66994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ra\u010di\u0107i"
     ],
@@ -32,9 +36,6 @@
         "Ra\u010di\u0107i"
     ],
     "name:hrv_x_preferred":[
-        "Ra\u010di\u0107i"
-    ],
-    "name:und_x_variant":[
         "Ra\u010di\u0107i"
     ],
     "src:geom":"geonames",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1327351229,
-    "wof:lastmodified":1564145377,
+    "wof:lastmodified":1566604206,
     "wof:name":"Racici",
     "wof:parent_id":1108759071,
     "wof:placetype":"locality",

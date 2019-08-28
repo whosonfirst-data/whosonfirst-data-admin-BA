@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.01841,44.81705,18.05841,44.85705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lusici"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242979687,
-    "wof:lastmodified":1564148595,
+    "wof:lastmodified":1566605507,
     "wof:name":"Lusici",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

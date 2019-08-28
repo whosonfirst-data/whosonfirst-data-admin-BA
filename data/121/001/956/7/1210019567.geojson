@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.99703,44.30349,17.03703,44.34349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210019567,
-    "wof:lastmodified":1536393495,
+    "wof:lastmodified":1566604981,
     "wof:name":"Rosici",
     "wof:parent_id":1108759175,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":17.87855,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":8312,
+    "gn:population":8312,
     "iso:country":"BA",
+    "lbl:bbox":"17.85855,43.38953,17.89855,43.42953",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Potoci"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3192653,
         "gp:id":943511,
-        "qs:id":1043980,
+        "qs_pg:id":1043980,
         "wd:id":"Q1253417",
         "wk:page":"Potoci"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890518789,
-    "wof:lastmodified":1563287652,
+    "wof:lastmodified":1566605369,
     "wof:name":"Potoci",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

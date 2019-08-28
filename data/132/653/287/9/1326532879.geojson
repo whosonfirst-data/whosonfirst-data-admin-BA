@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.85817,43.35775,18.89817,43.39775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Toholji"
     ],
@@ -38,8 +42,7 @@
         "\u0422\u043e\u0445\u043e\u0459\u0438"
     ],
     "name:und_x_variant":[
-        "Toholj",
-        "Toholji"
+        "Toholj"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1326532879,
-    "wof:lastmodified":1564145502,
+    "wof:lastmodified":1566604256,
     "wof:name":"Toholji",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

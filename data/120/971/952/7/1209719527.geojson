@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.22832,43.49417,18.26832,43.53417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0644\u0648\u0634\u0627"
     ],
@@ -46,8 +50,7 @@
     "name:und_x_variant":[
         "Velcu\u0161a",
         "Veleu\u0161a",
-        "Velu\u0161e",
-        "Velu\u0161a"
+        "Velu\u0161e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1209719527,
-    "wof:lastmodified":1564147038,
+    "wof:lastmodified":1566604876,
     "wof:name":"Velusa",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

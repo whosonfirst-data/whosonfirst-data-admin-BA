@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.20465,43.99134,18.24465,44.03134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vratnica",
         "Gornja Vratnica"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327248961,
-    "wof:lastmodified":1537585631,
+    "wof:lastmodified":1566604180,
     "wof:name":"Gornja Vratnica",
     "wof:parent_id":1108759285,
     "wof:placetype":"locality",

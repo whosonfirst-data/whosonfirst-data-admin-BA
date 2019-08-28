@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.93099,44.41437,18.97099,44.45437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Staro Selo"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1242687371,
-    "wof:lastmodified":1564148372,
+    "wof:lastmodified":1566605424,
     "wof:name":"Staro Selo",
     "wof:parent_id":1108759121,
     "wof:placetype":"locality",

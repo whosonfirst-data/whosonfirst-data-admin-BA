@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.32672,42.96832,18.36672,43.00832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Pa\u0111eni"
     ],
@@ -41,8 +45,7 @@
         "\u041f\u0430\u0452\u0435\u043d\u0438"
     ],
     "name:und_x_variant":[
-        "Padjeni",
-        "Pa\u0111eni"
+        "Padjeni"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209323455,
-    "wof:lastmodified":1564147164,
+    "wof:lastmodified":1566604922,
     "wof:name":"Padeni",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

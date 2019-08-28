@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.77868,44.74447,18.81868,44.78447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dubravice Gornje"
     ],
@@ -46,8 +50,7 @@
     "name:und_x_variant":[
         "Srpske Dubravice",
         "Dubravice Pravoslavne",
-        "Dubravice",
-        "Dubravice Gornje"
+        "Dubravice"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1243207131,
-    "wof:lastmodified":1564148601,
+    "wof:lastmodified":1566605509,
     "wof:name":"Dubravice Gornje",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.1006,43.75947,19.1406,43.79947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Hadrovi\u0107i"
     ],
@@ -38,7 +42,6 @@
         "\u0410\u0434\u0440\u043e\u0432\u0438\u045b\u0438"
     ],
     "name:und_x_variant":[
-        "Hadrovi\u0107i",
         "Adrovi\u0107i"
     ],
     "src:geom":"geonames",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1260195947,
-    "wof:lastmodified":1564147532,
+    "wof:lastmodified":1566605073,
     "wof:name":"Adrovici",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

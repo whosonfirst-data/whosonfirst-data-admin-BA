@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.28606,44.38332,17.32606,44.42332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225862461,
-    "wof:lastmodified":1536988750,
+    "wof:lastmodified":1566605725,
     "wof:name":"Benek",
     "wof:parent_id":1108759115,
     "wof:placetype":"locality",

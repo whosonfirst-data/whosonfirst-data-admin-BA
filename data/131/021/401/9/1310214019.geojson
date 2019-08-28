@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.62307,43.14217,18.66307,43.18217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Beru\u0161ica"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0440\u0443\u0448\u0438\u0446\u0430"
-    ],
-    "name:und_x_variant":[
-        "Beru\u0161ica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1310214019,
-    "wof:lastmodified":1564147839,
+    "wof:lastmodified":1566605196,
     "wof:name":"Berusica",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

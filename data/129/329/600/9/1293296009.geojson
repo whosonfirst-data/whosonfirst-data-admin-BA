@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.16269,44.04636,17.20269,44.08636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mr\u0111anovci"
     ],
@@ -39,7 +43,6 @@
     ],
     "name:und_x_variant":[
         "Mr\u0111aanovci",
-        "Mr\u0111anovci",
         "Mr\u0111enovci"
     ],
     "src:geom":"geonames",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1293296009,
-    "wof:lastmodified":1564146393,
+    "wof:lastmodified":1566604624,
     "wof:name":"Mrdenovci",
     "wof:parent_id":1108759147,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.04047,44.17131,17.08047,44.21131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3260837
     },
     "wof:country":"BA",
-    "wof:geomhash":"cb068b4151835bd0f0cd81cf3ce3d14d",
+    "wof:geomhash":"1906c36c5679856c1888c47a40858f58",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209017107,
-    "wof:lastmodified":1536300261,
+    "wof:lastmodified":1566604845,
     "wof:name":"Rodusa",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.060470000000002,
+    17.06047,
     44.19131,
-    17.060470000000002,
+    17.06047,
     44.19131
 ],
   "geometry": {"coordinates":[17.06047,44.19131],"type":"Point"}

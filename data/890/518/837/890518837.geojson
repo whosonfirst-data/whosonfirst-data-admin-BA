@@ -11,11 +11,15 @@
     "geom:longitude":16.86329,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4371,
+    "gn:population":4371,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"16.84329,43.75414,16.88329,43.79414",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Orguz"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3194013,
         "gp:id":943200,
-        "qs:id":1085462,
+        "qs_pg:id":1085462,
         "wd:id":"Q3042786",
         "wk:page":"Orguz"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890518837,
-    "wof:lastmodified":1563287635,
+    "wof:lastmodified":1566605366,
     "wof:name":"Orguz",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

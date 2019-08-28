@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.28681,43.3292,17.32681,43.3692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276557499,
-    "wof:lastmodified":1536975080,
+    "wof:lastmodified":1566604797,
     "wof:name":"Ploca",
     "wof:parent_id":1108759099,
     "wof:placetype":"locality",

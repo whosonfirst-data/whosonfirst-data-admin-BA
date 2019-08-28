@@ -11,11 +11,15 @@
     "geom:longitude":19.29256,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":6087,
+    "gn:population":6087,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"19.27256,43.7626,19.31256,43.8026",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u0634\u063a\u0631\u0627\u062f"
     ],
@@ -157,9 +161,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u0435\u0433\u0440\u0430\u0434"
     ],
-    "name:unk_x_variant":[
-        "Vi\u0161egrad"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0634\u06cc\u06af\u0631\u0627\u062f"
     ],
@@ -188,7 +189,7 @@
     "wof:concordances":{
         "gn:id":3187681,
         "gp:id":944494,
-        "qs:id":147079,
+        "qs_pg:id":147079,
         "wd:id":"Q239266"
     },
     "wof:country":"BA",
@@ -204,7 +205,7 @@
         }
     ],
     "wof:id":890518847,
-    "wof:lastmodified":1563287625,
+    "wof:lastmodified":1566605365,
     "wof:name":"Vi\u00b5egrad",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

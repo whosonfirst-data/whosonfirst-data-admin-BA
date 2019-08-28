@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.5493,44.01486,18.5893,44.05486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u010cetojevi\u0107i"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0427\u0435\u0442\u043e\u0458\u0435\u0432\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "\u010cetojevi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1242795351,
-    "wof:lastmodified":1564148521,
+    "wof:lastmodified":1566605478,
     "wof:name":"Cetojevici",
     "wof:parent_id":1108759109,
     "wof:placetype":"locality",

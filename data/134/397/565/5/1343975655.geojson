@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.31597,43.65533,18.35597,43.69533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ledi\u0107i"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0435\u0434\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Ledi\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1343975655,
-    "wof:lastmodified":1564145642,
+    "wof:lastmodified":1566604317,
     "wof:name":"Ledici",
     "wof:parent_id":1108759267,
     "wof:placetype":"locality",

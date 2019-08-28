@@ -11,10 +11,14 @@
     "geom:longitude":15.87361,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":6665,
+    "gn:population":6665,
     "iso:country":"BA",
+    "lbl:bbox":"15.85361,45.15417,15.89361,45.19417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062f\u0632\u0641\u064a\u0632\u062f"
     ],
@@ -53,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3192878,
-        "qs:id":1043991,
+        "qs_pg:id":1043991,
         "wd:id":"Q3393154"
     },
     "wof:country":"BA",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890518697,
-    "wof:lastmodified":1563287632,
+    "wof:lastmodified":1566605366,
     "wof:name":"Podzvizd",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

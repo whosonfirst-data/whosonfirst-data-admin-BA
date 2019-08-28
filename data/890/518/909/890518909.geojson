@@ -11,10 +11,13 @@
     "geom:longitude":17.19012,
     "gn:country":"BA",
     "gn:fcode":"PPLX",
-    "gn:pop":5400,
+    "gn:population":5400,
     "iso:country":"BA",
+    "lbl:bbox":"17.18512,44.75824,17.19512,44.76824",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Mejdan - Obili\u0107evo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8335444,
-        "qs:id":764346
+        "qs_pg:id":764346
     },
     "wof:country":"BA",
     "wof:created":1469056084,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":890518909,
-    "wof:lastmodified":1505343911,
+    "wof:lastmodified":1566605352,
     "wof:name":"Mejdan - Obili\u0107evo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

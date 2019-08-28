@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.32937,44.64412,17.36937,44.68412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Podbr\u0111e"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Podbrdje",
-        "Podbrgje",
-        "Podbr\u0111e"
+        "Podbrgje"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1292916365,
-    "wof:lastmodified":1564146325,
+    "wof:lastmodified":1566604597,
     "wof:name":"Podbrde",
     "wof:parent_id":1108759141,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.76754,43.42479,18.80754,43.46479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Biroti\u0107i"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0438\u0440\u043e\u0442\u0438\u045b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Biroti\u0107i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1293209133,
-    "wof:lastmodified":1564146350,
+    "wof:lastmodified":1566604607,
     "wof:name":"Birotici",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

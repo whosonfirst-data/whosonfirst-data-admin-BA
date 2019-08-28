@@ -11,10 +11,14 @@
     "geom:longitude":17.8029,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":5159,
+    "gn:population":5159,
     "iso:country":"BA",
+    "lbl:bbox":"17.7829,43.29453,17.8229,43.33453",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rodo\u010d"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3191589,
         "gp:id":942994,
-        "qs:id":1043950,
+        "qs_pg:id":1043950,
         "wd:id":"Q3035854",
         "wk:page":"Rodo\u010d"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890518647,
-    "wof:lastmodified":1563287623,
+    "wof:lastmodified":1566605364,
     "wof:name":"Rodo\u010d",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

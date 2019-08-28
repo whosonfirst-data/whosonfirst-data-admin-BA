@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.9501,44.80325,16.9901,44.84325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Slavi\u0107ka"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1193278889,
-    "wof:lastmodified":1564147422,
+    "wof:lastmodified":1566605031,
     "wof:name":"Slavicka",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

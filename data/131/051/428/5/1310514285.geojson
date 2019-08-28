@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.76446,43.35469,18.80446,43.39469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kosman"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310514285,
-    "wof:lastmodified":1564147925,
+    "wof:lastmodified":1566605228,
     "wof:name":"Kosman",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

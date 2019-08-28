@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.0012,45.08983,18.0412,45.12983",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kri\u010danovo"
     ],
@@ -44,9 +48,6 @@
         "\u041a\u0440\u0438\u0447\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:swe_x_preferred":[
-        "Kri\u010danovo"
-    ],
-    "name:und_x_variant":[
         "Kri\u010danovo"
     ],
     "src:geom":"geonames",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1242586421,
-    "wof:lastmodified":1564148416,
+    "wof:lastmodified":1566605440,
     "wof:name":"Kricanovo",
     "wof:parent_id":1108759009,
     "wof:placetype":"locality",

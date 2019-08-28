@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.77094,44.44999,18.81094,44.48999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Suhopolje"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1209429167,
-    "wof:lastmodified":1564147243,
+    "wof:lastmodified":1566604954,
     "wof:name":"Suhopolje",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.90341,43.64149,18.94341,43.68149",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zavr\u0161je"
     ],
     "name:fra_x_preferred":[
-        "Zavr\u0161je"
-    ],
-    "name:und_x_variant":[
         "Zavr\u0161je"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1242591865,
-    "wof:lastmodified":1564148400,
+    "wof:lastmodified":1566605435,
     "wof:name":"Zavrsje",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",

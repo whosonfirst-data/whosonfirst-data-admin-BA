@@ -11,11 +11,15 @@
     "geom:longitude":18.40477,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":3782,
+    "gn:population":3782,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.38477,44.78234,18.42477,44.82234",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Donja Me\u0111i\u0111a"
     ],
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Donja Me\u0111i\u0111a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donja Medjedja"
     ],
     "qs:name":"Donja Me\u00f0i\u00f0a",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3201660,
         "gp:id":941333,
-        "qs:id":1283444,
+        "qs_pg:id":1283444,
         "wd:id":"Q3036371",
         "wk:page":"Donja Me\u0111i\u0111a"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890519083,
-    "wof:lastmodified":1563287532,
+    "wof:lastmodified":1566605347,
     "wof:name":"Donja Me\u00f0i\u00f0a",
     "wof:parent_id":1108759093,
     "wof:placetype":"locality",

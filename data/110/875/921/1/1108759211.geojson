@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":43.798285,
     "lbl:longitude":17.566354,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Federacija Bih",
     "meso:admin_2":"Herzegovia-Neretva",
     "meso:gadm_adm2":"Herzegovina-Neretva",
@@ -34,16 +36,17 @@
     "mps:longitude":17.566354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Prozor"
     ],
     "name:und_x_variant":[
-        "Prozor /  Prozor-rama"
+        "Prozor / Prozor-rama"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1961-01-01",
+    "src:population_date":"1961-01-01",
     "statoids:area_km":"477",
     "statoids:as_of_date":"1961-01-01",
     "statoids:capital":"",
@@ -75,8 +78,8 @@
         }
     ],
     "wof:id":1108759211,
-    "wof:lastmodified":1553718710,
-    "wof:name":"Prozor /  Prozor-rama",
+    "wof:lastmodified":1566605106,
+    "wof:name":"Prozor / Prozor-rama",
     "wof:parent_id":85669221,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

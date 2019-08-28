@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.23825,44.79906,17.27825,44.83906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Prije\u010dani"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344070115,
-    "wof:lastmodified":1537585662,
+    "wof:lastmodified":1566604336,
     "wof:name":"Prijecani",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

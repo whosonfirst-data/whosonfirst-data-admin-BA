@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.23722,43.89694,18.27722,43.93694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gornja Bio\u010da"
     ],
@@ -35,9 +39,6 @@
         "Gornja Bio\u010da"
     ],
     "name:pol_x_preferred":[
-        "Gornja Bio\u010da"
-    ],
-    "name:und_x_variant":[
         "Gornja Bio\u010da"
     ],
     "src:geom":"geonames",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1259386743,
-    "wof:lastmodified":1564148698,
+    "wof:lastmodified":1566605545,
     "wof:name":"Gornja Bioca",
     "wof:parent_id":1108759109,
     "wof:placetype":"locality",

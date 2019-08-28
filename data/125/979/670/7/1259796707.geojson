@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.05351,45.0961,17.09351,45.1361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Milo\u0161evo Brdo"
     ],
@@ -41,10 +45,6 @@
         "\u041c\u0438\u043b\u043e\u0448\u0435\u0432\u043e \u0411\u0440\u0434\u043e"
     ],
     "name:swe_x_preferred":[
-        "Brdo-Milo\u0161evo"
-    ],
-    "name:und_x_variant":[
-        "Milo\u0161evo Brdo",
         "Brdo-Milo\u0161evo"
     ],
     "src:geom":"geonames",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1259796707,
-    "wof:lastmodified":1564148803,
+    "wof:lastmodified":1566605584,
     "wof:name":"Brdo-Milosevo",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.73021,44.67718,18.77021,44.71718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kastel"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1259797769,
-    "wof:lastmodified":1564148798,
+    "wof:lastmodified":1566605582,
     "wof:name":"Kastel",
     "wof:parent_id":1108759043,
     "wof:placetype":"locality",

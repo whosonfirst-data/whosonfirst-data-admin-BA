@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.12354,44.36969,16.16354,44.40969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3277347
     },
     "wof:country":"BA",
-    "wof:geomhash":"fa4a43244a093cec54016951d04c0ba3",
+    "wof:geomhash":"db774515fdad400a412458eb925105f9",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209110203,
-    "wof:lastmodified":1536297432,
+    "wof:lastmodified":1566604940,
     "wof:name":"Radenovici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.143539999999998,
+    16.14354,
     44.38969,
-    16.143539999999998,
+    16.14354,
     44.38969
 ],
   "geometry": {"coordinates":[16.14354,44.38969],"type":"Point"}

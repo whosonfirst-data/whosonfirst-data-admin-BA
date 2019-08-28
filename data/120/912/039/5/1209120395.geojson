@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.75267,43.28904,17.79267,43.32904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Varda"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1209120395,
-    "wof:lastmodified":1564147023,
+    "wof:lastmodified":1566604869,
     "wof:name":"Varda",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

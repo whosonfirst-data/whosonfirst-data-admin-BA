@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.56189,44.73911,18.60189,44.77911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243485623,
-    "wof:lastmodified":1536748939,
+    "wof:lastmodified":1566605463,
     "wof:name":"Sukani",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

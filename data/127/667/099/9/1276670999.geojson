@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"19.03856,43.73245,19.07856,43.77245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vratisali\u0107i",
         "Vratisali\u0107",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276670999,
-    "wof:lastmodified":1537585550,
+    "wof:lastmodified":1566604729,
     "wof:name":"Vratsalici",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

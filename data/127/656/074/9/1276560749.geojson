@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.8249,44.39723,16.8649,44.43723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Velija\u0161nica"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u0438\u0458\u0430\u0448\u043d\u0438\u0446\u0430"
-    ],
-    "name:und_x_variant":[
-        "Velija\u0161nica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1276560749,
-    "wof:lastmodified":1564146634,
+    "wof:lastmodified":1566604722,
     "wof:name":"Velijasnica",
     "wof:parent_id":1108759135,
     "wof:placetype":"locality",

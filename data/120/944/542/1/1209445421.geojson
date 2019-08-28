@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.53192,44.76593,18.57192,44.80593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3252848
     },
     "wof:country":"BA",
-    "wof:geomhash":"2b631994418acbff3a0c0ffc0bd0d4cd",
+    "wof:geomhash":"ebc9bc29ba6ea29ca473b0c6c155ad07",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209445421,
-    "wof:lastmodified":1536286833,
+    "wof:lastmodified":1566604963,
     "wof:name":"Brdani",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.551920000000006,
+    18.55192000000001,
     44.78593,
-    18.551920000000006,
+    18.55192000000001,
     44.78593
 ],
   "geometry": {"coordinates":[18.55192000000001,44.78593],"type":"Point"}

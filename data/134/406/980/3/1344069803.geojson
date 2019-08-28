@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.71456,43.97575,18.75456,44.01575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bukovik"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1344069803,
-    "wof:lastmodified":1564145672,
+    "wof:lastmodified":1566604331,
     "wof:name":"Bukovik",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

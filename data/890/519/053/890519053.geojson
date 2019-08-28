@@ -11,11 +11,15 @@
     "geom:longitude":15.95444,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":6860,
+    "gn:population":6860,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"15.93444,45.14369,15.97444,45.18369",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0646\u0648\u063a\u0631\u0627\u062a\u0634"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3187162,
         "gp:id":944622,
-        "qs:id":1283597,
+        "qs_pg:id":1283597,
         "wd:id":"Q3118032",
         "wk:page":"Vrnogra\u010d"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890519053,
-    "wof:lastmodified":1563287535,
+    "wof:lastmodified":1566605348,
     "wof:name":"Vrnogra\u010d",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

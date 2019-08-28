@@ -11,10 +11,14 @@
     "geom:longitude":17.52331,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":7380,
+    "gn:population":7380,
     "iso:country":"BA",
+    "lbl:bbox":"17.50331,45.0773,17.54331,45.1173",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0440\u0431\u0430\u0446"
     ],
@@ -78,7 +82,7 @@
     "name:tur_x_preferred":[
         "Srbac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Srpac"
     ],
     "name:urd_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3190172,
         "gp:id":944042,
-        "qs:id":1043914,
+        "qs_pg:id":1043914,
         "wd:id":"Q995071",
         "wk:page":"Srbac"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":890518695,
-    "wof:lastmodified":1563287590,
+    "wof:lastmodified":1566605359,
     "wof:name":"Srbac",
     "wof:parent_id":1108759237,
     "wof:placetype":"locality",

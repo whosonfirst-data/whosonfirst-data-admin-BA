@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.63615,43.55883,18.67615,43.59883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kolun"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1292916575,
-    "wof:lastmodified":1564146312,
+    "wof:lastmodified":1566604591,
     "wof:name":"Kolun",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.85457,44.46299,16.89457,44.50299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dragoraj"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209528455,
-    "wof:lastmodified":1564146974,
+    "wof:lastmodified":1566604850,
     "wof:name":"Dragoraj",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

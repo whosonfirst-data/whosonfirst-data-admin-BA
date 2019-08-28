@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.72227,44.8303,17.76227,44.8703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293013627,
-    "wof:lastmodified":1536972684,
+    "wof:lastmodified":1566604489,
     "wof:name":"Gatarici",
     "wof:parent_id":1108759209,
     "wof:placetype":"locality",

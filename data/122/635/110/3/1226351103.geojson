@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.99666,44.76817,19.03666,44.80817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226351103,
-    "wof:lastmodified":1536782152,
+    "wof:lastmodified":1566605714,
     "wof:name":"Bogdanovic-Mahala",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

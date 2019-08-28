@@ -11,10 +11,14 @@
     "geom:longitude":17.68444,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":7923,
+    "gn:population":7923,
     "iso:country":"BA",
+    "lbl:bbox":"17.66444,43.10139,17.70444,43.14139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0644\u062e\u064a\u0646\u0627"
     ],
@@ -136,13 +140,13 @@
     "wof:concordances":{
         "gn:id":3202873,
         "gp:id":941028,
-        "qs:id":1044064,
+        "qs_pg:id":1044064,
         "wd:id":"Q337683",
         "wk:page":"\u010capljina"
     },
     "wof:concordances_alt":{
         "gn:id":3261342,
-        "qs:id":1117299
+        "qs_pg:id":1117299
     },
     "wof:country":"BA",
     "wof:created":1469056080,
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":890518823,
-    "wof:lastmodified":1563287621,
+    "wof:lastmodified":1566605364,
     "wof:name":"\u010capljina",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

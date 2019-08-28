@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.26158,43.1844,18.30158,43.2244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260293639,
-    "wof:lastmodified":1536698451,
+    "wof:lastmodified":1566605061,
     "wof:name":"Kruska",
     "wof:parent_id":1108759179,
     "wof:placetype":"locality",

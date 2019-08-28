@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.82019,44.50691,17.86019,44.54691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Komu\u0161ina",
         "Komu\u0161ina Gornja"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225857999,
-    "wof:lastmodified":1537585591,
+    "wof:lastmodified":1566605797,
     "wof:name":"Komusina Gornja",
     "wof:parent_id":1108759259,
     "wof:placetype":"locality",

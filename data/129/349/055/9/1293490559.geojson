@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.16233,43.04739,18.20233,43.08739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293490559,
-    "wof:lastmodified":1536783085,
+    "wof:lastmodified":1566604530,
     "wof:name":"Zecevina",
     "wof:parent_id":1108759251,
     "wof:placetype":"locality",

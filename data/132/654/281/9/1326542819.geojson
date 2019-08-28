@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.4004,43.24695,18.4404,43.28695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jugovi\u0107i",
         "Donji Jugovi\u0107i"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326542819,
-    "wof:lastmodified":1537585666,
+    "wof:lastmodified":1566604264,
     "wof:name":"Donji Jugovici",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

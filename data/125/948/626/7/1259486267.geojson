@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.88409,43.47334,18.92409,43.51334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Osojnica"
     ],
@@ -50,8 +54,7 @@
         "\u041e\u0441\u043e\u0439\u043d\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
-        "Osajnica",
-        "Osojnica"
+        "Osajnica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1259486267,
-    "wof:lastmodified":1564148775,
+    "wof:lastmodified":1566605573,
     "wof:name":"Osojnica",
     "wof:parent_id":1108759073,
     "wof:placetype":"locality",

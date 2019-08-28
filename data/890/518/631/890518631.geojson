@@ -11,10 +11,14 @@
     "geom:longitude":17.90779,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":9773,
+    "gn:population":9773,
     "iso:country":"BA",
+    "lbl:bbox":"17.88779,44.95839,17.92779,44.99839",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0631\u0641\u0646\u062a\u0627"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u0432\u0435\u043d\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dervent"
     ],
     "name:urd_x_preferred":[
@@ -150,7 +154,7 @@
     "wof:concordances":{
         "gn:id":3202081,
         "gp:id":941214,
-        "qs:id":147290,
+        "qs_pg:id":147290,
         "wd:id":"Q768439",
         "wk:page":"Derventa"
     },
@@ -167,7 +171,7 @@
         }
     ],
     "wof:id":890518631,
-    "wof:lastmodified":1563287639,
+    "wof:lastmodified":1566605367,
     "wof:name":"Derventa",
     "wof:parent_id":1108759051,
     "wof:placetype":"locality",

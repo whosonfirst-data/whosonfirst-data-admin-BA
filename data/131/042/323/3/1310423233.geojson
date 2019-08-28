@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.09666,44.21626,18.13666,44.25626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Pedi\u0107i"
     ],
@@ -41,9 +45,6 @@
         "\u041f\u0435\u0434\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Pedi\u0107i"
-    ],
-    "name:und_x_variant":[
         "Pedi\u0107i"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1310423233,
-    "wof:lastmodified":1564147781,
+    "wof:lastmodified":1566605174,
     "wof:name":"Pedici",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",

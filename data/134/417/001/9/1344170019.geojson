@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.02686,45.03771,17.06686,45.07771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gornji Podgradci"
     ],
@@ -47,8 +51,7 @@
         "Gornji Podgradci"
     ],
     "name:und_x_variant":[
-        "Pilana",
-        "Gornji Podgradci"
+        "Pilana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1344170019,
-    "wof:lastmodified":1564145878,
+    "wof:lastmodified":1566604413,
     "wof:name":"Gornji Podgradci",
     "wof:parent_id":1108759001,
     "wof:placetype":"locality",

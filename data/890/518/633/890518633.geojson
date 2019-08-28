@@ -11,10 +11,14 @@
     "geom:longitude":17.78045,
     "gn:country":"BA",
     "gn:fcode":"PPLL",
-    "gn:pop":3966,
+    "gn:population":3966,
     "iso:country":"BA",
+    "lbl:bbox":"17.76045,43.33402,17.80045,43.37402",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Cim"
     ],
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":3202589,
         "gp:id":942994,
-        "qs:id":147299,
+        "qs_pg:id":147299,
         "wd:id":"Q1026605"
     },
     "wof:country":"BA",
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":890518633,
-    "wof:lastmodified":1563287582,
+    "wof:lastmodified":1566605358,
     "wof:name":"Cim",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

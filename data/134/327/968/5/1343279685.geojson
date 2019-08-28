@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.58511,43.11762,17.62511,43.15762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zviri\u0107i"
     ],
@@ -41,9 +45,6 @@
         "\u0417\u0432\u0438\u0440\u0438\u045b\u0438"
     ],
     "name:swe_x_preferred":[
-        "Zviri\u0107i"
-    ],
-    "name:und_x_variant":[
         "Zviri\u0107i"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1343279685,
-    "wof:lastmodified":1564145940,
+    "wof:lastmodified":1566604437,
     "wof:name":"Zvirici",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

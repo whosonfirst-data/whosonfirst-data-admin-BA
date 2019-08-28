@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.28185,44.61285,17.32185,44.65285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243463209,
-    "wof:lastmodified":1536781767,
+    "wof:lastmodified":1566605461,
     "wof:name":"Kerezovici",
     "wof:parent_id":1108759141,
     "wof:placetype":"locality",

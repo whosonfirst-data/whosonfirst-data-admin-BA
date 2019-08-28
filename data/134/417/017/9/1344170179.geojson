@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.57141,44.3649,17.61141,44.4049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b\u0438\u043a\u0438"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1344170179,
-    "wof:lastmodified":1564145884,
+    "wof:lastmodified":1566604415,
     "wof:name":"Palici",
     "wof:parent_id":1108759141,
     "wof:placetype":"locality",

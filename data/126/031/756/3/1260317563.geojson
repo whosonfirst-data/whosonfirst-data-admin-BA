@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.73674,44.82279,18.77674,44.86279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Brka"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1260317563,
-    "wof:lastmodified":1564147449,
+    "wof:lastmodified":1566605042,
     "wof:name":"Brka",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",

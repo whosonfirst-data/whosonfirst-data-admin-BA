@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.99306,43.28083,19.03306,43.32083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Belkine Doline",
         "Radovi\u0107"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209227749,
-    "wof:lastmodified":1537585681,
+    "wof:lastmodified":1566604897,
     "wof:name":"Radovic",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

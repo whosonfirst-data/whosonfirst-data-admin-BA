@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.03511,44.89877,18.07511,44.93877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225947671,
-    "wof:lastmodified":1536865201,
+    "wof:lastmodified":1566605650,
     "wof:name":"Gornji Trnjani",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

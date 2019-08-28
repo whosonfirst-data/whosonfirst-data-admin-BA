@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.86197,44.46837,16.90197,44.50837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3261109
     },
     "wof:country":"BA",
-    "wof:geomhash":"daaa5acfb8fd517ed80a2a824be6581b",
+    "wof:geomhash":"db04f9f0b039696a7709d499099dfddc",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209528673,
-    "wof:lastmodified":1536284352,
+    "wof:lastmodified":1566604854,
     "wof:name":"Stojici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.881970000000006,
+    16.88197000000001,
     44.48837,
-    16.881970000000006,
+    16.88197000000001,
     44.48837
 ],
   "geometry": {"coordinates":[16.88197000000001,44.48837],"type":"Point"}

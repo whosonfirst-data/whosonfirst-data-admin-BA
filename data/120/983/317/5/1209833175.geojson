@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.98528,43.70361,18.02528,43.74361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0648\u0646\u064a\u064a"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0428\u0443\u045a\u0438"
-    ],
-    "name:und_x_variant":[
-        "\u0160unji"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1209833175,
-    "wof:lastmodified":1564147005,
+    "wof:lastmodified":1566604862,
     "wof:name":"Sunji",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

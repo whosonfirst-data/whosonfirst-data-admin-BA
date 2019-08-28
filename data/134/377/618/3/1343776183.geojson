@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.94928,43.99823,17.98928,44.03823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Pobr\u0111e Milodra\u017e"
     ],
@@ -44,8 +48,7 @@
         "Pobr\u0111e Milodra\u017e"
     ],
     "name:und_x_variant":[
-        "Milodra\u017e",
-        "Pobr\u0111e Milodra\u017e"
+        "Milodra\u017e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1343776183,
-    "wof:lastmodified":1564145713,
+    "wof:lastmodified":1566604348,
     "wof:name":"Pobrde Milodraz",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",

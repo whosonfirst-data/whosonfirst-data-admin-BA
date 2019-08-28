@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"17.99814,42.84719,18.03814,42.88719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Veli\u010dani"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u0438\u0447\u0430\u043d\u0438"
-    ],
-    "name:und_x_variant":[
-        "Veli\u010dani"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1293003685,
-    "wof:lastmodified":1564146022,
+    "wof:lastmodified":1566604475,
     "wof:name":"Velicani",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

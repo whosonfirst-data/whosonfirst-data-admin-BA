@@ -11,11 +11,15 @@
     "geom:longitude":19.00363,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":4947,
+    "gn:population":4947,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.98363,43.77894,19.02363,43.81894",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rogatica"
     ],
@@ -130,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0442\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jelengrad"
     ],
     "name:urd_x_preferred":[
@@ -163,7 +167,7 @@
     "wof:concordances":{
         "gn:id":3191576,
         "gp:id":943771,
-        "qs:id":147127,
+        "qs_pg:id":147127,
         "wd:id":"Q180791",
         "wk:page":"Rogatica"
     },
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":890518857,
-    "wof:lastmodified":1563287583,
+    "wof:lastmodified":1566605358,
     "wof:name":"Rogatica",
     "wof:parent_id":1108759215,
     "wof:placetype":"locality",

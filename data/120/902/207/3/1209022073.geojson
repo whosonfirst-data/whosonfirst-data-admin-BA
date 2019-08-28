@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"16.21417,44.42611,16.25417,44.46611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -34,7 +38,7 @@
         "gn:id":3257739
     },
     "wof:country":"BA",
-    "wof:geomhash":"17cf7dbef2131b4b3fe127151237f629",
+    "wof:geomhash":"756deacf9f30f365bad4a91b7f27a9cc",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209022073,
-    "wof:lastmodified":1536300116,
+    "wof:lastmodified":1566604931,
     "wof:name":"Vekici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.234170000000002,
+    16.23417,
     44.44611,
-    16.234170000000002,
+    16.23417,
     44.44611
 ],
   "geometry": {"coordinates":[16.23417,44.44611],"type":"Point"}

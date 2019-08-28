@@ -11,11 +11,15 @@
     "geom:longitude":18.80079,
     "gn:country":"BA",
     "gn:fcode":"PPL",
-    "gn:pop":8842,
+    "gn:population":8842,
     "gp:adm0":23424761,
     "iso:country":"BA",
+    "lbl:bbox":"18.78079,43.91817,18.82079,43.95817",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "So\u010dkovac"
     ],
@@ -55,7 +59,7 @@
     "name:srp_x_variant":[
         "\u0421\u043e\u0447\u043a\u043e\u0432\u0430\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sokola"
     ],
     "qs:name":"So\u010dkovac",
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3190385,
         "gp:id":944008,
-        "qs:id":1283573,
+        "qs_pg:id":1283573,
         "wd:id":"Q3121692",
         "wk:page":"So\u010dkovac"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890519099,
-    "wof:lastmodified":1563287536,
+    "wof:lastmodified":1566605348,
     "wof:name":"So\u010dkovac",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",

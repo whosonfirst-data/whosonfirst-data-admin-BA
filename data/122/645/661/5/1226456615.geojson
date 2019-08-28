@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
+    "lbl:bbox":"18.45558,44.64979,18.49558,44.68979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Seona"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1226456615,
-    "wof:lastmodified":1564149061,
+    "wof:lastmodified":1566605679,
     "wof:name":"Seona",
     "wof:parent_id":1108759243,
     "wof:placetype":"locality",
