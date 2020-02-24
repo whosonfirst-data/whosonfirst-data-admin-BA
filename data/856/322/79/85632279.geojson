@@ -372,6 +372,9 @@
         "wd:id":"Q194483"
     },
     "wof:country":"BA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"273f3d0e744b2a09c9b9a4896f60479f",
     "wof:hierarchy":[
         {
@@ -391,7 +394,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1566604469,
+    "wof:lastmodified":1582321450,
     "wof:name":"Brcko Distrikt",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

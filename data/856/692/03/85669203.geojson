@@ -223,6 +223,9 @@
         "wk:page":"Canton 10"
     },
     "wof:country":"BA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"71998f5311f723050c56106256649ef4",
     "wof:hierarchy":[
         {
@@ -242,7 +245,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1566604464,
+    "wof:lastmodified":1582321448,
     "wof:name":"West Bosnia",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

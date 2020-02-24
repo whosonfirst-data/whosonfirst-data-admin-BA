@@ -288,6 +288,9 @@
         "wk:page":"Bosnian-Podrinje Canton Gora\u017ede"
     },
     "wof:country":"BA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"91f9bd35e99e210d67f74b7a4a7d9e56",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1566604466,
+    "wof:lastmodified":1582321449,
     "wof:name":"Bosnian Podrinje",
     "wof:parent_id":85632609,
     "wof:placetype":"region",
