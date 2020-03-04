@@ -296,6 +296,9 @@
         "wk:page":"Posavina Canton"
     },
     "wof:country":"BA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a87c6ccb9b613333de3282558aebc16d",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1566604465,
+    "wof:lastmodified":1582321448,
     "wof:name":"Posavina",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

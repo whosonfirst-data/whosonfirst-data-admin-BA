@@ -1228,6 +1228,12 @@
     },
     "wof:country":"BA",
     "wof:country_alpha3":"BIH",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f9723e3017734422406623471b1ce34",
     "wof:hierarchy":[
         {
@@ -1246,7 +1252,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1566604470,
+    "wof:lastmodified":1582321450,
     "wof:name":"Bosnia and Herzegovina",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

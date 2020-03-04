@@ -326,6 +326,9 @@
         "wd:id":"Q18262"
     },
     "wof:country":"BA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f88e2d9184957d5ddb2e3893016f0e55",
     "wof:hierarchy":[
         {
@@ -345,7 +348,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1566604467,
+    "wof:lastmodified":1582321449,
     "wof:name":"Central Bosnia",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

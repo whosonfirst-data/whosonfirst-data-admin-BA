@@ -309,6 +309,9 @@
         "wk:page":"Zenica-Doboj Canton"
     },
     "wof:country":"BA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"56a57120862ec7987784f464d9ee615c",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1566604465,
+    "wof:lastmodified":1582321449,
     "wof:name":"Zenica-Doboj",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

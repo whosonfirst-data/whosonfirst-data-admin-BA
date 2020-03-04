@@ -154,6 +154,9 @@
         "qs_pg:id":1292120
     },
     "wof:country":"BA",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7fa4d30a478e5ad8e9766784d9dff1a4",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101911109,
-    "wof:lastmodified":1566605293,
+    "wof:lastmodified":1582321468,
     "wof:name":"Li\u00b5tica",
     "wof:parent_id":1108759231,
     "wof:placetype":"locality",

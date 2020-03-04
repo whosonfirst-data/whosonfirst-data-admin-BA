@@ -278,6 +278,9 @@
         "wk:page":"Tuzla Canton"
     },
     "wof:country":"BA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f6b01203fa84d6378800832f3ff8fe66",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1566604467,
+    "wof:lastmodified":1582321449,
     "wof:name":"Tuzla",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

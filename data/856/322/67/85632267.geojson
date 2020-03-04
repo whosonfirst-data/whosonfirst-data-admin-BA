@@ -134,6 +134,9 @@
         "qs_pg:id":224784
     },
     "wof:country":"BA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"860dd104615d780549755e1a741d7e70",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1566604468,
+    "wof:lastmodified":1582321450,
     "wof:name":"Republic of Srpska",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

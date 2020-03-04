@@ -653,6 +653,9 @@
     },
     "wof:country":"BA",
     "wof:created":1469056079,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"982297ee8745e6b2ac0b36c4240ae7f5",
     "wof:hierarchy":[
         {
@@ -664,7 +667,7 @@
         }
     ],
     "wof:id":890518775,
-    "wof:lastmodified":1566605368,
+    "wof:lastmodified":1582321470,
     "wof:name":"Sarajevo",
     "wof:parent_id":1108759181,
     "wof:placetype":"locality",
