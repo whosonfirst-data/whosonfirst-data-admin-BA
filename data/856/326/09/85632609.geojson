@@ -1205,9 +1205,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Bosnia_and_Herzegovina",
-        "digitalenvoy:country_code":[
-            70
-        ],
+        "digitalenvoy:country_code":70,
         "fb:id":"en.bosnia_and_herzegovina",
         "fifa:id":"BIH",
         "fips:code":"BK",
@@ -1255,7 +1253,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1583529082,
+    "wof:lastmodified":1583797284,
     "wof:name":"Bosnia and Herzegovina",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
