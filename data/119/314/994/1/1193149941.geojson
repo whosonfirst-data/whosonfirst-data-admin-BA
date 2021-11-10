@@ -90,6 +90,9 @@
         "Illa Samar"
     ],
     "name:heb_x_preferred":[
+        "\u05e1\u05de\u05d0\u05e8"
+    ],
+    "name:heb_x_variant":[
         "\u05e1\u05d0\u05de\u05d0\u05e8"
     ],
     "name:hin_x_preferred":[
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":1193149941,
-    "wof:lastmodified":1566605011,
+    "wof:lastmodified":1636496556,
     "wof:name":"Samar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

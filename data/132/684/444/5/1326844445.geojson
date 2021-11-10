@@ -29,7 +29,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09a6\u09cd\u09b0\u09bf\u09a8"
+    ],
     "name:ceb_x_preferred":[
+        "Drin"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u094d\u0930\u093f\u0928"
+    ],
+    "name:ind_x_preferred":[
         "Drin"
     ],
     "name:rus_x_preferred":[
@@ -40,6 +49,12 @@
     ],
     "name:swe_x_preferred":[
         "Drin"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0631\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Drin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":1326844445,
-    "wof:lastmodified":1566604228,
+    "wof:lastmodified":1636496540,
     "wof:name":"Drin",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

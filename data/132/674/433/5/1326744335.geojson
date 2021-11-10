@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Novo Selo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d5 \u05e1\u05dc\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Novo Selo"
     ],
@@ -107,7 +110,7 @@
         "gn:id":3210953
     },
     "wof:country":"BA",
-    "wof:geomhash":"89bf7af37052a05d52f94a52cb311b78",
+    "wof:geomhash":"052740a83dddd0ed8545f97659699b19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1326744335,
-    "wof:lastmodified":1566604126,
+    "wof:lastmodified":1636496539,
     "wof:name":"Novo Selo",
     "wof:parent_id":1108759255,
     "wof:placetype":"locality",
@@ -128,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.00462000000001,
+    18.00462,
     44.64459,
-    18.00462000000001,
+    18.00462,
     44.64459
 ],
-  "geometry": {"coordinates":[18.00462000000001,44.64459],"type":"Point"}
+  "geometry": {"coordinates":[18.00462,44.64459],"type":"Point"}
 }

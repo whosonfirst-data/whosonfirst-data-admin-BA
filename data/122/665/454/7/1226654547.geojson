@@ -29,11 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09a6\u09cd\u09b0\u09bf\u09a8\u09be"
+    ],
     "name:bos_x_preferred":[
         "Drina"
     ],
     "name:fra_x_preferred":[
         "Drina"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u094d\u0930\u093f\u0928\u093e"
     ],
     "name:hrv_x_preferred":[
         "Drina"
@@ -43,6 +49,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0440\u0438\u043d\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Drina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1226654547,
-    "wof:lastmodified":1566605783,
+    "wof:lastmodified":1636496569,
     "wof:name":"Drina",
     "wof:parent_id":1108759283,
     "wof:placetype":"locality",

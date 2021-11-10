@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u041a\u043e\u0442\u0430\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09a4\u09cb\u09b0"
+    ],
     "name:bos_x_preferred":[
         "Kotor"
     ],
@@ -91,6 +94,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d8\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u091f\u094b\u0930"
     ],
     "name:hrv_x_preferred":[
         "Kotor"
@@ -220,7 +226,7 @@
         }
     ],
     "wof:id":1293500447,
-    "wof:lastmodified":1566604563,
+    "wof:lastmodified":1636496548,
     "wof:name":"Kotor",
     "wof:parent_id":1108759141,
     "wof:placetype":"locality",

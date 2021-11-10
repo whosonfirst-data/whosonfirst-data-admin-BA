@@ -41,6 +41,9 @@
     "name:bel_x_preferred":[
         "\u0414\u0440\u044b\u043d\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09cd\u09b0\u09bf\u09a8\u09be"
+    ],
     "name:bos_x_preferred":[
         "Drina"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05e8\u05d9\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u094d\u0930\u093f\u0928\u093e"
     ],
     "name:hrv_x_preferred":[
         "Drina"
@@ -191,6 +197,9 @@
     "name:urd_x_preferred":[
         "\u062f\u0631\u06cc\u0646\u0627"
     ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Drina"
+    ],
     "name:zho_x_preferred":[
         "\u5fb7\u91cc\u7eb3\u6cb3"
     ],
@@ -217,7 +226,7 @@
         }
     ],
     "wof:id":1310020079,
-    "wof:lastmodified":1566605219,
+    "wof:lastmodified":1636496560,
     "wof:name":"Drina",
     "wof:parent_id":1108759037,
     "wof:placetype":"locality",

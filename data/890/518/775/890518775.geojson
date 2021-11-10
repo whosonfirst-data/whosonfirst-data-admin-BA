@@ -200,6 +200,9 @@
         "Sarajevo"
     ],
     "name:hin_x_preferred":[
+        "\u0938\u093e\u0930\u093e\u092f\u0947\u0935\u094b"
+    ],
+    "name:hin_x_variant":[
         "\u0938\u093e\u0930\u093e\u091c\u0947\u0935\u094b"
     ],
     "name:hrv_x_preferred":[
@@ -389,6 +392,9 @@
         "Sarajewo"
     ],
     "name:por_x_preferred":[
+        "Saraievo"
+    ],
+    "name:por_x_variant":[
         "Sarajevo"
     ],
     "name:que_x_preferred":[
@@ -640,8 +646,8 @@
     "wof:belongsto":[
         102191581,
         85632609,
-        1108759181,
-        85669235
+        85669235,
+        1108759181
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -669,7 +675,7 @@
         }
     ],
     "wof:id":890518775,
-    "wof:lastmodified":1607390886,
+    "wof:lastmodified":1636496562,
     "wof:name":"Sarajevo",
     "wof:parent_id":1108759181,
     "wof:placetype":"locality",

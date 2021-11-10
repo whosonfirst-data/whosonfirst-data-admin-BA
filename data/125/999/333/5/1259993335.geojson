@@ -35,7 +35,16 @@
     "name:ceb_x_preferred":[
         "Borovnica"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u0648\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d5\u05d1\u05e0\u05d9\u05e6\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Borovnica"
+    ],
+    "name:hun_x_preferred":[
         "Borovnica"
     ],
     "name:nld_x_preferred":[
@@ -59,7 +68,7 @@
         "gn:id":3203679
     },
     "wof:country":"BA",
-    "wof:geomhash":"6a2f5214473e07a15dd1cca5c6af2f2f",
+    "wof:geomhash":"ec34ac78b59461df17b34fa36cc183cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1259993335,
-    "wof:lastmodified":1566605569,
+    "wof:lastmodified":1636496565,
     "wof:name":"Borovnica",
     "wof:parent_id":1108759211,
     "wof:placetype":"locality",
@@ -80,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.60936000000001,
+    17.60936,
     43.81107,
-    17.60936000000001,
+    17.60936,
     43.81107
 ],
-  "geometry": {"coordinates":[17.60936000000001,43.81107],"type":"Point"}
+  "geometry": {"coordinates":[17.60936,43.81107],"type":"Point"}
 }

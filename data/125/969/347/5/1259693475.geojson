@@ -32,6 +32,9 @@
     "name:bos_x_preferred":[
         "Brda"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d3\u05d4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,7 +48,7 @@
         "wk:page":"Brda_%28Trnovo%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"2bb2904de2cc831f39cbde861f33ce2a",
+    "wof:geomhash":"45f77f67735b19aeda79bb7c6f48c159",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1259693475,
-    "wof:lastmodified":1566605626,
+    "wof:lastmodified":1636496566,
     "wof:name":"Brda",
     "wof:parent_id":1108759267,
     "wof:placetype":"locality",
@@ -67,9 +70,9 @@
 },
   "bbox": [
     18.25359,
-    43.67084000000001,
+    43.67084,
     18.25359,
-    43.67084000000001
+    43.67084
 ],
-  "geometry": {"coordinates":[18.25359,43.67084000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.25359,43.67084],"type":"Point"}
 }

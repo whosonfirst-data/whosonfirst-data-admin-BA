@@ -140,6 +140,9 @@
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05d9\u05e9\u05d8\u05d9\u05e0\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u0930\u093f\u0938\u094d\u091f\u093f\u0928\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Pri\u0161tina"
     ],
@@ -376,7 +379,7 @@
         }
     ],
     "wof:id":1276776043,
-    "wof:lastmodified":1566604786,
+    "wof:lastmodified":1636496552,
     "wof:name":"Pristina",
     "wof:parent_id":1108759259,
     "wof:placetype":"locality",

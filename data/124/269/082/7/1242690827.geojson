@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Brezovica"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d6\u05d5\u05d1\u05d9\u05e6\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Brezovica"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1242690827,
-    "wof:lastmodified":1566605448,
+    "wof:lastmodified":1636496563,
     "wof:name":"Brezovica",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

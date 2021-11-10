@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Brda"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d3\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Brda"
     ],
@@ -86,7 +89,7 @@
         "gn:id":3237943
     },
     "wof:country":"BA",
-    "wof:geomhash":"4e959c2237c36d219597befbb0848585",
+    "wof:geomhash":"11d0540786678c1d4b777b5c7282bd80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1310419943,
-    "wof:lastmodified":1566605119,
+    "wof:lastmodified":1636496559,
     "wof:name":"Brda",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",
@@ -107,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.35292999999999,
+    17.35293,
     44.22277,
-    17.35292999999999,
+    17.35293,
     44.22277
 ],
-  "geometry": {"coordinates":[17.35292999999999,44.22277],"type":"Point"}
+  "geometry": {"coordinates":[17.35293,44.22277],"type":"Point"}
 }

@@ -159,7 +159,19 @@
         "\u0414\u043e\u0431\u043e\u0439"
     ],
     "name:urd_x_preferred":[
+        "\u0688\u0648\u0628\u0648\u062c"
+    ],
+    "name:urd_x_variant":[
         "\u062f\u0648\u0628\u0648\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Doboj"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u591a\u535a\u4f0a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u591a\u535a\u4f0a"
     ],
     "name:zho_x_preferred":[
         "\u591a\u535a\u4f0a"
@@ -181,7 +193,7 @@
         }
     ],
     "wof:id":1209629299,
-    "wof:lastmodified":1566604837,
+    "wof:lastmodified":1636496553,
     "wof:name":"Doboj",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",

@@ -33,13 +33,70 @@
         "Gornji Orahovac"
     ],
     "name:fra_x_preferred":[
+        "Orahovac"
+    ],
+    "name:fra_x_variant":[
         "Gornji Orahovac"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d0\u05d4\u05d5\u05d1\u05d0\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0930\u0939\u094b\u0935\u093e\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Orahovac"
+    ],
+    "name:ind_x_preferred":[
+        "Orahovac"
+    ],
+    "name:ita_x_preferred":[
+        "Rahovec"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30e9\u30db\u30f4\u30a1\u30c4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub77c\ud638\ubc14\ud06c"
+    ],
+    "name:nld_x_preferred":[
+        "Rahovec"
+    ],
+    "name:pol_x_preferred":[
+        "Orahovac"
+    ],
+    "name:por_x_preferred":[
+        "Orahovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0430\u0445\u043e\u0432\u0430\u0446"
     ],
     "name:srp_x_preferred":[
         "\u0413\u043e\u0440\u045a\u0438 \u041e\u0440\u0430\u0445\u043e\u0432\u0430\u0446"
     ],
+    "name:swe_x_preferred":[
+        "Orahovac"
+    ],
+    "name:tur_x_preferred":[
+        "Orahovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0430\u0445\u043e\u0432\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Orahovac"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u0627\u06c1\u0648\u06cc\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Orahovac"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5965\u62c9\u970d\u74e6\u8328"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5967\u62c9\u970d\u74e6\u8328"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +111,7 @@
         "wk:page":"Gornji_Orahovac"
     },
     "wof:country":"BA",
-    "wof:geomhash":"03721afae2c4303ee790b2b15b6ef7c8",
+    "wof:geomhash":"0c25d0342b4cb878258690b82d255e4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +122,7 @@
         }
     ],
     "wof:id":1243557825,
-    "wof:lastmodified":1566605405,
+    "wof:lastmodified":1636496563,
     "wof:name":"Orahovac",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",
@@ -76,9 +133,9 @@
 },
   "bbox": [
     18.47882,
-    42.67874000000001,
+    42.67874,
     18.47882,
-    42.67874000000001
+    42.67874
 ],
-  "geometry": {"coordinates":[18.47882,42.67874000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.47882,42.67874],"type":"Point"}
 }

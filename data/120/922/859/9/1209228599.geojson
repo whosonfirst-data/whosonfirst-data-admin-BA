@@ -50,6 +50,9 @@
     "name:fra_x_preferred":[
         "Vinica"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e0\u05d9\u05e7\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Vinica"
     ],
@@ -89,7 +92,7 @@
         "gn:id":3187737
     },
     "wof:country":"BA",
-    "wof:geomhash":"c207de380f02252645a488bea51fd8cb",
+    "wof:geomhash":"d450980e27913dcbacdae9cf1bbc3250",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1209228599,
-    "wof:lastmodified":1566604891,
+    "wof:lastmodified":1636496554,
     "wof:name":"Vinica",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
@@ -108,9 +111,9 @@
 },
   "bbox": [
     15.9051,
-    44.82344000000001,
+    44.82344,
     15.9051,
-    44.82344000000001
+    44.82344
 ],
-  "geometry": {"coordinates":[15.9051,44.82344000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.9051,44.82344],"type":"Point"}
 }
