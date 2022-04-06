@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Doboj - Jug Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Doboj - Jug"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Doboj"
     ],
     "name:fra_x_preferred":[
+        "Doboj Jug"
+    ],
+    "name:bos_x_preferred":[
         "Doboj Jug"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759057,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1649241444,
     "wof:name":"Doboj - Jug",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

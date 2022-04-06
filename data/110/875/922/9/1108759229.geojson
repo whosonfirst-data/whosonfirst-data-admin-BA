@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Sipovo Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina \u0160ipovo"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Sipovo"
     ],
     "name:fra_x_preferred":[
+        "\u0160ipovo"
+    ],
+    "name:bos_x_preferred":[
         "\u0160ipovo"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759229,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1649241444,
     "wof:name":"Sipovo",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

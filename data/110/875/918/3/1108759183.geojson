@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Novi Travnik Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Novi Travnik"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1108759183,
-    "wof:lastmodified":1566605104,
+    "wof:lastmodified":1649241444,
     "wof:name":"Novi Travnik",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

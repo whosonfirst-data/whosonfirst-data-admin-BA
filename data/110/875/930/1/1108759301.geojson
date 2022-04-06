@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Zivinice Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina \u017divinice"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Zivinice"
     ],
     "name:fra_x_preferred":[
+        "\u017divinice"
+    ],
+    "name:bos_x_preferred":[
         "\u017divinice"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759301,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1649241444,
     "wof:name":"Zivinice",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

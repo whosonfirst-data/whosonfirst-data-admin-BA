@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Orasje Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Ora\u0161je"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Orasje"
     ],
     "name:fra_x_preferred":[
+        "Ora\u0161je"
+    ],
+    "name:bos_x_preferred":[
         "Ora\u0161je"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759195,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1649241444,
     "wof:name":"Orasje",
     "wof:parent_id":85669243,
     "wof:placetype":"county",

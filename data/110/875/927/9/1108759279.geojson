@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Vares Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Vare\u0161"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -61,6 +64,9 @@
     "name:swe_x_preferred":[
         "Vares"
     ],
+    "name:bos_x_preferred":[
+        "Vare\u0161"
+    ],
     "name:und_x_variant":[
         "Vare\u0161"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108759279,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1649241444,
     "wof:name":"Vares",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

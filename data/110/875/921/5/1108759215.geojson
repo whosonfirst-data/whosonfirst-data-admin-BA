@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Rogatica Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Rogatica"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1108759215,
-    "wof:lastmodified":1566605106,
+    "wof:lastmodified":1649241444,
     "wof:name":"Rogatica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

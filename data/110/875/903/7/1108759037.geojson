@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Capljina Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina \u010capljina"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Capljina"
     ],
     "name:fra_x_preferred":[
+        "\u010capljina"
+    ],
+    "name:bos_x_preferred":[
         "\u010capljina"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759037,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1649241444,
     "wof:name":"Capljina",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

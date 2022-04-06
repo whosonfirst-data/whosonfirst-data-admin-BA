@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Teslic Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Tesli\u0107"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Teslic"
     ],
     "name:fra_x_preferred":[
+        "Tesli\u0107"
+    ],
+    "name:bos_x_preferred":[
         "Tesli\u0107"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759259,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1649241444,
     "wof:name":"Teslic",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

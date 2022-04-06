@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Gornji Vakuf Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Gornji Vakuf"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Gornji Vakuf"
     ],
     "name:fra_x_preferred":[
+        "Gornji Vakuf"
+    ],
+    "name:bos_x_preferred":[
         "Gornji Vakuf"
     ],
     "src:geom":"meso",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108759087,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1649241444,
     "wof:name":"Gornji Vakuf",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

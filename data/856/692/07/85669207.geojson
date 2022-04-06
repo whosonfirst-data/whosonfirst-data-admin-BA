@@ -16,6 +16,7 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:bos_x_preferred_shortcode": ["USK"],
     "lbl:latitude":44.714497,
     "lbl:longitude":16.198408,
     "lbl:min_zoom":8.0,
@@ -338,7 +339,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496546,
+    "wof:lastmodified":1649241444,
     "wof:name":"Una-Sana",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

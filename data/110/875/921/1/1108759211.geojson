@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Prozor /  Prozor-rama Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Prozor-Rama"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "Prozor/Prozor-Rama"
+    ],
+    "name:bos_x_preferred":[
+        "Prozor-Rama"
     ],
     "name:und_x_variant":[
         "Prozor / Prozor-rama"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759211,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1649241444,
     "wof:name":"Prozor / Prozor-rama",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

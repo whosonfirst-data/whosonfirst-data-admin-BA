@@ -23,19 +23,19 @@
     "meso:mps_x":19.040261,
     "meso:mps_y":43.681326,
     "meso:name_alt":"NO DATA",
-    "meso:name_en":"Gorazde / Srpsko Gorazde",
-    "meso:name_loc":"Gora\u017ede / Srpsko Gora\u017ede",
+    "meso:name_en":"Novo Gora\u017ede",
+    "meso:name_loc":"Novo Gora\u017ede",
     "meso:source":"AOTM",
     "mps:latitude":43.681326,
     "mps:longitude":19.040261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:fra_x_preferred":[
-        "Gora\u017ede/Srpsko Gora\u017ede"
+    "name:bos_x_preferred":[
+        "Novo Gora\u017ede"
     ],
     "name:und_x_variant":[
-        "Gora\u017ede / Srpsko Gora\u017ede"
+        "Novo Gora\u017ede"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -58,8 +58,8 @@
         }
     ],
     "wof:id":1108759085,
-    "wof:lastmodified":1627521587,
-    "wof:name":"Gorazde / Srpsko Gorazde",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Novo Gora\u017ede",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ba",

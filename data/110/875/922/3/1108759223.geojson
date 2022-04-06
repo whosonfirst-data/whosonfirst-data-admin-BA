@@ -11,7 +11,10 @@
     "geom:longitude":16.682867,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Sanski Most / Srpski Sanski Most Commune"
+        "O\u0161tra Luka"
+    ],
+    "label:bos_x_preferred_longname":[
+        "O\u0161tra Luka"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -29,8 +32,8 @@
     "meso:mps_x":16.664335,
     "meso:mps_y":44.853274,
     "meso:name_alt":"Sanski Most",
-    "meso:name_en":"Sanski Most / Srpski Sanski Most",
-    "meso:name_loc":"Sanski Most / Srpski Sanski Most",
+    "meso:name_en": "O\u0161tra Luka",
+    "meso:name_loc": "O\u0161tra Luka",
     "meso:source":"AOTM",
     "mps:latitude":44.853274,
     "mps:longitude":16.664335,
@@ -42,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "Sanski Most/O\u0161tra Luka"
+    ],
+    "name:bos_x_preferred":[
+        "O\u0161tra Luka"
     ],
     "name:und_x_variant":[
         "Sanski Most / Srpski Sanski Most"
@@ -81,8 +87,8 @@
         }
     ],
     "wof:id":1108759223,
-    "wof:lastmodified":1627521590,
-    "wof:name":"Sanski Most / Srpski Sanski Most",
+    "wof:lastmodified":1649241444,
+    "wof:name": "O\u0161tra Luka",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

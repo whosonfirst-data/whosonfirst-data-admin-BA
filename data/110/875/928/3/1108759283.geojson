@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Visegrad Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Vi\u0161egrad"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -88,6 +91,9 @@
     "name:swe_x_preferred":[
         "Visegrad"
     ],
+    "name:bos_x_preferred":[
+        "Vi\u0161egrad"
+    ],
     "name:und_x_variant":[
         "Vi\u0161egrad"
     ],
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":1108759283,
-    "wof:lastmodified":1566605108,
+    "wof:lastmodified":1649241444,
     "wof:name":"Visegrad",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

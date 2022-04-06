@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Kresevo Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Kre\u0161evo"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Kresevo"
     ],
     "name:fra_x_preferred":[
+        "Kre\u0161evo"
+    ],
+    "name:bos_x_preferred":[
         "Kre\u0161evo"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759143,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1649241444,
     "wof:name":"Kresevo",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

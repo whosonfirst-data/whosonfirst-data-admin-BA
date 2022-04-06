@@ -11,7 +11,10 @@
     "geom:longitude":16.296048,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Bosanska Krupa / Krupa Na Uni Commune"
+        "Krupa Na Uni Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Krupa Na Uni"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -29,8 +32,8 @@
     "meso:mps_x":16.337844,
     "meso:mps_y":44.875458,
     "meso:name_alt":"Bosanska Krupa",
-    "meso:name_en":"Bosanska Krupa / Krupa Na Uni",
-    "meso:name_loc":"Bosanska Krupa / Krupa Na Uni",
+    "meso:name_en":"Krupa Na Uni",
+    "meso:name_loc":"Krupa Na Uni",
     "meso:source":"AOTM",
     "mps:latitude":44.875458,
     "mps:longitude":16.337844,
@@ -41,10 +44,13 @@
         "Bosanska Krupa"
     ],
     "name:fra_x_preferred":[
-        "Bosanska Krupa/Krupa Na Uni"
+        "Krupa Na Uni"
+    ],
+    "name:bos_x_preferred":[
+        "Krupa Na Uni"
     ],
     "name:und_x_variant":[
-        "Bosanska Krupa / Krupa Na Uni"
+        "Krupa Na Uni"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -81,8 +87,8 @@
         }
     ],
     "wof:id":1108759007,
-    "wof:lastmodified":1627521585,
-    "wof:name":"Bosanska Krupa / Krupa Na Uni",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Krupa Na Uni",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

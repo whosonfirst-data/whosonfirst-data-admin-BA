@@ -11,7 +11,10 @@
     "geom:longitude":18.505084,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Bosanski Samac / Samac Commune"
+        "Samac Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina \u0160amac"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -24,13 +27,13 @@
     "meso:admin_2":"Republika Srpska",
     "meso:gadm_adm2":"Doboj",
     "meso:gadm_adm3":"\u0160amac",
-    "meso:gaul_adm3":"Bosanski Samac",
+    "meso:gaul_adm3":" Samac",
     "meso:hasc_id":"BA.BR.BS",
     "meso:mps_x":18.494978,
     "meso:mps_y":45.0063,
-    "meso:name_alt":"Bosanski \u0160amac",
-    "meso:name_en":"Bosanski Samac / Samac",
-    "meso:name_loc":"Bosanski \u0160amac / \u0160amac",
+    "meso:name_alt":"\u0160amac",
+    "meso:name_en":"Samac / Samac",
+    "meso:name_loc":"\u0160amac / \u0160amac",
     "meso:source":"AOTM",
     "mps:latitude":45.0063,
     "mps:longitude":18.494978,
@@ -38,13 +41,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Bosanski Samac"
+        "Samac"
     ],
     "name:fra_x_preferred":[
-        "Bosanski \u0160amac/\u0160amac"
+        "\u0160amac"
+    ],
+    "name:bos_x_preferred":[
+        "\u0160amac"
     ],
     "name:und_x_variant":[
-        "Bosanski \u0160amac / \u0160amac"
+        "\u0160amac"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -55,7 +61,7 @@
     "statoids:capital":"",
     "statoids:country":"BA",
     "statoids:hasc":"BA.BR",
-    "statoids:name":"Bosanski Samac",
+    "statoids:name":"Samac",
     "statoids:population":"26612",
     "statoids:statoid":"BA.BR.BS",
     "statoids:timezone":"+1~",
@@ -81,8 +87,8 @@
         }
     ],
     "wof:id":1108759017,
-    "wof:lastmodified":1627521586,
-    "wof:name":"Bosanski Samac / Samac",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Samac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

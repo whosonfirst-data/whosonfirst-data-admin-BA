@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Busovaca Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Busova\u010da"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Busovaca"
     ],
     "name:fra_x_preferred":[
+        "Busova\u010da"
+    ],
+    "name:bos_x_preferred":[
         "Busova\u010da"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759031,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1649241444,
     "wof:name":"Busovaca",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

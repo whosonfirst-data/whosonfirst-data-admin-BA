@@ -23,8 +23,8 @@
     "meso:mps_x":18.800323,
     "meso:mps_y":43.747178,
     "meso:name_alt":"NO DATA",
-    "meso:name_en":"Pale (fbih)",
-    "meso:name_loc":"Pale (fbih)",
+    "meso:name_en":"Pale (FBiH)",
+    "meso:name_loc":"Pale (FBiH)",
     "meso:source":"AOTM",
     "mps:latitude":43.747178,
     "mps:longitude":18.800323,
@@ -35,7 +35,7 @@
         "Pale"
     ],
     "name:und_x_variant":[
-        "Pale (fbih)"
+        "Pale (FBiH)"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -58,8 +58,8 @@
         }
     ],
     "wof:id":1108759199,
-    "wof:lastmodified":1627521590,
-    "wof:name":"Pale (fbih)",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Pale (FBiH)",
     "wof:parent_id":85669239,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ba",

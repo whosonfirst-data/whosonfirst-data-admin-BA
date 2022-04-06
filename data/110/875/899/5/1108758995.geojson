@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Bijeljina Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Bijeljina"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":1108758995,
-    "wof:lastmodified":1636496558,
+    "wof:lastmodified":1649241444,
     "wof:name":"Bijeljina",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

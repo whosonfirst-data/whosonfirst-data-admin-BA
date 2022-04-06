@@ -11,7 +11,10 @@
     "geom:longitude":17.178411,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Bosanska Gradiska / Gradiska Commune"
+        "Gradiska Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Gradi\u0161ka/Gradi\u0161ka"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -23,14 +26,14 @@
     "meso:admin_1":"Republika Srpska",
     "meso:admin_2":"Republika Srpska",
     "meso:gadm_adm2":"Banja Luka",
-    "meso:gadm_adm3":"Bosanska Gradi\u0161ka",
-    "meso:gaul_adm3":"Bosanska Gradiska",
+    "meso:gadm_adm3":"Gradi\u0161ka",
+    "meso:gaul_adm3":"Gradiska",
     "meso:hasc_id":"BA.BL.BG",
     "meso:mps_x":17.205241,
     "meso:mps_y":45.052791,
     "meso:name_alt":"Bosanska Gradi\u0161ka",
-    "meso:name_en":"Bosanska Gradiska / Gradiska",
-    "meso:name_loc":"Bosanska Gradi\u0161ka / Gradi\u0161ka",
+    "meso:name_en":"Gradiska",
+    "meso:name_loc":"Gradi\u0161ka",
     "meso:source":"AOTM",
     "mps:latitude":45.052791,
     "mps:longitude":17.205241,
@@ -43,7 +46,11 @@
     "name:fra_x_preferred":[
         "Bosanska Gradi\u0161ka/Gradi\u0161ka"
     ],
+    "name:bos_x_preferred":[
+        "Gradi\u0161ka"
+    ],
     "name:und_x_variant":[
+        "Gradi\u0161ka",
         "Bosanska Gradi\u0161ka / Gradi\u0161ka"
     ],
     "src:geom":"meso",
@@ -55,7 +62,7 @@
     "statoids:capital":"",
     "statoids:country":"BA",
     "statoids:hasc":"BA.BL",
-    "statoids:name":"Bosanska Gradiska",
+    "statoids:name":"Gradiska",
     "statoids:population":"50134",
     "statoids:statoid":"BA.BL.BG",
     "statoids:timezone":"+1~",
@@ -81,7 +88,7 @@
         }
     ],
     "wof:id":1108759001,
-    "wof:lastmodified":1627521585,
+    "wof:lastmodified":1649241444,
     "wof:name":"Bosanska Gradiska / Gradiska",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

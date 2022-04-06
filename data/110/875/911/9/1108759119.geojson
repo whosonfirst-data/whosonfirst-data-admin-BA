@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Kakanj Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Kakanj"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1108759119,
-    "wof:lastmodified":1566605100,
+    "wof:lastmodified":1649241444,
     "wof:name":"Kakanj",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

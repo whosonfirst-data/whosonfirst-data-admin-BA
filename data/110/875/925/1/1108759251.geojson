@@ -11,7 +11,10 @@
     "geom:longitude":18.066822,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Stolac / Berkovici Commune"
+        "Berkovici Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Berkovi\u0107i"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -29,8 +32,8 @@
     "meso:mps_x":18.082317,
     "meso:mps_y":43.110138,
     "meso:name_alt":"Stolac",
-    "meso:name_en":"Stolac / Berkovici",
-    "meso:name_loc":"Stolac / Berkovi\u0107i",
+    "meso:name_en":"Berkovici",
+    "meso:name_loc":"Berkovi\u0107i",
     "meso:source":"AOTM",
     "mps:latitude":43.110138,
     "mps:longitude":18.082317,
@@ -41,10 +44,13 @@
         "Stolac"
     ],
     "name:fra_x_preferred":[
-        "Stolac/Berkovi\u0107i"
+        "Berkovi\u0107i"
+    ],
+    "name:bos_x_preferred":[
+        "Berkovi\u0107i"
     ],
     "name:und_x_variant":[
-        "Stolac / Berkovi\u0107i"
+        "Stolac/Berkovi\u0107i"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -81,8 +87,8 @@
         }
     ],
     "wof:id":1108759251,
-    "wof:lastmodified":1627521591,
-    "wof:name":"Stolac / Berkovici",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Berkovici",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

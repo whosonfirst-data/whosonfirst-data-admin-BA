@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Jablanica Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Jablanica"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1108759111,
-    "wof:lastmodified":1566605100,
+    "wof:lastmodified":1649241444,
     "wof:name":"Jablanica",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

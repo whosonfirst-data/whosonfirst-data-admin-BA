@@ -11,7 +11,7 @@
     "geom:longitude":18.774983,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Foca / Srbinje Commune"
+        "Foca"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -29,8 +29,8 @@
     "meso:mps_x":18.725688,
     "meso:mps_y":43.431656,
     "meso:name_alt":"Fo\u010da",
-    "meso:name_en":"Foca / Srbinje",
-    "meso:name_loc":"Fo\u010da / Srbinje",
+    "meso:name_en":"Foca",
+    "meso:name_loc":"Fo\u010da",
     "meso:source":"AOTM",
     "mps:latitude":43.431656,
     "mps:longitude":18.725688,
@@ -41,10 +41,13 @@
         "Foca"
     ],
     "name:fra_x_preferred":[
-        "Fo\u010da/Srbinje"
+        "Fo\u010da"
     ],
     "name:und_x_variant":[
-        "Fo\u010da / Srbinje"
+        "Fo\u010da"
+    ],
+    "name:bos_x_preferred":[
+        "Fo\u010da"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -81,8 +84,8 @@
         }
     ],
     "wof:id":1108759073,
-    "wof:lastmodified":1627521587,
-    "wof:name":"Foca / Srbinje",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Foca",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

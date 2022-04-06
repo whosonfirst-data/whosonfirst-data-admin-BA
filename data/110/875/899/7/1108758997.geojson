@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Bileca Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Bile\u0107a"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Bileca"
     ],
     "name:fra_x_preferred":[
+        "Bile\u0107a"
+    ],
+    "name:bos_x_preferred":[
         "Bile\u0107a"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108758997,
-    "wof:lastmodified":1627521585,
+    "wof:lastmodified":1649241444,
     "wof:name":"Bileca",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

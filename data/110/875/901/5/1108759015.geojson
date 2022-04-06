@@ -11,7 +11,10 @@
     "geom:longitude":16.568373,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Bosanski Petrovac / Petrovac Commune"
+        "Bosanski Petrovac Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Bosanski Petrovac"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -42,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "Bosanski Petrovac/Petrovac"
+    ],
+    "name:bos_x_preferred":[
+        "Bosanski Petrovac"
     ],
     "name:und_x_variant":[
         "Bosanski Petrovac / Petrovac"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759015,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1649241444,
     "wof:name":"Bosanski Petrovac / Petrovac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

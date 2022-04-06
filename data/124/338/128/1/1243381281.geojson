@@ -20,7 +20,7 @@
     "gn:latitude":43.83278,
     "gn:longitude":18.3375,
     "gn:modification_date":"2012-01-19",
-    "gn:name":"Ne\u0111ari\u0107i",
+    "gn:name":"Ned\u017eari\u0107i",
     "gn:population":0,
     "gn:timezone":"Europe/Sarajevo",
     "iso:country":"BA",
@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:bos_x_preferred":[
+        "Ned\u017eari\u0107i"
+    ],
     "name:und_x_variant":[
         "Ned\u017eari\u0107i",
         "Nedjari\u0107i",
@@ -40,7 +43,7 @@
         102191581,
         85632609,
         85669235,
-        1108759105
+        1108759181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,15 @@
         {
             "continent_id":102191581,
             "country_id":85632609,
-            "county_id":1108759105,
+            "county_id":1108759181,
             "locality_id":1243381281,
             "region_id":85669235
         }
     ],
     "wof:id":1243381281,
-    "wof:lastmodified":1566605378,
-    "wof:name":"Nedarici",
-    "wof:parent_id":1108759105,
+    "wof:lastmodified":1649241444,
+    "wof:name":"Ned\u017eari\u0107i",
+    "wof:parent_id":1108759181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],

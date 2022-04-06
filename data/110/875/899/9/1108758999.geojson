@@ -11,7 +11,10 @@
     "geom:longitude":16.812164,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Bosanska Dubica / Kozarska Dubica Commune"
+        "Kozarska Dubica Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Kozarska Dubica Commune"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -24,13 +27,13 @@
     "meso:admin_2":"Republika Srpska",
     "meso:gadm_adm2":"Banja Luka",
     "meso:gadm_adm3":"Dubica",
-    "meso:gaul_adm3":"Bosanska Dubica",
+    "meso:gaul_adm3":"Kozarska Dubica",
     "meso:hasc_id":"BA.PR.BD",
     "meso:mps_x":16.883281,
     "meso:mps_y":45.12814,
-    "meso:name_alt":"Bosanska Dubica",
-    "meso:name_en":"Bosanska Dubica / Kozarska Dubica",
-    "meso:name_loc":"Bosanska Dubica / Kozarska Dubica",
+    "meso:name_alt":"Kozarska Dubica",
+    "meso:name_en":"Kozarska Dubica",
+    "meso:name_loc":"Kozarska Dubica",
     "meso:source":"AOTM",
     "mps:latitude":45.12814,
     "mps:longitude":16.883281,
@@ -38,12 +41,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Bosanska Dubica"
+        "Kozarska Dubica"
     ],
     "name:fra_x_preferred":[
-        "Bosanska Dubica/Kozarska Dubica"
+        "Kozarska Dubica/Kozarska Dubica"
+    ],
+    "name:bos_x_preferred":[
+        "Kozarska Dubica"
     ],
     "name:und_x_variant":[
+        "Kozarska Dubica",
         "Bosanska Dubica / Kozarska Dubica"
     ],
     "src:geom":"meso",
@@ -55,7 +62,7 @@
     "statoids:capital":"",
     "statoids:country":"BA",
     "statoids:hasc":"BA.PR",
-    "statoids:name":"Bosanska Dubica",
+    "statoids:name":"Kozarska Dubica",
     "statoids:population":"27639",
     "statoids:statoid":"BA.PR.BD",
     "statoids:timezone":"+1~",
@@ -81,8 +88,8 @@
         }
     ],
     "wof:id":1108758999,
-    "wof:lastmodified":1627521585,
-    "wof:name":"Bosanska Dubica / Kozarska Dubica",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Kozarska Dubica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

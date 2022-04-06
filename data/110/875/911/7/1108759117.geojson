@@ -11,7 +11,10 @@
     "geom:longitude":17.185315,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Jajce / Jezero Commune"
+        "Jezero Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Jezero"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -38,13 +41,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Jajce"
+        "Jezero"
     ],
     "name:fra_x_preferred":[
-        "Jajce/Jezero"
+        "Jezero"
+    ],
+    "name:bos_x_variant":[
+        "Jezero"
     ],
     "name:und_x_variant":[
-        "Jajce / Jezero"
+        "Jezero"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759117,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1649241444,
     "wof:name":"Jajce / Jezero",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

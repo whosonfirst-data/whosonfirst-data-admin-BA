@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Skender Vakuf / Knezevo Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Kne\u017eevo"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "Skender Vakuf/Kne\u017eevo"
+    ],
+    "name:bos_x_preferred":[
+        "Kne\u017eevo"
     ],
     "name:und_x_variant":[
         "Skender Vakuf / Kne\u017eevo"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759233,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1649241444,
     "wof:name":"Skender Vakuf / Knezevo",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

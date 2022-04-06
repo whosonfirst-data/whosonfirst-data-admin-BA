@@ -11,7 +11,7 @@
     "geom:longitude":18.059631,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Bosanski Brod / Srpski Brod Commune"
+        "Brod"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -29,8 +29,8 @@
     "meso:mps_x":18.062222,
     "meso:mps_y":45.062882,
     "meso:name_alt":"Bosanski Brod",
-    "meso:name_en":"Bosanski Brod / Srpski Brod",
-    "meso:name_loc":"Bosanski Brod / Srpski Brod",
+    "meso:name_en":"Brod",
+    "meso:name_loc":"Brod",
     "meso:source":"AOTM",
     "mps:latitude":45.062882,
     "mps:longitude":18.062222,
@@ -38,10 +38,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Bosanski Brod"
+        "Brod"
     ],
-    "name:fra_x_preferred":[
-        "Bosanski Brod/Srpski Brod"
+    "name:bos_x_preferred":[
+        "Brod"
+    ],
+    "name:und_x_preferred":[
+        "Brod"
     ],
     "name:und_x_variant":[
         "Bosanski Brod / Srpski Brod"
@@ -55,7 +58,7 @@
     "statoids:capital":"",
     "statoids:country":"BA",
     "statoids:hasc":"BA.DO",
-    "statoids:name":"Bosanski Brod",
+    "statoids:name":"Brod",
     "statoids:population":"28268",
     "statoids:statoid":"BA.DO.BB",
     "statoids:timezone":"+1~",
@@ -81,8 +84,8 @@
         }
     ],
     "wof:id":1108759009,
-    "wof:lastmodified":1627521585,
-    "wof:name":"Bosanski Brod / Srpski Brod",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Brod",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

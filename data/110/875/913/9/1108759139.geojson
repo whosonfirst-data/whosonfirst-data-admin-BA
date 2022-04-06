@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Kostajnica Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Kostajnica"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -23,12 +26,12 @@
     "meso:admin_1":"Republika Srpska",
     "meso:admin_2":"Republika Srpska",
     "meso:gadm_adm2":"Banja Luka",
-    "meso:gadm_adm3":"Bosanska Kostajnica",
-    "meso:gaul_adm3":"Bosanski Novi",
+    "meso:gadm_adm3":"Kostajnica",
+    "meso:gaul_adm3":"Novi Grad",
     "meso:hasc_id":"BA.PR.BN",
     "meso:mps_x":16.563725,
     "meso:mps_y":45.184508,
-    "meso:name_alt":"Bosanski Novi",
+    "meso:name_alt":"Novi Grad",
     "meso:name_en":"Kostajnica",
     "meso:name_loc":"Kostajnica",
     "meso:source":"AOTM",
@@ -47,7 +50,7 @@
         "Kostajnica"
     ],
     "name:eng_x_preferred":[
-        "Bosanski Novi"
+        "Kostajnica"
     ],
     "name:fra_x_preferred":[
         "Kostajnica"
@@ -85,7 +88,7 @@
     "statoids:capital":"",
     "statoids:country":"BA",
     "statoids:hasc":"BA.PR",
-    "statoids:name":"Bosanski Novi",
+    "statoids:name":"Kostajnica",
     "statoids:population":"39492",
     "statoids:statoid":"BA.PR.BN",
     "statoids:timezone":"+1~",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108759139,
-    "wof:lastmodified":1566605095,
+    "wof:lastmodified":1649241444,
     "wof:name":"Kostajnica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

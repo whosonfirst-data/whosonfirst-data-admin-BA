@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Gorazde Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Gora\u017ede"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Gorazde"
     ],
     "name:fra_x_preferred":[
+        "Gora\u017ede"
+    ],
+    "name:bos_x_preferred":[
         "Gora\u017ede"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759083,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1649241444,
     "wof:name":"Gorazde",
     "wof:parent_id":85669239,
     "wof:placetype":"county",

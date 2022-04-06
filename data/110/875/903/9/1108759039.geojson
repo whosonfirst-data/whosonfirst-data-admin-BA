@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Cazin Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Cazin"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1108759039,
-    "wof:lastmodified":1566605096,
+    "wof:lastmodified":1649241444,
     "wof:name":"Cazin",
     "wof:parent_id":85669207,
     "wof:placetype":"county",

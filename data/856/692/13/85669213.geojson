@@ -17,6 +17,7 @@
     "label:eng_x_preferred_placetype":[
         "entity"
     ],
+    "label:bos_x_preferred_shortcode": ["SBK"],
     "lbl:latitude":44.109967,
     "lbl:longitude":17.596155,
     "lbl:min_zoom":8.0,
@@ -351,7 +352,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496546,
+    "wof:lastmodified":1649241444,
     "wof:name":"Central Bosnia",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

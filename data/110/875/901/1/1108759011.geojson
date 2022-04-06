@@ -18,13 +18,13 @@
     "meso:admin_2":"Republika Srpska",
     "meso:gadm_adm2":"Banja Luka",
     "meso:gadm_adm3":"Novi Grad",
-    "meso:gaul_adm3":"Bosanski Novi",
+    "meso:gaul_adm3":"Novi Grad",
     "meso:hasc_id":"BA.PR.BN",
     "meso:mps_x":16.478474,
     "meso:mps_y":45.045033,
     "meso:name_alt":"Bosanski Novi",
-    "meso:name_en":"Bosanski Novi / Novi Grad",
-    "meso:name_loc":"Bosanski Novi / Novi Grad",
+    "meso:name_en":"Novi Grad",
+    "meso:name_loc":"Novi Grad",
     "meso:source":"AOTM",
     "mps:latitude":45.045033,
     "mps:longitude":16.478474,
@@ -32,10 +32,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:fra_x_preferred":[
-        "Bosanski Novi/Novi Grad"
+        "Novi Grad"
+    ],
+    "name:bos_x_preferred":[
+        "Novi Grad"
     ],
     "name:und_x_variant":[
-        "Bosanski Novi / Novi Grad"
+        "Novi Grad"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -60,8 +63,8 @@
         }
     ],
     "wof:id":1108759011,
-    "wof:lastmodified":1627521586,
-    "wof:name":"Bosanski Novi / Novi Grad",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Novi Grad",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ba",

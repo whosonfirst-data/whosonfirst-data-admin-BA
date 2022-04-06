@@ -23,8 +23,8 @@
     "meso:mps_x":18.365082,
     "meso:mps_y":43.68932,
     "meso:name_alt":"Trnovo",
-    "meso:name_en":"Trnovo (fbih)",
-    "meso:name_loc":"Trnovo (fbih)",
+    "meso:name_en":"Trnovo (FBiH)",
+    "meso:name_loc":"Trnovo (FBiH)",
     "meso:source":"AOTM",
     "mps:latitude":43.68932,
     "mps:longitude":18.365082,
@@ -35,7 +35,7 @@
         "Trnovo"
     ],
     "name:und_x_variant":[
-        "Trnovo (fbih)"
+        "Trnovo (FBiH)"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -60,8 +60,8 @@
         }
     ],
     "wof:id":1108759267,
-    "wof:lastmodified":1627521591,
-    "wof:name":"Trnovo (fbih)",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Trnovo (FBiH)",
     "wof:parent_id":85669235,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ba",

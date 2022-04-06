@@ -11,7 +11,10 @@
     "geom:longitude":18.942443,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Kalesija / Osmaci Commune"
+        "Osmaci Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Osmaci"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -29,8 +32,8 @@
     "meso:mps_x":18.971026,
     "meso:mps_y":44.4025,
     "meso:name_alt":"Kalesija",
-    "meso:name_en":"Kalesija / Osmaci",
-    "meso:name_loc":"Kalesija / Osmaci",
+    "meso:name_en":"Osmaci",
+    "meso:name_loc":"Osmaci",
     "meso:source":"AOTM",
     "mps:latitude":44.4025,
     "mps:longitude":18.971026,
@@ -41,7 +44,10 @@
         "Kalesija"
     ],
     "name:fra_x_preferred":[
-        "Kalesija-Osmaci"
+        "Osmaci"
+    ],
+    "name:bos_x_preferred":[
+        "Osmaci"
     ],
     "name:und_x_variant":[
         "Kalesija / Osmaci"
@@ -81,8 +87,8 @@
         }
     ],
     "wof:id":1108759123,
-    "wof:lastmodified":1627521588,
-    "wof:name":"Kalesija / Osmaci",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Osmaci",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

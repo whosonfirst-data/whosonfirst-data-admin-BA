@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Citluk Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina \u010citluk"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Citluk"
     ],
     "name:fra_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:bos_x_preferred":[
         "\u010citluk"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759049,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1649241444,
     "wof:name":"Citluk",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

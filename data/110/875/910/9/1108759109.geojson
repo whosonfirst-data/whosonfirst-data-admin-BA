@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Ilijas Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Ilija\u0161"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Ilijas"
     ],
     "name:fra_x_preferred":[
+        "Ilija\u0161"
+    ],
+    "name:bos_x_preferred":[
         "Ilija\u0161"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759109,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1649241444,
     "wof:name":"Ilijas",
     "wof:parent_id":85669235,
     "wof:placetype":"county",

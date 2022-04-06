@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Odzak Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Od\u017eak"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Odzak"
     ],
     "name:fra_x_preferred":[
+        "Od\u017eak"
+    ],
+    "name:bos_x_preferred":[
         "Od\u017eak"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759191,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1649241444,
     "wof:name":"Odzak",
     "wof:parent_id":85669243,
     "wof:placetype":"county",

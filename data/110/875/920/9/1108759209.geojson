@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Prnjavor Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Prnjavor"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108759209,
-    "wof:lastmodified":1566605102,
+    "wof:lastmodified":1649241444,
     "wof:name":"Prnjavor",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

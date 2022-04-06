@@ -11,7 +11,10 @@
     "geom:longitude":18.010664,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Mostar / Srpski Mostar Commune"
+        "East Mostar Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Isto\u010dni Mostar"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -29,8 +32,8 @@
     "meso:mps_x":18.014149,
     "meso:mps_y":43.411578,
     "meso:name_alt":"Mostar",
-    "meso:name_en":"Mostar / Srpski Mostar",
-    "meso:name_loc":"Mostar / Srpski Mostar",
+    "meso:name_en":"East Mostar",
+    "meso:name_loc":"Isto\u010dni Mostar",
     "meso:source":"AOTM",
     "mps:latitude":43.411578,
     "mps:longitude":18.014149,
@@ -40,11 +43,11 @@
     "name:eng_x_preferred":[
         "Mostar"
     ],
-    "name:fra_x_preferred":[
-        "Mostar/Srpski Mostar"
-    ],
     "name:und_x_variant":[
-        "Mostar / Srpski Mostar"
+        "East Mostar"
+    ],
+    "name:bos_x_preferred":[
+        "Isto\u010dni Mostar"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -81,8 +84,8 @@
         }
     ],
     "wof:id":1108759173,
-    "wof:lastmodified":1627521589,
-    "wof:name":"Mostar / Srpski Mostar",
+    "wof:lastmodified":1649241444,
+    "wof:name":"East Mostar",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

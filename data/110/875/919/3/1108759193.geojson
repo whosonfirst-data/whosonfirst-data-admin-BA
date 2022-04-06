@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Olovo Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Olovo"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1108759193,
-    "wof:lastmodified":1566605105,
+    "wof:lastmodified":1649241444,
     "wof:name":"Olovo",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

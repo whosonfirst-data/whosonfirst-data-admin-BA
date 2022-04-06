@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Zavidovici Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Zavidovi\u0107i"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Zavidovici"
     ],
     "name:fra_x_preferred":[
+        "Zavidovi\u0107i"
+    ],
+    "name:bos_x_preferred":[
         "Zavidovi\u0107i"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759295,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1649241444,
     "wof:name":"Zavidovici",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

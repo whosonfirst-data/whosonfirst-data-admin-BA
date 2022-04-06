@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Lopare Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Lopare"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108759159,
-    "wof:lastmodified":1566605091,
+    "wof:lastmodified":1649241444,
     "wof:name":"Lopare",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

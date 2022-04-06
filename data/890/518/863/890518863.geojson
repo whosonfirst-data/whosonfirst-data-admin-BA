@@ -21,22 +21,22 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
-        "Bosanski \u0160amac"
+        "\u0160amac"
     ],
     "name:deu_x_preferred":[
-        "Bosanski \u0160amac"
+        "\u0160amac"
     ],
     "name:eng_x_preferred":[
         "\u0160amac"
     ],
     "name:hbs_x_preferred":[
-        "Bosanski \u0160amac"
+        "\u0160amac"
     ],
     "name:hrv_x_preferred":[
-        "Bosanski \u0160amac"
+        "\u0160amac"
     ],
     "name:pol_x_preferred":[
-        "Bosanski \u0160amac"
+        "\u0160amac"
     ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0438 \u0428\u0430\u043c\u0430\u0446"
@@ -44,7 +44,10 @@
     "name:srp_x_variant":[
         "\u0428\u0430\u043c\u0430\u0446"
     ],
-    "qs:name":"Bosanski \u00c5 amac",
+    "name:bos_x_variant":[
+        "Bosanski \u0160amac"
+    ],
+    "qs:name":"\u00c5amac",
     "qs:name_adm0":"Bosna i Hercegovina",
     "qs:name_adm1":"Republika Srpska",
     "qs:photos":14,
@@ -81,8 +84,8 @@
         }
     ],
     "wof:id":890518863,
-    "wof:lastmodified":1566605367,
-    "wof:name":"Bosanski \u00c5 amac",
+    "wof:lastmodified":1649241444,
+    "wof:name":"\u00c5 amac",
     "wof:parent_id":1108759017,
     "wof:placetype":"locality",
     "wof:population":3599,

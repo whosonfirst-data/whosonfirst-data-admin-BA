@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Celinac Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina \u010celinac"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Celinac"
     ],
     "name:fra_x_preferred":[
+        "\u010celinac"
+    ],
+    "name:bos_x_preferred":[
         "\u010celinac"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759045,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1649241444,
     "wof:name":"Celinac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

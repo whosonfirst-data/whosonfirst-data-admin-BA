@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Donji Vakuf Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Donji Vakuf"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1108759065,
-    "wof:lastmodified":1566605089,
+    "wof:lastmodified":1649241444,
     "wof:name":"Donji Vakuf",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

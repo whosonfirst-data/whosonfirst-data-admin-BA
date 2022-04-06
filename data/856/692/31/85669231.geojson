@@ -13,6 +13,7 @@
     "label:eng_x_preferred_longname":[
         "Zenica-Doboj Canton"
     ],
+    "label:bos_x_preferred_shortcode": ["ZDK"],
     "lbl:latitude":44.247625,
     "lbl:longitude":18.182811,
     "lbl:min_zoom":8.0,
@@ -334,7 +335,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496546,
+    "wof:lastmodified":1649241444,
     "wof:name":"Zenica-Doboj",
     "wof:parent_id":85632609,
     "wof:placetype":"region",
