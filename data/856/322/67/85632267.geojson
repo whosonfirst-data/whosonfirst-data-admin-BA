@@ -14,6 +14,7 @@
     "label:eng_x_preferred_longname":[
         "Republic of Srpska"
     ],
+    "label:bos_x_preferred_shortcode": ["RS"],
     "lbl:latitude":43.400969,
     "lbl:longitude":18.538073,
     "lbl:min_zoom":8.0,
@@ -45,6 +46,9 @@
     ],
     "name:und_x_variant":[
         "Bosnia Serb Republic"
+    ],
+    "name:bos_x_preferred":[
+        "Republika Srpska"
     ],
     "ne:abbrev":"B.H.",
     "ne:abbrev_len":4,
@@ -156,7 +160,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1582321450,
+    "wof:lastmodified":1649241444,
     "wof:name":"Republic of Srpska",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

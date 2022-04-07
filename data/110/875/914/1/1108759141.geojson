@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Kotor Varos Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Kotor Varo\u0161"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Kotor-Varos"
     ],
     "name:fra_x_preferred":[
+        "Kotor Varo\u0161"
+    ],
+    "name:bos_x_preferred":[
         "Kotor Varo\u0161"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759141,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1649241444,
     "wof:name":"Kotor Varos",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

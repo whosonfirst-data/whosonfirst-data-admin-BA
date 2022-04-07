@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Trebinje Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Trebinje"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":1108759265,
-    "wof:lastmodified":1636496558,
+    "wof:lastmodified":1649241444,
     "wof:name":"Trebinje",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

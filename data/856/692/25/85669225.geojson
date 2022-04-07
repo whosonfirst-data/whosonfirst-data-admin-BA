@@ -13,6 +13,7 @@
     "label:eng_x_preferred_longname":[
         "Tuzla Canton"
     ],
+    "label:bos_x_preferred_shortcode": ["TK"],
     "lbl:latitude":44.511994,
     "lbl:longitude":18.588042,
     "lbl:min_zoom":8.0,
@@ -306,7 +307,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496546,
+    "wof:lastmodified":1649241444,
     "wof:name":"Tuzla",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

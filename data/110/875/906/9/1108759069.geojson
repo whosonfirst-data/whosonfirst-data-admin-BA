@@ -31,8 +31,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:fra_x_preferred":[
-        "Drvar/Isto\u010dni Drvar"
+    "name:bos_x_preferred":[
+        "Isto\u010dni Drvar"
+    ],
+    "name:und_x_preferred":[
+        "Isto\u010dni Drvar"
     ],
     "name:und_x_variant":[
         "Drvar / Srpski Drvar"
@@ -58,8 +61,8 @@
         }
     ],
     "wof:id":1108759069,
-    "wof:lastmodified":1627521587,
-    "wof:name":"Drvar / Srpski Drvar",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Isto\u010dni Drvar",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ba",

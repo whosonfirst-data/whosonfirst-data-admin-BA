@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Vitez Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Vitez"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1108759287,
-    "wof:lastmodified":1566605108,
+    "wof:lastmodified":1649241444,
     "wof:name":"Vitez",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

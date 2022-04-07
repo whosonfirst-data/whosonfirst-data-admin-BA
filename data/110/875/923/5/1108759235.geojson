@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Sokolac Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Sokolac"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1108759235,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1649241444,
     "wof:name":"Sokolac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

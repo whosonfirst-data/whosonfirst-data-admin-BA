@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Nevesinje Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Nevesinje"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1108759179,
-    "wof:lastmodified":1566605107,
+    "wof:lastmodified":1649241444,
     "wof:name":"Nevesinje",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

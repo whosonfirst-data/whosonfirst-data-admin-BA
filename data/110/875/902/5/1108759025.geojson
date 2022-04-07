@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Brcko Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Brcko Distrikt"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Brcko"
     ],
     "name:fra_x_preferred":[
+        "Br\u010dko"
+    ],
+    "name:bos_x_preferred":[
         "Br\u010dko"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759025,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1649241444,
     "wof:name":"Brcko",
     "wof:parent_id":85632279,
     "wof:placetype":"county",

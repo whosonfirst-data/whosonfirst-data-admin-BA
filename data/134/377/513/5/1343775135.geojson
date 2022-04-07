@@ -68,13 +68,13 @@
         }
     ],
     "wof:id":1343775135,
-    "wof:lastmodified":1566604358,
+    "wof:lastmodified":1649241444,
     "wof:name":"Glinje",
     "wof:parent_id":1108759273,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[1326838963],
     "wof:tags":[]
 },
   "bbox": [

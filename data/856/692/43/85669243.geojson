@@ -16,6 +16,7 @@
     "label:eng_x_preferred_placetype":[
         "entity"
     ],
+    "label:bos_x_preferred_shortcode": ["PK"],
     "lbl:latitude":45.022675,
     "lbl:longitude":18.658879,
     "lbl:min_zoom":8.0,
@@ -324,7 +325,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496545,
+    "wof:lastmodified":1649241444,
     "wof:name":"Posavina",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

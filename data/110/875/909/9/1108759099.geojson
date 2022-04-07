@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Grude Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Grude"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1108759099,
-    "wof:lastmodified":1566605085,
+    "wof:lastmodified":1649241444,
     "wof:name":"Grude",
     "wof:parent_id":85669217,
     "wof:placetype":"county",

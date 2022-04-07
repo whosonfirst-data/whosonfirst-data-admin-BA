@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Fojnica Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Fojnica"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1108759075,
-    "wof:lastmodified":1566605087,
+    "wof:lastmodified":1649241444,
     "wof:name":"Fojnica",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

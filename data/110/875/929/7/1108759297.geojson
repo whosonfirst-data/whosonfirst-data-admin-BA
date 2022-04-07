@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Zenica Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Zenica"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":1108759297,
-    "wof:lastmodified":1566605101,
+    "wof:lastmodified":1649241444,
     "wof:name":"Zenica",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

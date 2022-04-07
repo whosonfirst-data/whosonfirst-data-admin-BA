@@ -11,7 +11,10 @@
     "geom:longitude":18.505084,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Bosanski Samac / Samac Commune"
+        "Samac Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina \u0160amac"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -38,13 +41,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Bosanski Samac"
+        "Samac"
     ],
     "name:fra_x_preferred":[
-        "Bosanski \u0160amac/\u0160amac"
+        "\u0160amac"
+    ],
+    "name:bos_x_preferred":[
+        "\u0160amac"
     ],
     "name:und_x_variant":[
-        "Bosanski \u0160amac / \u0160amac"
+        "\u0160amac"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -81,8 +87,8 @@
         }
     ],
     "wof:id":1108759017,
-    "wof:lastmodified":1627521586,
-    "wof:name":"Bosanski Samac / Samac",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Samac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

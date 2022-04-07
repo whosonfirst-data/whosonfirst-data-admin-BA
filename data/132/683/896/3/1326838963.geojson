@@ -2,7 +2,7 @@
   "id": 1326838963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-04-05",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -52,12 +52,12 @@
         }
     ],
     "wof:id":1326838963,
-    "wof:lastmodified":1566604237,
+    "wof:lastmodified":1649241444,
     "wof:name":"Srpsko Glinje",
     "wof:parent_id":1108759273,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[1343775135],
     "wof:supersedes":[],
     "wof:tags":[]
 },

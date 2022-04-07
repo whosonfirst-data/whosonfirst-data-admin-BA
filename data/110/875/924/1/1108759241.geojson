@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Srebrenica Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Srebrenica"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":1108759241,
-    "wof:lastmodified":1566605093,
+    "wof:lastmodified":1649241444,
     "wof:name":"Srebrenica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

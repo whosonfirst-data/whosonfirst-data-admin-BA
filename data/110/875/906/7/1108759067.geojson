@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Drvar Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Drvar"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1108759067,
-    "wof:lastmodified":1566605089,
+    "wof:lastmodified":1649241444,
     "wof:name":"Drvar",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

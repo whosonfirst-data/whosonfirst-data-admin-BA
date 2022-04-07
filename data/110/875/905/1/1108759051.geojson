@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Derventa Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Derventa"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1108759051,
-    "wof:lastmodified":1566605097,
+    "wof:lastmodified":1649241444,
     "wof:name":"Derventa",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

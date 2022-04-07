@@ -2,7 +2,7 @@
   "id": 1242686731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-04-05",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -98,12 +98,12 @@
         }
     ],
     "wof:id":1242686731,
-    "wof:lastmodified":1566605425,
+    "wof:lastmodified":1649241444,
     "wof:name":"Donji Zabar",
     "wof:parent_id":1108759197,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[1108759197],
     "wof:supersedes":[],
     "wof:tags":[]
 },

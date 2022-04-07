@@ -11,7 +11,10 @@
     "geom:longitude":17.178411,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Bosanska Gradiska / Gradiska Commune"
+        "Gradiska Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Gradi\u0161ka/Gradi\u0161ka"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -43,7 +46,11 @@
     "name:fra_x_preferred":[
         "Bosanska Gradi\u0161ka/Gradi\u0161ka"
     ],
+    "name:bos_x_preferred":[
+        "Gradi\u0161ka"
+    ],
     "name:und_x_variant":[
+        "Gradi\u0161ka",
         "Bosanska Gradi\u0161ka / Gradi\u0161ka"
     ],
     "src:geom":"meso",
@@ -81,7 +88,7 @@
         }
     ],
     "wof:id":1108759001,
-    "wof:lastmodified":1627521585,
+    "wof:lastmodified":1649241444,
     "wof:name":"Bosanska Gradiska / Gradiska",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

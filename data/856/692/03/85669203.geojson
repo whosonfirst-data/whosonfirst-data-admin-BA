@@ -13,6 +13,7 @@
     "label:eng_x_preferred_longname":[
         "West Bosnia Canton"
     ],
+    "label:bos_x_preferred_shortcode": ["K10"],
     "lbl:latitude":43.977107,
     "lbl:longitude":16.871177,
     "lbl:min_zoom":8.0,
@@ -254,7 +255,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496544,
+    "wof:lastmodified":1649241444,
     "wof:name":"West Bosnia",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

@@ -11,7 +11,10 @@
     "geom:longitude":16.812164,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Bosanska Dubica / Kozarska Dubica Commune"
+        "Kozarska Dubica Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Kozarska Dubica Commune"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -38,12 +41,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Bosanska Dubica"
+        "Kozarska Dubica"
     ],
     "name:fra_x_preferred":[
-        "Bosanska Dubica/Kozarska Dubica"
+        "Kozarska Dubica/Kozarska Dubica"
+    ],
+    "name:bos_x_preferred":[
+        "Kozarska Dubica"
     ],
     "name:und_x_variant":[
+        "Kozarska Dubica",
         "Bosanska Dubica / Kozarska Dubica"
     ],
     "src:geom":"meso",
@@ -81,8 +88,8 @@
         }
     ],
     "wof:id":1108758999,
-    "wof:lastmodified":1627521585,
-    "wof:name":"Bosanska Dubica / Kozarska Dubica",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Kozarska Dubica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

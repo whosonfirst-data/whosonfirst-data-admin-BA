@@ -13,6 +13,7 @@
     "label:eng_x_preferred_longname":[
         "Sarajevo Canton"
     ],
+    "label:bos_x_preferred_shortcode": ["KS"],
     "lbl:latitude":43.775145,
     "lbl:longitude":18.235108,
     "lbl:min_zoom":8.0,
@@ -292,7 +293,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496545,
+    "wof:lastmodified":1649241444,
     "wof:name":"Sarajevo",
     "wof:parent_id":85632609,
     "wof:placetype":"region",
