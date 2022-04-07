@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Srbac Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Srbac"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1108759237,
-    "wof:lastmodified":1566605093,
+    "wof:lastmodified":1649241444,
     "wof:name":"Srbac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

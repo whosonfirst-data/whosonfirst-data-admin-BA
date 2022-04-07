@@ -31,11 +31,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:fra_x_preferred":[
-        "Ilid\u017ea/Srpska Ilid\u017ea"
-    ],
     "name:und_x_variant":[
-        "IIlid\u017ea / Srpska Ilid\u017ea"
+        "Isto\u010Dna IIlid\u017ea"
+    ],
+    "name:bos_x_preferred":[
+        "Isto\u010Dna IIlid\u017ea"
+    ],
+    "name:eng_x_variant":[
+        "East Ilidza"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -58,8 +61,8 @@
         }
     ],
     "wof:id":1108759107,
-    "wof:lastmodified":1627521588,
-    "wof:name":"Ilidza / Srpska Ilidza",
+    "wof:lastmodified":1649241444,
+    "wof:name":"East Ilidza",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ba",

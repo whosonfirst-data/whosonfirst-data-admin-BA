@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Gracanica Commune"
     ],
+ "label:bos_x_preferred_longname":[
+    "Op\u0161tina Gra\u010danica"
+],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Gracanica"
     ],
     "name:fra_x_preferred":[
+        "Gra\u010danica"
+    ],
+    "name:bos_x_preferred":[
         "Gra\u010danica"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759089,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1649241444,
     "wof:name":"Gracanica",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

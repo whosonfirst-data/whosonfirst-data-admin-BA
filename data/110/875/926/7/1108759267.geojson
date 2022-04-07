@@ -34,8 +34,11 @@
     "name:fra_x_preferred":[
         "Trnovo"
     ],
+    "name:bos_x_preferred":[
+        "Trnovo"
+    ],
     "name:und_x_variant":[
-        "Trnovo (fbih)"
+        "Trnovo (FBiH)"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -60,8 +63,8 @@
         }
     ],
     "wof:id":1108759267,
-    "wof:lastmodified":1627521591,
-    "wof:name":"Trnovo (fbih)",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Trnovo (FBiH)",
     "wof:parent_id":85669235,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ba",

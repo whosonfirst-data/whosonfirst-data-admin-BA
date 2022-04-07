@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Banja Luka Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Banja Luka"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -309,7 +312,7 @@
         }
     ],
     "wof:id":1108758989,
-    "wof:lastmodified":1636496557,
+    "wof:lastmodified":1649241444,
     "wof:name":"Banja Luka",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

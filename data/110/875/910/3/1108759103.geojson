@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Han Pijesak Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Han Pijesak"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1108759103,
-    "wof:lastmodified":1566605109,
+    "wof:lastmodified":1649241444,
     "wof:name":"Han Pijesak",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

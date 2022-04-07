@@ -13,6 +13,7 @@
     "label:eng_x_preferred_longname":[
         "Herzegovina-Neretva Canton"
     ],
+    "label:bos_x_preferred_shortcode": ["HNK"],
     "lbl:latitude":43.613479,
     "lbl:longitude":17.813312,
     "lbl:min_zoom":8.0,
@@ -344,7 +345,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496545,
+    "wof:lastmodified":1649241444,
     "wof:name":"Herzegovina-Neretva",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

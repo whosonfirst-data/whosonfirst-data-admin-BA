@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Tesanj Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Te\u0161anj"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Tesanj"
     ],
     "name:fra_x_preferred":[
+        "Te\u0161anj"
+    ],
+    "name:bos_x_preferred":[
         "Te\u0161anj"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759255,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1649241444,
     "wof:name":"Tesanj",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Bugojno Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Bugojno"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1108759029,
-    "wof:lastmodified":1566605098,
+    "wof:lastmodified":1649241444,
     "wof:name":"Bugojno",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

@@ -11,7 +11,10 @@
     "geom:longitude":18.456412,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Trnovo (rs) Commune"
+        "Trnovo (RS) Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina XXTrnovoXXXX"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -43,8 +46,11 @@
     "name:fra_x_preferred":[
         "Trnovo"
     ],
+    "name:bos_x_preferred":[
+        "Trnovo"
+    ],
     "name:und_x_variant":[
-        "Trnovo (rs)"
+        "Trnovo (RS)"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759269,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1649241444,
     "wof:name":"Trnovo (rs)",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Zepce Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina \u017dep\u010de"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Zepce"
     ],
     "name:fra_x_preferred":[
+        "\u017dep\u010de"
+    ],
+    "name:bos_x_preferred":[
         "\u017dep\u010de"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759299,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1649241444,
     "wof:name":"Zepce",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

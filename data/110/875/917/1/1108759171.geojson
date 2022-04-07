@@ -37,6 +37,9 @@
     "name:und_x_variant":[
         "Mostar (grad)"
     ],
+    "name:bos_x_preferred":[
+        "Grad Mostar"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108759171,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1649241444,
     "wof:name":"Mostar (grad)",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

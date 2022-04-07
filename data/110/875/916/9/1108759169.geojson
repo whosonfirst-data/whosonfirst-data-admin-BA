@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Modrica Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Modri\u010da"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Modrica"
     ],
     "name:fra_x_preferred":[
+        "Modri\u010da"
+    ],
+    "name:bos_x_preferred":[
         "Modri\u010da"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759169,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1649241444,
     "wof:name":"Modrica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

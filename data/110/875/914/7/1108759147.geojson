@@ -11,7 +11,7 @@
     "geom:longitude":17.176052,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Kupres / Srpski Kupres Commune"
+        "Kupres"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -43,8 +43,11 @@
     "name:fra_x_preferred":[
         "Kupres/Kupres Republike Srpske"
     ],
+    "name:bos_x_preferred":[
+        "Kupres"
+    ],
     "name:und_x_variant":[
-        "Kupres / Srpski Kupres"
+        "Kupres"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -81,8 +84,8 @@
         }
     ],
     "wof:id":1108759147,
-    "wof:lastmodified":1627521589,
-    "wof:name":"Kupres / Srpski Kupres",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Kupres",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:placetype_local":"commune",

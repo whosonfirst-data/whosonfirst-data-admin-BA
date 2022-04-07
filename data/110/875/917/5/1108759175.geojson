@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Mrkonjic Grad Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Mrkonji\u0107 Grad"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Mrkonjic-Grad"
     ],
     "name:fra_x_preferred":[
+        "Mrkonji\u0107 Grad"
+    ],
+    "name:bos_x_preferred":[
         "Mrkonji\u0107 Grad"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759175,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1649241444,
     "wof:name":"Mrkonjic Grad",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

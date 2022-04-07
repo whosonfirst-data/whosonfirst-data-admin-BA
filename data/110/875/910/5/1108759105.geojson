@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Ilidza Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Ilid\u017ea"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Ilidza"
     ],
     "name:fra_x_preferred":[
+        "Ilid\u017ea"
+    ],
+    "name:bos_x_preferred":[
         "Ilid\u017ea"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759105,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1649241444,
     "wof:name":"Ilidza",
     "wof:parent_id":85669235,
     "wof:placetype":"county",

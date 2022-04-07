@@ -35,7 +35,7 @@
         "Pale"
     ],
     "name:und_x_variant":[
-        "Pale (fbih)"
+        "Pale (FBiH)"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -58,8 +58,8 @@
         }
     ],
     "wof:id":1108759199,
-    "wof:lastmodified":1627521590,
-    "wof:name":"Pale (fbih)",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Pale (FBiH)",
     "wof:parent_id":85669239,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ba",

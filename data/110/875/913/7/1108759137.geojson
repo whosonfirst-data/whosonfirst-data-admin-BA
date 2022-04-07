@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Konjic Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Konjic"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1108759137,
-    "wof:lastmodified":1566605095,
+    "wof:lastmodified":1649241444,
     "wof:name":"Konjic",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

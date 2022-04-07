@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Srebrenik Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Srebrenik"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1108759243,
-    "wof:lastmodified":1566605093,
+    "wof:lastmodified":1649241444,
     "wof:name":"Srebrenik",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

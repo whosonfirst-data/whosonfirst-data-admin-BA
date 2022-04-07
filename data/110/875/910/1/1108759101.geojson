@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Hadzici Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Had\u017ei\u0107i"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -41,6 +44,9 @@
         "Hadzici"
     ],
     "name:fra_x_preferred":[
+        "Had\u017ei\u0107i"
+    ],
+    "name:bos_x_preferred":[
         "Had\u017ei\u0107i"
     ],
     "name:und_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759101,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1649241444,
     "wof:name":"Hadzici",
     "wof:parent_id":85669235,
     "wof:placetype":"county",

@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Kostajnica Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Kostajnica"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -47,7 +50,7 @@
         "Kostajnica"
     ],
     "name:eng_x_preferred":[
-        "Bosanski Novi"
+        "Kostajnica"
     ],
     "name:fra_x_preferred":[
         "Kostajnica"
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108759139,
-    "wof:lastmodified":1566605095,
+    "wof:lastmodified":1649241444,
     "wof:name":"Kostajnica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

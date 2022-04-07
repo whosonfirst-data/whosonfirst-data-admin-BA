@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Lukavac Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Lukavac"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1108759161,
-    "wof:lastmodified":1566605101,
+    "wof:lastmodified":1649241444,
     "wof:name":"Lukavac",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Livno Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Livno"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1108759153,
-    "wof:lastmodified":1566605091,
+    "wof:lastmodified":1649241444,
     "wof:name":"Livno",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

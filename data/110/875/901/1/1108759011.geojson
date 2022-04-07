@@ -32,10 +32,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:fra_x_preferred":[
-        "Bosanski Novi/Novi Grad"
+        "Novi Grad"
+    ],
+    "name:bos_x_preferred":[
+        "Novi Grad"
     ],
     "name:und_x_variant":[
-        "Bosanski Novi / Novi Grad"
+        "Novi Grad"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -60,8 +63,8 @@
         }
     ],
     "wof:id":1108759011,
-    "wof:lastmodified":1627521586,
-    "wof:name":"Bosanski Novi / Novi Grad",
+    "wof:lastmodified":1649241444,
+    "wof:name":"Novi Grad",
     "wof:parent_id":85632267,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ba",

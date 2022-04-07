@@ -13,6 +13,7 @@
     "label:eng_x_preferred_longname":[
         "Bosnian Podrinje Canton"
     ],
+    "label:bos_x_preferred_shortcode": ["BPK"],
     "lbl:latitude":43.675318,
     "lbl:longitude":18.802648,
     "lbl:min_zoom":8.0,
@@ -316,7 +317,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496546,
+    "wof:lastmodified":1649241444,
     "wof:name":"Bosnian Podrinje",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

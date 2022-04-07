@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Bosansko Grahovo / Grahovo Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Bosansko Grahovo"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "Bosansko Grahovo/Grahovo"
+    ],
+    "name:bos_x_preferred":[
+        "Bosansko Grahovo"
     ],
     "name:und_x_variant":[
         "Bosansko Grahovo / Grahovo"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759019,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1649241444,
     "wof:name":"Bosansko Grahovo / Grahovo",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

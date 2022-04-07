@@ -11,7 +11,10 @@
     "geom:longitude":18.643704,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Pale (rs) Commune"
+        "Pale (RS) Commune"
+    ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Pale"
     ],
     "label:eng_x_preferred_placetype":[
         "commune"
@@ -43,8 +46,11 @@
     "name:fra_x_preferred":[
         "Pale"
     ],
+    "name:bos_x_preferred":[
+        "Pale"
+    ],
     "name:und_x_variant":[
-        "Pale (rs)"
+        "Pale (RS)"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108759201,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1649241444,
     "wof:name":"Pale (rs)",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

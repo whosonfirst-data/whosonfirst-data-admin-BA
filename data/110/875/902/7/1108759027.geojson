@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Breza Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Breza"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108759027,
-    "wof:lastmodified":1566605098,
+    "wof:lastmodified":1649241444,
     "wof:name":"Breza",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

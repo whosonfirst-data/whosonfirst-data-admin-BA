@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Zvornik Commune"
     ],
+    "label:bos_x_preferred_longname":[
+        "Op\u0161tina Zvornik"
+    ],
     "label:eng_x_preferred_placetype":[
         "commune"
     ],
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":1108759303,
-    "wof:lastmodified":1566605090,
+    "wof:lastmodified":1649241444,
     "wof:name":"Zvornik",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

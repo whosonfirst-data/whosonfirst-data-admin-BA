@@ -13,6 +13,7 @@
     "label:eng_x_preferred_longname":[
         "West Herzegovina Canton"
     ],
+    "label:bos_x_preferred_shortcode": ["ZHK"],
     "lbl:latitude":43.388384,
     "lbl:longitude":17.455665,
     "lbl:min_zoom":8.0,
@@ -334,7 +335,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496545,
+    "wof:lastmodified":1649241444,
     "wof:name":"West Herzegovina",
     "wof:parent_id":85632609,
     "wof:placetype":"region",
