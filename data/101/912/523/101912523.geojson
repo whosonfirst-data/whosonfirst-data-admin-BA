@@ -30,6 +30,9 @@
     "qs:pop":0,
     "qs:source":"HCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "name:bos_x_preferred":[
+        "Gora\u017ede"
+    ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
