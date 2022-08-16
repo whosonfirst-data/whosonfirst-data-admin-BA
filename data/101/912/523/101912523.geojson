@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00036,
     "geom:area_square_m":3224401.433596,
-    "geom:bbox":"18.9540775463,43.6236874988,18.9767981086,43.6730188516",
+    "geom:bbox":"18.95407754626257,43.62368749875651,18.97679810863542,43.67301885156985",
     "geom:latitude":43.651755,
     "geom:longitude":18.966474,
     "iso:country":"BA",
@@ -17,8 +17,14 @@
     "mps:latitude":43.656658,
     "mps:longitude":18.967232,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Gorazde"
+    ],
+    "name:eng_x_variant":[
+        "Srpsko Gorazde"
+    ],
     "qs:a0":"Bosnia and Herzegovina",
     "qs:a1":"*",
     "qs:a1r":"3",
@@ -36,13 +42,14 @@
     "wof:belongsto":[
         102191581,
         85632609,
-        85669239,
-        1108759083
+        1108759083,
+        85669239
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722293,
-        "qs_pg:id":43481
+        "qs_pg:id":43481,
+        "wd:id":"Q504058"
     },
     "wof:country":"BA",
     "wof:geomhash":"10a383b9b5e2bf1843f5c71d5aa1623d",
@@ -56,8 +63,8 @@
         }
     ],
     "wof:id":101912523,
-    "wof:lastmodified":1566605292,
-    "wof:name":"Srpsko Gorazde",
+    "wof:lastmodified":1660694048,
+    "wof:name":"Gorazde",
     "wof:parent_id":1108759083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
