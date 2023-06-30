@@ -33,11 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632279,
         102191581,
         85632609,
-        1210051189,
-        1108759025
+        890519123,
+        1108759025,
+        85632279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +50,15 @@
             "continent_id":102191581,
             "country_id":85632609,
             "county_id":1108759025,
-            "locality_id":1210051189,
+            "locality_id":890519123,
             "neighbourhood_id":1863991075,
             "region_id":85632279
         }
     ],
     "wof:id":1863991075,
-    "wof:lastmodified":1687996203,
+    "wof:lastmodified":1688094608,
     "wof:name":"Grcica",
-    "wof:parent_id":1108759025,
+    "wof:parent_id":890519123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],

@@ -48,11 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632279,
         102191581,
         85632609,
-        1226372909,
-        1108759025
+        890519123,
+        1108759025,
+        85632279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,15 +66,15 @@
             "continent_id":102191581,
             "country_id":85632609,
             "county_id":1108759025,
-            "locality_id":1226372909,
+            "locality_id":890519123,
             "neighbourhood_id":1863991085,
             "region_id":85632279
         }
     ],
     "wof:id":1863991085,
-    "wof:lastmodified":1687996203,
+    "wof:lastmodified":1688094612,
     "wof:name":"Cadavac",
-    "wof:parent_id":1108759025,
+    "wof:parent_id":890519123,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
