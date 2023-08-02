@@ -23,10 +23,16 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u0646\u0648\u063a\u0631\u0627\u062a\u0634"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0631\u0646\u0648\u062c\u0631\u0627\u062a\u0634"
+    ],
     "name:bos_x_preferred":[
         "Vrnogra\u010d"
     ],
     "name:ceb_x_preferred":[
+        "Vrnogra\u010d"
+    ],
+    "name:deu_x_preferred":[
         "Vrnogra\u010d"
     ],
     "name:eng_x_preferred":[
@@ -38,10 +44,19 @@
     "name:hrv_x_preferred":[
         "Vrnogra\u010d"
     ],
+    "name:hsb_x_preferred":[
+        "Vrnogra\u010d"
+    ],
     "name:nld_x_preferred":[
         "Vrnogra\u010d"
     ],
+    "name:pol_x_preferred":[
+        "Vrnogra\u010d"
+    ],
     "name:sco_x_preferred":[
+        "Vrnogra\u010d"
+    ],
+    "name:spa_x_preferred":[
         "Vrnogra\u010d"
     ],
     "name:srp_x_preferred":[
@@ -86,7 +101,7 @@
         }
     ],
     "wof:id":890519053,
-    "wof:lastmodified":1566605348,
+    "wof:lastmodified":1690855795,
     "wof:name":"Vrnogra\u010d",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

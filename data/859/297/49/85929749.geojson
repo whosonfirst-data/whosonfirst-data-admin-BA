@@ -26,7 +26,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0641\u0648 \u0633\u0631\u0627\u064a\u064a\u0641\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u0430\u0431\u0448\u0447\u044b\u043d\u0430 \u041d\u043e\u0432\u0430-\u0421\u0430\u0440\u0430\u0435\u0432\u0430"
+    ],
     "name:bos_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0107ina Novo Sarajevo"
+    ],
+    "name:ces_x_preferred":[
         "Novo Sarajevo"
     ],
     "name:deu_x_preferred":[
@@ -34,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Novo Sarajevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0648 \u0633\u0627\u0631\u0627\u06cc\u0648\u0648"
     ],
     "name:fra_x_preferred":[
         "Novo Sarajevo"
@@ -49,6 +64,9 @@
     ],
     "name:hun_x_preferred":[
         "Novo Sarajevo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u057e\u0578 \u054d\u0561\u0580\u0561\u0587\u0578"
     ],
     "name:ita_x_preferred":[
         "Novo Sarajevo"
@@ -68,6 +86,12 @@
     "name:pol_x_preferred":[
         "Novo Sarajevo"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0421\u0430\u0440\u0430\u0435\u0432\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Novo Sarajevo"
+    ],
     "name:spa_x_preferred":[
         "Novo Sarajevo"
     ],
@@ -76,6 +100,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u043e \u0421\u0430\u0440\u0430\u0458\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Op\u0107ina Novo Sarajevo"
     ],
     "name:tur_x_preferred":[
         "Novo Sarajevo"
@@ -146,7 +173,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582321447,
+    "wof:lastmodified":1690855779,
     "wof:name":"Novo Sarajevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

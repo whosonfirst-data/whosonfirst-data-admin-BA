@@ -79,6 +79,9 @@
     "name:fra_x_variant":[
         "canton de Zenica-Doboj"
     ],
+    "name:frr_x_preferred":[
+        "Zenica-Doboj"
+    ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac7\u0aa8\u0abf\u0a95\u0abe-\u0aa1\u0acb\u0aac\u0ac9\u0a9c \u0a95\u0ac7\u0aa8\u0acd\u0a9f\u0aa8"
     ],
@@ -100,6 +103,9 @@
     "name:hun_x_preferred":[
         "Zenica-Doboj"
     ],
+    "name:hye_x_preferred":[
+        "\u0536\u0565\u0576\u056b\u056f\u0561-\u0534\u0578\u0562\u0578\u0575\u056b \u056f\u0561\u0576\u057f\u0578\u0576"
+    ],
     "name:ile_x_preferred":[
         "Canton Zenica-Doboj"
     ],
@@ -120,6 +126,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc81c\ub2c8\ucc28\ub3c4\ubcf4\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc81c\ub2c8\ucc28\ub3c4\ubcf4\uc774\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Pagus Bistuae-Canabeae"
     ],
     "name:lav_x_preferred":[
         "Zenica-Dobojas kantons"
@@ -166,6 +178,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd9\u0db1\u0dd2\u0d9a\u0dcf \u0da9\u0ddc\u0db6\u0ddd\u0da2\u0dca \u0d9a\u0dd0\u0db1\u0dca\u0da7\u0db1\u0dca"
     ],
+    "name:slv_x_preferred":[
+        "Zeni\u0161ko-dobojski kanton"
+    ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Zenica-Doboj"
     ],
@@ -197,6 +212,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e40\u0e0b\u0e19\u0e34\u0e04\u0e32\u0e14\u0e34\u0e1a\u0e2d\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e40\u0e0b\u0e19\u0e34\u0e15\u0e0b\u0e32-\u0e14\u0e2d\u0e1a\u0e47\u0e2d\u0e22"
     ],
     "name:tur_x_preferred":[
         "Zenica-Doboj Kantonu"
@@ -334,7 +352,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496546,
+    "wof:lastmodified":1690855781,
     "wof:name":"Zenica-Doboj",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

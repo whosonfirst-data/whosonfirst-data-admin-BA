@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Mili\u0107i"
     ],
+    "name:pol_x_preferred":[
+        "Mili\u0107i"
+    ],
     "name:slv_x_preferred":[
         "Mili\u0107i"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890518803,
-    "wof:lastmodified":1566605358,
+    "wof:lastmodified":1690855818,
     "wof:name":"Mili\u0107i",
     "wof:parent_id":1108759165,
     "wof:placetype":"locality",

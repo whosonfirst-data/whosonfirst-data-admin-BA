@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Pale"
+    ],
     "name:bos_x_preferred":[
         "Pale"
     ],
@@ -49,7 +52,16 @@
     "name:eng_x_preferred":[
         "Pale"
     ],
+    "name:est_x_preferred":[
+        "Pale"
+    ],
+    "name:fin_x_preferred":[
+        "Pale"
+    ],
     "name:fra_x_preferred":[
+        "Pale"
+    ],
+    "name:frr_x_preferred":[
         "Pale"
     ],
     "name:hbs_x_preferred":[
@@ -87,6 +99,9 @@
     ],
     "name:nob_x_preferred":[
         "Pale i Bosnia-Hercegovina"
+    ],
+    "name:nob_x_variant":[
+        "Pale"
     ],
     "name:nor_x_preferred":[
         "Pale i Bosnia-Hercegovina"
@@ -168,7 +183,7 @@
         }
     ],
     "wof:id":890518603,
-    "wof:lastmodified":1566605359,
+    "wof:lastmodified":1690855819,
     "wof:name":"Pale",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",

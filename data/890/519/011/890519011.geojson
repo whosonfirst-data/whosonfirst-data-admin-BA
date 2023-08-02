@@ -32,6 +32,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0440\u0435\u0431\u0440\u0435\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Op\u0107ina Srebrenik"
+    ],
     "name:ces_x_preferred":[
         "Srebrenik"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:hrv_x_preferred":[
         "Srebrenik"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0580\u0565\u0562\u0580\u0565\u0576\u056b\u056f"
     ],
     "name:ile_x_preferred":[
         "Srebrenik"
@@ -98,6 +104,9 @@
     "name:urd_x_preferred":[
         "\u0633\u0631\u06cc\u0628\u0631\u06cc\u0646\u06a9"
     ],
+    "name:zho_x_preferred":[
+        "\u65af\u96f7\u5e03\u96f7\u5c3c\u514b"
+    ],
     "qs:name":"Srebrenik",
     "qs:name_adm0":"Bosna i Hercegovina",
     "qs:name_adm1":"Federacija Bosne I Hercegovine",
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":890519011,
-    "wof:lastmodified":1566605350,
+    "wof:lastmodified":1690855799,
     "wof:name":"Srebrenik",
     "wof:parent_id":1108759243,
     "wof:placetype":"locality",

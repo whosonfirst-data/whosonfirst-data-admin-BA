@@ -27,6 +27,9 @@
     "name:afr_x_preferred":[
         "Sarajevo"
     ],
+    "name:aka_x_preferred":[
+        "Sarajevo"
+    ],
     "name:amh_x_preferred":[
         "\u1233\u122b\u12ec\u126e"
     ],
@@ -39,6 +42,9 @@
     "name:arg_x_preferred":[
         "Sarajevo"
     ],
+    "name:ary_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u064a\u064a\u06a4\u0648"
+    ],
     "name:arz_x_preferred":[
         "\u0633\u0627\u0631\u0627\u064a\u064a\u0641\u0648"
     ],
@@ -48,11 +54,17 @@
     "name:ava_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0435\u0432\u043e"
     ],
+    "name:avk_x_preferred":[
+        "Sarajevo"
+    ],
     "name:aze_x_preferred":[
         "Sarayevo"
     ],
     "name:bak_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0435\u0432\u043e"
+    ],
+    "name:ban_x_preferred":[
+        "Saraj\u00e9vo"
     ],
     "name:bcl_x_preferred":[
         "Sarajevo"
@@ -190,6 +202,9 @@
     "name:hat_x_preferred":[
         "Sarayevo"
     ],
+    "name:hau_x_preferred":[
+        "Sarajevo"
+    ],
     "name:hbs_x_preferred":[
         "Sarajevo"
     ],
@@ -262,6 +277,9 @@
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0435\u0432\u043e"
     ],
+    "name:kin_x_preferred":[
+        "Sarajevo"
+    ],
     "name:kir_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0435\u0432\u043e"
     ],
@@ -310,6 +328,9 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0930\u093e\u092f\u0947\u0935\u094d\u0939\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0435\u0432\u043e"
+    ],
     "name:mhr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0435\u0432\u043e"
     ],
@@ -328,8 +349,14 @@
     "name:msa_x_preferred":[
         "Sarajevo"
     ],
+    "name:mya_x_preferred":[
+        "\u1006\u102c\u101b\u102c\u101a\u1031\u1017\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:myv_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0435\u0432\u043e \u043e\u0448"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u06cc\u0648\u0648"
     ],
     "name:nah_x_preferred":[
         "Sarayevo"
@@ -342,6 +369,9 @@
     ],
     "name:nau_x_preferred":[
         "Sarajevo"
+    ],
+    "name:nav_x_preferred":[
+        "Naat\u02bc\u00e1aniikin"
     ],
     "name:nld_x_preferred":[
         "Sarajevo"
@@ -403,6 +433,9 @@
     "name:ron_x_preferred":[
         "Sarajevo"
     ],
+    "name:rue_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0454\u0432\u043e"
+    ],
     "name:rup_x_preferred":[
         "Sarajevo"
     ],
@@ -433,10 +466,19 @@
     "name:sme_x_preferred":[
         "Sarajevo"
     ],
+    "name:smn_x_preferred":[
+        "Sarajevo"
+    ],
     "name:smo_x_preferred":[
         "Sarajevo"
     ],
+    "name:sms_x_preferred":[
+        "Sarajevo"
+    ],
     "name:sna_x_preferred":[
+        "Sarajevo"
+    ],
+    "name:som_x_preferred":[
         "Sarajevo"
     ],
     "name:spa_x_preferred":[
@@ -528,6 +570,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u8428\u62c9\u70ed\u7a9d"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d0\u10d4\u10d5\u10dd"
     ],
     "name:yid_x_preferred":[
         "\u05e1\u05d0\u05e8\u05d0\u05d9\u05e2\u05d5\u05d5\u05d0"
@@ -675,7 +720,7 @@
         }
     ],
     "wof:id":890518775,
-    "wof:lastmodified":1636496562,
+    "wof:lastmodified":1690855844,
     "wof:name":"Sarajevo",
     "wof:parent_id":1108759181,
     "wof:placetype":"locality",

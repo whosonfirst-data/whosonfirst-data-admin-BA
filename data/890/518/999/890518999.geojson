@@ -31,6 +31,9 @@
     "name:hrv_x_preferred":[
         "Grabovica Donja"
     ],
+    "name:pol_x_preferred":[
+        "Grabovica Donja"
+    ],
     "name:und_x_variant":[
         "Muslimanska-Grabovica"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890518999,
-    "wof:lastmodified":1566605355,
+    "wof:lastmodified":1690855810,
     "wof:name":"Grabovica Donja",
     "wof:parent_id":1108759271,
     "wof:placetype":"locality",

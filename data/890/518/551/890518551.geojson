@@ -37,6 +37,12 @@
     "name:hrv_x_preferred":[
         "Lokvine"
     ],
+    "name:pol_x_preferred":[
+        "Lokvine"
+    ],
+    "name:spa_x_preferred":[
+        "Lokvine"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u043a\u0432\u0438\u043d\u0435"
     ],
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890518551,
-    "wof:lastmodified":1566605352,
+    "wof:lastmodified":1690855804,
     "wof:name":"Lokvine",
     "wof:parent_id":1108759297,
     "wof:placetype":"locality",

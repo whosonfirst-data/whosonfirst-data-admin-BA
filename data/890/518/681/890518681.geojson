@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "\u017dep\u010de"
     ],
+    "name:ces_x_preferred":[
+        "\u017dep\u010de"
+    ],
     "name:deu_x_preferred":[
         "\u017dep\u010de"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:hsb_x_preferred":[
         "\u017dep\u010de"
+    ],
+    "name:hye_x_preferred":[
+        "\u053a\u0565\u057a\u0579\u0565"
     ],
     "name:ita_x_preferred":[
         "\u017dep\u010de"
@@ -94,6 +100,9 @@
     "name:tur_x_preferred":[
         "\u017dep\u010de"
     ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0435\u043f\u0447\u0435"
+    ],
     "name:urd_x_preferred":[
         "\u0698\u0627\u067e\u0686\u06d2"
     ],
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":890518681,
-    "wof:lastmodified":1566605356,
+    "wof:lastmodified":1690855811,
     "wof:name":"\u017dep\u010de",
     "wof:parent_id":1108759299,
     "wof:placetype":"locality",

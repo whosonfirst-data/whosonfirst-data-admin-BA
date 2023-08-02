@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u0446\u043a\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Gacko"
+    ],
     "name:ceb_x_preferred":[
         "Gacko"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":890518861,
-    "wof:lastmodified":1566605358,
+    "wof:lastmodified":1690855816,
     "wof:name":"Gacko",
     "wof:parent_id":1108759079,
     "wof:placetype":"locality",

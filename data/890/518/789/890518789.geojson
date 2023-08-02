@@ -22,6 +22,12 @@
     "name:bos_x_preferred":[
         "Potoci"
     ],
+    "name:ceb_x_preferred":[
+        "Potoci"
+    ],
+    "name:deu_x_preferred":[
+        "Potoci"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03cc\u03c4\u03bf\u03c4\u03c3\u03b9"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0442\u043e\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Potoci"
     ],
     "qs:name":"Potoci",
     "qs:photos_9r":0,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":890518789,
-    "wof:lastmodified":1566605369,
+    "wof:lastmodified":1690855847,
     "wof:name":"Potoci",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

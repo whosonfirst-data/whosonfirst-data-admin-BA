@@ -56,13 +56,20 @@
         "\u0392\u03bf\u03c3\u03bd\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a0\u03cc\u03bd\u03c4\u03c1\u03b9\u03bd\u03b9\u03b5"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03b1\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf \u03c4\u03bf\u03c5 \u0392\u03bf\u03c3\u03bd\u03b9\u03b1\u03ba\u03bf\u03cd \u03a0\u03cc\u03bd\u03c4\u03c1\u03b9\u03bd\u03b9\u03b5"
+        "\u039a\u03b1\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf \u03c4\u03bf\u03c5 \u0392\u03bf\u03c3\u03bd\u03b9\u03b1\u03ba\u03bf\u03cd \u03a0\u03cc\u03bd\u03c4\u03c1\u03b9\u03bd\u03b9\u03b5",
+        "\u03ba\u03b1\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf \u03c4\u03bf\u03c5 \u0392\u03bf\u03c3\u03bd\u03b9\u03b1\u03ba\u03bf\u03cd \u03a0\u03cc\u03bd\u03c4\u03c1\u03b9\u03bd\u03b9\u03b5"
     ],
     "name:eng_x_preferred":[
         "Bosnian Podrinje"
     ],
     "name:eng_x_variant":[
         "Bosnian Podrinje Canton"
+    ],
+    "name:epo_x_preferred":[
+        "bosna Podrinje"
+    ],
+    "name:est_x_preferred":[
+        "Bosansko Podrinje kanton"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0633\u0646\u06cc\u0627\u0646-\u067e\u0648\u062f\u0631\u06cc\u0646\u06cc\u0647"
@@ -75,6 +82,9 @@
     ],
     "name:fra_x_preferred":[
         "canton du Podrinje bosnien"
+    ],
+    "name:frr_x_preferred":[
+        "Bosnisk Podrinje Gora\u017ede"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab8\u0acd\u0aa8\u0abf\u0aaf\u0aa8 \u0aaa\u0acb\u0aa1\u0ab0\u0abf\u0a82\u0a9c\u0ac7 \u0a95\u0ac7\u0aa8\u0acd\u0a9f\u0acb\u0aa8"
@@ -93,6 +103,9 @@
     ],
     "name:hun_x_preferred":[
         "Bosnian Podrinje"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u057d\u0576\u056b\u0561-\u054a\u0578\u0564\u0580\u056b\u0561\u0576\u0561\u056f\u0561\u0576 \u056f\u0561\u0576\u057f\u0578\u0576"
     ],
     "name:ile_x_preferred":[
         "Canton Bosnian-Podrinje"
@@ -117,6 +130,12 @@
     ],
     "name:kor_x_preferred":[
         "\ubcf4\uc2a4\ub2c8\uc544\ud3ec\ub4dc\ub9ac\ub124 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubcf4\uc2a4\ub2c8\uc544\ud3ec\ub4dc\ub9ac\ub124\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Pagus Driniae Bosnicae"
     ],
     "name:lav_x_preferred":[
         "Bosnie\u0161u Podri\u0146es kantons Gora\u017ede"
@@ -154,6 +173,9 @@
     "name:sin_x_preferred":[
         "\u0db6\u0ddc\u0dc3\u0dca\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db4\u0ddc\u0da9\u0dca\u0dbb\u0dd2\u0db1\u0dca\u0da2\u0dda \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:slv_x_preferred":[
+        "Bosansko-podrinjski kanton Gora\u017ede"
+    ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Podrinje Bosnio"
     ],
@@ -180,6 +202,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e2d\u0e2a\u0e40\u0e19\u0e35\u0e22\u0e19 \u0e1e\u0e2d\u0e14\u0e23\u0e34\u0e19\u0e40\u0e08 \u0e41\u0e04\u0e19\u0e15\u0e2d\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e1b\u0e2d\u0e14\u0e23\u0e35\u0e40\u0e0d\u0e1a\u0e2d\u0e2a\u0e40\u0e19\u0e35\u0e22\u0e01\u0e2d\u0e23\u0e31\u0e0c\u0e40\u0e14"
     ],
     "name:tur_x_preferred":[
         "Bosna-Podrinje Kantonu"
@@ -316,7 +341,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496546,
+    "wof:lastmodified":1690855781,
     "wof:name":"Bosnian Podrinje",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

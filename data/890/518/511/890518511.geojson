@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Crni\u0107i"
     ],
+    "name:pol_x_preferred":[
+        "Crni\u0107i"
+    ],
     "name:srp_x_preferred":[
         "\u0426\u0440\u043d\u0438\u045b\u0438"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890518511,
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1690855825,
     "wof:name":"Crni\u0107i",
     "wof:parent_id":1108759249,
     "wof:placetype":"locality",

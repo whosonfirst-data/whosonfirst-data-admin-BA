@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.085986,43.6910315,19.085986,43.6910315",
+    "geom:bbox":"19.085986,43.691032,19.085986,43.691032",
     "geom:latitude":43.691032,
     "geom:longitude":19.085986,
     "gp:adm0":23424761,
@@ -21,6 +21,9 @@
         "Ustipra\u010da"
     ],
     "name:ceb_x_preferred":[
+        "Ustipra\u010da"
+    ],
+    "name:ces_x_preferred":[
         "Ustipra\u010da"
     ],
     "name:deu_x_preferred":[
@@ -53,14 +56,26 @@
     "name:pol_x_preferred":[
         "Novo Gora\u017ede"
     ],
+    "name:pol_x_variant":[
+        "Ustipra\u010da"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u0438\u043f\u0440\u0430\u0447\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Ustipra\u010da"
     ],
     "name:spa_x_preferred":[
         "Novo Gora\u017ede"
     ],
+    "name:spa_x_variant":[
+        "Ustipra\u010da"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0413\u043e\u0440\u0430\u0436\u0434\u0435"
+    ],
+    "name:srp_x_variant":[
+        "\u0423\u0441\u0442\u0438\u043f\u0440\u0430\u0447\u0430"
     ],
     "name:swe_x_preferred":[
         "Ustipra\u010da"
@@ -70,6 +85,9 @@
     ],
     "name:tur_x_preferred":[
         "Yeni Gorajde"
+    ],
+    "name:tur_x_variant":[
+        "Ustipra\u010da"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0648\u0648 \u06af\u0648\u0631\u0634\u062f\u06d2"
@@ -102,7 +120,7 @@
     },
     "wof:country":"BA",
     "wof:created":1469056090,
-    "wof:geomhash":"5a94514ea8d8a323836133d3e4c664b3",
+    "wof:geomhash":"4af6ec8db31b6b2af8d26eb0e56bc8f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":890519055,
-    "wof:lastmodified":1566605348,
+    "wof:lastmodified":1690855796,
     "wof:name":"Ustipra\u010da",
     "wof:parent_id":1108759085,
     "wof:placetype":"locality",
@@ -124,9 +142,9 @@
 },
   "bbox": [
     19.085986,
-    43.6910315,
+    43.691032,
     19.085986,
-    43.6910315
+    43.691032
 ],
-  "geometry": {"coordinates":[19.085986,43.6910315],"type":"Point"}
+  "geometry": {"coordinates":[19.085986,43.691032],"type":"Point"}
 }

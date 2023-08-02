@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Vojkovi\u0107i"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a9\u30a4\u30b3\u30f4\u30a3\u30c1"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u043e\u0458\u043a\u043e\u0432\u0438\u045b\u0438"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890518945,
-    "wof:lastmodified":1566605368,
+    "wof:lastmodified":1690855846,
     "wof:name":"Vojkovi\u0107i",
     "wof:parent_id":1108759107,
     "wof:placetype":"locality",

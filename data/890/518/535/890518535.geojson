@@ -19,7 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Vlasenica"
+    ],
+    "name:bel_x_preferred":[
+        "\u0423\u043b\u0430\u0441\u0435\u043d\u0456\u0446\u0430"
+    ],
     "name:bos_x_preferred":[
+        "Vlasenica"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043b\u0430\u0441\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:cat_x_preferred":[
         "Vlasenica"
     ],
     "name:ceb_x_preferred":[
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":890518535,
-    "wof:lastmodified":1636496561,
+    "wof:lastmodified":1690855810,
     "wof:name":"Vlasenica",
     "wof:parent_id":1108759289,
     "wof:placetype":"locality",

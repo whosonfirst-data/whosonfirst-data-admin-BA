@@ -38,7 +38,13 @@
     "name:hrv_x_preferred":[
         "Dvorovi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30f4\u30a9\u30ed\u30f4\u30a3"
+    ],
     "name:nld_x_preferred":[
+        "Dvorovi"
+    ],
+    "name:pol_x_preferred":[
         "Dvorovi"
     ],
     "name:rus_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890518829,
-    "wof:lastmodified":1566605356,
+    "wof:lastmodified":1690855811,
     "wof:name":"Dvorovi",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

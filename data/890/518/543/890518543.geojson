@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Batkovi\u0107"
     ],
+    "name:deu_x_preferred":[
+        "Batkovi\u0107"
+    ],
     "name:eng_x_preferred":[
         "Batkovi\u0107"
     ],
@@ -35,6 +38,9 @@
         "Batkovi\u0107"
     ],
     "name:nld_x_preferred":[
+        "Batkovi\u0107"
+    ],
+    "name:pol_x_preferred":[
         "Batkovi\u0107"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890518543,
-    "wof:lastmodified":1566605360,
+    "wof:lastmodified":1690855823,
     "wof:name":"Batkovi\u0107",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

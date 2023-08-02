@@ -26,6 +26,12 @@
     "name:bos_x_preferred":[
         "Han-Pijesak"
     ],
+    "name:ceb_x_preferred":[
+        "Han Pijesak"
+    ],
+    "name:ces_x_preferred":[
+        "Han Pijesak"
+    ],
     "name:deu_x_preferred":[
         "Han Pijesak"
     ],
@@ -44,6 +50,9 @@
     "name:hsb_x_preferred":[
         "Han Pijesak"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0576 \u054a\u0565\u057d\u0561\u056f"
+    ],
     "name:ita_x_preferred":[
         "Han Pijesak"
     ],
@@ -51,6 +60,9 @@
         "\u30cf\u30f3\u30fb\u30d4\u30a4\u30a7\u30b5\u30af"
     ],
     "name:nld_x_preferred":[
+        "Han Pijesak"
+    ],
+    "name:nob_x_preferred":[
         "Han Pijesak"
     ],
     "name:pol_x_preferred":[
@@ -64,6 +76,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u043d \u041f\u0438\u0458\u0435\u0441\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Han Pijesak"
     ],
     "name:tur_x_preferred":[
         "Pisakhan"
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":890518925,
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1690855825,
     "wof:name":"Han-Pijesak",
     "wof:parent_id":1108759103,
     "wof:placetype":"locality",

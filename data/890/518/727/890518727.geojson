@@ -29,6 +29,12 @@
     "name:arg_x_preferred":[
         "Mostar"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0633\u062a\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Mostar"
+    ],
     "name:aze_x_preferred":[
         "Mostar"
     ],
@@ -47,6 +53,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0441\u0442\u0430\u0440"
     ],
+    "name:bxr_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0430\u0440"
+    ],
     "name:cat_x_preferred":[
         "Mostar"
     ],
@@ -63,6 +72,9 @@
         "Mostar"
     ],
     "name:deu_x_preferred":[
+        "Mostar"
+    ],
+    "name:diq_x_preferred":[
         "Mostar"
     ],
     "name:ell_x_preferred":[
@@ -87,6 +99,9 @@
         "Mostar"
     ],
     "name:fra_x_preferred":[
+        "Mostar"
+    ],
+    "name:frr_x_preferred":[
         "Mostar"
     ],
     "name:gag_x_preferred":[
@@ -124,6 +139,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u057d\u057f\u0561\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Mostar"
     ],
     "name:ile_x_preferred":[
         "Mostar"
@@ -203,6 +221,9 @@
     "name:oci_x_preferred":[
         "Mostar"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u043e\u0441\u0442\u0430\u0440"
+    ],
     "name:pms_x_preferred":[
         "Mostar"
     ],
@@ -263,6 +284,9 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e2d\u0e2a\u0e15\u0e49\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e47\u0e2d\u0e2a\u0e15\u0e32\u0e23\u0e4c"
+    ],
     "name:tum_x_preferred":[
         "Mostar"
     ],
@@ -286,6 +310,12 @@
     ],
     "name:war_x_preferred":[
         "Mostar"
+    ],
+    "name:wuu_x_preferred":[
+        "\u83ab\u65af\u5854\u5c14"
+    ],
+    "name:yue_x_preferred":[
+        "\u83ab\u65af\u5854\u723e"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u65af\u5854\u723e"
@@ -425,7 +455,7 @@
         }
     ],
     "wof:id":890518727,
-    "wof:lastmodified":1566605370,
+    "wof:lastmodified":1690855849,
     "wof:name":"Mostar",
     "wof:parent_id":1108759171,
     "wof:placetype":"locality",

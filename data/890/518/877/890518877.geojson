@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "\u010citluk"
+    ],
     "name:bos_x_preferred":[
         "\u010citluk"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:hrv_x_preferred":[
         "\u010citluk"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u056b\u057f\u056c\u0578\u0582\u056f"
     ],
     "name:ita_x_preferred":[
         "\u010citluk"
@@ -71,8 +77,14 @@
     "name:por_x_preferred":[
         "\u010citluk"
     ],
+    "name:ron_x_preferred":[
+        "\u010citluk"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0438\u0442\u043b\u0443\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "\u010citluk"
     ],
     "name:spa_x_preferred":[
         "\u010citluk"
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":890518877,
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1690855833,
     "wof:name":"\u010citluk",
     "wof:parent_id":1108759049,
     "wof:placetype":"locality",

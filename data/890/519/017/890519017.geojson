@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Sanski Most"
     ],
+    "name:ceb_x_preferred":[
+        "Sanski Most"
+    ],
     "name:ces_x_preferred":[
         "Sanski Most"
     ],
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":890519017,
-    "wof:lastmodified":1566605350,
+    "wof:lastmodified":1690855801,
     "wof:name":"Sanski Most",
     "wof:parent_id":1108759219,
     "wof:placetype":"locality",

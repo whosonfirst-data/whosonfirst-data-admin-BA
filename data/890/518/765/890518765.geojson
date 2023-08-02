@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0628\u064a\u0646\u064a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0631\u064a\u0628\u064a\u0646\u064a\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Trebinje"
+    ],
+    "name:aze_x_preferred":[
+        "Trebine"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u0440\u044d\u0431\u0456\u043d\u0435"
     ],
@@ -33,6 +42,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0438\u043d\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Trebinje"
     ],
     "name:ceb_x_preferred":[
         "Trebinje"
@@ -58,6 +70,9 @@
     "name:epo_x_preferred":[
         "Trebinje"
     ],
+    "name:est_x_preferred":[
+        "Trebinje"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0631\u0628\u06cc\u0646\u06cc\u0647"
     ],
@@ -65,6 +80,9 @@
         "Trebinje"
     ],
     "name:fra_x_preferred":[
+        "Trebinje"
+    ],
+    "name:frr_x_preferred":[
         "Trebinje"
     ],
     "name:guj_x_preferred":[
@@ -83,6 +101,9 @@
         "Trebinje"
     ],
     "name:hsb_x_preferred":[
+        "Trebinje"
+    ],
+    "name:hun_x_preferred":[
         "Trebinje"
     ],
     "name:hye_x_preferred":[
@@ -106,8 +127,14 @@
     "name:kor_x_preferred":[
         "\ud2b8\ub808\ube44\ub124"
     ],
+    "name:lat_x_preferred":[
+        "Tribulium"
+    ],
     "name:lav_x_preferred":[
         "Trebinje"
+    ],
+    "name:lav_x_variant":[
+        "Trebi\u0146e"
     ],
     "name:lit_x_preferred":[
         "Trebin\u0117"
@@ -139,6 +166,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0438\u043d\u044c\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0440\u0435\u0431\u0438\u043d\u0435"
+    ],
     "name:sco_x_preferred":[
         "Trebinje"
     ],
@@ -160,6 +190,9 @@
     "name:swe_x_preferred":[
         "Trebinje"
     ],
+    "name:szl_x_preferred":[
+        "Trebinje"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bcd\u0bb0\u0bc6\u0baa\u0bbf\u0b9e\u0bcd\u0b9a\u0bc7"
     ],
@@ -177,6 +210,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0456\u043d\u044c\u0454"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u0440\u0435\u0431\u0438\u043d\u0454"
     ],
     "name:urd_x_preferred":[
         "\u0679\u0631\u06cc\u0628\u0646\u062c\u06d2"
@@ -233,7 +269,7 @@
         }
     ],
     "wof:id":890518765,
-    "wof:lastmodified":1636496561,
+    "wof:lastmodified":1690855809,
     "wof:name":"Trebinje",
     "wof:parent_id":1108759265,
     "wof:placetype":"locality",

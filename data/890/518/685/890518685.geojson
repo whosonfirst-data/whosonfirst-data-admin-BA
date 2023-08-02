@@ -34,6 +34,9 @@
     "name:hrv_x_preferred":[
         "Zbori\u0161te"
     ],
+    "name:spa_x_preferred":[
+        "Zbori\u0161te"
+    ],
     "qs:name":"Zbori\u0161te",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890518685,
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1690855834,
     "wof:name":"Zbori\u0161te",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

@@ -40,6 +40,12 @@
     "name:nld_x_preferred":[
         "\u200eMala Kladu\u0161a"
     ],
+    "name:pol_x_preferred":[
+        "Mala Kladu\u0161a"
+    ],
+    "name:spa_x_preferred":[
+        "Mala Kladu\u0161a"
+    ],
     "name:sqi_x_preferred":[
         "Malla Klladusha"
     ],
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890518655,
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1690855838,
     "wof:name":"Mala Kladu\u0161a",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

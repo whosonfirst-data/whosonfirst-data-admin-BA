@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Busova\u010da"
+    ],
     "name:bos_x_preferred":[
         "Busova\u010da"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0441\u043e\u0432\u0430\u0447\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Busova\u010da"
     ],
     "name:spa_x_preferred":[
         "Busova\u010da"
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":890518831,
-    "wof:lastmodified":1566605366,
+    "wof:lastmodified":1690855839,
     "wof:name":"Busova\u010da",
     "wof:parent_id":1108759031,
     "wof:placetype":"locality",

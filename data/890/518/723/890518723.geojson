@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u064a\u0648\u063a\u0648\u0631\u064a\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u062f\u064a\u0648\u062c\u0648\u0631\u064a\u0647"
+    ],
     "name:bos_x_preferred":[
         "Me\u0111ugorje"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:eng_x_variant":[
         "Medjugorje"
+    ],
+    "name:est_x_preferred":[
+        "Me\u0111ugorje"
     ],
     "name:fas_x_preferred":[
         "\u0645\u062f\u06cc\u0648\u06af\u0648\u0631\u06cc\u0647"
@@ -97,6 +103,9 @@
     ],
     "name:lit_x_variant":[
         "Med\u017eugorj\u0117"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d46\u0d21\u0d4d\u200c\u0d1c\u0d41\u0d17\u0d4b\u0d7c\u0d1c\u0d46"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0435\u0453\u0443\u0433\u043e\u0440\u0458\u0435"
@@ -196,7 +205,7 @@
         }
     ],
     "wof:id":890518723,
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1690855824,
     "wof:name":"Me\u00f0ugorje",
     "wof:parent_id":1108759049,
     "wof:placetype":"locality",

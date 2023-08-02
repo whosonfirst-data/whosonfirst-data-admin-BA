@@ -20,8 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Donji Vakuf"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u043e\u043d\u044c\u0456-\u0412\u0430\u043a\u0443\u0444"
+    ],
     "name:bos_x_preferred":[
         "Donji Vakuf"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438 \u0412\u0430\u043a\u0443\u0444"
     ],
     "name:ceb_x_preferred":[
         "Donji Vakuf"
@@ -68,6 +77,9 @@
     "name:slk_x_preferred":[
         "Donji Vakuf"
     ],
+    "name:slv_x_preferred":[
+        "Donji Vakuf"
+    ],
     "name:spa_x_preferred":[
         "Donji Vakuf"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0646\u0626\u06cc \u0648\u0627\u06a9\u0648\u0641"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u5409\u74e6\u5eab\u592b"
     ],
     "qs:name":"Donji Vakuf",
     "qs:name_adm0":"Bosna i Hercegovina",
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":890519079,
-    "wof:lastmodified":1566605347,
+    "wof:lastmodified":1690855793,
     "wof:name":"Donji Vakuf",
     "wof:parent_id":1108759065,
     "wof:placetype":"locality",

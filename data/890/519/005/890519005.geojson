@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Stanari"
     ],
+    "name:ces_x_preferred":[
+        "Stanari"
+    ],
     "name:deu_x_preferred":[
         "Stanari"
     ],
@@ -40,7 +43,16 @@
     "name:hrv_x_preferred":[
         "Stanari"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0430\u0440\u0438"
+    ],
     "name:nld_x_preferred":[
+        "Stanari"
+    ],
+    "name:pol_x_preferred":[
+        "Stanari"
+    ],
+    "name:slk_x_preferred":[
         "Stanari"
     ],
     "name:spa_x_preferred":[
@@ -57,6 +69,9 @@
     ],
     "name:tur_x_preferred":[
         "Stanari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0430\u0440\u0456"
     ],
     "name:urd_x_preferred":[
         "\u0633\u062a\u0627\u0646\u0627\u0631\u06cc"
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":890519005,
-    "wof:lastmodified":1566605351,
+    "wof:lastmodified":1690855803,
     "wof:name":"Stanari",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

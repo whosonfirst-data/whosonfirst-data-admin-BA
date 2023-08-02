@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Zabri\u0161\u0107e"
     ],
+    "name:pol_x_preferred":[
+        "Zabri\u0161\u0107e"
+    ],
     "name:swe_x_preferred":[
         "Zabri\u0161\u0107e"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890518691,
-    "wof:lastmodified":1566605366,
+    "wof:lastmodified":1690855841,
     "wof:name":"Zabri\u0161\u0107e",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

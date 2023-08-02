@@ -35,7 +35,16 @@
     "name:fra_x_preferred":[
         "Tr\u017ea\u010dka Ra\u0161tela"
     ],
+    "name:hrv_x_preferred":[
+        "Tr\u017ea\u010dka Ra\u0161tela"
+    ],
     "name:nld_x_preferred":[
+        "Tr\u017ea\u010dka Ra\u0161tela"
+    ],
+    "name:pol_x_preferred":[
+        "Tr\u017ea\u010dka Ra\u0161tela"
+    ],
+    "name:spa_x_preferred":[
         "Tr\u017ea\u010dka Ra\u0161tela"
     ],
     "name:swe_x_preferred":[
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":890519101,
-    "wof:lastmodified":1566605349,
+    "wof:lastmodified":1690855798,
     "wof:name":"Tr\u017ea\u010dka Ra\u0161tela",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

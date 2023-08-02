@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643\u062a\u0627\u0634\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Lakta\u015fi"
+    ],
     "name:bar_x_preferred":[
         "Lakta\u0161i"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u043a\u0442\u0430\u0448\u044b"
     ],
     "name:bos_x_preferred":[
         "Lakta\u0161i"
@@ -59,6 +65,9 @@
     "name:hun_x_variant":[
         "Lakta\u0161i"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u056f\u057f\u0561\u0577\u056b"
+    ],
     "name:ile_x_preferred":[
         "Lakta\u0161i"
     ],
@@ -78,6 +87,9 @@
         "Lakta\u0161i"
     ],
     "name:pol_x_preferred":[
+        "Lakta\u0161i"
+    ],
+    "name:ron_x_preferred":[
         "Lakta\u0161i"
     ],
     "name:rus_x_preferred":[
@@ -149,7 +161,7 @@
         }
     ],
     "wof:id":890519033,
-    "wof:lastmodified":1566605351,
+    "wof:lastmodified":1690855802,
     "wof:name":"Lakta\u00b5i",
     "wof:parent_id":1108759151,
     "wof:placetype":"locality",

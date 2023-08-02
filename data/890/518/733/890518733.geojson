@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Omarska"
     ],
+    "name:ces_x_preferred":[
+        "Omarska"
+    ],
     "name:deu_x_preferred":[
         "Omarska"
     ],
@@ -41,17 +44,35 @@
     "name:fra_x_preferred":[
         "Omarska"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05de\u05e8\u05e1\u05e7\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Omarska"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0574\u0561\u0580\u057d\u056f\u0561"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30de\u30eb\u30b9\u30ab"
     ],
+    "name:lit_x_preferred":[
+        "Omarska"
+    ],
     "name:nld_x_preferred":[
+        "Omarska"
+    ],
+    "name:pol_x_preferred":[
+        "Omarska"
+    ],
+    "name:ron_x_preferred":[
         "Omarska"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043c\u0430\u0440\u0441\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Omarska"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043c\u0430\u0440\u0441\u043a\u0430"
@@ -103,7 +124,7 @@
         }
     ],
     "wof:id":890518733,
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1690855827,
     "wof:name":"Omarska",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

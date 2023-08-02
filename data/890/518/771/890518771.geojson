@@ -37,6 +37,12 @@
     "name:hrv_x_preferred":[
         "\u0160umatac"
     ],
+    "name:pol_x_preferred":[
+        "\u0160umatac"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160umatac"
+    ],
     "name:swe_x_preferred":[
         "\u0160umatac"
     ],
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890518771,
-    "wof:lastmodified":1566605360,
+    "wof:lastmodified":1690855823,
     "wof:name":"\u0160umatac",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

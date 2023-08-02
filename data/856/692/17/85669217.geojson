@@ -62,13 +62,20 @@
         "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u0395\u03c1\u03b6\u03b5\u03b3\u03bf\u03b2\u03af\u03bd\u03b7"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03b1\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf \u03c4\u03b7\u03c2 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03c1\u03b6\u03b5\u03b3\u03bf\u03b2\u03af\u03bd\u03b7\u03c2"
+        "\u039a\u03b1\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf \u03c4\u03b7\u03c2 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03c1\u03b6\u03b5\u03b3\u03bf\u03b2\u03af\u03bd\u03b7\u03c2",
+        "\u03ba\u03b1\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf \u03c4\u03b7\u03c2 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03c1\u03b6\u03b5\u03b3\u03bf\u03b2\u03af\u03bd\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "West Herzegovina"
     ],
     "name:eng_x_variant":[
         "West Herzegovina Canton"
+    ],
+    "name:epo_x_preferred":[
+        "Okcidenta Hercegovino"
+    ],
+    "name:est_x_preferred":[
+        "L\u00e4\u00e4ne-Hertsegoviina kanton"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646 \u063a\u0631\u0628\u06cc"
@@ -84,6 +91,9 @@
     ],
     "name:fra_x_variant":[
         "canton de l'Herz\u00e9govine de l'Ouest"
+    ],
+    "name:frr_x_preferred":[
+        "Waast-Hersegowina"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f \u0ab9\u0ab0\u0acd\u0a9d\u0ac7\u0a97\u0acb\u0ab5\u0abf\u0aa8\u0abe \u0a95\u0ac7\u0aa8\u0acd\u0a9f\u0aa8"
@@ -105,6 +115,9 @@
     ],
     "name:hun_x_preferred":[
         "Nyugat-Herzegovina"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0587\u0574\u057f\u0575\u0561\u0576 \u0540\u0565\u0580\u0581\u0565\u0563\u0578\u057e\u056b\u0576\u0561 \u056f\u0561\u0576\u057f\u0578\u0576"
     ],
     "name:ile_x_preferred":[
         "Canton West-Herzegovina"
@@ -132,6 +145,9 @@
     ],
     "name:kor_x_variant":[
         "\uc11c\ubd80 \ud5e4\ub974\uccb4\uace0\ube44\ub098 \uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Pagus Herzegovinae Occidentalis"
     ],
     "name:lav_x_preferred":[
         "Rietumhercegovinas kantons"
@@ -175,6 +191,9 @@
     "name:sin_x_preferred":[
         "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0dc4\u0dbb\u0dca\u0dc3\u0dd9\u0d9c\u0ddc\u0dc0\u0dd2\u0db1\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
+    "name:slv_x_preferred":[
+        "Zahodnohercegovski kanton"
+    ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Herzegovina Occidental"
     ],
@@ -196,11 +215,17 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0bb9\u0bc6\u0bb0\u0bb8\u0bbf\u0b95\u0bcb\u0bb5\u0bbf\u0ba9\u0bbe \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0bb9\u0bc6\u0bb0\u0bb8\u0bbf\u0b95\u0bcb\u0bb5\u0bbf\u0ba9\u0bbe \u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c4d \u0c39\u0c46\u0c30\u0c4d\u0c1c\u0c46\u0c17\u0c4b\u0c35\u0c3f\u0c28\u0c3e \u0c15\u0c3e\u0c02\u0c1f\u0c28\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e40\u0e0b\u0e42\u0e01\u0e27\u0e35\u0e19\u0e32\u0e15\u0e30\u0e27\u0e31\u0e19\u0e15\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e0b\u0e32\u0e1b\u0e31\u0e14\u0e19\u0e32\u0e40\u0e04\u0e23\u0e4c\u0e15\u0e40\u0e0b\u0e01\u0e2d\u0e27\u0e34\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "Bat\u0131 Hersek Kantonu"
@@ -334,7 +359,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496545,
+    "wof:lastmodified":1690855780,
     "wof:name":"West Herzegovina",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

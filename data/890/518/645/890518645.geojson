@@ -37,6 +37,12 @@
     "name:nld_x_preferred":[
         "Hotonj"
     ],
+    "name:pol_x_preferred":[
+        "Hotonj"
+    ],
+    "name:spa_x_preferred":[
+        "Hotonj"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0442\u043e\u045a"
     ],
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890518645,
-    "wof:lastmodified":1566605356,
+    "wof:lastmodified":1690855813,
     "wof:name":"Hotonj",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

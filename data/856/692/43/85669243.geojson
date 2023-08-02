@@ -92,6 +92,9 @@
     "name:hun_x_preferred":[
         "Posavina"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u057d\u0561\u057e\u056b\u0576\u0561 \u056f\u0561\u0576\u057f\u0578\u0576"
+    ],
     "name:ile_x_preferred":[
         "Canton Posavina"
     ],
@@ -112,6 +115,12 @@
     ],
     "name:kor_x_preferred":[
         "\ud3ec\uc0ac\ube44\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud3ec\uc0ac\ube44\ub098\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Pagus Posavinae"
     ],
     "name:lav_x_preferred":[
         "Posavinas kantons"
@@ -152,6 +161,9 @@
     "name:slk_x_preferred":[
         "Bosanska Posavina"
     ],
+    "name:slv_x_preferred":[
+        "Posavski kanton"
+    ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Posavina"
     ],
@@ -178,6 +190,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1e\u0e0b\u0e32\u0e27\u0e34\u0e19\u0e48\u0e32 \u0e41\u0e04\u0e19\u0e17\u0e2d\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e31\u0e10\u0e1b\u0e2d\u0e0b\u0e32\u0e27\u0e34\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "Posavina Kantonu"
@@ -324,7 +339,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496545,
+    "wof:lastmodified":1690855780,
     "wof:name":"Posavina",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

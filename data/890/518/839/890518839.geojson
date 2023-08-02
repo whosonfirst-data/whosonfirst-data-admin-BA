@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Pe\u0107igrad"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03c4\u03c3\u03b9\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Pe\u0107igrad"
     ],
@@ -36,6 +39,12 @@
         "Pe\u0107igrad"
     ],
     "name:nld_x_preferred":[
+        "Pe\u0107igrad"
+    ],
+    "name:pol_x_preferred":[
+        "Pe\u0107igrad"
+    ],
+    "name:spa_x_preferred":[
         "Pe\u0107igrad"
     ],
     "name:swe_x_preferred":[
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":890518839,
-    "wof:lastmodified":1566605367,
+    "wof:lastmodified":1690855841,
     "wof:name":"Pe\u0107igrad",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",

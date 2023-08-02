@@ -85,6 +85,9 @@
     "name:kor_x_preferred":[
         "\uc81c10\uc8fc"
     ],
+    "name:lat_x_preferred":[
+        "Pagus Decimus"
+    ],
     "name:mkd_x_preferred":[
         "\u0425\u0435\u0440\u0446\u0435\u0433\u0431\u043e\u0441\u0430\u043d\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
     ],
@@ -254,7 +257,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1636496544,
+    "wof:lastmodified":1690855779,
     "wof:name":"West Bosnia",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

@@ -38,6 +38,12 @@
     "name:nld_x_preferred":[
         "Pazari\u0107"
     ],
+    "name:pol_x_preferred":[
+        "Pazari\u0107"
+    ],
+    "name:spa_x_preferred":[
+        "Pazari\u0107"
+    ],
     "name:swe_x_preferred":[
         "Pazari\u0107"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890518957,
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1690855827,
     "wof:name":"Pazari\u0107",
     "wof:parent_id":1108759101,
     "wof:placetype":"locality",

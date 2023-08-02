@@ -37,6 +37,12 @@
     "name:nld_x_preferred":[
         "Skokovi"
     ],
+    "name:pol_x_preferred":[
+        "Skokovi"
+    ],
+    "name:spa_x_preferred":[
+        "Skokovi"
+    ],
     "name:swe_x_preferred":[
         "Skokovi"
     ],
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890519007,
-    "wof:lastmodified":1566605348,
+    "wof:lastmodified":1690855795,
     "wof:name":"Skokovi",
     "wof:parent_id":1108759039,
     "wof:placetype":"locality",
