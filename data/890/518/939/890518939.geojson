@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Novi Travnik"
     ],
+    "name:ces_x_preferred":[
+        "Novi Travnik"
+    ],
     "name:deu_x_preferred":[
         "Novi Travnik"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":890518939,
-    "wof:lastmodified":1566605354,
+    "wof:lastmodified":1690855808,
     "wof:name":"Novi Travnik",
     "wof:parent_id":1108759183,
     "wof:placetype":"locality",

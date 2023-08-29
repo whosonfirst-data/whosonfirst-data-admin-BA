@@ -40,6 +40,12 @@
     "name:nld_x_preferred":[
         "Blatnica"
     ],
+    "name:pol_x_preferred":[
+        "Blatnica"
+    ],
+    "name:slk_x_preferred":[
+        "Blatnica"
+    ],
     "name:slv_x_preferred":[
         "Blatnica"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Blatnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043d\u0438\u0446\u044f"
     ],
     "qs:name":"Blatnica",
     "qs:photos_9r":0,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":890518827,
-    "wof:lastmodified":1566605355,
+    "wof:lastmodified":1690855811,
     "wof:name":"Blatnica",
     "wof:parent_id":1108759259,
     "wof:placetype":"locality",

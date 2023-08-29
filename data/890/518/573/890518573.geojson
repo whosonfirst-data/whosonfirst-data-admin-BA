@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Kova\u010di"
     ],
+    "name:pol_x_preferred":[
+        "Kova\u010di"
+    ],
     "name:slv_x_preferred":[
         "Kova\u010di"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890518573,
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1690855826,
     "wof:name":"Kova\u010di",
     "wof:parent_id":1108759295,
     "wof:placetype":"locality",

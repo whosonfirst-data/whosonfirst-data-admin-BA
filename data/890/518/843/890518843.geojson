@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0628\u0648\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Doboj"
+    ],
     "name:aze_x_preferred":[
         "Doboy"
     ],
@@ -71,6 +77,9 @@
     "name:fra_x_preferred":[
         "Doboj"
     ],
+    "name:frr_x_preferred":[
+        "Doboj"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0aac\u0acb\u0a9d"
     ],
@@ -107,6 +116,9 @@
     "name:kor_x_preferred":[
         "\ub3c4\ubcf4\uc774"
     ],
+    "name:lat_x_preferred":[
+        "Canabea"
+    ],
     "name:lav_x_preferred":[
         "Doboja"
     ],
@@ -115,6 +127,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0921\u0949\u092c\u094b\u091d"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0414\u043e\u0431\u043e\u0439"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u043e\u0431\u043e\u0458"
@@ -143,6 +158,9 @@
     "name:por_x_preferred":[
         "Doboj"
     ],
+    "name:ron_x_preferred":[
+        "Doboj"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u0431\u043e\u0439"
     ],
@@ -154,6 +172,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0da9\u0ddc\u0db6\u0ddd\u0da2\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Doboj"
     ],
     "name:slv_x_preferred":[
         "Doboj"
@@ -187,6 +208,9 @@
     ],
     "name:tur_x_preferred":[
         "Doboj"
+    ],
+    "name:tur_x_variant":[
+        "Doboy"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u043e\u0439"
@@ -249,7 +273,7 @@
         }
     ],
     "wof:id":890518843,
-    "wof:lastmodified":1636496562,
+    "wof:lastmodified":1690855815,
     "wof:name":"Doboj",
     "wof:parent_id":1108759053,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:nld_x_preferred":[
         "Orguz"
     ],
+    "name:pol_x_preferred":[
+        "Orguz"
+    ],
     "name:swe_x_preferred":[
         "Orguz"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890518837,
-    "wof:lastmodified":1566605366,
+    "wof:lastmodified":1690855840,
     "wof:name":"Orguz",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

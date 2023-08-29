@@ -22,6 +22,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0440\u0431\u0430\u0446"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u0440\u0431\u0430\u0446"
+    ],
     "name:bos_x_preferred":[
         "Srbac"
     ],
@@ -29,6 +32,9 @@
         "Srbac"
     ],
     "name:ceb_x_preferred":[
+        "Srbac"
+    ],
+    "name:ces_x_preferred":[
         "Srbac"
     ],
     "name:deu_x_preferred":[
@@ -42,6 +48,12 @@
     ],
     "name:hrv_x_preferred":[
         "Srbac"
+    ],
+    "name:hsb_x_preferred":[
+        "Srbac"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0580\u0562\u0561\u0581"
     ],
     "name:ita_x_preferred":[
         "Srbac"
@@ -61,8 +73,14 @@
     "name:pol_x_preferred":[
         "Srbac"
     ],
+    "name:ron_x_preferred":[
+        "Srbac"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0440\u0431\u0430\u0446"
+    ],
+    "name:slk_x_preferred":[
+        "Srbac"
     ],
     "name:slv_x_preferred":[
         "Srbac"
@@ -124,7 +142,7 @@
         }
     ],
     "wof:id":890518695,
-    "wof:lastmodified":1566605359,
+    "wof:lastmodified":1690855820,
     "wof:name":"Srbac",
     "wof:parent_id":1108759237,
     "wof:placetype":"locality",

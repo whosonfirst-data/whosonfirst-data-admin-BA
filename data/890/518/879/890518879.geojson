@@ -56,6 +56,9 @@
     "name:hun_x_preferred":[
         "Lukavac"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u056f\u0561\u057e\u0561\u0581"
+    ],
     "name:ita_x_preferred":[
         "Lukavac"
     ],
@@ -77,6 +80,9 @@
     "name:pol_x_preferred":[
         "Lukavac"
     ],
+    "name:ron_x_preferred":[
+        "Lukavac"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u043a\u0430\u0432\u0430\u0446"
     ],
@@ -94,6 +100,9 @@
     ],
     "name:tur_x_preferred":[
         "Lukavac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043a\u0430\u0432\u0430\u0446"
     ],
     "name:und_x_variant":[
         "Muslimanski Lukavac"
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":890518879,
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1690855833,
     "wof:name":"Lukavac",
     "wof:parent_id":1108759161,
     "wof:placetype":"locality",

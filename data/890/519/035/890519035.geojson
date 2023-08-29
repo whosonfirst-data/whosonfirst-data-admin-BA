@@ -50,6 +50,9 @@
     "name:hsb_x_preferred":[
         "Rudo"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0582\u0564\u0578"
+    ],
     "name:ita_x_preferred":[
         "Rudo"
     ],
@@ -63,6 +66,9 @@
         "Rudo"
     ],
     "name:por_x_preferred":[
+        "Rudo"
+    ],
+    "name:ron_x_preferred":[
         "Rudo"
     ],
     "name:rus_x_preferred":[
@@ -88,6 +94,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9c81\u591a"
+    ],
+    "name:zul_x_preferred":[
+        "Rudo"
     ],
     "qs:name":"Rudo",
     "qs:name_adm0":"Bosna i Hercegovina",
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":890519035,
-    "wof:lastmodified":1566605350,
+    "wof:lastmodified":1690855801,
     "wof:name":"Rudo",
     "wof:parent_id":1108759217,
     "wof:placetype":"locality",

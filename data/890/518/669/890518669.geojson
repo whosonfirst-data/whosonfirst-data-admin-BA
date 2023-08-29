@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Popovi"
     ],
+    "name:pol_x_preferred":[
+        "Popovi"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u0438"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890518669,
-    "wof:lastmodified":1566605358,
+    "wof:lastmodified":1690855818,
     "wof:name":"Popovi",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

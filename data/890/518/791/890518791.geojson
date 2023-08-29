@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u064a\u064a \u0628\u064a\u062c\u064a\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0644\u064a\u0649 \u0628\u064a\u062c\u064a\u0644\u0627"
+    ],
     "name:bos_x_preferred":[
         "Polje Bijela"
+    ],
+    "name:ceb_x_preferred":[
+        "Polje-Bijela"
     ],
     "name:eng_x_preferred":[
         "Polje Bijela"
@@ -37,8 +43,14 @@
     "name:nld_x_preferred":[
         "Polje Bijela"
     ],
+    "name:pol_x_preferred":[
+        "Polje Bijela"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0459\u0435 \u0411\u0438\u0458\u0435\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Polje-Bijela"
     ],
     "name:und_x_variant":[
         "Donje Bjela"
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":890518791,
-    "wof:lastmodified":1566605354,
+    "wof:lastmodified":1690855808,
     "wof:name":"Polje-Bijela",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

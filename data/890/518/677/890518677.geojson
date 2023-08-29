@@ -73,6 +73,9 @@
     "name:pol_x_preferred":[
         "\u0106ela"
     ],
+    "name:pol_x_variant":[
+        "Petrovo"
+    ],
     "name:por_x_preferred":[
         "\u0106ela"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":890518677,
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1690855837,
     "wof:name":"\u0106ela",
     "wof:parent_id":1108759207,
     "wof:placetype":"locality",

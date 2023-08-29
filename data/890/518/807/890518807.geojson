@@ -25,8 +25,17 @@
     "name:bos_x_preferred":[
         "Klju\u010d"
     ],
+    "name:ceb_x_preferred":[
+        "Klju\u010d"
+    ],
+    "name:ces_x_preferred":[
+        "Klju\u010d"
+    ],
     "name:deu_x_preferred":[
         "Klju\u010d"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03b9\u03bf\u03cd\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Klju\u010d"
@@ -42,6 +51,9 @@
     ],
     "name:hsb_x_preferred":[
         "Klju\u010d"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056c\u0575\u0578\u0582\u0579"
     ],
     "name:ita_x_preferred":[
         "Klju\u010d"
@@ -61,6 +73,9 @@
     "name:pol_x_preferred":[
         "Klju\u010d"
     ],
+    "name:slk_x_preferred":[
+        "Klju\u010d"
+    ],
     "name:spa_x_preferred":[
         "Klju\u010d"
     ],
@@ -70,11 +85,17 @@
     "name:srp_x_preferred":[
         "\u041a\u0459\u0443\u0447"
     ],
+    "name:swe_x_preferred":[
+        "Klju\u010d"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u043b\u04af\u0447"
     ],
     "name:tur_x_preferred":[
         "Klju\u010d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u044e\u0447"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0644\u0648\u0686\u060c \u0627\u0648\u0646\u0627-\u0633\u0627\u0646\u0627 \u06a9\u0627\u0646\u062a\u0648\u0646"
@@ -118,7 +139,7 @@
         }
     ],
     "wof:id":890518807,
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1690855838,
     "wof:name":"Klju\u010d",
     "wof:parent_id":1108759133,
     "wof:placetype":"locality",

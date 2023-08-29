@@ -22,8 +22,14 @@
     "name:bos_x_preferred":[
         "Vogo\u0161\u0107a"
     ],
+    "name:cat_x_preferred":[
+        "Vogo\u0161\u0107a"
+    ],
     "name:ceb_x_preferred":[
         "Op\u0107ina Vogo\u0161\u0107a"
+    ],
+    "name:ceb_x_variant":[
+        "Vogo\u0161\u0107a"
     ],
     "name:ces_x_preferred":[
         "Vogo\u0161\u0107a"
@@ -73,6 +79,9 @@
     "name:pol_x_preferred":[
         "Vogo\u0161\u0107a"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0433\u043e\u0448\u0447\u0430"
+    ],
     "name:slv_x_preferred":[
         "Vogo\u0161\u0107a"
     ],
@@ -88,6 +97,9 @@
     "name:swe_x_preferred":[
         "Op\u0107ina Vogo\u0161\u0107a"
     ],
+    "name:swe_x_variant":[
+        "Vogo\u0161\u0107a"
+    ],
     "name:tat_x_preferred":[
         "\u0412\u043e\u0433\u043e\u0448\u0447\u0430"
     ],
@@ -102,6 +114,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u06af\u0648\u0634\u0686\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u6208\u4ec0\u6070"
     ],
     "qs:name":"Vogo\u0161\u0107a",
     "qs:photos_9r":0,
@@ -135,7 +150,7 @@
         }
     ],
     "wof:id":890518717,
-    "wof:lastmodified":1566605368,
+    "wof:lastmodified":1690855845,
     "wof:name":"Vogo\u0161\u0107a",
     "wof:parent_id":1108759291,
     "wof:placetype":"locality",

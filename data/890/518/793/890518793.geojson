@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0627\u0633\u064a\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Ora\u0161je"
+    ],
     "name:bos_x_preferred":[
         "Ora\u0161je"
     ],
@@ -37,16 +40,31 @@
     "name:eng_x_preferred":[
         "Ora\u0161je"
     ],
+    "name:epo_x_preferred":[
+        "Ora\u0161je"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0631\u0627\u0634\u06cc"
     ],
     "name:fra_x_preferred":[
         "Ora\u0161je"
     ],
+    "name:frr_x_preferred":[
+        "Ora\u0161je"
+    ],
     "name:hrv_x_preferred":[
         "Ora\u0161je"
     ],
+    "name:hun_x_preferred":[
+        "Ora\u0161je"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0580\u0561\u0577\u0575\u0565"
+    ],
     "name:ile_x_preferred":[
+        "Ora\u0161je"
+    ],
+    "name:ind_x_preferred":[
         "Ora\u0161je"
     ],
     "name:ita_x_preferred":[
@@ -57,6 +75,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\ub77c\uc170"
+    ],
+    "name:lat_x_preferred":[
+        "Margum"
     ],
     "name:lit_x_preferred":[
         "Ora\u0161j\u0117"
@@ -93,6 +114,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041e\u0440\u0430\u0448\u044c\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e2d\u0e23\u0e32\u0e0a\u0e34\u0e40\u0e22"
     ],
     "name:tur_x_preferred":[
         "Ora\u0161je"
@@ -136,7 +160,7 @@
         }
     ],
     "wof:id":890518793,
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1690855828,
     "wof:name":"Ora\u0161je",
     "wof:parent_id":1108759195,
     "wof:placetype":"locality",

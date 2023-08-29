@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u0423\u0433\u043b\u0435\u0432\u0456\u043a"
+    ],
     "name:bos_x_preferred":[
         "Ugljevik"
     ],
@@ -41,11 +44,17 @@
     "name:hrv_x_preferred":[
         "Ugljevik"
     ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0563\u056c\u0587\u056b\u056f"
+    ],
     "name:ita_x_preferred":[
         "Ugljevik"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30b0\u30ea\u30a7\u30f4\u30a3\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uae00\ub808\ube44\ud06c"
     ],
     "name:lit_x_preferred":[
         "Uglevikas"
@@ -54,6 +63,9 @@
         "Ugljevik"
     ],
     "name:pol_x_preferred":[
+        "Ugljevik"
+    ],
+    "name:ron_x_preferred":[
         "Ugljevik"
     ],
     "name:rus_x_preferred":[
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":890518849,
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1690855835,
     "wof:name":"Ugljevik",
     "wof:parent_id":1108759273,
     "wof:placetype":"locality",

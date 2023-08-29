@@ -23,6 +23,15 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0647 \u0644\u064a\u0646\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0644\u064a\u0646\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0644\u064a\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bijeljina"
+    ],
     "name:aze_x_preferred":[
         "Biyelina"
     ],
@@ -44,6 +53,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0435\u043b\u0438\u043d\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Bijeljina"
+    ],
     "name:ces_x_preferred":[
         "Bijeljina"
     ],
@@ -62,6 +74,9 @@
     "name:eng_x_preferred":[
         "Bijeljina"
     ],
+    "name:epo_x_preferred":[
+        "Bijeljina"
+    ],
     "name:eus_x_preferred":[
         "Bijeljina"
     ],
@@ -72,6 +87,9 @@
         "Bijeljina"
     ],
     "name:fra_x_preferred":[
+        "Bijeljina"
+    ],
+    "name:frr_x_preferred":[
         "Bijeljina"
     ],
     "name:gle_x_preferred":[
@@ -95,6 +113,9 @@
     "name:hye_x_preferred":[
         "\u0532\u056b\u0565\u056c\u056b\u0576\u0561"
     ],
+    "name:ile_x_preferred":[
+        "Bijelina"
+    ],
     "name:ind_x_preferred":[
         "Bijeljina"
     ],
@@ -116,6 +137,9 @@
     "name:kor_x_preferred":[
         "\ube44\uc610\ub9ac\ub098"
     ],
+    "name:lat_x_preferred":[
+        "Belina"
+    ],
     "name:lav_x_preferred":[
         "Bijeljina"
     ],
@@ -127,6 +151,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0438\u0435\u043b\u0438\u043d\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0438\u0458\u0435\u0459\u0438\u043d\u0430"
     ],
     "name:msa_x_preferred":[
         "Bijeljina"
@@ -215,6 +242,9 @@
     "name:urd_x_variant":[
         "\u0628\u06cc\u06d2\u0644\u06cc\u0646\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Bijeljina"
+    ],
     "name:vie_x_preferred":[
         "Bijeljina"
     ],
@@ -223,6 +253,12 @@
     ],
     "name:war_x_preferred":[
         "Bijeljina"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6bd4\u8036\u5229\u7eb3"
+    ],
+    "name:yue_x_preferred":[
+        "\u6bd4\u8036\u5229\u7d0d"
     ],
     "name:zho_cn_x_preferred":[
         "\u6bd4\u8036\u5229\u7eb3"
@@ -273,7 +309,7 @@
         }
     ],
     "wof:id":890518867,
-    "wof:lastmodified":1636496562,
+    "wof:lastmodified":1690855820,
     "wof:name":"Bijeljina",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

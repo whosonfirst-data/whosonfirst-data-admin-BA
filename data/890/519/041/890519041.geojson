@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0632\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0632\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Tuzla"
+    ],
     "name:aze_x_preferred":[
         "Tuzla"
     ],
@@ -82,6 +88,15 @@
     "name:fra_x_preferred":[
         "Tuzla"
     ],
+    "name:frr_x_preferred":[
+        "Tuzla"
+    ],
+    "name:gag_x_preferred":[
+        "Tuzla"
+    ],
+    "name:gle_x_preferred":[
+        "Tuzla"
+    ],
     "name:glg_x_preferred":[
         "Tuzla"
     ],
@@ -105,6 +120,9 @@
     ],
     "name:hun_x_preferred":[
         "Tuzla"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0582\u0566\u056c\u0561"
     ],
     "name:ile_x_preferred":[
         "Tuzla"
@@ -147,6 +165,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0443\u0437\u043b\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Tuzla"
     ],
     "name:msa_x_preferred":[
         "Tuzla"
@@ -193,6 +214,9 @@
     "name:spa_x_preferred":[
         "Tuzla"
     ],
+    "name:sqi_x_preferred":[
+        "Tuzlla"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0443\u0437\u043b\u0430"
     ],
@@ -200,6 +224,9 @@
         "Tuzla"
     ],
     "name:swe_x_preferred":[
+        "Tuzla"
+    ],
+    "name:szl_x_preferred":[
         "Tuzla"
     ],
     "name:tam_x_preferred":[
@@ -213,6 +240,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e39\u0e0b\u0e25\u0e48\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e38\u0e0b\u0e25\u0e32"
     ],
     "name:tum_x_preferred":[
         "Tuzla"
@@ -232,6 +262,9 @@
     "name:urd_x_variant":[
         "\u062a\u0648\u0632\u0644\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Tuzla"
+    ],
     "name:vep_x_preferred":[
         "Tuzl"
     ],
@@ -243,6 +276,12 @@
     ],
     "name:war_x_preferred":[
         "Tuzla"
+    ],
+    "name:wuu_x_preferred":[
+        "\u56fe\u5179\u62c9"
+    ],
+    "name:yue_x_preferred":[
+        "\u5716\u8332\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u56fe\u5179\u62c9"
@@ -371,7 +410,7 @@
         }
     ],
     "wof:id":890519041,
-    "wof:lastmodified":1566605347,
+    "wof:lastmodified":1690855793,
     "wof:name":"Tuzla",
     "wof:parent_id":1108759271,
     "wof:placetype":"locality",

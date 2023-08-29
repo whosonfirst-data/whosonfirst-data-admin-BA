@@ -26,6 +26,9 @@
     "name:arg_x_preferred":[
         "Velika Kladu\u0161a"
     ],
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u043b\u0456\u043a\u0430-\u041a\u043b\u0430\u0434\u0443\u0448\u0430"
+    ],
     "name:bos_x_preferred":[
         "Velika Kladu\u0161a"
     ],
@@ -71,6 +74,12 @@
     "name:hrv_x_preferred":[
         "Velika Kladu\u0161a"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u056c\u056b\u056f\u0561 \u053f\u056c\u0561\u0564\u0578\u0582\u0577\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
     "name:ita_x_preferred":[
         "Velika Kladu\u0161a"
     ],
@@ -105,6 +114,9 @@
         "\u0412\u0435\u043b\u0438\u043a\u0430-\u041a\u043b\u0430\u0434\u0443\u0448\u0430"
     ],
     "name:sco_x_preferred":[
+        "Velika Kladu\u0161a"
+    ],
+    "name:slv_x_preferred":[
         "Velika Kladu\u0161a"
     ],
     "name:spa_x_preferred":[
@@ -170,7 +182,7 @@
         }
     ],
     "wof:id":890518709,
-    "wof:lastmodified":1566605354,
+    "wof:lastmodified":1690855809,
     "wof:name":"Velika Kladu\u00b5a",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",

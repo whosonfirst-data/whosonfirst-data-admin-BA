@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0648\u0634\u0643\u0627 \u0631\u0627\u064a\u064a\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0627\u0631\u0648\u0634\u0643\u0627 \u0631\u0627\u064a\u064a\u0643\u0627"
+    ],
     "name:bos_x_preferred":[
         "Varo\u0161ka Rijeka"
     ],
@@ -41,6 +44,9 @@
         "Varo\u0161ka Rijeka"
     ],
     "name:nld_x_preferred":[
+        "Varo\u0161ka Rijeka"
+    ],
+    "name:pol_x_preferred":[
         "Varo\u0161ka Rijeka"
     ],
     "name:srp_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890519043,
-    "wof:lastmodified":1566605350,
+    "wof:lastmodified":1690855800,
     "wof:name":"Varo\u0161ka Rijeka",
     "wof:parent_id":1108759033,
     "wof:placetype":"locality",

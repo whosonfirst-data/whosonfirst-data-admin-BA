@@ -44,6 +44,9 @@
     "name:nld_x_preferred":[
         "Divi\u010dani"
     ],
+    "name:pol_x_preferred":[
+        "Divi\u010dani"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u0438\u0432\u0438\u0447\u0430\u043d\u0438"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890519065,
-    "wof:lastmodified":1566605348,
+    "wof:lastmodified":1690855794,
     "wof:name":"Divi\u010dani",
     "wof:parent_id":1108759115,
     "wof:placetype":"locality",

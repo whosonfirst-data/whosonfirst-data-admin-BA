@@ -43,6 +43,15 @@
     "name:eng_x_preferred":[
         "Stolac"
     ],
+    "name:est_x_preferred":[
+        "Stolac"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0648\u0644\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Stolac"
+    ],
     "name:fra_x_preferred":[
         "Stolac"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ud1a8\ub77c\uce20"
+    ],
+    "name:lat_x_preferred":[
+        "Sarsenterum"
     ],
     "name:lit_x_preferred":[
         "Stolacas"
@@ -151,7 +163,7 @@
         }
     ],
     "wof:id":890518673,
-    "wof:lastmodified":1566605357,
+    "wof:lastmodified":1690855814,
     "wof:name":"Stolac",
     "wof:parent_id":1108759249,
     "wof:placetype":"locality",

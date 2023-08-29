@@ -20,10 +20,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u0424\u043e\u0439\u043d\u0456\u0446\u0430"
+    ],
     "name:bos_x_preferred":[
         "Fojnica"
     ],
     "name:ces_x_preferred":[
+        "Fojnica"
+    ],
+    "name:dan_x_preferred":[
         "Fojnica"
     ],
     "name:deu_x_preferred":[
@@ -61,6 +67,9 @@
     ],
     "name:pol_x_preferred":[
         "Fojnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0439\u043d\u0438\u0446\u0430"
     ],
     "name:slv_x_preferred":[
         "Fojnica"
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":890519025,
-    "wof:lastmodified":1566605347,
+    "wof:lastmodified":1690855794,
     "wof:name":"Fojnica",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",

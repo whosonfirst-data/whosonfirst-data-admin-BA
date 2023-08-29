@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0644\u064a\u0627\u0634"
+    ],
     "name:bos_x_preferred":[
         "Ilija\u0161"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890519143,
-    "wof:lastmodified":1566605349,
+    "wof:lastmodified":1690855797,
     "wof:name":"Ilija\u0161",
     "wof:parent_id":1108759109,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:hrv_x_preferred":[
         "Donji Vija\u010dani"
     ],
+    "name:pol_x_preferred":[
+        "Donji Vija\u010dani"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u045a\u0438 \u0412\u0438\u0458\u0430\u0447\u0430\u043d\u0438"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890518901,
-    "wof:lastmodified":1566605354,
+    "wof:lastmodified":1690855807,
     "wof:name":"Donji Vija\u010dani",
     "wof:parent_id":1108759209,
     "wof:placetype":"locality",

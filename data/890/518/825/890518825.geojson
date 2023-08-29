@@ -28,8 +28,14 @@
     "name:ceb_x_preferred":[
         "Bu\u017eim"
     ],
+    "name:ces_x_preferred":[
+        "Bu\u017eim"
+    ],
     "name:deu_x_preferred":[
         "Bu\u017eim"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03b6\u03b9\u03bc"
     ],
     "name:eng_x_preferred":[
         "Bu\u017eim"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":890518825,
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1690855837,
     "wof:name":"Bu\u017eim",
     "wof:parent_id":1108759033,
     "wof:placetype":"locality",

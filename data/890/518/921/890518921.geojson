@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Crnjelovo"
     ],
+    "name:pol_x_preferred":[
+        "Crnjelovo Donje"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0440\u043d\u0435\u043b\u043e\u0432\u043e-\u0414\u043e\u043d\u0435"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890518921,
-    "wof:lastmodified":1566605369,
+    "wof:lastmodified":1690855847,
     "wof:name":"Crnjelovo Donje",
     "wof:parent_id":1108758995,
     "wof:placetype":"locality",

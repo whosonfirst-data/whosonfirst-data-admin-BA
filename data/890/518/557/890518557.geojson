@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062c\u064a\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062c\u064a\u0644\u0627"
+    ],
     "name:bos_x_preferred":[
         "Bijela"
     ],
@@ -35,6 +38,9 @@
         "Bijela"
     ],
     "name:hrv_x_preferred":[
+        "Bijela"
+    ],
+    "name:pol_x_preferred":[
         "Bijela"
     ],
     "name:srp_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890518557,
-    "wof:lastmodified":1566605354,
+    "wof:lastmodified":1690855809,
     "wof:name":"Bijela",
     "wof:parent_id":1108759137,
     "wof:placetype":"locality",

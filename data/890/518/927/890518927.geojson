@@ -23,6 +23,9 @@
     "name:bos_x_preferred":[
         "Vitez"
     ],
+    "name:cat_x_preferred":[
+        "Vitez"
+    ],
     "name:ces_x_preferred":[
         "Vitez"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":890518927,
-    "wof:lastmodified":1566605368,
+    "wof:lastmodified":1690855845,
     "wof:name":"Vitez",
     "wof:parent_id":1108759287,
     "wof:placetype":"locality",

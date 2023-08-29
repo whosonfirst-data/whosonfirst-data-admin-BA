@@ -29,6 +29,9 @@
     "name:arg_x_preferred":[
         "Banja Luka"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0646\u064a\u0627 \u0644\u0648\u0643\u0627"
+    ],
     "name:ast_x_preferred":[
         "Banja Luka"
     ],
@@ -99,6 +102,9 @@
         "Banja Luka"
     ],
     "name:fra_x_preferred":[
+        "Banja Luka"
+    ],
+    "name:frr_x_preferred":[
         "Banja Luka"
     ],
     "name:gle_x_preferred":[
@@ -185,8 +191,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0902\u091c\u093e \u0932\u0941\u0915\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0430\u043d\u044f-\u041b\u0443\u043a\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u045a\u0430 \u041b\u0443\u043a\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Banja Luka"
     ],
     "name:msa_x_preferred":[
         "Banja Luka"
@@ -269,6 +281,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e31\u0e19\u0e22\u0e32\u0e25\u0e39\u0e01\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e0d\u0e32\u0e25\u0e39\u0e01\u0e32"
+    ],
     "name:tum_x_preferred":[
         "Banja Luka"
     ],
@@ -284,6 +299,12 @@
     "name:urd_x_variant":[
         "\u0628\u0627\u0646\u06cc\u0627 \u0644\u0648\u06a9\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Banya-luka"
+    ],
+    "name:vec_x_preferred":[
+        "Banja Luka"
+    ],
     "name:vie_x_preferred":[
         "Banja Luka"
     ],
@@ -292,6 +313,9 @@
     ],
     "name:war_x_preferred":[
         "Banja Luka"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u5c3c\u4e9a\u5362\u5361"
     ],
     "name:yue_x_preferred":[
         "\u5df4\u5c3c\u4e9e\u76e7\u5361"
@@ -437,7 +461,7 @@
         }
     ],
     "wof:id":890518747,
-    "wof:lastmodified":1636496562,
+    "wof:lastmodified":1690855822,
     "wof:name":"Banja Luka",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",

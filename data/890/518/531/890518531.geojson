@@ -37,6 +37,9 @@
     "name:deu_x_preferred":[
         "Polje"
     ],
+    "name:ell_x_preferred":[
+        "\u03c0\u03cc\u03bb\u03b3\u03b7"
+    ],
     "name:eng_x_preferred":[
         "polje"
     ],
@@ -52,17 +55,32 @@
     "name:fra_x_preferred":[
         "Polj\u00e9"
     ],
+    "name:glg_x_preferred":[
+        "Polje"
+    ],
     "name:hrv_x_preferred":[
         "kr\u0161ko polje"
     ],
     "name:hun_x_preferred":[
         "Polje"
     ],
+    "name:hye_x_preferred":[
+        "\u0564\u0561\u0577\u057f"
+    ],
+    "name:ind_x_preferred":[
+        "Polje"
+    ],
     "name:ita_x_preferred":[
         "polje"
     ],
+    "name:ita_x_variant":[
+        "pianoro carsico"
+    ],
     "name:jpn_x_preferred":[
         "\u30dd\u30ea\u30a8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10da\u10d8\u10d4"
     ],
     "name:kor_x_preferred":[
         "\ud3f4\ub9ac\uc5d0"
@@ -82,6 +100,9 @@
     "name:pol_x_preferred":[
         "Polje"
     ],
+    "name:pol_x_variant":[
+        "polje"
+    ],
     "name:por_x_preferred":[
         "polje"
     ],
@@ -100,6 +121,9 @@
     "name:spa_x_preferred":[
         "Polj\u00e9"
     ],
+    "name:spa_x_variant":[
+        "polj\u00e9"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0448\u043a\u043e \u043f\u043e\u0459\u0435"
     ],
@@ -108,6 +132,9 @@
     ],
     "name:tur_x_preferred":[
         "Polye"
+    ],
+    "name:ukr_x_preferred":[
+        "\u043f\u043e\u043b\u044c\u0454"
     ],
     "qs:name":"Polje",
     "qs:photos_9r":0,
@@ -142,7 +169,7 @@
         }
     ],
     "wof:id":890518531,
-    "wof:lastmodified":1566605363,
+    "wof:lastmodified":1690855830,
     "wof:name":"Polje",
     "wof:parent_id":1108759143,
     "wof:placetype":"locality",

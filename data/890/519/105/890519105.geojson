@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Bosanska Krupa"
     ],
+    "name:ceb_x_preferred":[
+        "Bosanska Krupa"
+    ],
     "name:ces_x_preferred":[
         "Bosanska Krupa"
     ],
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":890519105,
-    "wof:lastmodified":1566605346,
+    "wof:lastmodified":1690855792,
     "wof:name":"Bosanska Krupa",
     "wof:parent_id":1108759003,
     "wof:placetype":"locality",

@@ -71,6 +71,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u0563\u0578\u0575\u0576\u0578"
     ],
+    "name:ind_x_preferred":[
+        "Bugojno"
+    ],
     "name:ita_x_preferred":[
         "Bugojno"
     ],
@@ -90,6 +93,9 @@
         "Bugojno"
     ],
     "name:por_x_preferred":[
+        "Bugojno"
+    ],
+    "name:ron_x_preferred":[
         "Bugojno"
     ],
     "name:rus_x_preferred":[
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":890519029,
-    "wof:lastmodified":1566605350,
+    "wof:lastmodified":1690855800,
     "wof:name":"Bugojno",
     "wof:parent_id":1108759029,
     "wof:placetype":"locality",

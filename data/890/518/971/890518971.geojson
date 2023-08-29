@@ -38,11 +38,17 @@
     "name:nld_x_preferred":[
         "Jelah"
     ],
+    "name:pol_x_preferred":[
+        "Jelah"
+    ],
     "name:srp_x_preferred":[
         "\u0408\u0435\u043b\u0430\u0445"
     ],
     "name:swe_x_preferred":[
         "Jelah"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0626\u0644\u0627\u06c1"
     ],
     "qs:name":"Jelah",
     "qs:name_adm0":"Bosna i Hercegovina",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890518971,
-    "wof:lastmodified":1566605360,
+    "wof:lastmodified":1690855824,
     "wof:name":"Jelah",
     "wof:parent_id":1108759255,
     "wof:placetype":"locality",

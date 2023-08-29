@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Trn"
     ],
+    "name:ceb_x_preferred":[
+        "Trn"
+    ],
     "name:eng_x_preferred":[
         "Trn"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Trn"
     ],
     "qs:name":"Trn",
     "qs:photos_9r":0,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890518763,
-    "wof:lastmodified":1566605352,
+    "wof:lastmodified":1690855804,
     "wof:name":"Trn",
     "wof:parent_id":1108759151,
     "wof:placetype":"locality",

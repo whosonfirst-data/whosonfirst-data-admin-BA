@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Bila"
     ],
+    "name:ceb_x_preferred":[
+        "Bila"
+    ],
     "name:ces_x_preferred":[
         "Bila"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0438\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bila"
     ],
     "qs:name":"Bila",
     "qs:photos_9r":0,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890518539,
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1690855827,
     "wof:name":"Bila",
     "wof:parent_id":1108759153,
     "wof:placetype":"locality",

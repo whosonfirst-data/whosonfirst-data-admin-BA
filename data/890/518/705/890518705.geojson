@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "\u010cajni\u010de"
     ],
+    "name:ceb_x_preferred":[
+        "\u010cajni\u010de"
+    ],
     "name:ces_x_preferred":[
         "\u010cajni\u010de"
     ],
@@ -53,6 +56,9 @@
     "name:hsb_x_preferred":[
         "\u010cajni\u010de"
     ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0575\u0576\u056b\u0579\u0565"
+    ],
     "name:ita_x_preferred":[
         "\u010cajni\u010de"
     ],
@@ -63,6 +69,9 @@
         "\u010cajni\u010de"
     ],
     "name:pol_x_preferred":[
+        "\u010cajni\u010de"
+    ],
+    "name:ron_x_preferred":[
         "\u010cajni\u010de"
     ],
     "name:rus_x_preferred":[
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":890518705,
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1690855827,
     "wof:name":"\u010cajni\u010de",
     "wof:parent_id":1108759035,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Gornji Vakuf-Uskoplje"
+    ],
     "name:bos_x_preferred":[
         "Gornji Vakuf"
     ],
@@ -26,6 +29,9 @@
         "Gornji Vakuf-Uskoplje"
     ],
     "name:bre_x_preferred":[
+        "Gornji Vakuf-Uskoplje"
+    ],
+    "name:cat_x_preferred":[
         "Gornji Vakuf-Uskoplje"
     ],
     "name:ceb_x_preferred":[
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":890518623,
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1690855835,
     "wof:name":"Gornji Vakuf",
     "wof:parent_id":1108759087,
     "wof:placetype":"locality",

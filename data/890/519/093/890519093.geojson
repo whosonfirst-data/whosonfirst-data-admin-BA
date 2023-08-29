@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Kne\u017eica"
     ],
+    "name:pol_x_preferred":[
+        "Kne\u017eica"
+    ],
     "name:slv_x_preferred":[
         "Kne\u017eica"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890519093,
-    "wof:lastmodified":1566605351,
+    "wof:lastmodified":1690855803,
     "wof:name":"Kne\u017eica",
     "wof:parent_id":1108758999,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0643\u0648\u0641\u064a\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u064a\u0643\u0648\u0641\u064a\u0643\u0627"
+    ],
     "name:bos_x_preferred":[
         "Brekovica"
     ],
@@ -51,6 +54,9 @@
         "Brekovica"
     ],
     "name:slv_x_preferred":[
+        "Brekovica"
+    ],
+    "name:spa_x_preferred":[
         "Brekovica"
     ],
     "name:srp_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890518967,
-    "wof:lastmodified":1566605363,
+    "wof:lastmodified":1690855830,
     "wof:name":"Brekovica",
     "wof:parent_id":1108758993,
     "wof:placetype":"locality",
