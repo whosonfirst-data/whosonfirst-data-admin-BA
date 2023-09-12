@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.47984,
-    "geom:area_square_m":4309670147.688584,
+    "geom:area_square_m":4309670167.225022,
     "geom:bbox":"17.382907,42.603223,18.357757,43.893171",
     "geom:latitude":43.417763,
     "geom:longitude":17.846555,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Herzegovina-Neretva Canton"
+        "Herzegovina-Neretva Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
     ],
     "lbl:latitude":43.613479,
     "lbl:longitude":17.813312,
@@ -340,7 +343,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"703c08db7167766dea0ee4acedefe9dd",
+    "wof:geomhash":"83ce20771f3f58b555e9b9fd2ed737f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -359,7 +362,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1690855780,
+    "wof:lastmodified":1694493257,
     "wof:name":"Herzegovina-Neretva",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

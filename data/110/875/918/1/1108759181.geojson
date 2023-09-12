@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005193,
-    "geom:area_square_m":46289540.561376,
+    "geom:area_square_m":46289519.05073,
     "geom:bbox":"18.259881,43.82283,18.38349,43.912622",
     "geom:latitude":43.869931,
     "geom:longitude":18.325802,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Novi Grad Sarajevo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.867561,
     "lbl:longitude":18.330017,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Novi Grad Sarajevo"
+    ],
     "name:fra_x_preferred":[
         "Novi Grad Sarajevo"
     ],
@@ -48,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323889,
-    "wof:geomhash":"552b49c90c816fe9b5f72880c9d76a73",
+    "wof:geomhash":"02d8706176a197db85b334327b826722",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108759181,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1694497961,
     "wof:name":"Novi Grad Sarajevo",
     "wof:parent_id":85669235,
     "wof:placetype":"county",

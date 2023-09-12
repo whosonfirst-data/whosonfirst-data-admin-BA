@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016181,
-    "geom:area_square_m":142360937.305312,
+    "geom:area_square_m":142360788.223699,
     "geom:bbox":"18.165513,44.583365,18.425822,44.704052",
     "geom:latitude":44.643414,
     "geom:longitude":18.288399,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Gracanica / Petrovo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.637998,
     "lbl:longitude":18.308123,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Gracanica / Petrovo"
+    ],
     "name:fra_x_preferred":[
         "Gra\u010danica/Petrovo"
     ],
@@ -48,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323809,
-    "wof:geomhash":"be303a7910d6f107f61f4b5fbeea18d2",
+    "wof:geomhash":"8bca776c07fc331650320cf655c7a133",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108759091,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1694497961,
     "wof:name":"Gracanica / Petrovo",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

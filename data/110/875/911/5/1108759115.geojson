@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037511,
-    "geom:area_square_m":331723612.412896,
+    "geom:area_square_m":331723612.412918,
     "geom:bbox":"17.2051383017,44.2203940399,17.4448786682,44.4550597786",
     "geom:latitude":44.341518,
     "geom:longitude":17.312951,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Jajce Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.345561,
     "lbl:longitude":17.310669,
     "lbl:max_zoom":10.0,
@@ -59,6 +65,9 @@
         "Jajce"
     ],
     "name:deu_x_preferred":[
+        "Jajce"
+    ],
+    "name:eng_x_preferred":[
         "Jajce"
     ],
     "name:fra_x_preferred":[
@@ -146,7 +155,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323833,
-    "wof:geomhash":"31ef14134ff2a83f7c8e0003cd7d94d9",
+    "wof:geomhash":"a76f1c7b92dcd9a4d0cefa38ca4163fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":1108759115,
-    "wof:lastmodified":1566605100,
+    "wof:lastmodified":1694497832,
     "wof:name":"Jajce",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

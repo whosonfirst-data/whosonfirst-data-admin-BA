@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010805,
-    "geom:area_square_m":95238502.179901,
+    "geom:area_square_m":95238502.1799,
     "geom:bbox":"18.8983549172,44.4618675742,19.0440114178,44.5974481129",
     "geom:latitude":44.535963,
     "geom:longitude":18.977904,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Sapna Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.535946,
     "lbl:longitude":18.976803,
     "lbl:max_zoom":10.0,
@@ -41,6 +47,9 @@
         "Sapna"
     ],
     "name:deu_x_preferred":[
+        "Sapna"
+    ],
+    "name:eng_x_preferred":[
         "Sapna"
     ],
     "name:fra_x_preferred":[
@@ -87,7 +96,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323925,
-    "wof:geomhash":"656adbb3c00a6ac305676b83474b1ece",
+    "wof:geomhash":"a2d8d25a53362a5e9300c1efdd2389f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1108759225,
-    "wof:lastmodified":1566605094,
+    "wof:lastmodified":1694497831,
     "wof:name":"Sapna",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

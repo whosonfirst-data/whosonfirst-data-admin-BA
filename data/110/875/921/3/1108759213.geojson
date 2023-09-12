@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035066,
-    "geom:area_square_m":318178578.794191,
+    "geom:area_square_m":318178720.006577,
     "geom:bbox":"17.844835,42.603223,18.314428,42.95525",
     "geom:latitude":42.793489,
     "geom:longitude":18.030822,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Ravno Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":42.876268,
     "lbl:longitude":17.936812,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ravno"
+    ],
     "name:fra_x_preferred":[
         "Ravno"
     ],
@@ -48,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323916,
-    "wof:geomhash":"3917803f32d39f8e8a1fd54f6b54545e",
+    "wof:geomhash":"edb1582f5f14f30f8b6cf343161f2df6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108759213,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1694497961,
     "wof:name":"Ravno",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006014,
-    "geom:area_square_m":53584766.807649,
+    "geom:area_square_m":53584897.354652,
     "geom:bbox":"18.426764,43.824228,18.519924,43.966291",
     "geom:latitude":43.898747,
     "geom:longitude":18.468264,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Stari Grad Sarajevo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.891685,
     "lbl:longitude":18.46897,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Stari Grad Sarajevo"
+    ],
     "name:fra_x_preferred":[
         "Stari Grad Sarajevo"
     ],
@@ -48,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323942,
-    "wof:geomhash":"2f82fb8f39bbb1d8eab514488e8b7a41",
+    "wof:geomhash":"c6ca503f01b6103433e00d069c162f68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108759245,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1694497961,
     "wof:name":"Stari Grad Sarajevo",
     "wof:parent_id":85669235,
     "wof:placetype":"county",

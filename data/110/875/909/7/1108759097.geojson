@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021743,
-    "geom:area_square_m":190481522.102018,
+    "geom:area_square_m":190481597.626807,
     "geom:bbox":"18.254743,44.802042,18.657758,44.962949",
     "geom:latitude":44.888569,
     "geom:longitude":18.464606,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Gradacac / Pelagicevo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.917246,
     "lbl:longitude":18.534841,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Gradacac / Pelagicevo"
+    ],
     "name:fra_x_preferred":[
         "Grada\u010dac/Pelagi\u0107evo"
     ],
@@ -48,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323813,
-    "wof:geomhash":"010d97cea8d9a4a8fc97376271e0ab6e",
+    "wof:geomhash":"56a758e29e04cd644a6bcd585e8b1e87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108759097,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1694497961,
     "wof:name":"Gradacac / Pelagicevo",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

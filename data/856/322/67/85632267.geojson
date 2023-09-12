@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.766731,
-    "geom:area_square_m":24513858339.603348,
+    "geom:area_square_m":24513858339.60397,
     "geom:bbox":"16.1968426563,42.55653,19.621935,45.276582",
     "geom:latitude":44.225659,
     "geom:longitude":18.047893,
@@ -13,6 +13,9 @@
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
         "Republic of Srpska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
     ],
     "lbl:latitude":43.400969,
     "lbl:longitude":18.538073,
@@ -137,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"860dd104615d780549755e1a741d7e70",
+    "wof:geomhash":"e8ac71233b26ebdf40f23ba87bf30dfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,7 +159,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1582321450,
+    "wof:lastmodified":1694493125,
     "wof:name":"Republic of Srpska",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151086,
-    "geom:area_square_m":1357614291.278435,
+    "geom:area_square_m":1357614486.341809,
     "geom:bbox":"17.085607,43.095598,17.734546,43.658298",
     "geom:latitude":43.389941,
     "geom:longitude":17.460649,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "West Herzegovina Canton"
+        "West Herzegovina Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
     ],
     "lbl:latitude":43.388384,
     "lbl:longitude":17.455665,
@@ -340,7 +343,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"418ffb90a0f6d4508a7eb948bd47e4ff",
+    "wof:geomhash":"c9a94d1cef22fa4b87d2c06299777a5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -359,7 +362,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1690855780,
+    "wof:lastmodified":1694493256,
     "wof:name":"West Herzegovina",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

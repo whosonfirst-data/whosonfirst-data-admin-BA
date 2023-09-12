@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003586,
-    "geom:area_square_m":31323757.990318,
+    "geom:area_square_m":31323831.25847,
     "geom:bbox":"18.529757,45.021328,18.610703,45.095507",
     "geom:latitude":45.058735,
     "geom:longitude":18.571363,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Domaljevac - Samac Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":45.048007,
     "lbl:longitude":18.567318,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Domaljevac - Samac"
+    ],
     "name:fra_x_preferred":[
         "Domaljevac-\u0160amac"
     ],
@@ -48,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323785,
-    "wof:geomhash":"0b4f7514b87f44e8db699ff0f6907e20",
+    "wof:geomhash":"b6e9f2959c583c20feb870780d162adc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108759063,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1694497961,
     "wof:name":"Domaljevac - Samac",
     "wof:parent_id":85669243,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064703,
-    "geom:area_square_m":576145678.690241,
+    "geom:area_square_m":576145678.690285,
     "geom:bbox":"17.0790839895,43.7651426224,17.4560175563,44.0997015075",
     "geom:latitude":43.935593,
     "geom:longitude":17.250946,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Kupres Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.970098,
     "lbl:longitude":17.232388,
     "lbl:max_zoom":10.0,
@@ -38,6 +44,9 @@
         "Kupres"
     ],
     "name:deu_x_preferred":[
+        "Kupres"
+    ],
+    "name:eng_x_preferred":[
         "Kupres"
     ],
     "name:fra_x_preferred":[
@@ -92,7 +101,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323859,
-    "wof:geomhash":"428024ed92cab87ad2c60ae4e9b5d4e8",
+    "wof:geomhash":"995ff2d9aef1cca38e9b1f0584787067",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1108759145,
-    "wof:lastmodified":1566605096,
+    "wof:lastmodified":1694497832,
     "wof:name":"Kupres",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

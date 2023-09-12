@@ -7,7 +7,7 @@
     "edtf:cessation":"..",
     "edtf:inception":"1992-~03/1992-~04",
     "geom:area":5.755448,
-    "geom:area_square_m":51045533212.467133,
+    "geom:area_square_m":51045533212.467674,
     "geom:bbox":"15.72972,42.55653,19.621935,45.27615",
     "geom:latitude":44.167763,
     "geom:longitude":17.784389,
@@ -16,6 +16,9 @@
     "iso:country":"BA",
     "itu:country_code":[
         "387"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
     ],
     "lbl:latitude":44.091039,
     "lbl:longitude":18.06843,
@@ -1382,7 +1385,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"387",
     "statoids:ds":"BIH",
     "statoids:fifa":"BIH",
@@ -1440,7 +1444,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes"
     ],
-    "wof:geomhash":"db7365226030615384174d0468c4a8d3",
+    "wof:geomhash":"053d07c3d41bebc9de43d93dd05013e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1458,12 +1462,12 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1690855783,
+    "wof:lastmodified":1694492063,
     "wof:name":"Bosnia and Herzegovina",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":4590000,
-    "wof:population_rank":12,
+    "wof:population":3301000,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:shortcode":"BA",
     "wof:superseded_by":[],

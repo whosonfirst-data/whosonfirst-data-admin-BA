@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064705,
-    "geom:area_square_m":566971729.350416,
+    "geom:area_square_m":566971729.350438,
     "geom:bbox":"16.0057964723,44.7256641887,16.3875068182,45.0689130209",
     "geom:latitude":44.876065,
     "geom:longitude":16.17126,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bosanska Krupa Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.846306,
     "lbl:longitude":16.171256,
     "lbl:max_zoom":10.0,
@@ -51,6 +57,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c3\u03ac\u03bd\u03c3\u03ba\u03b1 \u039a\u03c1\u03bf\u03cd\u03c0\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Bosanska Krupa"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0633\u0627\u0646\u0633\u06a9\u0627 \u06a9\u0631\u0648\u067e\u0627"
@@ -128,7 +137,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323727,
-    "wof:geomhash":"ff4ff58bf11bc50f1b9d1e3027b345a3",
+    "wof:geomhash":"cb2e33146a47f6a6303aad4596707b4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":1108759003,
-    "wof:lastmodified":1566605088,
+    "wof:lastmodified":1694497831,
     "wof:name":"Bosanska Krupa",
     "wof:parent_id":85669207,
     "wof:placetype":"county",
