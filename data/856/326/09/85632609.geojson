@@ -18,7 +18,7 @@
         "387"
     ],
     "label:eng_x_preferred_placetype":[
-        "commune"
+        "country"
     ],
     "lbl:latitude":44.091039,
     "lbl:longitude":18.06843,
@@ -1386,7 +1386,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"387",
     "statoids:ds":"BIH",
     "statoids:fifa":"BIH",
@@ -1462,7 +1462,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1694492063,
+    "wof:lastmodified":1694639517,
     "wof:name":"Bosnia and Herzegovina",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

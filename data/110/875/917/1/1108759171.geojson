@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Mostar"
     ],
+    "name:eng_x_variant":[
+        "Mostar (grad)"
+    ],
     "name:fra_x_preferred":[
         "Mostar"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108759171,
-    "wof:lastmodified":1694497961,
+    "wof:lastmodified":1694639716,
     "wof:name":"Mostar",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

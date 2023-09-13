@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Pale"
     ],
+    "name:eng_x_variant":[
+        "Pale (fbih)"
+    ],
     "name:fra_x_preferred":[
         "Pale"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108759199,
-    "wof:lastmodified":1694497961,
+    "wof:lastmodified":1694639716,
     "wof:name":"Pale",
     "wof:parent_id":85669239,
     "wof:placetype":"county",

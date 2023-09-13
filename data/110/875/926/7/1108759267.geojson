@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Trnovo"
     ],
+    "name:eng_x_variant":[
+        "Trnovo (fbih)"
+    ],
     "name:fra_x_preferred":[
         "Trnovo"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108759267,
-    "wof:lastmodified":1694497961,
+    "wof:lastmodified":1694639716,
     "wof:name":"Trnovo",
     "wof:parent_id":85669235,
     "wof:placetype":"county",
