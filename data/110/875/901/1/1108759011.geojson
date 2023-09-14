@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056097,
-    "geom:area_square_m":490328490.753912,
+    "geom:area_square_m":490328664.401081,
     "geom:bbox":"16.236227,44.873704,16.615813,45.187702",
     "geom:latitude":45.018049,
     "geom:longitude":16.444001,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bosanski Novi / Novi Grad Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":45.045033,
     "lbl:longitude":16.478474,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Bosanski Novi / Novi Grad"
+    ],
     "name:fra_x_preferred":[
         "Bosanski Novi/Novi Grad"
     ],
@@ -50,7 +59,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323737,
-    "wof:geomhash":"54b12ca68a3efddf9412273d0df375db",
+    "wof:geomhash":"e0f962af3a2a48b53208605063fac212",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1108759011,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1694497961,
     "wof:name":"Bosanski Novi / Novi Grad",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

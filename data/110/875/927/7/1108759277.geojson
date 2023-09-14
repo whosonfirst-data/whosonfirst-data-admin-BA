@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004499,
-    "geom:area_square_m":39548292.853249,
+    "geom:area_square_m":39548292.853244,
     "geom:bbox":"17.9317289189,44.644837094,18.0369086731,44.7219130825",
     "geom:latitude":44.689797,
     "geom:longitude":17.986316,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Usora Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.695996,
     "lbl:longitude":17.973965,
     "lbl:max_zoom":10.0,
@@ -38,6 +44,9 @@
         "Usora"
     ],
     "name:deu_x_preferred":[
+        "Usora"
+    ],
+    "name:eng_x_preferred":[
         "Usora"
     ],
     "name:fra_x_preferred":[
@@ -71,7 +80,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323969,
-    "wof:geomhash":"8a63ccfe5734cf0a41d2398afcc97eaa",
+    "wof:geomhash":"6727bee71b5a81d883eb85b5d89e68dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":1108759277,
-    "wof:lastmodified":1566605103,
+    "wof:lastmodified":1694497832,
     "wof:name":"Usora",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

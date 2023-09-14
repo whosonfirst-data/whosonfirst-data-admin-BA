@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.297421,
-    "geom:area_square_m":2621036400.464395,
+    "geom:area_square_m":2621036426.99612,
     "geom:bbox":"18.122071,44.165091,19.044011,44.918458",
     "geom:latitude":44.545661,
     "geom:longitude":18.588048,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Tuzla Canton"
+        "Tuzla Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
     ],
     "lbl:latitude":44.511994,
     "lbl:longitude":18.588042,
@@ -308,7 +311,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a64242fd545d1d08cce7e4dda3e46f60",
+    "wof:geomhash":"f4de4b6cb7150f73531565417d9a622a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -327,7 +330,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1690855782,
+    "wof:lastmodified":1694493257,
     "wof:name":"Tuzla",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

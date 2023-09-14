@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021917,
-    "geom:area_square_m":193418483.671009,
+    "geom:area_square_m":193418483.671006,
     "geom:bbox":"18.7346378551,44.377128441,18.9644552635,44.5425637261",
     "geom:latitude":44.462582,
     "geom:longitude":18.853877,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Kalesija Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.464564,
     "lbl:longitude":18.855628,
     "lbl:max_zoom":10.0,
@@ -44,6 +50,9 @@
         "Kalesija"
     ],
     "name:deu_x_preferred":[
+        "Kalesija"
+    ],
+    "name:eng_x_preferred":[
         "Kalesija"
     ],
     "name:fra_x_preferred":[
@@ -98,7 +107,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323839,
-    "wof:geomhash":"4b086395ca06c3c4cf57ca6106f0ccc0",
+    "wof:geomhash":"1cc19203798a9ef6700d9d133717f223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":1108759121,
-    "wof:lastmodified":1566605092,
+    "wof:lastmodified":1694497831,
     "wof:name":"Kalesija",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

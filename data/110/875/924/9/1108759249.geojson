@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031811,
-    "geom:area_square_m":287266905.115334,
+    "geom:area_square_m":287266905.115358,
     "geom:bbox":"17.7525248729,42.9691851896,18.0345430177,43.2241047251",
     "geom:latitude":43.086996,
     "geom:longitude":17.903158,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Stolac Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.074951,
     "lbl:longitude":17.893549,
     "lbl:max_zoom":10.0,
@@ -41,6 +47,9 @@
         "\u0421\u0442\u043e\u043b\u0430\u0446"
     ],
     "name:deu_x_preferred":[
+        "Stolac"
+    ],
+    "name:eng_x_preferred":[
         "Stolac"
     ],
     "name:fra_x_preferred":[
@@ -110,7 +119,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323946,
-    "wof:geomhash":"8b234dc348d6c62ccd555bccd808a42f",
+    "wof:geomhash":"76e9bc81b38742d00ed40e13e070c4a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1108759249,
-    "wof:lastmodified":1566605093,
+    "wof:lastmodified":1694497831,
     "wof:name":"Stolac",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

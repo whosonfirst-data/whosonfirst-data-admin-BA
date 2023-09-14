@@ -10,6 +10,12 @@
     "geom:latitude":43.85677,
     "geom:longitude":18.395346,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Novo Sarajevo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.855579,
     "lbl:longitude":18.393866,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
         "Novo Sarajevo"
     ],
     "name:deu_x_preferred":[
+        "Novo Sarajevo"
+    ],
+    "name:eng_x_preferred":[
         "Novo Sarajevo"
     ],
     "name:fas_x_preferred":[
@@ -90,7 +99,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323893,
-    "wof:geomhash":"ab6a1f37f816f365b527fbe81a7764ef",
+    "wof:geomhash":"0d39c8974a51d5db03361e75a4686394",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1108759187,
-    "wof:lastmodified":1566605104,
+    "wof:lastmodified":1694497832,
     "wof:name":"Novo Sarajevo",
     "wof:parent_id":85669235,
     "wof:placetype":"county",

@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056944,
-    "geom:area_square_m":509356420.100685,
+    "geom:area_square_m":509356384.544608,
     "geom:bbox":"18.510857,43.577328,19.004193,43.773987",
     "geom:latitude":43.664999,
     "geom:longitude":18.802653,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Bosnian Podrinje Canton"
+        "Bosnian Podrinje Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
     ],
     "lbl:latitude":43.675318,
     "lbl:longitude":18.802648,
@@ -322,7 +325,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"569e1704e3efdd3b3d5c8e37ff89d958",
+    "wof:geomhash":"9bb3477700e690867313ae729981c484",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -341,7 +344,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1690855781,
+    "wof:lastmodified":1694493257,
     "wof:name":"Bosnian Podrinje",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

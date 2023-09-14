@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005819,
-    "geom:area_square_m":50908808.391926,
+    "geom:area_square_m":50908769.68381,
     "geom:bbox":"18.571146,44.914392,18.727092,45.021088",
     "geom:latitude":44.961363,
     "geom:longitude":18.655586,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Orasje / Srpsko Orasje Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.9526,
     "lbl:longitude":18.66796,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Orasje / Srpsko Orasje"
+    ],
     "name:fra_x_preferred":[
         "Ora\u0161je/Srpsko Ora\u0161je"
     ],
@@ -48,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323903,
-    "wof:geomhash":"a06f81e9706a0ce41950888f26f9fd53",
+    "wof:geomhash":"4632cc3c6348ea8fc0dc0181f2228dae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108759197,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1694497961,
     "wof:name":"Orasje / Srpsko Orasje",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

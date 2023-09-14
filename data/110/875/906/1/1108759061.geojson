@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008436,
-    "geom:area_square_m":74536341.057876,
+    "geom:area_square_m":74536287.152218,
     "geom:bbox":"17.334581,44.32882,17.50503,44.454441",
     "geom:latitude":44.392791,
     "geom:longitude":17.425241,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Dobretici Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.393756,
     "lbl:longitude":17.426527,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Dobretici"
+    ],
     "name:fra_x_preferred":[
         "Dobreti\u0107i"
     ],
@@ -48,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323783,
-    "wof:geomhash":"e998d70cfcbde33fa04465a496026ac8",
+    "wof:geomhash":"e7bbf2e90f392bc580c84718ae9e7710",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108759061,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1694497961,
     "wof:name":"Dobretici",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088528,
-    "geom:area_square_m":779413335.027994,
+    "geom:area_square_m":779413335.028014,
     "geom:bbox":"16.0821058632,44.4118464441,16.6519001667,44.7565888502",
     "geom:latitude":44.600972,
     "geom:longitude":16.336424,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Bosanski Petrovac Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.605247,
     "lbl:longitude":16.317028,
     "lbl:max_zoom":10.0,
@@ -41,6 +47,9 @@
         "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0438 \u041f\u0435\u0442\u0440\u043e\u0432\u0430\u0446"
     ],
     "name:deu_x_preferred":[
+        "Bosanski Petrovac"
+    ],
+    "name:eng_x_preferred":[
         "Bosanski Petrovac"
     ],
     "name:fas_x_preferred":[
@@ -110,7 +119,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323739,
-    "wof:geomhash":"76306b8d2607294c194d175970f070a8",
+    "wof:geomhash":"5d402b4af671e863e33e7811db63d5cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1108759013,
-    "wof:lastmodified":1566605089,
+    "wof:lastmodified":1694497831,
     "wof:name":"Bosanski Petrovac",
     "wof:parent_id":85669207,
     "wof:placetype":"county",

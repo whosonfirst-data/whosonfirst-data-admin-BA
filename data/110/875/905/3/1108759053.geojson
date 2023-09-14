@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087001,
-    "geom:area_square_m":763768312.351363,
+    "geom:area_square_m":763768314.331217,
     "geom:bbox":"17.742979,44.569415,18.362391,44.99709",
     "geom:latitude":44.76765,
     "geom:longitude":18.044694,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Doboj Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.783656,
     "lbl:longitude":18.049319,
     "lbl:max_zoom":10.0,
@@ -63,6 +69,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03cc\u03bc\u03c0\u03bf\u03ca"
+    ],
+    "name:eng_x_preferred":[
+        "Doboj"
     ],
     "name:epo_x_preferred":[
         "Doboj"
@@ -191,7 +200,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323778,
-    "wof:geomhash":"c52427160c375c3e8539ae47021242a3",
+    "wof:geomhash":"6f60a7e3ae927276c8a7b6edb8afb89e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +210,7 @@
         }
     ],
     "wof:id":1108759053,
-    "wof:lastmodified":1636496557,
+    "wof:lastmodified":1694498102,
     "wof:name":"Doboj",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

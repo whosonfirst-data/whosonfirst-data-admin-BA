@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376625,
-    "geom:area_square_m":3333719517.265129,
+    "geom:area_square_m":3333719746.363582,
     "geom:bbox":"17.740676,43.903035,18.832339,44.721913",
     "geom:latitude":44.287199,
     "geom:longitude":18.18286,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "Zenica-Doboj Canton"
+        "Zenica-Doboj Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
     ],
     "lbl:latitude":44.247625,
     "lbl:longitude":18.182811,
@@ -333,7 +336,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0d351c8cc04490753b49239b1054d6ba",
+    "wof:geomhash":"c0289df948a3c565f434aad620b2c65a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -352,7 +355,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1690855781,
+    "wof:lastmodified":1694493257,
     "wof:name":"Zenica-Doboj",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

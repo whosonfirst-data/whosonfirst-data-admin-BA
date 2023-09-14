@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109084,
-    "geom:area_square_m":975526283.744894,
+    "geom:area_square_m":975526283.744889,
     "geom:bbox":"16.9163959472,43.5370911285,17.5414284037,43.8847397578",
     "geom:latitude":43.678361,
     "geom:longitude":17.241512,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Tomislavgrad Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.673901,
     "lbl:longitude":17.236778,
     "lbl:max_zoom":10.0,
@@ -47,6 +53,9 @@
         "Tomislavgrad"
     ],
     "name:deu_x_preferred":[
+        "Tomislavgrad"
+    ],
+    "name:eng_x_preferred":[
         "Tomislavgrad"
     ],
     "name:fas_x_preferred":[
@@ -114,7 +123,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323956,
-    "wof:geomhash":"9a1ad7526649c5b2745c5f40f83ccc23",
+    "wof:geomhash":"019729fdfe9828926ee788d9dbf5b830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1108759261,
-    "wof:lastmodified":1566605104,
+    "wof:lastmodified":1694497832,
     "wof:name":"Tomislavgrad",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007581,
-    "geom:area_square_m":66968346.946796,
+    "geom:area_square_m":66968386.214457,
     "geom:bbox":"16.563334,44.339072,16.67856,44.461923",
     "geom:latitude":44.404916,
     "geom:longitude":16.627649,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Drvar / Srpski Drvar Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.402515,
     "lbl:longitude":16.628525,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Drvar / Srpski Drvar"
+    ],
     "name:fra_x_preferred":[
         "Drvar/Isto\u010dni Drvar"
     ],
@@ -48,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"BA",
     "wof:created":1481323791,
-    "wof:geomhash":"85901697aca5bfb826eb84f39252aa63",
+    "wof:geomhash":"2fa80b56f07ef2a6753999886844a4a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108759069,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1694497961,
     "wof:name":"Drvar / Srpski Drvar",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

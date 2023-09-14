@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.558483,
-    "geom:area_square_m":4968595604.609965,
+    "geom:area_square_m":4968595364.563448,
     "geom:bbox":"16.211438,43.537091,17.541428,44.494686",
     "geom:latitude":43.987462,
     "geom:longitude":16.871157,
     "iso:country":"BA",
     "label:eng_x_preferred_longname":[
-        "West Bosnia Canton"
+        "West Bosnia Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
     ],
     "lbl:latitude":43.977107,
     "lbl:longitude":16.871177,
@@ -238,7 +241,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ef120e60cf24f6f0b041440000e1d621",
+    "wof:geomhash":"2c26b9ac48261362847ea285ee90ac0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -257,7 +260,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1690855779,
+    "wof:lastmodified":1694493256,
     "wof:name":"West Bosnia",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

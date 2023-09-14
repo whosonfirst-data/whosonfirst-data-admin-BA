@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023907,
-    "geom:area_square_m":212202988.350075,
+    "geom:area_square_m":212203070.173562,
     "geom:bbox":"18.987409,44.014102,19.211014,44.22639",
     "geom:latitude":44.12423,
     "geom:longitude":19.113453,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Milici Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":44.138993,
     "lbl:longitude":19.096565,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Milici"
+    ],
     "name:fra_x_preferred":[
         "Mili\u0107i"
     ],
@@ -50,7 +59,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323876,
-    "wof:geomhash":"491a4eea7bef7cd210d996e3a7fa5680",
+    "wof:geomhash":"99774f2cce5cf6f999c437af3a328711",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1108759165,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1694497961,
     "wof:name":"Milici",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

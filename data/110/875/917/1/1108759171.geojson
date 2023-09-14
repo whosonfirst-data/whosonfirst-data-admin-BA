@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127338,
-    "geom:area_square_m":1143637273.39826,
+    "geom:area_square_m":1143637191.747828,
     "geom:bbox":"17.502805,43.173208,18.033314,43.635714",
     "geom:latitude":43.420833,
     "geom:longitude":17.807534,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Mostar Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.437614,
     "lbl:longitude":17.833598,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mostar"
+    ],
+    "name:eng_x_variant":[
+        "Mostar (grad)"
+    ],
     "name:fra_x_preferred":[
         "Mostar"
     ],
@@ -50,7 +62,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323880,
-    "wof:geomhash":"4b4ff1478f9dc5ce5b122e87fdb39530",
+    "wof:geomhash":"a4104bd99a50812cc05527171c27f49a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +72,8 @@
         }
     ],
     "wof:id":1108759171,
-    "wof:lastmodified":1627521589,
-    "wof:name":"Mostar (grad)",
+    "wof:lastmodified":1694639716,
+    "wof:name":"Mostar",
     "wof:parent_id":85669221,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ba",

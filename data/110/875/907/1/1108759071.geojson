@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019408,
-    "geom:area_square_m":173713901.922974,
+    "geom:area_square_m":173713901.922963,
     "geom:bbox":"18.5108569766,43.5773279763,18.8937999794,43.6882462668",
     "geom:latitude":43.624784,
     "geom:longitude":18.701995,
     "iso:country":"BA",
+    "label:eng_x_preferred_longname":[
+        "Foca Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":43.628568,
     "lbl:longitude":18.701974,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Foca"
+    ],
+    "name:eng_x_preferred":[
         "Foca"
     ],
     "name:fra_x_preferred":[
@@ -77,7 +86,7 @@
     },
     "wof:country":"BA",
     "wof:created":1481323792,
-    "wof:geomhash":"e774de087ffbc66819ad6de285ea656e",
+    "wof:geomhash":"43264e52da89515eaec1506eaa81f69c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1108759071,
-    "wof:lastmodified":1566605087,
+    "wof:lastmodified":1694497831,
     "wof:name":"Foca",
     "wof:parent_id":85669239,
     "wof:placetype":"county",
