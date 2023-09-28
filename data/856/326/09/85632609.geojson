@@ -1423,6 +1423,7 @@
         "hasc:id":"BA",
         "icao:code":"T9",
         "ioc:id":"BIH",
+        "iso:code":"BA",
         "itu:id":"BIH",
         "m49:code":"070",
         "marc:id":"bn",
@@ -1436,6 +1437,7 @@
         "wk:page":"Bosnia and Herzegovina",
         "wmo:id":"BG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BA",
     "wof:country_alpha3":"BIH",
     "wof:geom_alt":[
@@ -1462,7 +1464,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1694639517,
+    "wof:lastmodified":1695881173,
     "wof:name":"Bosnia and Herzegovina",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
