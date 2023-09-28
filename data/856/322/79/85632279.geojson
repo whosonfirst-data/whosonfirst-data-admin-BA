@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055005,
-    "geom:area_square_m":482404976.073897,
+    "geom:area_square_m":482405004.809258,
     "geom:bbox":"18.5191,44.722381,19.006743,44.965867",
     "geom:latitude":44.824327,
     "geom:longitude":18.736414,
@@ -373,15 +373,17 @@
     "wof:concordances":{
         "fips:code":"BK03",
         "hasc:id":"BA.BR",
+        "iso:code":"BA-BRC",
         "iso:id":"BA-BRC",
         "qs_pg:id":224784,
         "wd:id":"Q194483"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d29cc2cf5ee8c7ecc5a19633e87a31ab",
+    "wof:geomhash":"6a051bc651e8c9a8c788a41a7bb11f33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -400,7 +402,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1690855782,
+    "wof:lastmodified":1695884355,
     "wof:name":"Brcko Distrikt",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

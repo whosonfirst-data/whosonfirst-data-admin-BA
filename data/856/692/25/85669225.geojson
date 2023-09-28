@@ -302,11 +302,13 @@
         "gn:id":3343716,
         "gp:id":24551278,
         "hasc:id":"BA.BF",
+        "iso:code":"BA-03",
         "qs_pg:id":1287915,
         "unlc:id":"BA-03",
         "wd:id":"Q18250",
         "wk:page":"Tuzla Canton"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BA",
     "wof:geom_alt":[
         "quattroshapes"
@@ -330,7 +332,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1694493257,
+    "wof:lastmodified":1695884841,
     "wof:name":"Tuzla",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

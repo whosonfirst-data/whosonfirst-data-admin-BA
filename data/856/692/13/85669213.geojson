@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.361269,
-    "geom:area_square_m":3207529853.534083,
+    "geom:area_square_m":3207529706.834018,
     "geom:bbox":"17.205138,43.79807,18.184152,44.45506",
     "geom:latitude":44.108209,
     "geom:longitude":17.636944,
@@ -346,15 +346,17 @@
         "gn:id":3343731,
         "gp:id":24551285,
         "hasc:id":"BA.BF",
+        "iso:code":"BA-BIH",
         "iso:id":"BA-BIH",
         "qs_pg:id":1154620,
         "wd:id":"Q18262"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6555f93ffe7cc4abb15946afc3d3d2cb",
+    "wof:geomhash":"0bc9090c52d40bc7f90a4c90b5d7b9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -373,7 +375,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1690855781,
+    "wof:lastmodified":1695884841,
     "wof:name":"Central Bosnia",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

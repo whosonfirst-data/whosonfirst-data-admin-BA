@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035576,
-    "geom:area_square_m":310780486.905679,
+    "geom:area_square_m":310780391.886318,
     "geom:bbox":"18.201455,44.950059,18.796218,45.139258",
     "geom:latitude":45.051108,
     "geom:longitude":18.474503,
@@ -310,17 +310,19 @@
         "gn:id":3343706,
         "gp:id":24551282,
         "hasc:id":"BA.SR",
+        "iso:code":"BA-SRP",
         "iso:id":"BA-SRP",
         "qs_pg:id":1015365,
         "unlc:id":"BA-02",
         "wd:id":"Q18249",
         "wk:page":"Posavina Canton"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb2ec5c43da6296bf8a6c1286e4e6bc0",
+    "wof:geomhash":"aea204893fa4a60bcf5768416cb507ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -339,7 +341,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1690855780,
+    "wof:lastmodified":1695884841,
     "wof:name":"Posavina",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

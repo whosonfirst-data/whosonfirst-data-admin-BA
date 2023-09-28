@@ -334,11 +334,13 @@
         "gn:id":3343733,
         "gp:id":24551284,
         "hasc:id":"BA.BF",
+        "iso:code":"BA-07",
         "qs_pg:id":212436,
         "unlc:id":"BA-07",
         "wd:id":"Q18273",
         "wk:page":"Herzegovina-Neretva Canton"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BA",
     "wof:geom_alt":[
         "quattroshapes"
@@ -362,7 +364,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1694493257,
+    "wof:lastmodified":1695884840,
     "wof:name":"Herzegovina-Neretva",
     "wof:parent_id":85632609,
     "wof:placetype":"region",
