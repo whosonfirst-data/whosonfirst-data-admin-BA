@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01783,
-    "geom:area_square_m":158377517.954153,
+    "geom:area_square_m":158377607.099613,
     "geom:bbox":"17.801679,44.019164,18.015462,44.164717",
     "geom:latitude":44.081799,
     "geom:longitude":17.897246,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.ZE.BV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323758,
-    "wof:geomhash":"3a3cc9e5bd263d401a90adc9a9b41b0d",
+    "wof:geomhash":"3eedd0c6be3edee5d949865500d3970c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759031,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1695886164,
     "wof:name":"Busovaca",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066536,
-    "geom:area_square_m":588056679.586748,
+    "geom:area_square_m":588056747.932135,
     "geom:bbox":"18.064045,44.255505,18.492068,44.516342",
     "geom:latitude":44.376108,
     "geom:longitude":18.247276,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.ZE.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323985,
-    "wof:geomhash":"40f5e3a9767714cacb23358babfbf931",
+    "wof:geomhash":"06dedf782ce3f5c2b20bdf1d890d6558",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759295,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1695886172,
     "wof:name":"Zavidovici",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

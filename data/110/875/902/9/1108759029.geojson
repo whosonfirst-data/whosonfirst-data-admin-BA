@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04054,
-    "geom:area_square_m":360364208.310383,
+    "geom:area_square_m":360364208.310382,
     "geom:bbox":"17.3171631604,43.9045527964,17.6237053932,44.1687103387",
     "geom:latitude":44.03783,
     "geom:longitude":17.467757,
@@ -153,9 +153,10 @@
     "wof:concordances":{
         "hasc:id":"BA.JJ.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323756,
-    "wof:geomhash":"75ef145e7f3c1dfd0372d1f9a11c1703",
+    "wof:geomhash":"c08327637174bd7b1b7e5e4f7ec1569a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1108759029,
-    "wof:lastmodified":1566605098,
+    "wof:lastmodified":1695886810,
     "wof:name":"Bugojno",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

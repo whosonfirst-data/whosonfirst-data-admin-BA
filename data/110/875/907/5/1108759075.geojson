@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033529,
-    "geom:area_square_m":298457610.278289,
+    "geom:area_square_m":298457610.278291,
     "geom:bbox":"17.7245000724,43.8421764347,18.0261055101,44.045916136",
     "geom:latitude":43.95487,
     "geom:longitude":17.888596,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.FJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323796,
-    "wof:geomhash":"5d87aca4e17299105f038241bdb1d7a4",
+    "wof:geomhash":"abdf14c06b4751e2dad89edf53fcd01b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108759075,
-    "wof:lastmodified":1566605087,
+    "wof:lastmodified":1695886808,
     "wof:name":"Fojnica",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

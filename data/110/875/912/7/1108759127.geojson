@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017847,
-    "geom:area_square_m":158885043.728113,
+    "geom:area_square_m":158885043.728124,
     "geom:bbox":"17.9401275869,43.8192615932,18.1841516798,44.051641159",
     "geom:latitude":43.947237,
     "geom:longitude":18.074534,
@@ -120,9 +120,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323845,
-    "wof:geomhash":"5ac99e5b8f50840994b8aec90413d636",
+    "wof:geomhash":"f9a8cab2fce07d3e4107502ae8afc333",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108759127,
-    "wof:lastmodified":1566605092,
+    "wof:lastmodified":1695886809,
     "wof:name":"Kiseljak",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

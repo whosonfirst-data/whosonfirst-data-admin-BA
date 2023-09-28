@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040695,
-    "geom:area_square_m":355926240.008442,
+    "geom:area_square_m":355926240.008414,
     "geom:bbox":"15.740812,44.8826440463,16.0740947209,45.0835073509",
     "geom:latitude":44.982761,
     "geom:longitude":15.908125,
@@ -132,9 +132,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BH.CZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323766,
-    "wof:geomhash":"75b587f32c012204f33bb7f26fffc704",
+    "wof:geomhash":"cbc203c74c1be99b281e86b32058fb89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108759039,
-    "wof:lastmodified":1566605096,
+    "wof:lastmodified":1695886809,
     "wof:name":"Cazin",
     "wof:parent_id":85669207,
     "wof:placetype":"county",

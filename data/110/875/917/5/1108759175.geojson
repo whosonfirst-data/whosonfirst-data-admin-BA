@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074482,
-    "geom:area_square_m":658078883.714867,
+    "geom:area_square_m":658078990.561198,
     "geom:bbox":"16.798433,44.195981,17.25295,44.578826",
     "geom:latitude":44.39439,
     "geom:longitude":17.017801,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.JJ.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323883,
-    "wof:geomhash":"5617d1cf1092cdf3ed60aa5e8a490210",
+    "wof:geomhash":"d9b6940d8613c847d4579ec1fd68863f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759175,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1695886168,
     "wof:name":"Mrkonjic Grad",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

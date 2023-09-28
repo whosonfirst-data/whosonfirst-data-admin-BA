@@ -153,6 +153,7 @@
     "wof:concordances":{
         "hasc:id":"BA.JJ.JC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323833,
     "wof:geomhash":"a76f1c7b92dcd9a4d0cefa38ca4163fd",
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1108759115,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886810,
     "wof:name":"Jajce",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

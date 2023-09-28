@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033528,
-    "geom:area_square_m":295404996.024564,
+    "geom:area_square_m":295404996.024575,
     "geom:bbox":"18.5542137223,44.4687077558,18.8661687616,44.6611757713",
     "geom:latitude":44.558598,
     "geom:longitude":18.68183,
@@ -240,9 +240,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.TU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323966,
-    "wof:geomhash":"88b880f728795872b87b34eb1d154cad",
+    "wof:geomhash":"eb44bd35bb58dd9cf080a0407f89c7b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -252,7 +253,7 @@
         }
     ],
     "wof:id":1108759271,
-    "wof:lastmodified":1566605103,
+    "wof:lastmodified":1695886810,
     "wof:name":"Tuzla",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

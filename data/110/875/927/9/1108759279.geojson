@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044489,
-    "geom:area_square_m":394680917.13563,
+    "geom:area_square_m":394680874.950036,
     "geom:bbox":"18.222163,44.034768,18.527418,44.293482",
     "geom:latitude":44.15581,
     "geom:longitude":18.360192,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.VA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323971,
-    "wof:geomhash":"4d93fedf260260aa253ed95d8d1c0204",
+    "wof:geomhash":"329213946fae749c1fefe9516a18342b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108759279,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1695886171,
     "wof:name":"Vares",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

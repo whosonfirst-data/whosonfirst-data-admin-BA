@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065966,
-    "geom:area_square_m":583178331.736851,
+    "geom:area_square_m":583178331.736859,
     "geom:bbox":"16.2451131301,44.2316093158,16.688859873,44.4946862846",
     "geom:latitude":44.360262,
     "geom:longitude":16.454468,
@@ -144,9 +144,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BH.DR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323789,
-    "wof:geomhash":"d3a7f896a67e48f1cdd59423c7f0b37f",
+    "wof:geomhash":"a13d42445bc891f8a489f395abf03ed5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108759067,
-    "wof:lastmodified":1566605089,
+    "wof:lastmodified":1695886808,
     "wof:name":"Drvar",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

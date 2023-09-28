@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140641,
-    "geom:area_square_m":1235343743.791011,
+    "geom:area_square_m":1235343971.018008,
     "geom:bbox":"16.798129,44.491362,17.301381,44.983456",
     "geom:latitude":44.736344,
     "geom:longitude":17.076167,
@@ -297,9 +297,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BL.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323713,
-    "wof:geomhash":"96130b9d04879981fb70f13fbc88a63d",
+    "wof:geomhash":"eaa3acfaf8e6d8df7fe3991ccba17ed0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +310,7 @@
         }
     ],
     "wof:id":1108758989,
-    "wof:lastmodified":1636496557,
+    "wof:lastmodified":1695886723,
     "wof:name":"Banja Luka",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

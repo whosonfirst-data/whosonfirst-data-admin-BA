@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006144,
-    "geom:area_square_m":55188152.373696,
+    "geom:area_square_m":55188272.071748,
     "geom:bbox":"17.965074,43.359775,18.05119,43.471147",
     "geom:latitude":43.411488,
     "geom:longitude":18.010664,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323882,
-    "wof:geomhash":"e9bd826e960e8ac1dac5cf35ca189e90",
+    "wof:geomhash":"f6369ec82816563c8aadf3137802eb08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759173,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1695886168,
     "wof:name":"Mostar / Srpski Mostar",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

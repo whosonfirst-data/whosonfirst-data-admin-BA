@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038491,
-    "geom:area_square_m":341976842.643244,
+    "geom:area_square_m":341976842.643225,
     "geom:bbox":"18.7562814324,43.9756611741,19.1484070569,44.1700229543",
     "geom:latitude":44.068386,
     "geom:longitude":18.948089,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.HP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323818,
-    "wof:geomhash":"9a6e5b586e2b407174781fe74a31baf3",
+    "wof:geomhash":"2da292a6ccadfbb923019edd392d9b20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108759103,
-    "wof:lastmodified":1566605109,
+    "wof:lastmodified":1695886811,
     "wof:name":"Han Pijesak",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

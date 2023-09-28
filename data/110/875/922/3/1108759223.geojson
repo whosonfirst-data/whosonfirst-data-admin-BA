@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022844,
-    "geom:area_square_m":200422491.171022,
+    "geom:area_square_m":200422472.17983,
     "geom:bbox":"16.376144,44.63474,16.920143,44.906077",
     "geom:latitude":44.803251,
     "geom:longitude":16.682867,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.PR.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323924,
-    "wof:geomhash":"ca37084b0f10bfd4bc04b7b897b5dfaf",
+    "wof:geomhash":"0cd7d94713a2765867427523e08cde20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759223,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1695886170,
     "wof:name":"Sanski Most / Srpski Sanski Most",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

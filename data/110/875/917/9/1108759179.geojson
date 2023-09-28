@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103311,
-    "geom:area_square_m":930146476.219907,
+    "geom:area_square_m":930146476.219881,
     "geom:bbox":"17.9584289459,43.0733254936,18.4188599527,43.4788208221",
     "geom:latitude":43.270994,
     "geom:longitude":18.183551,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323887,
-    "wof:geomhash":"b277d7ee39eb8505585d20eb52ceb838",
+    "wof:geomhash":"86b3d6b4138a1e8a60a52fd5eaf173f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108759179,
-    "wof:lastmodified":1566605107,
+    "wof:lastmodified":1695886811,
     "wof:name":"Nevesinje",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028691,
-    "geom:area_square_m":259015470.154259,
+    "geom:area_square_m":259015350.380976,
     "geom:bbox":"17.934447,43.002679,18.249039,43.197783",
     "geom:latitude":43.104883,
     "geom:longitude":18.066822,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323948,
-    "wof:geomhash":"9a8a7ef9ee8cfc826f1cf816c5b65187",
+    "wof:geomhash":"d26cafe4fe5be2fcea7cd46a960e62d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759251,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1695886171,
     "wof:name":"Stolac / Berkovici",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

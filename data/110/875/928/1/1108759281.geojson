@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038945,
-    "geom:area_square_m":339665377.518441,
+    "geom:area_square_m":339665467.79067,
     "geom:bbox":"15.764934,45.055064,16.129528,45.230189",
     "geom:latitude":45.143521,
     "geom:longitude":15.914939,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BH.VK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323973,
-    "wof:geomhash":"6ac94bf56efbeda49ae0f78e7b6bb059",
+    "wof:geomhash":"f02a8bac172fb22deebc90909b1389ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759281,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1695886171,
     "wof:name":"Velika Kladusa",
     "wof:parent_id":85669207,
     "wof:placetype":"county",

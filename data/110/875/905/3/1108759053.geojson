@@ -198,6 +198,7 @@
     "wof:concordances":{
         "hasc:id":"BA.DO.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323778,
     "wof:geomhash":"6f60a7e3ae927276c8a7b6edb8afb89e",
@@ -210,7 +211,7 @@
         }
     ],
     "wof:id":1108759053,
-    "wof:lastmodified":1694498102,
+    "wof:lastmodified":1695886723,
     "wof:name":"Doboj",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

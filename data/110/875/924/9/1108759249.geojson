@@ -117,6 +117,7 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323946,
     "wof:geomhash":"76e9bc81b38742d00ed40e13e070c4a6",
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108759249,
-    "wof:lastmodified":1694497831,
+    "wof:lastmodified":1695886809,
     "wof:name":"Stolac",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"BA.DO.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323874,
-    "wof:geomhash":"c3ceab2088da505cea639e4255535dd2",
+    "wof:geomhash":"4858586f9f4a7901cc30ce4a8c3d23d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108759163,
-    "wof:lastmodified":1566605101,
+    "wof:lastmodified":1695886810,
     "wof:name":"Maglaj",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

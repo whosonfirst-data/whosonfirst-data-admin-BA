@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043766,
-    "geom:area_square_m":386376217.935925,
+    "geom:area_square_m":386376217.935951,
     "geom:bbox":"18.9625983695,44.2626637949,19.2257080909,44.6145702525",
     "geom:latitude":44.442397,
     "geom:longitude":19.082663,
@@ -168,9 +168,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.ZV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323992,
-    "wof:geomhash":"035e39a1c3b7f91b891946139cf1a631",
+    "wof:geomhash":"348588297c8279bd5c58f6c863e95e06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1108759303,
-    "wof:lastmodified":1566605090,
+    "wof:lastmodified":1695886808,
     "wof:name":"Zvornik",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

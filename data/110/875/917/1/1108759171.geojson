@@ -60,6 +60,7 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323880,
     "wof:geomhash":"a4104bd99a50812cc05527171c27f49a",
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1108759171,
-    "wof:lastmodified":1694639716,
+    "wof:lastmodified":1695886168,
     "wof:name":"Mostar",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

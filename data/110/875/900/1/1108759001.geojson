@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087398,
-    "geom:area_square_m":763212813.538164,
+    "geom:area_square_m":763212871.114015,
     "geom:bbox":"16.910229,44.939147,17.455306,45.238965",
     "geom:latitude":45.071264,
     "geom:longitude":17.178411,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BL.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323725,
-    "wof:geomhash":"d0783ecedee66c36152616d27d916921",
+    "wof:geomhash":"9a74950426ec5c95fa47ddcf3373b380",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759001,
-    "wof:lastmodified":1627521585,
+    "wof:lastmodified":1695886163,
     "wof:name":"Bosanska Gradiska / Gradiska",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

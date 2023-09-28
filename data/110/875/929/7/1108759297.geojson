@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064175,
-    "geom:area_square_m":568140391.863044,
+    "geom:area_square_m":568140391.863105,
     "geom:bbox":"17.7406764055,44.097958039,18.0959513211,44.4596086076",
     "geom:latitude":44.27842,
     "geom:longitude":17.926644,
@@ -234,9 +234,10 @@
     "wof:concordances":{
         "hasc:id":"BA.ZE.ZN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323987,
-    "wof:geomhash":"e479feaec7c9931d675c8f7dbf541c2c",
+    "wof:geomhash":"0e1924d01374b287d302f2c0ac367be7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -246,7 +247,7 @@
         }
     ],
     "wof:id":1108759297,
-    "wof:lastmodified":1566605101,
+    "wof:lastmodified":1695886810,
     "wof:name":"Zenica",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

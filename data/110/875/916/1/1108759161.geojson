@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039069,
-    "geom:area_square_m":344348740.380648,
+    "geom:area_square_m":344348740.380653,
     "geom:bbox":"18.288155701,44.4300816421,18.5809720601,44.6468731795",
     "geom:latitude":44.537785,
     "geom:longitude":18.446257,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323873,
-    "wof:geomhash":"0e331adf6cbe166090bdccbf7ff15c12",
+    "wof:geomhash":"67ad99da20eb6db7ccbe360e47df0c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108759161,
-    "wof:lastmodified":1566605101,
+    "wof:lastmodified":1695886810,
     "wof:name":"Lukavac",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

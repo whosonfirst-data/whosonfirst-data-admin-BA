@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015576,
-    "geom:area_square_m":138961870.587717,
+    "geom:area_square_m":138961702.073495,
     "geom:bbox":"18.175595,43.735269,18.398593,43.913993",
     "geom:latitude":43.82121,
     "geom:longitude":18.28348,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.IZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323820,
-    "wof:geomhash":"95655f6612ecc109306375fbf3abbee1",
+    "wof:geomhash":"58d7c6369823447cf6d96a0b901bf417",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759105,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1695886167,
     "wof:name":"Ilidza",
     "wof:parent_id":85669235,
     "wof:placetype":"county",

@@ -60,6 +60,7 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.TR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323962,
     "wof:geomhash":"e078236a0b3acaeb6b7e17d980da2743",
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1108759267,
-    "wof:lastmodified":1694639716,
+    "wof:lastmodified":1695886171,
     "wof:name":"Trnovo",
     "wof:parent_id":85669235,
     "wof:placetype":"county",

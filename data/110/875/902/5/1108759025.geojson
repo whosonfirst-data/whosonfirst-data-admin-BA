@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055005,
-    "geom:area_square_m":482404971.232598,
+    "geom:area_square_m":482405000.426299,
     "geom:bbox":"18.5191,44.722381,19.006743,44.965867",
     "geom:latitude":44.824327,
     "geom:longitude":18.736414,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BR.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323748,
-    "wof:geomhash":"b0aca292fb5214d2fdc62ce01d0c7b72",
+    "wof:geomhash":"984efd04166e2ec6a7860fe3a783fd0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759025,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1695886164,
     "wof:name":"Brcko",
     "wof:parent_id":85632279,
     "wof:placetype":"county",

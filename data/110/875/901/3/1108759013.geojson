@@ -117,6 +117,7 @@
     "wof:concordances":{
         "hasc:id":"BA.BH.BP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323739,
     "wof:geomhash":"5d402b4af671e863e33e7811db63d5cb",
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108759013,
-    "wof:lastmodified":1694497831,
+    "wof:lastmodified":1695886808,
     "wof:name":"Bosanski Petrovac",
     "wof:parent_id":85669207,
     "wof:placetype":"county",

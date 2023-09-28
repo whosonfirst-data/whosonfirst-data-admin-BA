@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019988,
-    "geom:area_square_m":175763747.907606,
+    "geom:area_square_m":175763747.90761,
     "geom:bbox":"18.9122678609,44.5838051103,19.1362193727,44.7726885842",
     "geom:latitude":44.672271,
     "geom:longitude":19.015123,
@@ -114,9 +114,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BR.UG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323968,
-    "wof:geomhash":"aac91ab77974be864142cf40ec56602f",
+    "wof:geomhash":"b88ed569d13d6008c80c8fd26718f690",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108759273,
-    "wof:lastmodified":1566605103,
+    "wof:lastmodified":1695886810,
     "wof:name":"Ugljevik",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

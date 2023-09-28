@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001198,
-    "geom:area_square_m":10534007.614473,
+    "geom:area_square_m":10533979.197339,
     "geom:bbox":"18.043561,44.654971,18.087248,44.698964",
     "geom:latitude":44.676198,
     "geom:longitude":18.063427,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.DO.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323781,
-    "wof:geomhash":"9c486f0e60a6dd3dfa736a230a6720ed",
+    "wof:geomhash":"e24a0f04b080eb54d2a8f9cf7bbb9a73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759057,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1695886165,
     "wof:name":"Doboj - Jug",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009485,
-    "geom:area_square_m":83068914.646853,
+    "geom:area_square_m":83068950.766798,
     "geom:bbox":"16.196843,44.825015,16.382903,44.988463",
     "geom:latitude":44.903016,
     "geom:longitude":16.296048,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BH.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323728,
-    "wof:geomhash":"3a0dacc2ecd0342787a62baf01c19f7b",
+    "wof:geomhash":"3e7456e6e4c0027ea67db6c93872ca1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759007,
-    "wof:lastmodified":1627521585,
+    "wof:lastmodified":1695886163,
     "wof:name":"Bosanska Krupa / Krupa Na Uni",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

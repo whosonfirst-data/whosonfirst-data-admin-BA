@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044763,
-    "geom:area_square_m":396886513.403941,
+    "geom:area_square_m":396886513.404008,
     "geom:bbox":"18.3184505389,44.0506102195,18.832339231,44.3276244602",
     "geom:latitude":44.188807,
     "geom:longitude":18.559624,
@@ -114,9 +114,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.OL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323899,
-    "wof:geomhash":"64d45b13b44144726c4082d512b0f444",
+    "wof:geomhash":"42f3649e483774fa854d673bb4a8889b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108759193,
-    "wof:lastmodified":1566605105,
+    "wof:lastmodified":1695886811,
     "wof:name":"Olovo",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

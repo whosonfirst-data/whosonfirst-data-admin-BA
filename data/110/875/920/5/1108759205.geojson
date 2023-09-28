@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050264,
-    "geom:area_square_m":450659641.714911,
+    "geom:area_square_m":450659728.924704,
     "geom:bbox":"17.085607,43.406993,17.596904,43.658298",
     "geom:latitude":43.523921,
     "geom:longitude":17.372927,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323909,
-    "wof:geomhash":"5ff264bedf34cad8e30230a791b0d14e",
+    "wof:geomhash":"ba65d8bc7cdeb8b2ea4d6a1ad8e28250",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759205,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1695886169,
     "wof:name":"Posusje",
     "wof:parent_id":85669217,
     "wof:placetype":"county",

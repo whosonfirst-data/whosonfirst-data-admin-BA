@@ -105,6 +105,7 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323839,
     "wof:geomhash":"1cc19203798a9ef6700d9d133717f223",
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108759121,
-    "wof:lastmodified":1694497831,
+    "wof:lastmodified":1695886809,
     "wof:name":"Kalesija",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

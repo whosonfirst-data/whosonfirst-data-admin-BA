@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013363,
-    "geom:area_square_m":119473397.134169,
+    "geom:area_square_m":119473424.469745,
     "geom:bbox":"18.374836,43.588249,18.574212,43.781213",
     "geom:latitude":43.69219,
     "geom:longitude":18.456412,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.TR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323964,
-    "wof:geomhash":"73a04e06390ccac430429b329d10f11b",
+    "wof:geomhash":"ab29b027c5db7130f9de671f40f1d17f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759269,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1695886171,
     "wof:name":"Trnovo (rs)",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

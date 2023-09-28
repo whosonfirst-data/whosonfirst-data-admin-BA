@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009088,
-    "geom:area_square_m":79208572.528844,
+    "geom:area_square_m":79208572.528836,
     "geom:bbox":"16.4798586817,45.1206444868,16.6284929056,45.230555",
     "geom:latitude":45.181627,
     "geom:longitude":16.562603,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"BA.PR.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323854,
-    "wof:geomhash":"24aa47d95e44806de515d3510c1b9ca4",
+    "wof:geomhash":"f04cd71ec740993cee8ce82b8608fd2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108759139,
-    "wof:lastmodified":1566605095,
+    "wof:lastmodified":1695886809,
     "wof:name":"Kostajnica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

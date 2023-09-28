@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052668,
-    "geom:area_square_m":470109587.599064,
+    "geom:area_square_m":470109727.135411,
     "geom:bbox":"17.382907,43.678765,17.792424,43.881893",
     "geom:latitude":43.792185,
     "geom:longitude":17.582943,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.PZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323914,
-    "wof:geomhash":"df21f285cf2d4a662cf3c12174a8a4db",
+    "wof:geomhash":"9391a317acba531a8ce8e56a688395cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759211,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1695886169,
     "wof:name":"Prozor / Prozor-rama",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

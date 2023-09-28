@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038087,
-    "geom:area_square_m":340759276.897107,
+    "geom:area_square_m":340759276.897078,
     "geom:bbox":"19.1464929078,43.541813,19.520472,43.7306551265",
     "geom:latitude":43.650981,
     "geom:longitude":19.361731,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"BA.GO.RU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323920,
-    "wof:geomhash":"6c0113e5cb06b49bca7df7bb3b084e32",
+    "wof:geomhash":"c24b23920cea0831e471887a07a3b407",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108759217,
-    "wof:lastmodified":1566605106,
+    "wof:lastmodified":1695886811,
     "wof:name":"Rudo",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

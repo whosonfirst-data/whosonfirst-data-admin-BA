@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03324,
-    "geom:area_square_m":295606036.654256,
+    "geom:area_square_m":295606213.62155,
     "geom:bbox":"18.221198,43.896518,18.613709,44.119149",
     "geom:latitude":44.010669,
     "geom:longitude":18.43297,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.IJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323824,
-    "wof:geomhash":"095ed8eb516fb6c12a421b8057df0ced",
+    "wof:geomhash":"8be8bacb9da2a641d6bb583741f74fce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759109,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1695886167,
     "wof:name":"Ilijas",
     "wof:parent_id":85669235,
     "wof:placetype":"county",

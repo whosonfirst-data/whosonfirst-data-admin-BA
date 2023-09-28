@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026692,
-    "geom:area_square_m":233109615.685237,
+    "geom:area_square_m":233109481.513224,
     "geom:bbox":"17.902205,44.999033,18.243061,45.151883",
     "geom:latitude":45.066882,
     "geom:longitude":18.059631,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.DO.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323735,
-    "wof:geomhash":"bcdaad9954fbae1eb6ee4b2292227fbb",
+    "wof:geomhash":"ad06e1ed116eac2eab8636f8cde10329",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759009,
-    "wof:lastmodified":1627521585,
+    "wof:lastmodified":1695886163,
     "wof:name":"Bosanski Brod / Srpski Brod",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

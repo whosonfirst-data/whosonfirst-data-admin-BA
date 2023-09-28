@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009249,
-    "geom:area_square_m":81722110.725489,
+    "geom:area_square_m":81722184.413577,
     "geom:bbox":"18.84782,44.349896,19.027499,44.44271",
     "geom:latitude":44.39072,
     "geom:longitude":18.942443,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323841,
-    "wof:geomhash":"5944e54cbf8dfce157038504b5dd14ec",
+    "wof:geomhash":"7d52db03d983f3e3687a174751e6de8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759123,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1695886167,
     "wof:name":"Kalesija / Osmaci",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

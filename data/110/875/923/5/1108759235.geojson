@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078926,
-    "geom:area_square_m":702393984.181227,
+    "geom:area_square_m":702394070.285757,
     "geom:bbox":"18.516653,43.826706,19.033552,44.124727",
     "geom:latitude":43.969331,
     "geom:longitude":18.777527,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323935,
-    "wof:geomhash":"fe4024efd7d6fa8008461d440231345c",
+    "wof:geomhash":"414612f7c159c3549ac3d15c881fdd18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108759235,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1695886170,
     "wof:name":"Sokolac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

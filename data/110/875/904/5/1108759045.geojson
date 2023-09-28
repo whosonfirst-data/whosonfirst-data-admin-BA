@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04118,
-    "geom:area_square_m":361796587.847147,
+    "geom:area_square_m":361796574.927032,
     "geom:bbox":"17.229586,44.634926,17.621752,44.808305",
     "geom:latitude":44.722849,
     "geom:longitude":17.430053,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BL.CE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323769,
-    "wof:geomhash":"fdd24885266b227b636d5560745fddd6",
+    "wof:geomhash":"4039e341d5e60d4098cb31c322f209b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759045,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1695886164,
     "wof:name":"Celinac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

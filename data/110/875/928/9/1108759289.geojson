@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031683,
-    "geom:area_square_m":280786509.34287,
+    "geom:area_square_m":280786366.754558,
     "geom:bbox":"18.815355,44.122451,19.114253,44.308898",
     "geom:latitude":44.215355,
     "geom:longitude":18.97568,
@@ -141,9 +141,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.VL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323981,
-    "wof:geomhash":"3f69f4855780c3738ca88ac3f6ffeb73",
+    "wof:geomhash":"13e677bbd455ce5e21adbc5fd8648eda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108759289,
-    "wof:lastmodified":1636496558,
+    "wof:lastmodified":1695886723,
     "wof:name":"Vlasenica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

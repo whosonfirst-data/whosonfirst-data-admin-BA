@@ -84,6 +84,7 @@
     "wof:concordances":{
         "hasc:id":"BA.GO.FC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323792,
     "wof:geomhash":"43264e52da89515eaec1506eaa81f69c",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108759071,
-    "wof:lastmodified":1694497831,
+    "wof:lastmodified":1695886808,
     "wof:name":"Foca",
     "wof:parent_id":85669239,
     "wof:placetype":"county",

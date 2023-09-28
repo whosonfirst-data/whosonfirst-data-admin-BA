@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084188,
-    "geom:area_square_m":738991923.945796,
+    "geom:area_square_m":738991937.089201,
     "geom:bbox":"18.928075,44.576975,19.373891,44.922182",
     "geom:latitude":44.774198,
     "geom:longitude":19.174504,
@@ -219,9 +219,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BR.BJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323719,
-    "wof:geomhash":"58d20eed7f6a950c9987b7c5d8ab2de0",
+    "wof:geomhash":"f92c4c01357b275dc98d5f2667503661",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":1108758995,
-    "wof:lastmodified":1636496558,
+    "wof:lastmodified":1695886723,
     "wof:name":"Bijeljina",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

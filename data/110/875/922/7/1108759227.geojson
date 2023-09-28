@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027715,
-    "geom:area_square_m":245264200.707571,
+    "geom:area_square_m":245264219.906103,
     "geom:bbox":"18.743787,44.221327,19.017262,44.38187",
     "geom:latitude":44.302029,
     "geom:longitude":18.867549,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323927,
-    "wof:geomhash":"19d4556885818f4c3c4dd819f01562c0",
+    "wof:geomhash":"c99dcfe105aed5c128c5852fda571325",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759227,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1695886170,
     "wof:name":"Sekovici",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

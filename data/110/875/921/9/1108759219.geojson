@@ -141,6 +141,7 @@
     "wof:concordances":{
         "hasc:id":"BA.PR.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323922,
     "wof:geomhash":"9df105cdaa96843f46f581f5ed43c044",
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108759219,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886811,
     "wof:name":"Sanski Most",
     "wof:parent_id":85669207,
     "wof:placetype":"county",

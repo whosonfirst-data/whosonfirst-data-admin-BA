@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038363,
-    "geom:area_square_m":347208847.007611,
+    "geom:area_square_m":347208847.007607,
     "geom:bbox":"17.936798367,42.8361267722,18.2780611609,43.062581293",
     "geom:latitude":42.950242,
     "geom:longitude":18.120026,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.LN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323866,
-    "wof:geomhash":"547cf06eb3adae80797e011d5e25aa15",
+    "wof:geomhash":"e26f8a4464a55ea8b6987c7c66256e11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108759155,
-    "wof:lastmodified":1566605092,
+    "wof:lastmodified":1695886809,
     "wof:name":"Ljubinje",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0585,
-    "geom:area_square_m":512002669.648605,
+    "geom:area_square_m":512002669.648623,
     "geom:bbox":"17.758123242,44.8001893758,18.1284400668,45.0751976731",
     "geom:latitude":44.943047,
     "geom:longitude":17.914959,
@@ -153,9 +153,10 @@
     "wof:concordances":{
         "hasc:id":"BA.DO.DE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323775,
-    "wof:geomhash":"2a5f8fdd7001309754096c7615f3bc76",
+    "wof:geomhash":"546d10dec4687f6e2ce76aaecdb7280f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1108759051,
-    "wof:lastmodified":1566605097,
+    "wof:lastmodified":1695886809,
     "wof:name":"Derventa",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028474,
-    "geom:area_square_m":250258075.24544,
+    "geom:area_square_m":250258075.245423,
     "geom:bbox":"18.3840833285,44.6073716798,18.655934279,44.7835872011",
     "geom:latitude":44.700411,
     "geom:longitude":18.524073,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.SK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323940,
-    "wof:geomhash":"6bd7842c5d2c3d730dd9550d8f696d0b",
+    "wof:geomhash":"6355e9e5c62167ce814d9f6857f0a12c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108759243,
-    "wof:lastmodified":1566605093,
+    "wof:lastmodified":1695886809,
     "wof:name":"Srebrenik",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057581,
-    "geom:area_square_m":502198166.808155,
+    "geom:area_square_m":502198127.417529,
     "geom:bbox":"16.577016,45.046195,17.004001,45.276582",
     "geom:latitude":45.143434,
     "geom:longitude":16.812164,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.PR.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323723,
-    "wof:geomhash":"6ecd25a2f5c5e6e280fb6dc35c7a0cde",
+    "wof:geomhash":"74f9deab8a8a062fe5b6122058833a85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108758999,
-    "wof:lastmodified":1627521585,
+    "wof:lastmodified":1695886162,
     "wof:name":"Bosanska Dubica / Kozarska Dubica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

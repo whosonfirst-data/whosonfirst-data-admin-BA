@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035895,
-    "geom:area_square_m":318443425.499704,
+    "geom:area_square_m":318443425.499709,
     "geom:bbox":"17.2596918586,44.019523984,17.5206479643,44.2629837331",
     "geom:latitude":44.155183,
     "geom:longitude":17.373164,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"BA.JJ.DV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323787,
-    "wof:geomhash":"735a5b899969d4bc39b56ee8acc0e49c",
+    "wof:geomhash":"0a0e1925bceecdbc5e4a38783e992aac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108759065,
-    "wof:lastmodified":1566605089,
+    "wof:lastmodified":1695886808,
     "wof:name":"Donji Vakuf",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

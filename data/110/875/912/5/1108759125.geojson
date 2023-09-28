@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075316,
-    "geom:area_square_m":675940161.691865,
+    "geom:area_square_m":675940161.691854,
     "geom:bbox":"18.179960715,43.3087500406,18.596116499,43.631802431",
     "geom:latitude":43.46443,
     "geom:longitude":18.419025,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323842,
-    "wof:geomhash":"12f8344485f2ea38320bb140d2deb086",
+    "wof:geomhash":"57fb9e707ae0517dd144438d96bc6741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108759125,
-    "wof:lastmodified":1566605092,
+    "wof:lastmodified":1695886809,
     "wof:name":"Kalinovik",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

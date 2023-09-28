@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030497,
-    "geom:area_square_m":273163683.542971,
+    "geom:area_square_m":273163623.46228,
     "geom:bbox":"18.936677,43.501703,19.283391,43.665741",
     "geom:latitude":43.58321,
     "geom:longitude":19.119112,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.GO.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323762,
-    "wof:geomhash":"e0a2f155d09c8444b258a80c827ba81b",
+    "wof:geomhash":"c64e18751a121313aa8a3c9fc8afd379",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759035,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1695886164,
     "wof:name":"Cajnice",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

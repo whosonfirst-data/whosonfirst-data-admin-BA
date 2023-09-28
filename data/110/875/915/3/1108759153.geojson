@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11209,
-    "geom:area_square_m":999553176.606482,
+    "geom:area_square_m":999553176.606448,
     "geom:bbox":"16.5463718301,43.6618172545,17.1701519065,44.0496666727",
     "geom:latitude":43.848561,
     "geom:longitude":16.875307,
@@ -162,9 +162,10 @@
     "wof:concordances":{
         "hasc:id":"BA.LI.LV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323865,
-    "wof:geomhash":"4d7ffcc155c2506f0fbdbeb851ef2d50",
+    "wof:geomhash":"0f7898804bea64c288543e3f7c116a3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1108759153,
-    "wof:lastmodified":1566605091,
+    "wof:lastmodified":1695886808,
     "wof:name":"Livno",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

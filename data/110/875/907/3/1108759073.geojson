@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12283,
-    "geom:area_square_m":1102888582.205036,
+    "geom:area_square_m":1102888610.681561,
     "geom:bbox":"18.5344,43.25233,19.080813,43.613163",
     "geom:latitude":43.435453,
     "geom:longitude":18.774983,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.GO.FC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323794,
-    "wof:geomhash":"e8370ef2f9340ea8d3d7921333e1a21a",
+    "wof:geomhash":"8bf922a8179f6027aad1f847447b1bf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759073,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1695886165,
     "wof:name":"Foca / Srbinje",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

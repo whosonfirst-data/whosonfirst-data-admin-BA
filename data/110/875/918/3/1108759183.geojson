@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027907,
-    "geom:area_square_m":247812802.219155,
+    "geom:area_square_m":247812802.219164,
     "geom:bbox":"17.5498704292,43.964870499,17.7912808859,44.2039080688",
     "geom:latitude":44.099267,
     "geom:longitude":17.669431,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"BA.ZE.NT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323891,
-    "wof:geomhash":"aec2484a7831ca6f4c83919cdf876137",
+    "wof:geomhash":"7e453a86b39edd24b4674ee4d7d8e10c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108759183,
-    "wof:lastmodified":1566605104,
+    "wof:lastmodified":1695886810,
     "wof:name":"Novi Travnik",
     "wof:parent_id":85669213,
     "wof:placetype":"county",
