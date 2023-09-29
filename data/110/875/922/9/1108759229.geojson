@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061413,
-    "geom:area_square_m":544350028.511356,
+    "geom:area_square_m":544349949.081361,
     "geom:bbox":"16.9068,44.080582,17.300309,44.366148",
     "geom:latitude":44.206093,
     "geom:longitude":17.123904,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.JJ.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323929,
-    "wof:geomhash":"ed5ef37480a1e445b3b3d15b005b9ab8",
+    "wof:geomhash":"0493ed0b0c9913bdc261ea3c21ea329f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759229,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1695886170,
     "wof:name":"Sipovo",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -57,6 +57,7 @@
     "wof:concordances":{
         "hasc:id":"BA.PR.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323737,
     "wof:geomhash":"e0f962af3a2a48b53208605063fac212",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108759011,
-    "wof:lastmodified":1694497961,
+    "wof:lastmodified":1695886163,
     "wof:name":"Bosanski Novi / Novi Grad",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

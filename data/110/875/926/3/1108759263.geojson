@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06245,
-    "geom:area_square_m":552869399.338574,
+    "geom:area_square_m":552869399.338571,
     "geom:bbox":"17.4265550579,44.1647528866,17.8380336405,44.3923997244",
     "geom:latitude":44.278075,
     "geom:longitude":17.629918,
@@ -195,9 +195,10 @@
     "wof:concordances":{
         "hasc:id":"BA.ZE.TV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323957,
-    "wof:geomhash":"44be76c70bc3b9e16cf89295b5199d91",
+    "wof:geomhash":"84d18ab379d16ce2159f0fbee1581223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,7 +208,7 @@
         }
     ],
     "wof:id":1108759263,
-    "wof:lastmodified":1566605104,
+    "wof:lastmodified":1695886810,
     "wof:name":"Travnik",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028422,
-    "geom:area_square_m":256595646.130102,
+    "geom:area_square_m":256595709.405312,
     "geom:bbox":"17.626343,43.002244,17.869303,43.191577",
     "geom:latitude":43.103177,
     "geom:longitude":17.738502,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.CP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323764,
-    "wof:geomhash":"8f090d213a4f9a10bf0ff066a2338d12",
+    "wof:geomhash":"d8c1f854a1c5bcfb72c8426d229c8f71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759037,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1695886164,
     "wof:name":"Capljina",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

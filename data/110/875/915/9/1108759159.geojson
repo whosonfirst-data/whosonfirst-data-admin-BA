@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035394,
-    "geom:area_square_m":311342826.73779,
+    "geom:area_square_m":311342826.73778,
     "geom:bbox":"18.731102058,44.5320696436,18.9736388602,44.7833034975",
     "geom:latitude":44.65253,
     "geom:longitude":18.861054,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323870,
-    "wof:geomhash":"84d3546ab19d9bd01f72a139c6301ce0",
+    "wof:geomhash":"f8e1dfa3ff68d562133ef8b028d11979",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108759159,
-    "wof:lastmodified":1566605091,
+    "wof:lastmodified":1695886809,
     "wof:name":"Lopare",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

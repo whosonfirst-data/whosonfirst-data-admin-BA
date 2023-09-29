@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024698,
-    "geom:area_square_m":216544942.624604,
+    "geom:area_square_m":216544933.017473,
     "geom:bbox":"18.317364,44.764392,18.58609,44.918458",
     "geom:latitude":44.840212,
     "geom:longitude":18.443888,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BR.GD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323811,
-    "wof:geomhash":"34344386391b6b82c7e4962f4b604bb9",
+    "wof:geomhash":"2c09d82fcf6aa2a2a1b2767e9041a6fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759093,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1695886166,
     "wof:name":"Gradacac",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

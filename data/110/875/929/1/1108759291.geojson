@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008094,
-    "geom:area_square_m":72080710.235947,
+    "geom:area_square_m":72080576.324345,
     "geom:bbox":"18.29576,43.871745,18.452079,43.981086",
     "geom:latitude":43.925699,
     "geom:longitude":18.363548,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.VO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323983,
-    "wof:geomhash":"b366a11b5c18d7131713943a045cc3f9",
+    "wof:geomhash":"c81303025b383d250ea2d92b29fd5ebc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759291,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1695886172,
     "wof:name":"Vogosca",
     "wof:parent_id":85669235,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004333,
-    "geom:area_square_m":38490096.832582,
+    "geom:area_square_m":38490118.048348,
     "geom:bbox":"17.09588,44.065127,17.264159,44.111422",
     "geom:latitude":44.084312,
     "geom:longitude":17.176052,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.LI.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323861,
-    "wof:geomhash":"fe80341e0c0ed4da5ca78c16e180f300",
+    "wof:geomhash":"abb531e3ecc1a8c4dc76031e8f0ce23b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759147,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1695886168,
     "wof:name":"Kupres / Srpski Kupres",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

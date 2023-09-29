@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033146,
-    "geom:area_square_m":290122222.720611,
+    "geom:area_square_m":290122216.937961,
     "geom:bbox":"18.123229,44.844571,18.450238,45.020082",
     "geom:latitude":44.939213,
     "geom:longitude":18.261545,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.DO.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323878,
-    "wof:geomhash":"e84dd02102b975adf245a8b87e358363",
+    "wof:geomhash":"0f65a7f739285a8e5cef4ee51200a0d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759169,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1695886168,
     "wof:name":"Modrica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

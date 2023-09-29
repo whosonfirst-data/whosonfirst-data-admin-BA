@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01852,
-    "geom:area_square_m":162978722.994219,
+    "geom:area_square_m":162978722.120806,
     "geom:bbox":"17.8822,44.553874,18.09696,44.703664",
     "geom:latitude":44.627603,
     "geom:longitude":17.98287,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.DO.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323951,
-    "wof:geomhash":"a42668f25406f026568a0edb67344525",
+    "wof:geomhash":"8c8a7eb56e1f5e33c8428ff6389c99ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759255,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1695886171,
     "wof:name":"Tesanj",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

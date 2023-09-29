@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02313,
-    "geom:area_square_m":204304514.224826,
+    "geom:area_square_m":204304572.089299,
     "geom:bbox":"17.894314,44.322654,18.128653,44.48677",
     "geom:latitude":44.411487,
     "geom:longitude":18.009329,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.ZE.ZP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323989,
-    "wof:geomhash":"f319a005893968bf82afd273d552815a",
+    "wof:geomhash":"f798542a1aba3a173a16b6b13c39e163",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759299,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1695886172,
     "wof:name":"Zepce",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04693,
-    "geom:area_square_m":418878244.226405,
+    "geom:area_square_m":418878244.226345,
     "geom:bbox":"19.1209506932,43.682665575,19.5028553254,43.9536391512",
     "geom:latitude":43.794308,
     "geom:longitude":19.289717,
@@ -114,9 +114,10 @@
     "wof:concordances":{
         "hasc:id":"BA.GO.VG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323975,
-    "wof:geomhash":"c53343c2ee382e11b1e66fa63bfa1dae",
+    "wof:geomhash":"ac98dc83211143a7482cb884ab3016da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108759283,
-    "wof:lastmodified":1566605108,
+    "wof:lastmodified":1695886811,
     "wof:name":"Visegrad",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

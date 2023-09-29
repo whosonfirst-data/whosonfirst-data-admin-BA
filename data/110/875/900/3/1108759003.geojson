@@ -135,6 +135,7 @@
     "wof:concordances":{
         "hasc:id":"BA.BH.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323727,
     "wof:geomhash":"cb2e33146a47f6a6303aad4596707b4a",
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108759003,
-    "wof:lastmodified":1694497831,
+    "wof:lastmodified":1695886808,
     "wof:name":"Bosanska Krupa",
     "wof:parent_id":85669207,
     "wof:placetype":"county",

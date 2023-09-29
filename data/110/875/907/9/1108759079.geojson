@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080747,
-    "geom:area_square_m":727846435.217127,
+    "geom:area_square_m":727846435.217165,
     "geom:bbox":"18.3310220844,43.029186,18.717157,43.3546348773",
     "geom:latitude":43.199259,
     "geom:longitude":18.522449,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323798,
-    "wof:geomhash":"449d505619d003303f5b4991ccbcf1ee",
+    "wof:geomhash":"c0d61840b564a7e7c8097450340aefc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108759079,
-    "wof:lastmodified":1566605086,
+    "wof:lastmodified":1695886808,
     "wof:name":"Gacko",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

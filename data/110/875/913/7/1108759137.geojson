@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125547,
-    "geom:area_square_m":1123375024.901045,
+    "geom:area_square_m":1123375024.901021,
     "geom:bbox":"17.7169633829,43.4696412012,18.3577570402,43.893171039",
     "geom:latitude":43.644937,
     "geom:longitude":18.032099,
@@ -144,9 +144,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323852,
-    "wof:geomhash":"cba4e0e3d293ca25428fe9550816e765",
+    "wof:geomhash":"9f8046c089271eaa343691bf70dd1aa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108759137,
-    "wof:lastmodified":1566605095,
+    "wof:lastmodified":1695886809,
     "wof:name":"Konjic",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

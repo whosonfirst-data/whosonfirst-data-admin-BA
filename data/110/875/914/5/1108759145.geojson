@@ -99,6 +99,7 @@
     "wof:concordances":{
         "hasc:id":"BA.LI.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323859,
     "wof:geomhash":"995ff2d9aef1cca38e9b1f0584787067",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108759145,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886809,
     "wof:name":"Kupres",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

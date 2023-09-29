@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034638,
-    "geom:area_square_m":305555573.200333,
+    "geom:area_square_m":305555630.430551,
     "geom:bbox":"17.21836,44.350274,17.605008,44.647945",
     "geom:latitude":44.486987,
     "geom:longitude":17.376623,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BL.SV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323933,
-    "wof:geomhash":"280076f8c240c76abae5b285cc561468",
+    "wof:geomhash":"857106da4f78bc4145591d15f4d4a517",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759233,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1695886170,
     "wof:name":"Skender Vakuf / Knezevo",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

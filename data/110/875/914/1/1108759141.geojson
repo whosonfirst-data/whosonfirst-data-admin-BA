@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063266,
-    "geom:area_square_m":557596487.858072,
+    "geom:area_square_m":557596458.441483,
     "geom:bbox":"17.257591,44.350549,17.701795,44.686986",
     "geom:latitude":44.539187,
     "geom:longitude":17.495797,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BL.KV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323856,
-    "wof:geomhash":"31b126614cd4b53e6cfa23de0fefc1ff",
+    "wof:geomhash":"30c55591ed25a94b252898a248ca976e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759141,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1695886167,
     "wof:name":"Kotor Varos",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

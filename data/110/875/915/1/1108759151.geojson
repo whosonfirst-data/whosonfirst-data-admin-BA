@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043935,
-    "geom:area_square_m":384901542.49126,
+    "geom:area_square_m":384901582.679277,
     "geom:bbox":"17.179387,44.776953,17.471985,44.990446",
     "geom:latitude":44.887771,
     "geom:longitude":17.338483,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BL.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323863,
-    "wof:geomhash":"e1177c2d8e9676cc1b2c7dc46d14114e",
+    "wof:geomhash":"cd2a9539c4f4a18f272eb9c3634e2e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759151,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1695886168,
     "wof:name":"Laktasi",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

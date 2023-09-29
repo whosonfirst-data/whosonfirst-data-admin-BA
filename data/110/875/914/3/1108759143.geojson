@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016627,
-    "geom:area_square_m":148249694.372934,
+    "geom:area_square_m":148249685.418492,
     "geom:bbox":"17.918126,43.79807,18.121746,43.929498",
     "geom:latitude":43.858058,
     "geom:longitude":18.024604,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323857,
-    "wof:geomhash":"830b4a3ca6754d7bcca4d295c61b7a1d",
+    "wof:geomhash":"9b8935aa02d999d00bb1ec728e34758d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759143,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1695886167,
     "wof:name":"Kresevo",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

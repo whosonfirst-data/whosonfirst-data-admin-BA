@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072817,
-    "geom:area_square_m":649404960.398513,
+    "geom:area_square_m":649404960.398532,
     "geom:bbox":"18.8251102696,43.6782115698,19.2228919537,44.0157000047",
     "geom:latitude":43.842473,
     "geom:longitude":19.053673,
@@ -135,9 +135,10 @@
     "wof:concordances":{
         "hasc:id":"BA.GO.RO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323918,
-    "wof:geomhash":"507a76513a5dcf98af3a4a0708bed736",
+    "wof:geomhash":"0d0e5b47bee14e29d4241a56458fc17b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108759215,
-    "wof:lastmodified":1566605106,
+    "wof:lastmodified":1695886811,
     "wof:name":"Rogatica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

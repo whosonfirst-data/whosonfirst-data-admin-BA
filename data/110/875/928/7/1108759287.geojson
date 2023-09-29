@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017622,
-    "geom:area_square_m":156406448.858711,
+    "geom:area_square_m":156406448.858705,
     "geom:bbox":"17.702667438,44.0402378866,17.8789419561,44.2125240483",
     "geom:latitude":44.129106,
     "geom:longitude":17.781416,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"BA.ZE.VT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323979,
-    "wof:geomhash":"ce34d4b012010f41b111670f5931ade0",
+    "wof:geomhash":"a652d1c5587dfa15074f25d737ff0c59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108759287,
-    "wof:lastmodified":1566605108,
+    "wof:lastmodified":1695886811,
     "wof:name":"Vitez",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

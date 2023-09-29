@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037279,
-    "geom:area_square_m":330128998.231728,
+    "geom:area_square_m":330128998.231727,
     "geom:bbox":"18.5366230718,44.1650905289,18.8364465326,44.3799796043",
     "geom:latitude":44.260575,
     "geom:longitude":18.679837,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.KD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323847,
-    "wof:geomhash":"03506832f216e9769ced7972961c0868",
+    "wof:geomhash":"b1c85f9b8404fe54720738f8d18f9449",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108759129,
-    "wof:lastmodified":1566605092,
+    "wof:lastmodified":1695886809,
     "wof:name":"Kladanj",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

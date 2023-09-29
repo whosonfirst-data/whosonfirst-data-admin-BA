@@ -335,10 +335,12 @@
         "gn:id":3343736,
         "gp:id":24551283,
         "hasc:id":"BA.BF",
+        "iso:code_pseudo":"BA-BIH-WH",
         "qs_pg:id":1193489,
         "wd:id":"Q18275",
         "wk:page":"West Herzegovina Canton"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"BA",
     "wof:geom_alt":[
         "quattroshapes"
@@ -362,7 +364,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1694493256,
+    "wof:lastmodified":1695884840,
     "wof:name":"West Herzegovina",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

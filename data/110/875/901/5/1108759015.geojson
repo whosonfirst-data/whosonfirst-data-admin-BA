@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013832,
-    "geom:area_square_m":122016616.372049,
+    "geom:area_square_m":122016583.349764,
     "geom:bbox":"16.455094,44.417746,16.668667,44.53139",
     "geom:latitude":44.487781,
     "geom:longitude":16.568373,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BH.BP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323740,
-    "wof:geomhash":"0458b4ca8e8a0b084b741c1154f9f958",
+    "wof:geomhash":"b96d81a0bf5498eaf5a92ddb54b8e211",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759015,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1695886163,
     "wof:name":"Bosanski Petrovac / Petrovac",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

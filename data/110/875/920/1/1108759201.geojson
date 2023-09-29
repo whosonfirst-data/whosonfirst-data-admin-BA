@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053434,
-    "geom:area_square_m":476817328.194873,
+    "geom:area_square_m":476817321.059944,
     "geom:bbox":"18.474035,43.680361,18.866056,43.969975",
     "geom:latitude":43.808368,
     "geom:longitude":18.643704,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323907,
-    "wof:geomhash":"36d5a24a64b06d1aeea67d2508df4b61",
+    "wof:geomhash":"5118517ff2ef9078822b83dc8cdd571c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759201,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1695886169,
     "wof:name":"Pale (rs)",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

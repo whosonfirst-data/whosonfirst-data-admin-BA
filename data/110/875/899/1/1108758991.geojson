@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020771,
-    "geom:area_square_m":183514680.929304,
+    "geom:area_square_m":183514649.071153,
     "geom:bbox":"18.316773,44.29999,18.572983,44.473027",
     "geom:latitude":44.397037,
     "geom:longitude":18.471864,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323716,
-    "wof:geomhash":"f3f4d1cc4b5f1fc24282ac2135c8416c",
+    "wof:geomhash":"1cc2114d7a570d8c5634da5cbabf090f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108758991,
-    "wof:lastmodified":1627521585,
+    "wof:lastmodified":1695886162,
     "wof:name":"Banovici",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

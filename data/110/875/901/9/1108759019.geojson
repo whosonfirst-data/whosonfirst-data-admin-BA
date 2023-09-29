@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089609,
-    "geom:area_square_m":794996009.153655,
+    "geom:area_square_m":794995881.804759,
     "geom:bbox":"16.211438,43.963576,16.712988,44.329037",
     "geom:latitude":44.153122,
     "geom:longitude":16.462647,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.LI.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323744,
-    "wof:geomhash":"26255f08ec5e1a1697ec6afa2805ff00",
+    "wof:geomhash":"17c28fd7868dd25cec828c5da8633165",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759019,
-    "wof:lastmodified":1627521586,
+    "wof:lastmodified":1695886163,
     "wof:name":"Bosansko Grahovo / Grahovo",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

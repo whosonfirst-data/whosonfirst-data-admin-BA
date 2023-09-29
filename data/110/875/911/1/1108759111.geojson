@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033697,
-    "geom:area_square_m":301449347.698087,
+    "geom:area_square_m":301449347.698088,
     "geom:bbox":"17.5025143338,43.5572843267,17.8738069213,43.7389344001",
     "geom:latitude":43.658554,
     "geom:longitude":17.70961,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.JB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323826,
-    "wof:geomhash":"9e730016d5847fd36f945f4c5f39b232",
+    "wof:geomhash":"7d9a4a91bd7de59aa949f5379673f44b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108759111,
-    "wof:lastmodified":1566605100,
+    "wof:lastmodified":1695886810,
     "wof:name":"Jablanica",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107084,
-    "geom:area_square_m":941533055.541616,
+    "geom:area_square_m":941533020.411595,
     "geom:bbox":"15.72972,44.242032,16.296506,44.971018",
     "geom:latitude":44.678158,
     "geom:longitude":16.020661,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BH.BH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323717,
-    "wof:geomhash":"abf03b9b847bb5748d04e121d09e5bf6",
+    "wof:geomhash":"a127d4baa25e319a0287f4c41acb2bad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108758993,
-    "wof:lastmodified":1627521585,
+    "wof:lastmodified":1695886162,
     "wof:name":"Bihac",
     "wof:parent_id":85669207,
     "wof:placetype":"county",

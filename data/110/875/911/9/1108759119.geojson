@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042345,
-    "geom:area_square_m":375604733.906862,
+    "geom:area_square_m":375604733.906911,
     "geom:bbox":"17.9638331289,44.0558880839,18.2861596849,44.2987300159",
     "geom:latitude":44.164208,
     "geom:longitude":18.136684,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"BA.ZE.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323836,
-    "wof:geomhash":"73eb5605464987cd3f71c4192acf61eb",
+    "wof:geomhash":"d5ca370b1ba2dd9aabe9b00078e644cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108759119,
-    "wof:lastmodified":1566605100,
+    "wof:lastmodified":1695886810,
     "wof:name":"Kakanj",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

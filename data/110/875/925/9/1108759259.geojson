@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092082,
-    "geom:area_square_m":811136895.551175,
+    "geom:area_square_m":811136848.719259,
     "geom:bbox":"17.565976,44.378329,17.966148,44.751203",
     "geom:latitude":44.570387,
     "geom:longitude":17.758782,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.DO.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323953,
-    "wof:geomhash":"363a5f474057fb6bda4fd12c1d281a1b",
+    "wof:geomhash":"6381d0ac2455b3f27997a16ec3b10e46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759259,
-    "wof:lastmodified":1627521591,
+    "wof:lastmodified":1695886171,
     "wof:name":"Teslic",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

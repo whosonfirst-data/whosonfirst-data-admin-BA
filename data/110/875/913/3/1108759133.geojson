@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039581,
-    "geom:area_square_m":348539366.999959,
+    "geom:area_square_m":348539313.18619,
     "geom:bbox":"16.527669,44.519113,16.904204,44.668161",
     "geom:latitude":44.590274,
     "geom:longitude":16.730858,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.PR.KC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323848,
-    "wof:geomhash":"9c40c66edcd0f665b372dfcd796d5cb8",
+    "wof:geomhash":"7aba6c683c3b480746fee4ae8c3f408f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759133,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1695886167,
     "wof:name":"Kljuc",
     "wof:parent_id":85669207,
     "wof:placetype":"county",

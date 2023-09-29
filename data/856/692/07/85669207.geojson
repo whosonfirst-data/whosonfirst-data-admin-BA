@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.480088,
-    "geom:area_square_m":4214414386.884384,
+    "geom:area_square_m":4214414165.513814,
     "geom:bbox":"15.72972,44.242032,16.904204,45.230189",
     "geom:latitude":44.770419,
     "geom:longitude":16.23862,
@@ -327,17 +327,19 @@
         "gn:id":3343704,
         "gp:id":24551286,
         "hasc:id":"HR.ZD",
+        "iso:code":"HR-13",
         "iso:id":"HR-13",
         "qs_pg:id":212437,
         "unlc:id":"BA-01",
         "wd:id":"Q18248",
         "wk:page":"Una-Sana Canton"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"74895da17fba35afdad0399435fed4f9",
+    "wof:geomhash":"834c4db3017d77d7e035874dc253ce25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -356,7 +358,7 @@
         "srp",
         "hrv"
     ],
-    "wof:lastmodified":1690855780,
+    "wof:lastmodified":1695884841,
     "wof:name":"Una-Sana",
     "wof:parent_id":85632609,
     "wof:placetype":"region",

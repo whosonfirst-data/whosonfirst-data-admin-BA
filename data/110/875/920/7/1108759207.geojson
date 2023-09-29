@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094887,
-    "geom:area_square_m":830384434.726619,
+    "geom:area_square_m":830384283.517151,
     "geom:bbox":"16.489927,44.806183,17.026402,45.092196",
     "geom:latitude":44.948924,
     "geom:longitude":16.768442,
@@ -210,9 +210,10 @@
     "wof:concordances":{
         "hasc:id":"BA.PR.PI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323910,
-    "wof:geomhash":"cfbaa7c62771aeb359198f5d53f6345d",
+    "wof:geomhash":"312219b2fab5378435facb723d5fb9c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -222,7 +223,7 @@
         }
     ],
     "wof:id":1108759207,
-    "wof:lastmodified":1636496558,
+    "wof:lastmodified":1695886723,
     "wof:name":"Prijedor",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008039,
-    "geom:area_square_m":71482247.600691,
+    "geom:area_square_m":71482247.600682,
     "geom:bbox":"18.2210533693,43.9771078127,18.3718811638,44.0595982563",
     "geom:latitude":44.020279,
     "geom:longitude":18.298408,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"BA.SA.BZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323754,
-    "wof:geomhash":"584a0d1e4d37907266732bdabfa9523e",
+    "wof:geomhash":"9ed96818d7827e38ba851ce45d6335eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108759027,
-    "wof:lastmodified":1566605098,
+    "wof:lastmodified":1695886810,
     "wof:name":"Breza",
     "wof:parent_id":85669231,
     "wof:placetype":"county",

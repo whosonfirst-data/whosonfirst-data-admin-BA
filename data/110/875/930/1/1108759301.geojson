@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032778,
-    "geom:area_square_m":289500316.65946,
+    "geom:area_square_m":289500280.915898,
     "geom:bbox":"18.51643,44.319706,18.829608,44.507571",
     "geom:latitude":44.416603,
     "geom:longitude":18.66496,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.ZI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323990,
-    "wof:geomhash":"f7027ea199c6430f0c051128f3b394b8",
+    "wof:geomhash":"fe954f80d55317826e9a50cbefc6c983",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759301,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1695886172,
     "wof:name":"Zivinice",
     "wof:parent_id":85669225,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059629,
-    "geom:area_square_m":529894702.79075,
+    "geom:area_square_m":529894702.790736,
     "geom:bbox":"19.1538532691,43.9413066538,19.621463,44.1796695906",
     "geom:latitude":44.05505,
     "geom:longitude":19.346659,
@@ -219,9 +219,10 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323938,
-    "wof:geomhash":"7e5bd66ad37906f7611cd44221e02ff2",
+    "wof:geomhash":"230a4c632e693a862d1c0e9c852cf12f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":1108759241,
-    "wof:lastmodified":1566605093,
+    "wof:lastmodified":1695886809,
     "wof:name":"Srebrenica",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

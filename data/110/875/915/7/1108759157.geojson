@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033588,
-    "geom:area_square_m":302676492.381164,
+    "geom:area_square_m":302676681.855092,
     "geom:bbox":"17.329878,43.095598,17.662704,43.314292",
     "geom:latitude":43.216116,
     "geom:longitude":17.515078,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.LB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323868,
-    "wof:geomhash":"bfef858c937148c1532f31ca02467f88",
+    "wof:geomhash":"dd6657cc51eabe5d27be3b30f7569e4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759157,
-    "wof:lastmodified":1627521589,
+    "wof:lastmodified":1695886168,
     "wof:name":"Ljubuski",
     "wof:parent_id":85669217,
     "wof:placetype":"county",

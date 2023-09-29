@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096606,
-    "geom:area_square_m":877249542.201467,
+    "geom:area_square_m":877249322.181814,
     "geom:bbox":"17.951676,42.55653,18.576825,42.95941",
     "geom:latitude":42.745607,
     "geom:longitude":18.300283,
@@ -189,9 +189,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.TB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323960,
-    "wof:geomhash":"50c43e77fabd53922aa88297e48ef0e3",
+    "wof:geomhash":"cd844b976d057103d9702353163efe12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +202,7 @@
         }
     ],
     "wof:id":1108759265,
-    "wof:lastmodified":1636496558,
+    "wof:lastmodified":1695886723,
     "wof:name":"Trebinje",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

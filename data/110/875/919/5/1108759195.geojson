@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012456,
-    "geom:area_square_m":108883114.197399,
+    "geom:area_square_m":108882939.693635,
     "geom:bbox":"18.575992,44.950059,18.796218,45.096126",
     "geom:latitude":45.015295,
     "geom:longitude":18.681467,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BR.OR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323901,
-    "wof:geomhash":"35b2cbd5e99cc8bc152b979f4cc7663e",
+    "wof:geomhash":"45b4ca0b6850ad601638f8ec34216d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759195,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1695886169,
     "wof:name":"Orasje",
     "wof:parent_id":85669243,
     "wof:placetype":"county",

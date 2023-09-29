@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019731,
-    "geom:area_square_m":177741169.22204,
+    "geom:area_square_m":177741175.664516,
     "geom:bbox":"17.571921,43.157827,17.803225,43.307878",
     "geom:latitude":43.23678,
     "geom:longitude":17.688017,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.MO.CI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323773,
-    "wof:geomhash":"cc6e0beac18170c67d08209c38a53d6a",
+    "wof:geomhash":"0d330319e61fea6cb1a65dda35784b2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759049,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1695886165,
     "wof:name":"Citluk",
     "wof:parent_id":85669221,
     "wof:placetype":"county",

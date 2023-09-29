@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027325,
-    "geom:area_square_m":244409962.337318,
+    "geom:area_square_m":244409902.315433,
     "geom:bbox":"18.715924,43.586852,19.004193,43.727495",
     "geom:latitude":43.666707,
     "geom:longitude":18.871997,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.GO.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323801,
-    "wof:geomhash":"3a64a89c1bc598c8be375088de32f94e",
+    "wof:geomhash":"e0b6f28d7f210ab58b0e7f0136e1c318",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759083,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1695886166,
     "wof:name":"Gorazde",
     "wof:parent_id":85669239,
     "wof:placetype":"county",

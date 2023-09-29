@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11703,
-    "geom:area_square_m":1039196097.222551,
+    "geom:area_square_m":1039196078.300073,
     "geom:bbox":"16.598401,43.874724,17.099851,44.324818",
     "geom:latitude":44.100313,
     "geom:longitude":16.859665,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.LI.GL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323800,
-    "wof:geomhash":"84248b4980665663800cd523db38a7bc",
+    "wof:geomhash":"6a0bf4b427dce4fed725b106527395bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759081,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1695886165,
     "wof:name":"Glamoc",
     "wof:parent_id":85669203,
     "wof:placetype":"county",

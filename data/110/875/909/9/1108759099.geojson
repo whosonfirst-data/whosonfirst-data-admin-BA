@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025079,
-    "geom:area_square_m":225477526.856319,
+    "geom:area_square_m":225477526.856312,
     "geom:bbox":"17.251085,43.2780600149,17.5103168599,43.4470831263",
     "geom:latitude":43.356653,
     "geom:longitude":17.373278,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"BA.LI.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323815,
-    "wof:geomhash":"6e8b0ef53bd398b0db4179378ff5b411",
+    "wof:geomhash":"ba9c076300ed378ac1e31e5072bdf32f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108759099,
-    "wof:lastmodified":1566605085,
+    "wof:lastmodified":1695886808,
     "wof:name":"Grude",
     "wof:parent_id":85669217,
     "wof:placetype":"county",

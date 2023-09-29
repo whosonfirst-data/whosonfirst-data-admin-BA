@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071723,
-    "geom:area_square_m":628604032.636987,
+    "geom:area_square_m":628604032.636963,
     "geom:bbox":"17.4309846027,44.6968639479,17.8070177516,45.0234007366",
     "geom:latitude":44.863649,
     "geom:longitude":17.641174,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"BA.BL.PN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323912,
-    "wof:geomhash":"6d7841bd0d8f507815600aa0f9ea6f7f",
+    "wof:geomhash":"096cb1bb07aee155f598fac144497a05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108759209,
-    "wof:lastmodified":1566605102,
+    "wof:lastmodified":1695886810,
     "wof:name":"Prnjavor",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

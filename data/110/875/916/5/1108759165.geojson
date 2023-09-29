@@ -57,6 +57,7 @@
     "wof:concordances":{
         "hasc:id":"BA.TU.VL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323876,
     "wof:geomhash":"99774f2cce5cf6f999c437af3a328711",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108759165,
-    "wof:lastmodified":1694497961,
+    "wof:lastmodified":1695886168,
     "wof:name":"Milici",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

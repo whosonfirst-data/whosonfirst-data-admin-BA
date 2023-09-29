@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045074,
-    "geom:area_square_m":401403722.148812,
+    "geom:area_square_m":401403640.254298,
     "geom:bbox":"17.446581,43.833266,17.849541,44.048289",
     "geom:latitude":43.92922,
     "geom:longitude":17.635137,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"BA.JJ.GV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323805,
-    "wof:geomhash":"6fe126d3ea8e5d288e03d37d52d7da30",
+    "wof:geomhash":"d3ccc66a325dd45a0e7b773068cfb300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108759087,
-    "wof:lastmodified":1627521587,
+    "wof:lastmodified":1695886166,
     "wof:name":"Gornji Vakuf",
     "wof:parent_id":85669213,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008092,
-    "geom:area_square_m":71569340.766065,
+    "geom:area_square_m":71569433.513564,
     "geom:bbox":"17.114299,44.254886,17.242711,44.4151",
     "geom:latitude":44.333427,
     "geom:longitude":17.185315,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.JJ.JC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323834,
-    "wof:geomhash":"cb48df0e95eacc7bdcb97a20f6fd0a9a",
+    "wof:geomhash":"5f5f198d475b2a4987fc5b1c57f7d4c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759117,
-    "wof:lastmodified":1627521588,
+    "wof:lastmodified":1695886167,
     "wof:name":"Jajce / Jezero",
     "wof:parent_id":85632267,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019533,
-    "geom:area_square_m":170573614.717946,
+    "geom:area_square_m":170573620.934207,
     "geom:bbox":"18.201455,45.004377,18.469659,45.139258",
     "geom:latitude":45.072545,
     "geom:longitude":18.32474,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"BA.DO.OD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BA",
     "wof:created":1481323897,
-    "wof:geomhash":"d7ac7870f90413b67d9aaec9bc8d7705",
+    "wof:geomhash":"9c7fbfe463002de32184e0406b3a08b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108759191,
-    "wof:lastmodified":1627521590,
+    "wof:lastmodified":1695886169,
     "wof:name":"Odzak",
     "wof:parent_id":85669243,
     "wof:placetype":"county",
