@@ -29,6 +29,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:bos_x_preferred":[
+        "\u0160ip"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160ip"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0438\u043f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -38,7 +47,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3190853
+        "gn:id":3190853,
+        "wk:page":"%C5%A0ip_%28Pale%29"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3275557
+        ]
     },
     "wof:country":"BA",
     "wof:geomhash":"3b70f77b99ebbc589593558ac6d65f69",
@@ -52,13 +67,15 @@
         }
     ],
     "wof:id":1243070945,
-    "wof:lastmodified":1566605376,
+    "wof:lastmodified":1706239322,
     "wof:name":"Sip",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243366811
+    ],
     "wof:tags":[]
 },
   "bbox": [

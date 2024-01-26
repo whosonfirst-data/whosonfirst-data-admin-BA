@@ -47,7 +47,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3270252
+        "gn:id":3270252,
+        "wk:page":"Modrik"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3194942
+        ]
     },
     "wof:country":"BA",
     "wof:geomhash":"83cf46dd5daac6881839a0381f1db9cd",
@@ -61,13 +67,15 @@
         }
     ],
     "wof:id":1276994123,
-    "wof:lastmodified":1566604803,
+    "wof:lastmodified":1706239323,
     "wof:name":"Modrik",
     "wof:parent_id":1108759201,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327240547
+    ],
     "wof:tags":[]
 },
   "bbox": [

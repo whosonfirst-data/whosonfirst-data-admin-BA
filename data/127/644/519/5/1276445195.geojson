@@ -56,6 +56,11 @@
         "gn:id":3339299,
         "wk:page":"Zasada"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3186759
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"77581a1b37eaaf647874c6de80c9163b",
     "wof:hierarchy":[
@@ -68,13 +73,15 @@
         }
     ],
     "wof:id":1276445195,
-    "wof:lastmodified":1566604683,
+    "wof:lastmodified":1706239323,
     "wof:name":"Zasada",
     "wof:parent_id":1108758997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326642811
+    ],
     "wof:tags":[]
 },
   "bbox": [

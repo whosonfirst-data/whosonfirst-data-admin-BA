@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3191981
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7649107
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"e2d255d93752d513a0946754a687ddd0",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1242586403,
-    "wof:lastmodified":1566605443,
+    "wof:lastmodified":1706239321,
     "wof:name":"Ramici",
     "wof:parent_id":1108758989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276563471
+    ],
     "wof:tags":[]
 },
   "bbox": [

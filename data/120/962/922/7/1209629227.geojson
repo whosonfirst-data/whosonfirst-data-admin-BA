@@ -37,6 +37,11 @@
     "wof:concordances":{
         "gn:id":3298025
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3289592
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"6a102d405bf15de0709063b86c03561c",
     "wof:hierarchy":[
@@ -46,13 +51,15 @@
         }
     ],
     "wof:id":1209629227,
-    "wof:lastmodified":1566604832,
+    "wof:lastmodified":1706239321,
     "wof:name":"Brajkovici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277084013
+    ],
     "wof:tags":[]
 },
   "bbox": [

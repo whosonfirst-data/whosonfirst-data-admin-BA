@@ -88,6 +88,11 @@
     "wof:concordances":{
         "gn:id":3275184
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3258526
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"317f0cefa94c9988f4455346877d0334",
     "wof:hierarchy":[
@@ -100,13 +105,15 @@
         }
     ],
     "wof:id":1293112653,
-    "wof:lastmodified":1636496549,
+    "wof:lastmodified":1706239323,
     "wof:name":"Brda",
     "wof:parent_id":1108759271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326644027
+    ],
     "wof:tags":[]
 },
   "bbox": [

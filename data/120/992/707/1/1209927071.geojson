@@ -56,6 +56,11 @@
         "gn:id":3276083,
         "wk:page":"%C5%BDljebovi"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3186388
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"1278f093ffd8dc0d44dbd6e2444c72d4",
     "wof:hierarchy":[
@@ -68,13 +73,15 @@
         }
     ],
     "wof:id":1209927071,
-    "wof:lastmodified":1566604904,
+    "wof:lastmodified":1706239321,
     "wof:name":"Zljebovi",
     "wof:parent_id":1108759235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243563407
+    ],
     "wof:tags":[]
 },
   "bbox": [

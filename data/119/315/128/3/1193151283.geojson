@@ -29,6 +29,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:bos_x_preferred":[
+        "Pobr\u0111e Orahovo"
+    ],
+    "name:fra_x_preferred":[
+        "Pobr\u0111e Orahovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Pobr\u0111e Orahovo"
+    ],
+    "name:und_x_variant":[
+        "Orahovo",
+        "Pobrde"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -38,7 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3298657
+        "gn:id":3298657,
+        "wk:page":"Pobr%C4%91e_Orahovo"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3193114
+        ]
     },
     "wof:country":"BA",
     "wof:geomhash":"da854528acd11dee4070195e3a2393df",
@@ -52,13 +71,15 @@
         }
     ],
     "wof:id":1193151283,
-    "wof:lastmodified":1566605003,
+    "wof:lastmodified":1706239320,
     "wof:name":"Pobrde",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259392341
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3265535
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3265538
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"5feead5ff181b458356936b810f3b4f5",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1293301851,
-    "wof:lastmodified":1566604489,
+    "wof:lastmodified":1706239323,
     "wof:name":"Hatelji",
     "wof:parent_id":1108759251,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293500227
+    ],
     "wof:tags":[]
 },
   "bbox": [

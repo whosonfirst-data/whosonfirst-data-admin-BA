@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0648 \u0633\u0631\u0627\u064a\u064a\u0641\u0648"
@@ -136,12 +137,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":943828,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Novo Sarajevo",
+    "qs_pg:name_adm0":"Bosna i Hercegovina",
+    "qs_pg:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs_pg:photos":7407,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":33,
+    "qs_pg:photos_9r":15,
+    "qs_pg:photos_all":7407,
+    "qs_pg:photos_sr":25,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":53215,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424761,
+    "qs_pg:woe_id":55869076,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":394,
+    "woe:adm0_id":23424761,
+    "woe:name_adm0":"Bosna i Hercegovina",
+    "woe:name_adm1":"Federacija Bosne I Hercegovine",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85669235,
         102191581,
@@ -153,6 +173,14 @@
         "gp:id":55869076,
         "qs_pg:id":53215,
         "wd:id":"Q1017960"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55869076
+        ],
+        "qs_pg:id":[
+            53215
+        ]
     },
     "wof:country":"BA",
     "wof:geom_alt":[
@@ -173,13 +201,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690855779,
+    "wof:lastmodified":1706239320,
     "wof:name":"Novo Sarajevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126101747
+    ],
     "wof:tags":[]
 },
   "bbox": [

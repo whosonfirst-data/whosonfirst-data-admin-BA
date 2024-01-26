@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3283770
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3192364
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"d0074c3f047851efd657b34317a4370b",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1210034203,
-    "wof:lastmodified":1566604987,
+    "wof:lastmodified":1706239321,
     "wof:name":"Prisoje",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360295085
+    ],
     "wof:tags":[]
 },
   "bbox": [

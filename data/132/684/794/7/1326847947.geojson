@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"18.17917,44.11583,18.17917,44.11583",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ri\u010dica"
@@ -60,7 +62,7 @@
         "wk:page":"Ri%C4%8Dica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"0ee7daa9cb075af371df1a2fc314ba49",
+    "wof:geomhash":"d9005d4a9537417a24defb25c9d4ec95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,20 +73,22 @@
         }
     ],
     "wof:id":1326847947,
-    "wof:lastmodified":1566604227,
+    "wof:lastmodified":1706239320,
     "wof:name":"Ricica",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209008425
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    18.17917000000001,
+    18.17917,
     44.11583,
-    18.17917000000001,
+    18.17917,
     44.11583
 ],
-  "geometry": {"coordinates":[18.17917000000001,44.11583],"type":"Point"}
+  "geometry": {"coordinates":[18.17917,44.11583],"type":"Point"}
 }

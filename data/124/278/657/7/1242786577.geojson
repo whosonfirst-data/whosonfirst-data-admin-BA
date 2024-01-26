@@ -68,6 +68,11 @@
     "wof:concordances":{
         "gn:id":3299874
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3212987
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"f6e913d5b2e106a67fc6657d10f46311",
     "wof:hierarchy":[
@@ -81,13 +86,15 @@
         }
     ],
     "wof:id":1242786577,
-    "wof:lastmodified":1566605487,
+    "wof:lastmodified":1706239322,
     "wof:name":"Sastavci",
     "wof:parent_id":1108810041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327342241
+    ],
     "wof:tags":[]
 },
   "bbox": [

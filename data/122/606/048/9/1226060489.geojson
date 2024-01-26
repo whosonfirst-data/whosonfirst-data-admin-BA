@@ -50,8 +50,13 @@
         "gn:id":3289593,
         "wk:page":"Medovci"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3298026
+        ]
+    },
     "wof:country":"BA",
-    "wof:geomhash":"318f87acb827755c497d711fd77249f0",
+    "wof:geomhash":"781b5b48a0ae04ec5a4e422d830161ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,20 +67,22 @@
         }
     ],
     "wof:id":1226060489,
-    "wof:lastmodified":1566605777,
+    "wof:lastmodified":1706239321,
     "wof:name":"Medovci",
     "wof:parent_id":1108759127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310511067
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    17.99712000000001,
+    17.99712,
     43.99776,
-    17.99712000000001,
+    17.99712,
     43.99776
 ],
-  "geometry": {"coordinates":[17.99712000000001,43.99776],"type":"Point"}
+  "geometry": {"coordinates":[17.99712,43.99776],"type":"Point"}
 }

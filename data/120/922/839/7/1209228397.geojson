@@ -29,6 +29,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Podstog",
+        "Trni\u0107i"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632609
@@ -36,6 +40,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3243696
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3211208
+        ]
     },
     "wof:country":"BA",
     "wof:geomhash":"9cb0d2e2425db5305e1731c7429d9608",
@@ -46,13 +55,15 @@
         }
     ],
     "wof:id":1209228397,
-    "wof:lastmodified":1566604896,
+    "wof:lastmodified":1706239320,
     "wof:name":"Trnici",
     "wof:parent_id":85632609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293018697
+    ],
     "wof:tags":[]
 },
   "bbox": [

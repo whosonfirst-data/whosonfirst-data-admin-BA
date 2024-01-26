@@ -29,6 +29,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Kalo\u0161evi\u0107i",
+        "Kalo\u0161evi\u0107"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3251623
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3198438
+        ]
     },
     "wof:country":"BA",
     "wof:geomhash":"d9b7bd1f6a0d56c0129f4ae6ea9ab168",
@@ -52,13 +61,15 @@
         }
     ],
     "wof:id":1243181813,
-    "wof:lastmodified":1566605514,
+    "wof:lastmodified":1706239322,
     "wof:name":"Kalosevic",
     "wof:parent_id":1108759255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243571871
+    ],
     "wof:tags":[]
 },
   "bbox": [
