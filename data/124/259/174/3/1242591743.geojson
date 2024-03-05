@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3301778
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3211443
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"c7d2e171fea13681b85b41ebe9c107c4",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1242591743,
-    "wof:lastmodified":1566605434,
+    "wof:lastmodified":1706239321,
     "wof:name":"Urije",
     "wof:parent_id":1108759281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276350639
+    ],
     "wof:tags":[]
 },
   "bbox": [

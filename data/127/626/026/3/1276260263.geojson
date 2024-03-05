@@ -29,6 +29,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:bos_x_preferred":[
+        "Brezovo Polje"
+    ],
+    "name:ceb_x_preferred":[
+        "Brezovo Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Brezovo Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Brezovo Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Brezovo Polje"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u06cc\u0632\u0648\u0648 \u067e\u0648\u0644\u06cc\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -40,6 +61,14 @@
     "wof:concordances":{
         "gn:id":3254467,
         "wk:page":"Brezovo_Polje_%28Br%C4%8Dko%29"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3203326
+        ],
+        "wk:page":[
+            "Brezovo_Polje%2C_Br%C4%8Dko"
+        ]
     },
     "wof:country":"BA",
     "wof:geomhash":"a37829ebdf9c41fdcff5c2378d834f61",
@@ -53,13 +82,15 @@
         }
     ],
     "wof:id":1276260263,
-    "wof:lastmodified":1566604685,
+    "wof:lastmodified":1706239323,
     "wof:name":"Brezovo Polje",
     "wof:parent_id":1108759025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310532531
+    ],
     "wof:tags":[]
 },
   "bbox": [

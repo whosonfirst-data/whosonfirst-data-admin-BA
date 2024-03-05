@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3199808
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3199802
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"e0e4b03fe5abfb01bf813b4173452a4a",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1260185325,
-    "wof:lastmodified":1566605056,
+    "wof:lastmodified":1706239323,
     "wof:name":"Grabovaca",
     "wof:parent_id":1108759141,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260287435
+    ],
     "wof:tags":[]
 },
   "bbox": [

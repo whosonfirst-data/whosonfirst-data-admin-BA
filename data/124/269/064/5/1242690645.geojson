@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3252696
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3251448
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"a8374108c36cc41c500ad56d075f401c",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1242690645,
-    "wof:lastmodified":1566605448,
+    "wof:lastmodified":1706239321,
     "wof:name":"Mala Jelovaca",
     "wof:parent_id":1108759045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343270467
+    ],
     "wof:tags":[]
 },
   "bbox": [

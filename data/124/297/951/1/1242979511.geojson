@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3234879
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3257723
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"58d0ec55468e04c96b4cf538d181ebcd",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1242979511,
-    "wof:lastmodified":1566605507,
+    "wof:lastmodified":1706239322,
     "wof:name":"Grubaci",
     "wof:parent_id":1108759233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276445489
+    ],
     "wof:tags":[]
 },
   "bbox": [

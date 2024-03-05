@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"17.07454,43.69289,17.07454,43.69289",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +43,7 @@
         "gn:id":3192364
     },
     "wof:country":"BA",
-    "wof:geomhash":"bf208bf20420e3cb153cd4de9a0c968d",
+    "wof:geomhash":"3b56ac2ff3a1b023a63719db3e32cea9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,20 +54,22 @@
         }
     ],
     "wof:id":1360295085,
-    "wof:lastmodified":1566605269,
+    "wof:lastmodified":1706239321,
     "wof:name":"Prisoje",
     "wof:parent_id":1108759261,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1210034203
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     17.07454,
-    43.69289000000001,
+    43.69289,
     17.07454,
-    43.69289000000001
+    43.69289
 ],
-  "geometry": {"coordinates":[17.07454,43.69289000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.07454,43.69289],"type":"Point"}
 }

@@ -57,6 +57,11 @@
         "gn:id":3189591,
         "wk:page":"Subotinje"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3211249
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"d9c748eedee0418fc83c8f5ad2b43eda",
     "wof:hierarchy":[
@@ -69,13 +74,15 @@
         }
     ],
     "wof:id":1259893649,
-    "wof:lastmodified":1566605634,
+    "wof:lastmodified":1706239322,
     "wof:name":"Subotinje",
     "wof:parent_id":1108759119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276766659
+    ],
     "wof:tags":[]
 },
   "bbox": [

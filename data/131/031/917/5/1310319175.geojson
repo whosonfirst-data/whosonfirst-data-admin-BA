@@ -63,6 +63,11 @@
         "gn:id":3192862,
         "wk:page":"Pokle%C4%8Dani"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3288691
+        ]
+    },
     "wof:country":"BA",
     "wof:geomhash":"1f96abcd53303caa3aef92f878834b03",
     "wof:hierarchy":[
@@ -75,13 +80,15 @@
         }
     ],
     "wof:id":1310319175,
-    "wof:lastmodified":1566605158,
+    "wof:lastmodified":1706239323,
     "wof:name":"Poklecani",
     "wof:parent_id":1108759205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310423297
+    ],
     "wof:tags":[]
 },
   "bbox": [

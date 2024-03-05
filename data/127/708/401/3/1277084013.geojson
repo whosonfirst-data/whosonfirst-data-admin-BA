@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"17.99722,43.98972,17.99722,43.98972",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +43,7 @@
         "gn:id":3289592
     },
     "wof:country":"BA",
-    "wof:geomhash":"90237b9e0a46525ca6ee18d0fd625a84",
+    "wof:geomhash":"cb405afc2118b8fd01ecfcfd12165538",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,20 +54,22 @@
         }
     ],
     "wof:id":1277084013,
-    "wof:lastmodified":1566604658,
+    "wof:lastmodified":1706239321,
     "wof:name":"Brajkovici",
     "wof:parent_id":1108759075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ba",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209629227
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    17.99722000000001,
+    17.99722,
     43.98972,
-    17.99722000000001,
+    17.99722,
     43.98972
 ],
-  "geometry": {"coordinates":[17.99722000000001,43.98972],"type":"Point"}
+  "geometry": {"coordinates":[17.99722,43.98972],"type":"Point"}
 }
